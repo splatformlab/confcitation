@@ -1,0 +1,67 @@
+Reactive-Associative Caches.|2001|IEEE PACT|conf/IEEEpact/BatsonV01
+BlackJack: Hard Error Detection with Redundant Threads on SMT.|2007|DSN|conf/dsn/SchuchmanV07
+Exploring High Bandwidth Pipelined Cache Architecture for Scaled Technology.|2003|DATE|conf/date/AgarwalRV03
+VSV: L2-Miss-Driven Variable Supply-Voltage Scaling for Low Power.|2003|MICRO|conf/micro/LiCVR03
+The anatomy of the register file in a multiscalar processor.|1994|MICRO|conf/micro/BreachVS94
+Reducing Design Complexity of the Load/Store Queue.|2003|MICRO|conf/micro/ParkOV03
+Skipper: a microarchitecture for exploiting control-flow independence.|2001|MICRO|conf/micro/CherV01
+Reducing register ports for higher speed and lower energy.|2002|MICRO|conf/micro/ParkPV02
+Shapeshifter: Dynamically changing pipeline width and speed to address process variations.|2008|MICRO|conf/micro/ChunCV08
+Reducing set-associative cache energy via way-prediction and selective direct-mapping.|2001|MICRO|conf/micro/PowellAVFR01
+Distance Associativity for High-Performance Energy-Efficient Non-Uniform Cache Architectures.|2003|MICRO|conf/micro/ChishtiPV03
+Balancing Resource Utilization to Mitigate Power Density in Processor Pipelines.|2005|MICRO|conf/micro/PowellSV05
+Task Selection for a Multiscalar Processor.|1998|MICRO|conf/micro/VijaykumarS98
+TimeTrader: exploiting latency tail to save datacenter energy for online search.|2015|MICRO|conf/micro/VamananSHV15
+Adaptive Flow Control for Robust Performance and Energy.|2010|MICRO|conf/micro/JafriHTV10
+Exploiting Choice in Resizable Cache Design to Optimize Deep-Submicron Processor Energy-Delay.|2002|HPCA|conf/hpca/YangPFV02
+An Integrated Circuit/Architecture Approach to Reducing Leakage in Deep-Submicron High-Performance I-Caches.|2001|HPCA|conf/hpca/YangPFRV01
+Speculative Versioning Cache.|1998|HPCA|conf/hpca/GopalVSS98
+Deterministic Clock Gating for Microprocessor Power Reduction.|2003|HPCA|conf/hpca/LiBCVR03
+Heat Stroke: Power-Density-Based Denial of Service in SMT.|2005|HPCA|conf/hpca/HasanJVB05
+LiteTM: Reducing transactional state overhead.|2010|HPCA|conf/hpca/JafriTV10
+Exploring Functional Slicing in the Design of Distributed SDN Controllers.|2017|COMSNETS (Revised Selected Papers and Invited Papers)|conf/comsnets/ChangRVHRV17a
+Hydra: Leveraging functional slicing for efficient distributed SDN controllers.|2017|COMSNETS|conf/comsnets/ChangRVHRV17
+Do Trace Cache, Value Prediction and Prefetching Improve SMT Throughput?.|2006|ARCS|conf/arcs/CherPV06
+NutShell: Scalable Whittled Proxy Execution for Low-Latency Web over Cellular Networks.|2017|MobiCom|conf/mobicom/SivakumarJNNGRS17
+Accelerating private-key cryptography via multithreading on symmetric multiprocessors.|2003|ISPASS|conf/ispass/DongaraV03
+Deadline-aware datacenter tcp (D2TCP).|2012|SIGCOMM|conf/sigcomm/VamananHV12
+EffiCuts: optimizing packet classification for memory and throughput.|2010|SIGCOMM|conf/sigcomm/VamananVV10
+Fast Congestion Control in RDMA-based Datacenter Networks.|2018|SIGCOMM Posters and Demos|conf/sigcomm/XueCVVT18
+Dynamic pipelining: making IP-lookup truly scalable.|2005|SIGCOMM|conf/sigcomm/HasanV05
+Millipede: Die-Stacked Memory Optimizations for Big Data Machine Learning Analytics.|2018|IPDPS|conf/ipps/NitinTV18
+TreeCAM: decoupling updates and lookups in packet classification.|2011|CoNEXT|conf/conext/VamananV11
+Automatic volume management for programmable microfluidics.|2008|PLDI|conf/pldi/AminTVWJ08
+Min-cut program decomposition for thread-level speculation.|2004|PLDI|conf/pldi/JohnsonEV04
+ShuffleWatcher: Shuffle-aware Scheduling in Multi-tenant MapReduce Clusters.|2014|USENIX Annual Technical Conference|conf/usenix/AhmadCRV14
+Multiplex: unifying conventional and speculative thread-level parallelism on a chip multiprocessor.|2001|ICS|conf/ics/OoiKPEFV01
+Pipeline muffling and a priori current ramping: architectural techniques to reduce high-frequency inductive noise.|2003|ISLPED|conf/islped/PowellV03
+Resource area dilation to reduce power density in throughput servers.|2007|ISLPED|conf/islped/PowellV07
+Pesticide: Using SMT Processors to Improve Performance of Pointer Bug Detection.|2006|ICCD|conf/iccd/WangSVB06
+Speculative thread decomposition through empirical optimization.|2007|PPOPP|conf/ppopp/JohnsonEV07
+Reference idempotency analysis: a framework for optimizing speculative execution.|2001|PPOPP|conf/ppopp/KimOEFV01
+Is SC + ILP=RC?|1999|ISCA|conf/isca/GniadyFV99
+Pipeline Damping: A Microarchitectural Technique to Reduce Inductive Noise in Supply Voltage.|2003|ISCA|conf/isca/PowellV03
+Timetraveler: exploiting acyclic races for optimizing memory race recording.|2010|ISCA|conf/isca/VoskuilenAV10
+Transient-Fault Recovery Using Simultaneous Multithreading.|2002|ISCA|conf/isca/VijaykumarPC02
+Aquacore: a programmable architecture for microfluidics.|2007|ISCA|conf/isca/AminTVWJ07
+Rescue: A Microarchitecture for Testability and Defect Tolerance.|2005|ISCA|conf/isca/SchuchmanV05
+Exploiting Resonant Behavior to Reduce Inductive Noise.|2004|ISCA|conf/isca/PowellV04
+Optimizing Replication, Communication, and Capacity Allocation in CMPs.|2005|ISCA|conf/isca/ChishtiPV05
+Iimplicitly-Multithreaded Processors.|2003|ISCA|conf/isca/ParkFV03
+Multiscalar Processors.|1995|ISCA|conf/isca/SohiBV95
+Efficient Use of Memory Bandwidth to Improve Network Processor Throughput.|2003|ISCA|conf/isca/HasanCV03
+Transient-Fault Recovery for Chip Multiprocessors.|2003|ISCA|conf/isca/GomaaSPV03
+Multiscalar Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/SohiBV98
+Fractal++: Closing the performance gap between fractal and conventional coherence.|2014|ISCA|conf/isca/VoskuilenV14
+Wire Delay is Not a Problem for SMT (In the Near Future).|2004|ISCA|conf/isca/VijaykumarC04
+Dynamic Speculation and Synchronization of Data Dependences.|1997|ISCA|conf/isca/MoshovosBVS97
+Opportunistic Transient-Fault Detection.|2005|ISCA|conf/isca/GomaaV05
+FaultHound: value-locality-based soft-fault tolerance.|2015|ISCA|conf/isca/NitinPV15
+Heat-and-run: leveraging SMT and CMP to manage power density through the operating system.|2004|ASPLOS|conf/asplos/GomaaPV04
+Tarazu: optimizing MapReduce on heterogeneous clusters.|2012|ASPLOS|conf/asplos/AhmadCRV12
+Software prefetching for mark-sweep garbage collection: hardware analysis and software redesign.|2004|ASPLOS|conf/asplos/CherHV04
+Wait-n-GoTM: improving HTM performance by serializing cyclic dependencies.|2013|ASPLOS|conf/asplos/JafriVV13
+Joint optimization of idle and cooling power in data centers while maintaining response time.|2010|ASPLOS|conf/asplos/AhmadV10
+High-performance fractal coherence.|2014|ASPLOS|conf/asplos/VoskuilenV14
+A program transformation and architecture support for quantum uncomputation.|2006|ASPLOS|conf/asplos/SchuchmanV06
+Efficient Collaborative Approximation in MapReduce without Missing Rare Keys.|2017|ICCAC|conf/iccac/0002TVK17

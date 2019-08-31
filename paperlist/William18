@@ -1,0 +1,148 @@
+Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding.|2016|ICLR|journals/corr/HanMD15
+The Reliable Router: A Reliable and High-Performance Communication Substrate for Parallel Computers.|1994|PCRCW|conf/pcrcw/DallyDHKX94
+Enabling Technology for On-Chip Interconnection Networks.|2007|NOCS|conf/nocs/Dally07
+Evaluating Bufferless Flow Control for On-chip Networks.|2010|NOCS|conf/nocs/MichelogiannakisSDK10
+Stream Scheduling: A Framework to Manage Bulk Operations in a Memory Hierarchy.|2007|PACT|conf/IEEEpact/DasD07
+Architectural Support for the Stream Execution Model on General-Purpose Processors.|2007|PACT|conf/IEEEpact/GummarajuECRD07
+A tuning framework for software-managed memory hierarchies.|2008|PACT|conf/IEEEpact/RenPHAD08
+Compiling for stream processing.|2006|PACT|conf/IEEEpact/DasDM06
+XEL: Extended Ephemeral Logging for Log Storage Management.|1994|CIKM|conf/cikm/KeenD94
+The J-Machine: A Fine-Gain Concurrent Computer.|1989|IFIP Congress|conf/ifip/DallyCFHKLLNW89
+Register pointer architecture for efficient embedded processors.|2007|DATE|conf/date/ParkPBBKD07
+Efficient conditional operations for data-parallel architectures.|2000|MICRO|conf/micro/KapasiDRMOK00
+Fine-grained DRAM: energy-efficient DRAM for extreme bandwidth systems.|2017|MICRO|conf/micro/OConnorCLWAKD17
+A Bandwidth-efficient Architecture for Media Processing.|1998|MICRO|conf/micro/RixnerDKKLMO98
+Unifying Primary Cache, Scratch, and Register File Memories in a Throughput Processor.|2012|MICRO|conf/micro/GebhartKKKD12
+Flattened Butterfly Topology for On-Chip Networks.|2007|MICRO|conf/micro/KimBD07
+A compile-time managed multi-level register file hierarchy.|2011|MICRO|conf/micro/GebhartKD11
+The M-Machine multicomputer.|1995|MICRO|conf/micro/FilloKDCCGL95
+Packet chaining: efficient single-cycle allocation for on-chip networks.|2011|MICRO|conf/micro/MichelogiannakisJBD11
+Architecting an Energy-Efficient DRAM System for GPUs.|2017|HPCA|conf/hpca/ChatterjeeOLJKR17
+Exploring the VLSI Scalability of Stream Processors.|2003|HPCA|conf/hpca/KhailanyDRKOT03
+Scatter-Add in Data Parallel Architectures.|2005|HPCA|conf/hpca/AhnED05
+Register Organization for Media Processing.|2000|HPCA|conf/hpca/RixnerDKMKO00
+The Named-State Register File: Implementation and Performance.|1995|HPCA|conf/hpca/NuthD95
+A Delay Model and Speculative Architecture for Pipelined Routers.|2001|HPCA|conf/hpca/PehD01
+Elastic-buffer flow control for on-chip networks.|2009|HPCA|conf/hpca/MichelogiannakisBD09
+Network congestion avoidance through Speculative Reservation.|2012|HPCA|conf/hpca/JiangBMD12
+Thread Prioritization: A Thread Scheduling Mechanism for Multiple-Context Parallel Processors.|1995|HPCA|conf/hpca/FiskeD95
+Darwin-WGA: A Co-processor Provides Increased Sensitivity in Whole Genome Alignments with High Speedup.|2019|HPCA|conf/hpca/TurakhiaGBD19
+Interconnect-Centric Computing.|2007|HPCA|conf/hpca/Dally07
+Stream Register Files with Indexed Access.|2004|HPCA|conf/hpca/JayasenaEAD04
+Flit-Reservation Flow Control.|2000|HPCA|conf/hpca/PehD00
+The Even/Odd Synchronizer: A Fast, All-Digital, Periodic Synchronizer.|2010|ASYNC|conf/async/DallyT10
+A detailed and flexible cycle-accurate Network-on-Chip simulator.|2013|ISPASS|conf/ispass/JiangBMBTSKD13
+Stream Scheduling: A Framework to Manage Bulk Operations in Memory Hierarchies.|2008|Euro-Par|conf/europar/DasD08
+Performance Evaluation of Ephemeral Logging.|1993|SIGMOD Conference|conf/sigmod/KeenD93
+Panel Statement.|2011|IPDPS|conf/ipps/RobertDDMSSV11
+Experience with CST: Programming and Implementation.|1989|PLDI|conf/pldi/HorwatCD89
+Darwin: A Genomics Co-processor Provides up to 15, 000X Acceleration on Long Read Assembly.|2019|USENIX Annual Technical Conference|conf/usenix/TurakhiaBD19
+Comparing Reyes and OpenGL on a Stream Architecture.|2002|Graphics Hardware|conf/egh/OwensKTD02
+Polygon Rendering on a Stream Architecture.|2000|Workshop on Graphics Hardware|conf/egh/OwensDKRMM00
+Throughput computing.|2010|ICS|conf/ics/Dally10
+Design tradeoffs for tiled CMP on-chip networks.|2006|ICS|conf/ics/BalfourD06
+Executing irregular scientific applications on stream architectures.|2007|ICS|conf/ics/ErezAGRD07
+Author retrospective for design tradeoffs for tiled CMP on-chip networks.|2014|ICS 25th Anniversary|conf/ics/DallyB14
+Tradeoff between data-, instruction-, and thread-level parallelism in stream processors.|2007|ICS|conf/ics/AhnED07
+Point Sample Rendering.|1998|Rendering Techniques|conf/rt/GrossmanD98
+Pulsenet - A Parallel Flash Sampler and Digital Processor IC for Optical SETI.|2006|CICC|conf/cicc/HowardWDH06
+A 2-to-20 GHz Multi-Phase Clock Generator with Phase Interpolators Using Injection-Locked Oscillation Buffers for High-Speed IOs in 16nm FinFET.|2019|CICC|conf/cicc/SongP0ZTTKNWGD19
+Ground-referenced signaling for intra-chip and short-reach chip-to-chip interconnects.|2018|CICC|conf/cicc/TurnerP0CTFGZSN18
+Guaranteed Scheduling for Switches with Configuration Overhead.|2002|INFOCOM|conf/infocom/TowlesD02
+Processor Mechanisms for Software Shared Memory.|2000|ISHPC|conf/ishpc/CarterDLKC00
+Fine-grain dynamic instruction placement for L0 scratch-pad memory.|2010|CASES|conf/cases/ParkBD10
+A Programmable 512 GOPS Stream Processor for Signal, Image, and Video Processing.|2007|ISSCC|conf/isscc/KhailanyWLLRTD07
+A 14mW 6.25Gb/s Transceiver in 90nm CMOS for Serial Chip-to-Chip Communications.|2007|ISSCC|conf/isscc/PalmerPDEFGHKQZ07
+A 0.54pJ/b 20Gb/s ground-referenced single-ended short-haul serial link in 28nm CMOS for advanced packaging applications.|2013|ISSCC|conf/isscc/PoultonDCEGTG13
+8.6 A 6.5-to-23.3fJ/b/mm balanced charge-recycling bus in 16nm FinFET CMOS at 1.7-to-2.6Gb/s/wire with clock forwarding and low-crosstalk contraflow wiring.|2016|ISSCC|conf/isscc/WilsonFPCTGGD16
+A 1.17pJ/b 25Gb/s/pin ground-referenced single-ended serial link for off- and on-package communication in 16nm CMOS using a process- and temperature-adaptive voltage regulator.|2018|ISSCC|conf/isscc/0002TPZCKSTNZSG18
+Future of on-chip interconnection architectures.|2007|ISLPED|conf/islped/BorkarD07
+Exploring the Granularity of Sparsity in Convolutional Neural Networks.|2017|CVPR Workshops|conf/cvpr/MaoHPLL0D17
+Hardware-Enabled Artificial Intelligence.|2018|VLSI Circuits|conf/vlsic/DallyGPK0D18
+A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm.|2019|VLSI Circuits|conf/vlsic/ZimmerVSCFJKKPR19
+Media Processing Applications on the Imagine Stream Processor.|2002|ICCD|conf/iccd/OwensRKMTSD02
+Adaptive Backpressure: Efficient buffer management for on-chip networks.|2012|ICCD|conf/iccd/BeckerJMD12
+MDP Design Tools and Methods.|1992|ICCD|conf/iccd/LethinD92
+The J-Machine Network.|1992|ICCD|conf/iccd/NuthD92
+A Mechanism for Efficient Context Switching.|1991|ICCD|conf/iccd/NuthD91
+The Imagine Stream Processor.|2002|ICCD|conf/iccd/KapasiDROK02
+VLSI Design and Verification of the Imagine Processor.|2002|ICCD|conf/iccd/KhailanyDCKNT02
+A Stream Processor Development Platform.|2002|ICCD|conf/iccd/SerebrinOCCKMNRD02
+CMOS High-Speed I/Os - Present and Future.|2003|ICCD|conf/iccd/LeeDFNSEP03
+Simultaneous bidirectional signalling for IC systems.|1990|ICCD|conf/iccd/LamDD90
+The Message Driven Processor: An Integrated Multicomputer Processing Element.|1992|ICCD|conf/iccd/DallyCFFHKLNNW92
+Computer Architecture in the Many-Core Era.|2006|ICCD|conf/iccd/Dally06
+The effects of explicitly parallel mechanisms on the multi-ALU processor cluster pipeline.|1998|ICCD|conf/iccd/ChangDKCL98
+Monolithic chaotic communications system.|2001|ISCAS (3)|conf/iscas/ChiangDL01
+Low-latency plesiochronous data retiming.|1995|ARVLSI|conf/arvlsi/DennisonDX95
+VLSI Architecture: Past, Present, and Future.|1999|ARVLSI|conf/arvlsi/DallyL99
+Universal Mechanisms for Concurrency.|1989|PARLE (1)|conf/parle/DallyW89
+Mechanisms for Concurrent Computing.|1988|FGCS|conf/fgcs/Dally88
+A Universal Parallel Computer Architecture.|1992|FGCS|conf/fgcs/Dally92
+Learning both Weights and Connections for Efficient Neural Network.|2015|NIPS|conf/nips/HanPTD15
+Experiences Implementing Dataflow on a General-Purpose Parallel Computer.|1991|ICPP (2)|conf/icpp/SpertusD91
+Block-Parallel Programming for Real-Time Embedded Applications.|2010|ICPP|conf/icpp/Black-SchafferD10
+Scaling the Power Wall: A Path to Exascale.|2014|SC|conf/sc/VillaJOBNLSWMSKD14
+Fault Tolerance Techniques for the Merrimac Streaming Supercomputer.|2005|SC|conf/sc/ErezJKD05
+Interconnect routing and scheduling - Adaptive routing in high-radix clos network.|2006|SC|conf/sc/KimDA06
+Merrimac: Supercomputing with Streams.|2003|SC|conf/sc/DallyLDHAGEJBKK03
+Channel reservation protocol for over-subscribed channels and destinations.|2013|SC|conf/sc/MichelogiannakisJBD13
+Network endpoint congestion control for fine-grained communication.|2015|SC|conf/sc/JiangDD15
+Router designs for elastic buffer on-chip networks.|2009|SC|conf/sc/MichelogiannakisD09
+Allocator implementations for network-on-chip routers.|2009|SC|conf/sc/BeckerD09
+Analysis and Performance Results of a Molecular Modeling Application on Merrimac.|2004|SC|conf/sc/ErezAGDD04
+Multi-core issues - Multi-Core for HPC: breakthrough or breakdown?|2006|SC|conf/sc/SterlingKDSGKB06
+Sequoia: programming the memory hierarchy.|2006|SC|conf/sc/FatahalianHKLHPERADH06
+Architecture - The design space of data-parallel memory systems.|2006|SC|conf/sc/AhnED06
+The case for broader computer architecture education: keynote address.|2004|WCAE|conf/wcae/Dally04
+Concurrent Aggregates (CA).|1990|PPOPP|conf/ppopp/ChienD90
+A portable runtime interface for multi-level memory hierarchies.|2008|PPOPP|conf/ppopp/HoustonPRKFADH08
+Evaluating the Locality Benefits of Active Messages.|1995|PPOPP|conf/ppopp/SpertusD95
+Compilation for explicitly managed memory hierarchies.|2007|PPOPP|conf/ppopp/KnightPRHEFADH07
+Efficient Sparse-Winograd Convolutional Neural Networks.|2017|ICLR (Workshop)|conf/iclr/LiuHMD17
+Trained Ternary Quantization.|2017|ICLR (Poster)|conf/iclr/ZhuHMD17
+DSD: Dense-Sparse-Dense Training for Deep Neural Networks.|2017|ICLR (Poster)|conf/iclr/HanPNMGTEVPTCD17
+Efficient Sparse-Winograd Convolutional Neural Networks.|2018|ICLR (Poster)|conf/iclr/LiuPHD18
+Architecture and implementation of the reliable router.|1994|Hot Interconnects|conf/hoti/DallyDHKX94
+Scalable Opto-Electronic Network (SOENet).|2002|Hot Interconnects|conf/hoti/GuptaDST02
+Architecture of a Message-Driven Processor.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/DallyCCHHKSTW98
+Technology-Driven, Highly-Scalable Dragonfly Topology.|2008|ISCA|conf/isca/KimDSA08
+SLIP: reducing wire energy in the memory hierarchy.|2015|ISCA|conf/isca/DasAD15
+The J-Machine Multicomputer: An Architectural Evaluation.|1993|ISCA|conf/isca/NoakesWD93
+Virtual-Channel Flow Control.|1990|ISCA|conf/isca/Dally90
+Moving the needle, computer architecture research in academe and industry.|2010|ISCA|conf/isca/Dally10
+Indirect adaptive routing on large scale interconnection networks.|2009|ISCA|conf/isca/JiangKD09
+Processor Coupling: Integrating Compile Time and Runtime Scheduling for Parallelism.|1992|ISCA|conf/isca/KecklerD92
+Memory access scheduling.|2000|ISCA|conf/isca/RixnerDKMO00
+EIE: Efficient Inference Engine on Compressed Deep Neural Network.|2016|ISCA|conf/isca/HanLMPPHD16
+Energy-efficient mechanisms for managing thread context in throughput processors.|2011|ISCA|conf/isca/GebhartJTKDLS11
+An Object Oriented Architecture.|1985|ISCA|conf/isca/DallyK85
+Evaluating the Imagine Stream Architecture.|2004|ISCA|conf/isca/AhnDKKD04
+SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.|2017|ISCA|conf/isca/ParasharRMPVKEK17
+Evaluation of Mechanisms for Fine-Grained Parallel Programs in the J-Machine and the CM-5.|1993|ISCA|conf/isca/SpertusGSECD93
+The Reconfigurable Arithmetic Processor.|1988|ISCA|conf/isca/FiskeD88
+Exploiting Fine-grain Thread Level Parallelism on the MIT Multi-ALU Processor.|1998|ISCA|conf/isca/KecklerDMCCL98
+Architecture of a Message-Driven Processor.|1987|ISCA|conf/isca/DallyCCHHKSTW87
+Smart Memories: a modular reconfigurable architecture.|2000|ISCA|conf/isca/MaiPJHDH00
+Flattened butterfly: a cost-efficient topology for high-radix networks.|2007|ISCA|conf/isca/KimDA07
+Microarchitecture of a High-Radix Router.|2005|ISCA|conf/isca/KimDTG05
+GOAL: A Load-Balanced Adaptive Routing Algorithm for Torus Networks.|2003|ISCA|conf/isca/SinghDGT03
+The BlackWidow High-Radix Clos Network.|2006|ISCA|conf/isca/ScottAKD06
+Retrospective: the J-machine.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/DallyCFHLNNSWWCK98
+Worst-case traffic for oblivious routing functions.|2002|SPAA|conf/spaa/TowlesD02
+Buffer-space efficient and deadlock-free scheduling of stream applications on multi-core architectures.|2010|SPAA|conf/spaa/ParkD10
+Throughput-centric routing algorithm design.|2003|SPAA|conf/spaa/TowlesDB03
+Adaptive channel queue routing on k-ary n-cubes.|2004|SPAA|conf/spaa/SinghDGT04
+Locality-preserving randomized oblivious routing on torus networks.|2002|SPAA|conf/spaa/SinghDTG02
+Micro-Optimization of Floating Point Operations.|1989|ASPLOS|conf/asplos/Dally89
+Hardware Support for Fast Capability-based Addressing.|1994|ASPLOS|conf/asplos/CarterKD94
+Communication Scheduling.|2000|ASPLOS|conf/asplos/MattsonDRKO00
+Darwin: A Genomics Co-processor Provides up to 15, 000X Acceleration on Long Read Assembly.|2018|ASPLOS|conf/asplos/TurakhiaBD18
+Route Packets, Not Wires: On-Chip Interconnection Networks.|2001|DAC|conf/dac/DallyT01
+Analog/Mixed-Signal Hardware Error Modeling for Deep Learning Inference.|2019|DAC|conf/dac/RekhiZNLVWKDG19
+Architecture and Design of the MARS Hardware Accelerator.|1987|DAC|conf/dac/AgrawalDEFJK87
+Algorithms for Accuracy Enhancement in a Hardware Logic Simulator.|1989|DAC|conf/dac/AgrawalTD89
+21st century digital design tools.|2013|DAC|conf/dac/DallyMK13
+Explaining the gap between ASIC and custom power: a custom perspective.|2005|DAC|conf/dac/ChangD05
+Bandwidth-efficient deep learning.|2018|DAC|conf/dac/HanD18
+The role of custom design in ASIC Chips.|2000|DAC|conf/dac/DallyC00

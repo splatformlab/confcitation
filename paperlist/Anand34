@@ -1,0 +1,186 @@
+One meter to find them all: water network leak localization using a single flow meter.|2014|IPSN|conf/ipsn/NarayananVSS14
+HB-Phone: A Bed-Mounted Geophone-Based Heartbeat Monitoring System.|2016|IPSN|conf/ipsn/JiaACHZZTSA16
+Meeting midway: Improving CMP performance with memory-side prefetching.|2013|PACT|conf/IEEEpact/YedlapalliKKKDS13
+Exploiting Staleness for Approximating Loads on CMPs.|2015|PACT|conf/IEEEpact/RengasamySKD15
+Application-aware prefetch prioritization in on-chip networks.|2012|PACT|conf/IEEEpact/NachiappanMKSMD12
+Leakage Energy Management in Cache Hierarchies.|2002|IEEE PACT|conf/IEEEpact/LiKTVKIS02
+Filtering Failure Logs for a BlueGene/L Prototype.|2005|DSN|conf/dsn/LiangZSSMG05
+Failure Data Analysis of a Large-Scale Heterogeneous Server Environment.|2004|DSN|conf/dsn/SahooSSZ04
+Analysis and solutions to issue queue process variation.|2008|DSN|conf/dsn/SoundararajanYNVSI08
+ICR: In-Cache Replication for Enhancing Data Cache Reliability.|2003|DSN|conf/dsn/ZhangGKS03
+BlueGene/L Failure Analysis and Prediction Models.|2006|DSN|conf/dsn/LiangZSJS06
+vEC: virtual energy counters.|2001|PASTE|conf/paste/KadayifCKVIS01
+On the Performance of the POSIX I/O Interface to PVFS.|2004|PDP|conf/pdp/VilayannurRCTSK04
+Optimizing Bus Energy Consumption of On-Chip Multiprocessors Using Frequent Values.|2004|PDP|conf/pdp/LiuSK04
+Incentive design for demand-response based on building constraints: a utility perspective.|2017|BuildSys@SenSys|conf/sensys/KandhwayVNSS17
+Good set-points make good neighbors: user seating and temperature control in uberized workspaces.|2018|BuildSys@SenSys|conf/sensys/NagarathinamVSJ18
+Watts in the basket?: Energy Analysis of a Retail Chain.|2013|BuildSys@SenSys|conf/sensys/IyerSVS13
+Centralized Management of HVAC Energy in Large Multi-AHU Zones.|2015|BuildSys@SenSys|conf/sensys/NagarathinamVPI15
+The Energy-Water Nexus in Campuses.|2013|BuildSys@SenSys|conf/sensys/KadengalTVSS13
+A Holistic Approach to System Level Energy Optimization.|2000|PATMOS|conf/patmos/IrvinKVS00
+Analyzing the Short-Term Fairness of IEEE 802.11 in Wireless Multi-Hop Radio Networks.|2002|MASCOTS|conf/mascots/BarrettMES02
+Profiling, Prediction, and Capping of Power Consumption in Consolidated Environments.|2008|MASCOTS|conf/mascots/ChoiGUS08
+Almost Disjunct Codes in Large Scale Multihop Wireless Network Media Access Control.|2005|MASCOTS|conf/mascots/EngelhartS05
+Storage Performance Virtualization via Throughput and Latency Control.|2005|MASCOTS|conf/mascots/ZhangSWRR05
+HybridStore: A Cost-Efficient, High-Performance Storage System Combining SSDs and HDDs.|2011|MASCOTS|conf/mascots/KimGUBS11
+Content Popularity-Based Selective Replication for Read Redirection in SSDs.|2018|MASCOTS|conf/mascots/ElyasiASKD18
+Carbon-Aware Energy Capacity Planning for Datacenters.|2012|MASCOTS|conf/mascots/RenWUS12
+Multi-level Crypto Disk: Secondary Storage with Flexible Performance Versus Security Trade-offs.|2010|MASCOTS|conf/mascots/ChaitanyaUS10
+Analyzing Range Queries on Spatial Data.|2000|ICDE|conf/icde/JinAS00
+Selectivity Estimation for Spatial Joins.|2001|ICDE|conf/icde/AnYS01
+Neighborhood Signatures for Searching P2P Networks.|2003|IDEAS|conf/ideas/LiLS03
+Energy Behavior of Java Applications from the Memory Perspective.|2001|Java Virtual Machine Research and Technology Symposium|conf/jvm/VijaykrishnanKKTSI01
+SearchGen: a synthetic workload generator for scientific literature digital libraries and search engines.|2007|JCDL|conf/jcdl/LiLSG07
+Learning metadata from the evidence in an on-line citation matching scheme.|2006|JCDL|conf/jcdl/CouncillLZDBLSG06
+EAC: A Compiler Framework for High-Level Energy Estimation and Optimization.|2002|DATE|conf/date/KadayifKVIS02
+Generating physical addresses directly for saving instruction TLB energy.|2002|MICRO|conf/micro/KadayifSKKC02
+Short-Circuiting Memory Traffic in Handheld Platforms.|2014|MICRO|conf/micro/YedlapalliNSSKD14
+CritICs Critiquing Criticality in Mobile Apps.|2018|MICRO|conf/micro/RengasamyZZNSKD18
+Race-to-sleep + content caching + display caching: a recipe for energy-efficient video streaming on handhelds.|2017|MICRO|conf/micro/ZhangRZNSKID17
+To Move or Not to Move: The Economics of Cloud Computing.|2011|HotCloud|conf/hotcloud/TakUS11
+Towards a Leaner Geo-distributed Cloud Infrastructure.|2014|HotCloud|conf/hotcloud/NarayananKSUG14
+Synthesizing Representative I/O Workloads for TPC-H.|2004|HPCA|conf/hpca/ZhangSFGZN04
+LAPSES: A Recipe for High Performance Adaptive Router Design.|1999|HPCA|conf/hpca/VaidyaSD99
+Reducing the Communication Overhead of Dynamic Applications on Shared Memory Multiprocessors.|1997|HPCA|conf/hpca/Sivasubramaniam97
+Worth their watts? - an empirical study of datacenter servers.|2010|HPCA|conf/hpca/VasanSSSS10
+Investigating QoS Support for Traffic Mixes with the MediaWorm Router.|2000|HPCA|conf/hpca/YumVDS00
+Using Complete Machine Simulation for Software Power Estimation: The SoftWatt Approach.|2002|HPCA|conf/hpca/GurumurthiSIVKLJ02
+Organizing the Last Line of Defense before Hitting the Memory Wall for CMP.|2004|HPCA|conf/hpca/LiuSK04
+Domain knowledge based energy management in handhelds.|2015|HPCA|conf/hpca/NachiappanYSSKI15
+DRAM Energy Management Using Software and Hardware Directed Power Mode Control.|2001|HPCA|conf/hpca/DelaluzKVSI01
+Abstracting Network Characteristics and Locality Properties of Parallel Systems.|1995|HPCA|conf/hpca/SivasubramaniamSRV95
+Architectural Issues in Java Runtime Systems.|2000|HPCA|conf/hpca/RadhakrishnanVJS00
+Understanding the performance-temperature interactions in disk I/O of server workloads.|2006|HPCA|conf/hpca/KimGS06
+Third Workshop on Communication, Architecture, and Applications for Network-Based Parallel Computing (CANPC '99).|1999|HPCA|conf/hpca/SivasubramaniamL99
+Modeling and Managing Thermal Profiles of Rack-mounted Servers with ThermoStat.|2007|HPCA|conf/hpca/ChoiKSSWL07
+Towards a Communication Characterization Methodology for Parallel Applications.|1997|HPCA|conf/hpca/ChodnekarSVSD97
+Networking lessons: From computers to water.|2012|COMSNETS|conf/comsnets/NarayananSVSS12
+CFD-Based Operational Thermal Efficiency Improvement of a Production Data Center.|2010|SustainIT|conf/fast/SinghSSS10
+Leveraging Value Locality in Optimizing NAND Flash-based SSDs.|2011|FAST|conf/fast/GuptaPUS11
+Large-Scale Graph Processing on Emerging Storage Devices.|2019|FAST|conf/fast/ElyasiCS19
+Providing Tunable Consistency for a Parallel File Store.|2005|FAST|conf/fast/VilayannurNS05
+Reducing data center power with server consolidation: Approximation and evaluation.|2010|HiPC|conf/hipc/SubramanianVS10
+Virtual channel multiplexing in networks of workstations with irregular topology.|1998|HiPC|conf/hipc/SillaDSD98
+Should We Dual-Purpose Energy Storage in Datacenters for Power Backup and Demand Response?|2014|HotPower|conf/hotpower/NarayananWMSF14
+Battery health-conscious online power management for stochastic datacenter demand response.|2016|ACC|conf/amcc/MamunNWSF16
+Remote Subpaging Across a Fast Network.|1998|CANPC|conf/canpc/BangaloreS98
+Implementing Protected Multi-User Communication for Myrinet.|1998|CANPC|conf/canpc/NagarSS98
+Thermal-aware Design Considerations for Application-Specific Instruction Set Processor.|2008|SASP|conf/sasp/LinSFXS08
+Impact of virtual channels and adaptive routing on application performance.|2001|SIGCPR|conf/sigcpr/VaidyaSD01
+Approximate Connectivity Graph Generation in Mobile Ad Hoc Radio Networks.|2003|Annual Simulation Symposium|conf/anss/BarrettMES03
+A Spatial Analysis of Mobility Models: Application to Wireless Ad Hoc Network Simulation.|2004|Annual Simulation Symposium|conf/anss/EngelhartSBMSM04
+MLC PCM main memory with accelerated read.|2016|ISPASS|conf/ispass/ArjomandJKSD16
+Pro-active Page Replacement for Scientific Applications: A Characterization.|2005|ISPASS|conf/ispass/VilayannurSK05
+Compiler-directed physical address generation for reducing dTLB power.|2004|ISPASS|conf/ispass/KadayifNKS04
+Storage consolidation: Not always a panacea, but can we ease the pain?|2016|ISPASS|conf/ispass/ShahidiASKD16
+Interplay of energy and performance for disk arrays running transaction processing workloads.|2003|ISPASS|conf/ispass/GurumurthiZSKFVI03
+Evaluating STT-RAM as an energy-efficient main memory alternative.|2013|ISPASS|conf/ispass/KultursayKSM13
+sUncover: Estimating the Hidden Behind-the-meter Solar Rooftop and Battery Capacities in Grids.|2019|ISGT|conf/isgt/PadullaparthiSS19
+Critical event prediction for proactive management in large-scale computer clusters.|2003|KDD|conf/kdd/SahooORGMMVS03
+The Impact of Migration on Parallel Job Scheduling for Distributed Systems.|2000|Euro-Par|conf/europar/ZhangFMS00
+Characterizing the Scalability of Decision-Support Workloads on Clusters and SMP Systems.|2002|Euro-Par|conf/europar/ZhangSZNF02
+Exploring the Possibility of Operating in the Compressed Domain.|2004|Euro-Par|conf/europar/LuzKSI04
+Optimal power cost management using stored energy in data centers.|2011|SIGMETRICS|conf/sigmetrics/UrgaonkarUNS11
+An Approach to Scalability Study of Shared Memory Parallel Systems.|1994|SIGMETRICS|conf/sigmetrics/SivasubramaniamSRV94
+Characterizing the d-TLB behavior of SPEC CPU2000 benchmarks.|2002|SIGMETRICS|conf/sigmetrics/KandirajuS02
+An interposed 2-Level I/O scheduling framework for performance virtualization.|2005|SIGMETRICS|conf/sigmetrics/ZhangSRWR05
+Consolidating clients on back-end servers with co-location and frequency control.|2006|SIGMETRICS/Performance|conf/sigmetrics/ChenDSWHB06
+Managing server energy and operational costs in hosting centers.|2005|SIGMETRICS|conf/sigmetrics/ChenDQSWG05
+Energy storage in datacenters: what, where, and how much?|2012|SIGMETRICS|conf/sigmetrics/WangRSUF12
+SSD Failures in Datacenters: What, When and Why?|2016|SIGMETRICS|conf/sigmetrics/NarayananWJSCSC16
+GemDroid: a framework to evaluate mobile platforms.|2014|SIGMETRICS|conf/sigmetrics/NachiappanYSKSD14
+On Characterizing Bandwidth Requirements of Parallel Applications.|1995|SIGMETRICS|conf/sigmetrics/SivasubramaniamSRV95
+QDSL: a queuing model for systems with differential service levels.|2008|SIGMETRICS|conf/sigmetrics/ChaitanyaUS08
+ACE: abstracting, characterizing and exploiting peaks and valleys in datacenter power consumption.|2013|SIGMETRICS|conf/sigmetrics/WangRGSUKV13
+Characterizing the soft error vulnerability of multicores running multithreaded applications.|2010|SIGMETRICS|conf/sigmetrics/SoundararajanSN10
+Modeling and analysis of dynamic coscheduling in parallel and distributed environments.|2002|SIGMETRICS|conf/sigmetrics/SquillanteZSGFM02
+Execution-Driven Simulators for Parallel Systems Design.|1997|Winter Simulation Conference|conf/wsc/Sivasubramaniam97
+Pricing and Autonomic Control of Web Servers with Time-Varying Request Patterns.|2004|ICAC|conf/icac/ChenDGWS04
+Online system for energy assessment in large facilities - Methodology&A real-world case study.|2013|IGCC|conf/green/RamakrishnaKSTS13
+Efficient booster pump placement in water networks using graph theoretic principles.|2012|IGCC|conf/green/NarayananSVSSMN12
+Thermal influence indices: Causality metrics for efficient exploration of data center cooling.|2012|IGCC|conf/green/BhagwatSVS12
+Failure prediction in IBM BlueGene/L event logs.|2008|IPDPS|conf/ipps/ZhangS08
+Improving Parallel Job Scheduling by Combining Gang Scheduling and Backfilling Techniques.|2000|IPDPS|conf/ipps/ZhangSFM00
+Project status: RIVER: Resource management infrastructure for consolidated hosting in virtualized data centers.|2008|IPDPS|conf/ipps/UrgaonkarS08
+Designing Energy-Efficient Software.|2002|IPDPS|conf/ipps/SivasubramaniamKVI02
+Fault-Aware Job Scheduling for BlueGene/L Systems.|2004|IPDPS|conf/ipps/OlinerSMGS04
+Incorporating Quality-of-Service in the Virtual Interface Architecture.|2002|IPDPS|conf/ipps/NagarLKSG02
+A Computational Model for Message Passing.|1992|IPPS|conf/ipps/SivasubramaniamRV92
+Enhancing L2 organization for CMPs with a center cell.|2006|IPDPS|conf/ipps/LiuSKI06
+Automatic Scheduler for Real-Time Vision Applications.|2001|IPDPS|conf/ipps/YangKS01
+Energy and Performance Considerations in Work Partitioning for Mobile Spatial Queries.|2003|IPDPS|conf/ipps/GurumurthiASVKI03
+Exploiting Barriers to Optimize Power Consumption of CMPs.|2005|IPDPS|conf/ipps/LiuSKI05
+Getting more performance with polymorphism from emerging memory technologies.|2019|SYSTOR|conf/systor/NarayananGBGSS19
+SSD Failures in Datacenters: What? When? and Why?|2016|SYSTOR|conf/systor/NarayananWJSCSC16
+On the Utility of Occupancy Sensing for Managing HVAC Energy in Large Zones.|2015|e-Energy|conf/eenergy/NagarathinamIVR15
+Comparing apples to oranges: energy benchmarking of supermarkets with limited data.|2014|e-Energy|conf/eenergy/SankarPISVS14
+Bugs in the Freezer: Detecting Faults in Supermarket Refrigeration Systems Using Energy Signals.|2015|e-Energy|conf/eenergy/SrinivasanVSS15
+Harmoney: saving energy costs in buildings through harmonic current mitigation.|2016|e-Energy (Posters)|conf/eenergy/MarkoseSVSS16
+Windy with a chance of profit: bid strategy and analysis for wind integration.|2014|e-Energy|conf/eenergy/KurandwadSRVSCS14
+Qantifying The Impact of Electric Vehicles On The Electric Grid: A Simulation Based Case-Study.|2017|e-Energy|conf/eenergy/RamanujamSVJSS17
+Analyzing heap error behavior in embedded JVM environments.|2004|CODES+ISSS|conf/codes/ChenKVSI04
+Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads.|2018|AAAI|conf/aaai/AcharSRS18
+Cracks Under Pressure? Burst Prediction in Water Networks Using Dynamic Metrics.|2017|AAAI|conf/aaai/KaushikMVSS17
+Evaluating Parallel R-Tree Implementations on a Network of Workstations (Extended Abstract).|1998|ACM-GIS|conf/gis/AnQSK98
+pSNOW: A Tool to Evaluate Architectural Issues for NOW Environments.|1997|International Conference on Supercomputing|conf/ics/KasbekarNS97
+Performance Benefits of Virtual Channels and Adaptive Routing: An Application-Driven Study.|1997|International Conference on Supercomputing|conf/ics/VaidyaSD97
+Using complete system simulation to characterize SPECjvm98 benchmarks.|2000|ICS|conf/ics/LiJNSSM00
+A simulation-based study of scheduling mechanisms for a dynamic cluster environment.|2000|ICS|conf/ics/ZhangSMF00
+Analyzing Cache Performance for Video Servers.|1998|ICPP Workshops|conf/icppw/KimSD98
+Performance, energy, and reliability tradeoffs in replicating hot cache lines.|2003|CASES|conf/cases/ZhangKSI03
+Discretionary Caching for I/O on Clusters.|2003|CCGRID|conf/ccgrid/VilayannurSKTR03
+Power-aware partitioned cache architectures.|2001|ISLPED|conf/islped/KimVKSIG01
+Impact of dynamic voltage and frequency scaling on the architectural vulnerability of GALS architectures.|2008|ISLPED|conf/islped/SoundararajanVS08
+A Hybrid Cache and Prefetch Mechanism for Scientific Literature Search Engines.|2007|ICWE|conf/icwe/LiLSG07
+Reducing dTLB Energy Through Dynamic Resizing.|2003|ICCD|conf/iccd/DelaluzKSIV03
+Decision-Support Workload Characteristics on a Clustered Database Server from the OS Perspective.|2003|ICDCS|conf/icdcs/ZhangZSLF03
+Rain or Shine? - Making Sense of Cloudy Reliability Data.|2017|ICDCS|conf/icdcs/NarayananSWGCSK17
+Right-Sizing Geo-distributed Data Centers for Availability and Latency.|2017|ICDCS|conf/icdcs/NarayananKS17
+Evaluating the Combined Impact of Node Architecture and Cloud Workload Characteristics on Network Traffic and Performance/Cost.|2015|IISWC|conf/iiswc/TootaghajFAFKSD15
+Exploring the impact of memory block permutation on performance of a crossbar ReRAM main memory.|2017|IISWC|conf/iiswc/RamezaniEAKS17
+Reviving Zombie Pages on SSDs.|2018|IISWC|conf/iiswc/ElyasiSKD18
+Characterizing diverse handheld apps for customized hardware acceleration.|2017|IISWC|conf/iiswc/RengasamyZNZSKD17
+Evaluating energy storage for a multitude of uses in the datacenter.|2017|IISWC|conf/iiswc/NarayananWMSFJ17
+ACE: Abstracting, characterizing and exploiting datacenter power demands.|2013|IISWC|conf/iiswc/WangRGSUKV13
+DPTree: A Balanced Tree Based Indexing Framework for Peer-to-Peer Systems.|2006|ICNP|conf/icnp/LiLS06
+Semantic Small World: An Overlay Network for Peer-to-Peer Search.|2004|ICNP|conf/icnp/LiLS04
+Data Center Power Cost Optimization via Workload Modulation.|2013|UCC|conf/ucc/WangUWKS13
+A Case for Heterogeneous Flash in the Datacenter.|2013|ICDCS Workshops|conf/icdcsw/WangSU13
+Issues in Designing and Implementing a Scalable Virtual Interface Architecture.|2000|ICPP|conf/icpp/NagarSRY00
+Communication in Parallel Applications: Characterization and Sensitivity Analysis.|1997|ICPP|conf/icpp/SeedSD97
+Evaluating the usefulness of content addressable storage for high-performance data intensive applications.|2008|HPDC|conf/hpdc/NathUS08
+Predicting Web Cache Behavior using Stochastic State-Space Models.|2008|PDPTA|conf/pdpta/DasDUS08
+Exploring the potentials of parallel garbage collection in SSDs for enterprise storage systems.|2016|SC|conf/sc/ShahidiAJKDS16
+Architectural Mechanisms for Explicit Communication in Shared Memory Multiprocessors.|1995|SC|conf/sc/RamachandranSSSY95
+CiteSeerchi: a scalable autonomous scientific digital library.|2006|Infoscale|conf/infoscale/LiCBZSLSG06
+PENS: an algorithm for density-based clustering in peer-to-peer systems.|2006|Infoscale|conf/infoscale/LiLLS06
+Cuanta: quantifying effects of shared on-chip resource interference for consolidated virtual machines.|2011|SoCC|conf/cloud/GovindanLKS11
+Compiler-Directed Array Interleaving for Reducing Energy in Multi-Bank Memories.|2002|VLSI Design|conf/vlsid/DelaluzKVISK02
+Statistical profiling-based techniques for effective power provisioning in data centers.|2009|EuroSys|conf/eurosys/GovindanCUSB09
+A Complexity-Effective Approach to ALU Bandwidth Enhancement for Instruction-Level Temporal Redundancy.|2004|ISCA|conf/isca/ParasharGS04
+VIP: virtualizing IP chains on handheld platforms.|2015|ISCA|conf/isca/NachiappanZRSSK15
+Benefits and limitations of tapping into stored energy for datacenters.|2011|ISCA|conf/isca/GovindanSU11
+Virtualizing power distribution in datacenters.|2013|ISCA|conf/isca/WangRS13
+DRPM: Dynamic Speed Control for Power Mangagement in Server Class Disks.|2003|ISCA|conf/isca/GurumurthiSKF03
+Going the Distance for TLB Prefetching: An Application-Driven Study.|2002|ISCA|conf/isca/KandirajuS02
+Disk Drive Roadmap from the Thermal Perspective: A Case for Dynamic Thermal Management.|2005|ISCA|conf/isca/GurumurthiSN05
+Mechanisms for bounding vulnerabilities of processor structures.|2007|ISCA|conf/isca/SoundararajanPS07
+Opportunistic computing in GPU architectures.|2019|ISCA|conf/isca/PattnaikTKJMKSD19
+Boosting Access Parallelism to PCM-Based Main Memory.|2016|ISCA|conf/isca/ArjomandKSD16
+Middleware for a Re-configurable Distributed Archival Store Based on Secret Sharing.|2010|Middleware|conf/middleware/ChaitanyaVUS10
+Kernel-Level Caching for Optimizing I/O by Exploiting Inter-Application Data Sharing.|2002|CLUSTER|conf/cluster/VilayannurKS02
+Scheduling best-effort and real-time pipelined applications on time-shared clusters.|2001|SPAA|conf/spaa/ZhangS01
+A Closer Look at Coscheduling Approaches for a Network of Workstations.|1999|SPAA|conf/spaa/NagarBSD99
+Underprovisioning backup power infrastructure for datacenters.|2014|ASPLOS|conf/asplos/WangGSKLK14
+Exploiting Intra-Request Slack to Improve SSD Performance.|2017|ASPLOS|conf/asplos/ElyasiASKDJ17
+Understanding and improving operating system effects in control flow prediction.|2002|ASPLOS|conf/asplos/LiJSVR02
+SlicK: slice-based locality exploitation for efficient redundant multithreading.|2006|ASPLOS|conf/asplos/ParasharSG06
+Leveraging stored energy for handling power emergencies in aggressively provisioned datacenters.|2012|ASPLOS|conf/asplos/GovindanWSU12
+FLOSS: FLOw sensitive scheduling on mobile platforms.|2018|DAC|conf/dac/ZhangRNZSKD18
+Scheduler-based DRAM energy management.|2002|DAC|conf/dac/DelaluzSKVI02
+Design, implementation and evaluation of security in iSCSI-based network storage systems.|2006|StorageSS|conf/storagess/ChaitanyaBSMV06
+Xen and co.: communication-aware CPU scheduling for consolidated xen-based hosting platforms.|2007|VEE|conf/vee/GovindanNDUS07
+Analyzing energy behavior of spatial access methods for memory-resident data.|2001|VLDB|conf/vldb/AnSVKIG01
+Gang Scheduling Extensions for I/O Intensive Workloads.|2003|JSSPP|conf/jsspp/ZhangYSM03
+Performance Implications of Failures in Large-Scale Cluster Scheduling.|2004|JSSPP|conf/jsspp/ZhangSSS04
+An Integrated Approach to Parallel Scheduling Using Gang-Scheduling, Backfilling, and Migration.|2001|JSSPP|conf/jsspp/ZhangFMS01

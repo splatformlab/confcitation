@@ -1,0 +1,144 @@
+Unification Parallelism: How Much Can We Exploit?|1989|NACLP|conf/slp/SinghalP89
+Improving branch prediction accuracy by reducing pattern history table interference.|1996|IEEE PACT|conf/IEEEpact/ChangEP96
+The effects of mispredicted-path execution on branch prediction structures.|1996|IEEE PACT|conf/IEEEpact/JourdanHSP96
+Greater Performance and Better Efficiency: Predicated Execution has shown us the way.|2016|PACT|conf/IEEEpact/Patt16
+Feedback-directed pipeline parallelism.|2010|PACT|conf/IEEEpact/SulemanQKP10
+Using predicated execution to improve the performance of a dynamically scheduled machine with speculative execution.|1995|PACT|conf/IEEEpact/ChangHPC95
+Microarchitecture-Based Introspection: A Technique for Transient-Fault Tolerance in Microprocessors.|2005|DSN|conf/dsn/QureshiMP05
+Can They Be Fixed: Some Thoughts After 40 Years in the Business.|2008|SAMOS|conf/samos/Patt08
+What Else Is Broken? Can We Fix It?|2009|SAMOS|conf/samos/Patt09
+Aquarius - A High Performance Computing System for Symbolic/Numeric Applications.|1985|COMPCON|conf/compcon/DespainP85
+The Aquarius Project.|1984|COMPCON|conf/compcon/DespainP84
+High Performance Prolog, The Multiplicative Effect of Several Levels of Implementation.|1986|COMPCON|conf/compcon/DespainPDCC86
+Experiments with HPS, a Restricted Data Flow Microarchitecture for High Performance Computers.|1986|COMPCON|conf/compcon/PattHMSCW86
+Using Non-Volatile Storage to Improve the Reliability of RAID5 Disk Arrays.|1997|FTCS|conf/ftcs/HouP97
+Keynote 1 - VLSI 2.0: R&D Post Moore.|2013|VLSI-SoC|conf/vlsi/NassifPA13
+Understanding the effects of wrong-path memory references on processor performance.|2004|WMPI|conf/wmpi/MutluKAP04
+Increasing the Instruction Fetch Rate via Block-structured Instruction Set Architectures.|1996|MICRO|conf/micro/HaoCEP96
+Improving GPU performance via large warps and two-level warp scheduling.|2011|MICRO|conf/micro/NarasimanSLMMP11
+On tuning the microarchitecture of an HPS implementation of the VAX.|1987|MICRO|conf/micro/WilsonMSHP87
+The effect of speculatively updating branch history on branch prediction accuracy, revisited.|1994|MICRO|conf/micro/HaoCP94
+Reducing the Performance Impact of Instruction Cache Misses by Writing Instructions into the Reservation Stations Out-of-Order.|1997|MICRO|conf/micro/StarkRP97
+Exploiting horizontal and vertical concurrency via the HPSm microprocessor.|1987|MICRO|conf/micro/HwuP87
+Compiling Prolog into microcode: a case study using the NCR/32-000.|1985|MICRO|conf/micro/FaginPSD85
+Branch classification: a new mechanism for improving branch predictor performance.|1994|MICRO|conf/micro/ChangHYP94
+Hardware support for large atomic units in dynamically scheduled machines.|1988|MICRO|conf/micro/MelvinSP88
+Facilitating superscalar processing via a combined static/dynamic register renaming scheme.|1994|MICRO|conf/micro/SprangleP94
+A microcode-based environment for noninvasive performance analysis.|1986|MICRO|conf/micro/MelvinP86
+Microarchitectural support for precomputation microthreads.|2002|MICRO|conf/micro/ChappellTYP02
+A comprehensive instruction fetch mechanism for a processor supporting speculative execution.|1992|MICRO|conf/micro/YehP92
+A comparative performance evaluation of various state maintenance mechanisms.|1993|MICRO|conf/micro/ButlerP93
+Alternative implementations of hybrid branch predictors.|1995|MICRO|conf/micro/ChangHP95
+On pipelining dynamic instruction scheduling logic.|2000|MICRO|conf/micro/StarkBP00
+Alternative proposals for implementing Prolog concurrently and implications regarding their respective microarchitectures.|1984|MICRO|conf/micro/PonderP84
+Branch history table indexing to prevent pipeline bubbles in wide-issue superscalar processors.|1993|MICRO|conf/micro/YehP93
+Filtered runahead execution with a runahead buffer.|2015|MICRO|conf/micro/HashemiP15
+Select-free instruction scheduling logic.|2001|MICRO|conf/micro/BrownSP01
+SPAM: a microcode based tool for tracing operating system events.|1987|MICRO|conf/micro/MelvinP87
+An investigation of the performance of various dynamic scheduling techniques.|1992|MICRO|conf/micro/ButlerP92
+Improving memory bank-level parallelism in the presence of prefetching.|2009|MICRO|conf/micro/LeeNMP09
+The implementation of Prolog via VAX 8600 microcode.|1986|MICRO|conf/micro/GeeMP86
+Microcode and the protection of intellectual effort.|1985|MICRO|conf/micro/PattA85
+Wish Branches: Combining Conditional Branching and Predication for Adaptive Predicated Execution.|2005|MICRO|conf/micro/KimMSP05
+Parallel application memory scheduling.|2011|MICRO|conf/micro/EbrahimiMFLJMP11
+Microarchitecture choices (implementation of the VAX).|1989|MICRO|conf/micro/Patt89
+Run-time generation of HPS microinstructions from a VAX instruction stream.|1986|MICRO|conf/micro/PattMHSC86
+Prefetch-Aware DRAM Controllers.|2008|MICRO|conf/micro/LeeMNP08
+Critical issues regarding HPS, a high performance microarchitecture.|1985|MICRO|conf/micro/PattMHS85
+Utility-Based Cache Partitioning: A Low-Overhead, High-Performance, Runtime Mechanism to Partition Shared Caches.|2006|MICRO|conf/micro/QureshiP06
+Two-Level Adaptive Training Branch Prediction.|1991|MICRO|conf/micro/YehP91
+HPS, a new microarchitecture: rationale and introduction.|1985|MICRO|conf/micro/PattHS85
+MorphCore: An Energy-Efficient Microarchitecture for High Performance ILP and High Throughput TLP.|2012|MICRO|conf/micro/KhubaibSHWP12
+Continuous runahead: Transparent hardware acceleration for memory intensive workloads.|2016|MICRO|conf/micro/HashemiMP16
+Design decisions influencing the microarchitecture for a Prolog machine.|1984|MICRO|conf/micro/DobryPD84
+Coordinated control of multiple prefetchers in multi-core systems.|2009|MICRO|conf/micro/EbrahimiMLP09
+The Effect of Real Data Cache Behavior on the Performance of a Microarchitecture that Supports Dynamic Scheduling.|1991|MICRO|conf/micro/ButlerP91
+Implementing a Prolog machine with multiple functional units.|1988|MICRO|conf/micro/SinghalP88
+Alternative Fetch and Issue Policies for the Trace Cache Fetch Mechanism.|1997|MICRO|conf/micro/FriendlyPP97
+Predicting Performance Impact of DVFS for Realistic Memory Systems.|2012|MICRO|conf/micro/MiftakhutdinovEP12
+Address-Value Delta (AVD) Prediction: Increasing the Effectiveness of Runahead Execution by Exploiting Regular Memory Allocation Patterns.|2005|MICRO|conf/micro/MutluKP05
+Diverge-Merge Processor (DMP): Dynamic Predicated Execution of Complex Control-Flow Graphs Based on Frequently Executed Paths.|2006|MICRO|conf/micro/KimJMP06
+Putting the Fill Unit to Work: Dynamic Optimizations for Trace Cache Microprocessors.|1998|MICRO|conf/micro/FriendlyPP98
+Duplicon Cache: Mitigating Off-Chip Memory Bank and Bank Group Conflicts Via Data Duplication.|2018|MICRO|conf/micro/LinHMEP18
+Wrong Path Events: Exploiting Unusual and Illegal Program Behavior for Early Misprediction Detection and Recovery.|2004|MICRO|conf/micro/ArmstrongKMP04
+Profile-assisted Compiler Support for Dynamic Predication in Diverge-Merge Processors.|2007|CGO|conf/cgo/KimJMP07
+2D-Profiling: Detecting Input-Dependent Branches with a Single Input Data Set.|2006|CGO|conf/cgo/KimSMP06
+Line Distillation: Increasing Cache Capacity by Filtering Unused Words in Cache Lines.|2007|HPCA|conf/hpca/QureshiSP07
+Techniques for bandwidth-efficient prefetching of linked data structures in hybrid prefetching systems.|2009|HPCA|conf/hpca/EbrahimiMP09
+Multi-core demands multi-interfaces.|2009|HPCA|conf/hpca/Patt09
+Using Internal Redundant Representations and Limited Bypass to Support Pipelined Adders and Register Files.|2002|HPCA|conf/hpca/BrownP02
+Feedback Directed Prefetching: Improving the Performance and Bandwidth-Efficiency of Hardware Prefetchers.|2007|HPCA|conf/hpca/SrinathMKP07
+Performance-aware speculation control using wrong path usefulness prediction.|2008|HPCA|conf/hpca/LeeKMP08
+Runahead Execution: An Alternative to Very Large Instruction Windows for Out-of-Order Processors.|2003|HPCA|conf/hpca/MutluSWP03
+The Transformation Hierarchy in the Era of Multi-core.|2007|HiPC|conf/hipc/Patt07
+The High Performance Microprocessor in the Year 2013: What Will It Look Like? What It Won't Look Like?|2003|HiPC|conf/hipc/Patt03
+The Challenges of Multicore: Information and Mis-Information.|2009|ARCS|conf/arcs/Patt09
+Some results on the asymptotic behavior of functions on subsets of the natural numbers.|1979|ACM Southeast Regional Conference|conf/ACMse/McAllisterP79
+The future of simulation: A field of dreams.|2004|ISPASS|conf/ispass/CalderCPS04
+Opening and keynote 1.|2004|ISPASS|conf/ispass/Patt04
+Scheduling Algorithms for Modern Disk Drives.|1994|SIGMETRICS|conf/sigmetrics/WorthingtonGP94
+The Use of Microcode Instrumentation for Development, Debugging and Tuning of Operating System Kernels.|1988|SIGMETRICS|conf/sigmetrics/MelvinP88
+The Process-Flow Model: Examining I/O Performance from the System's Point of View.|1993|SIGMETRICS|conf/sigmetrics/GangerP93
+On-Line Extraction of SCSI Disk Drive Parameters.|1995|SIGMETRICS|conf/sigmetrics/WorthingtonGPW95
+Advantages of Implementing PROLOG by Microprogramming a Host General Purpose Computer.|1987|ICLP|conf/iclp/GeeMP87
+Comparing Rebuild Algorithms for Mirrored and RAID5 Disk Arrays.|1993|SIGMOD Conference|conf/sigmod/HouP93
+A Unifying Theory of Distributed Processing (Or, The Chutzpah One Should Expect When You Invite a Microarchitect into Your Sandbox).|2005|IPDPS|conf/ipps/Patt05
+Programming early considered harmful.|2001|SIGCSE|conf/sigcse/GerstingHMP01
+Hierarchical registers for scientific computers.|1988|ICS|conf/ics/SwensenP88
+Author retrospective for increasing the instruction fetch rate via multiple branch prediction and a branch address cache.|2014|ICS 25th Anniversary|conf/ics/YehMP14
+Increasing the Instruction Fetch Rate via Multiple Branch Prediction and a Branch Address Cache.|1993|International Conference on Supercomputing|conf/ics/YehMP93
+High performance supercomputers: should the individual processor be more than a brick?|2012|ICS|conf/ics/Patt12
+Partitioned first-level cache design for clustered microarchitectures.|2003|ICS|conf/ics/RacunasP03
+Performance benefits of large execution atomic units in dynamically scheduled machines.|1989|ICS|conf/ics/MelvinP89
+A complex logic module for the synthesis of combinational switching circuits.|1967|AFIPS Spring Joint Computing Conference|conf/afips/Patt67
+Handling of packet dependencies: a critical issue for highly parallel network processors.|2002|CASES|conf/cases/MelvinP02
+Metadata Update Performance in File Systems.|1994|OSDI|conf/osdi/GangerP94
+Higher and Higher Performance Microprocessors: Are The Problems Just Too Hard To Solve?|2000|EUROMICRO|conf/euromicro/Patt00
+Cache Filtering Techniques to Reduce the Negative Impact of Useless Speculative Memory References on Processor Performance.|2004|SBAC-PAD|conf/sbac-pad/MutluKAP04
+Energy Savings via Dead Sub-Block Prediction.|2012|SBAC-PAD|conf/sbac-pad/AlvesKENVNP12
+Track Piggybacking: An Improved Rebuild Algorithm for RAID5 Disk Arrays.|1995|ICPP (1)|conf/icpp/HouP95
+An Area-Efficient Register Alias Table for Implementing HPS.|1990|ICPP (1)|conf/icpp/ButlerP90
+Trading Disk Capacity for Performance.|1993|HPDC|conf/hpdc/HouP93
+The microprocessor of the year 2014: do Pentium 4, Pentium M, and Power 5 provide any hints?|2005|AICCSA|conf/aiccsa/Patt05
+Computer architecture education: mechanical engineers need it too.|1999|WCAE@HPCA|conf/wcae/Patt99
+Teaching and teaching computer architecture: two very different topics: (some opinions about each).|2003|WCAE|conf/wcae/Patt03
+Education in computer science and computer engineering starts with computer architecture.|1996|WCAE@HPCA|conf/wcae/Patt96
+Multi-core demands multi-interfaces.|2009|PPOPP|conf/ppopp/Patt09
+Utility-based acceleration of multithreaded applications on asymmetric CMPs.|2013|ISCA|conf/isca/JoaoSMP13
+Retrospective: Alternative Implementations of Two-Level Adaptive Training Branch Prediction.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/YehP98
+The Agree Predictor: A Mechanism for Reducing Negative Branch History Interference.|1997|ISCA|conf/isca/SprangleCAP97
+Accelerating Dependent Cache Misses with an Enhanced Memory Controller.|2016|ISCA|conf/isca/HashemiKEMP16
+Checkpoint Repair for Out-of-order Execution Machines.|1987|ISCA|conf/isca/HwuP87
+Adaptive insertion policies for high performance caching.|2007|ISCA|conf/isca/QureshiJPSE07
+Alternative Implementations of Two-Level Adaptive Branch Prediction.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/YehP98a
+Alternative Implementations of Two-Level Adaptive Branch Prediction.|1992|ISCA|conf/isca/YehP92
+Improving Trace Cache Effectiveness with Branch Promotion and Trace Packing.|1998|ISCA|conf/isca/PatelEP98
+A Comparison of Dynamic Branch Predictors that Use Two Levels of Branch History.|1993|ISCA|conf/isca/YehP93
+Single Instruction Stream Parallelism is Greater Than Two.|1991|ISCA|conf/isca/ButlerYPASS91
+Performance Studies of a Prolog Machine Architecture.|1985|ISCA|conf/isca/DobryDP85
+Prefetch-aware shared resource management for multi-core systems.|2011|ISCA|conf/isca/EbrahimiLMP11
+Computer Architecture Research and Future Microprocessors: Where Do We Go from Here?|2006|ISCA|conf/isca/Patt06
+Simultaneous Subordinate Microthreading (SSMT).|1999|ISCA|conf/isca/ChappellSKRP99
+The V-Way Cache: Demand Based Associativity via Global Replacement.|2005|ISCA|conf/isca/QureshiTP05
+Achieving Out-of-Order Performance with Almost In-Order Complexity.|2008|ISCA|conf/isca/TsengP08
+A High Performance Prolog Processor with Multiple Function Units.|1989|ISCA|conf/isca/SinghalP89
+Flexible reference-counting-based hardware acceleration for garbage collection.|2009|ISCA|conf/isca/JoaoMP09
+Difficult-Path Branch Prediction Using Subordinate Microthreads.|2002|ISCA|conf/isca/ChappellTPY02
+Exploiting Fine-Grained Parallelism Through a Combination of Hardware and Software Techniques.|1991|ISCA|conf/isca/MelvinP91
+HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/HwuP98a
+VPC prediction: reducing the cost of indirect branches via hardware-based dynamic devirtualization.|2007|ISCA|conf/isca/KimJMLPC07
+Using Hybrid Branch Predictors to Improve Branch Prediction Accuracy in the Presence of Context Switches.|1996|ISCA|conf/isca/EversCP96
+HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality.|1986|ISCA|conf/isca/HwuP86
+Fast Temporary Storage for Serial and Parallel Execution.|1987|ISCA|conf/isca/SwensenP87
+Data marshaling for multi-core architectures.|2010|ISCA|conf/isca/SulemanMJKP10
+Techniques for Efficient Processing in Runahead Execution Engines.|2005|ISCA|conf/isca/MutluKP05
+A Case for MLP-Aware Cache Replacement.|2006|ISCA|conf/isca/QureshiLMP06
+Retrospective: HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/HwuP98
+Target Prediction for Indirect Jumps.|1997|ISCA|conf/isca/ChangHP97
+An Analysis of Correlation and Predictability: What Makes Two-Level Branch Predictors Work.|1998|ISCA|conf/isca/EversPCP98
+Bottleneck identification and scheduling in multithreaded applications.|2012|ASPLOS|conf/asplos/JoaoSMP12
+Feedback-driven threading: power-efficient and high-performance execution of multi-threaded workloads on CMPs.|2008|ASPLOS|conf/asplos/SulemanQP08
+Improving the performance of object-oriented languages with dynamic predication of indirect jumps.|2008|ASPLOS|conf/asplos/JoaoMKAP08
+Fairness via source throttling: a configurable and high-performance fairness substrate for multi-core memory systems.|2010|ASPLOS|conf/asplos/EbrahimiLMP10
+Accelerating critical section execution with asymmetric multi-core architectures.|2009|ASPLOS|conf/asplos/SulemanMQP09
+Variable Length Path Branch Prediction.|1998|ASPLOS|conf/asplos/StarkEP98

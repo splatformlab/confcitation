@@ -1,0 +1,82 @@
+Memory State Compressors for Giga-Scale Checkpoint/Restore.|2005|IEEE PACT|conf/IEEEpact/MoshovosK05
+ReCaP: a region-based cure for the common cold cache.|2012|PACT|conf/IEEEpact/ZebchukCSM12
+Pointy: a hybrid pointer prefetcher for managed runtime systems.|2012|PACT|conf/IEEEpact/BurceaSM12
+A physical-level study of the compacted matrix instruction scheduler for dynamically-scheduled superscalar processors.|2009|ICSAMOS|conf/samos/SafiMV09
+Evaluating the memory system behavior of smartphone workloads.|2014|ICSAMOS|conf/samos/NarancicJWAEZAJMKG14
+A dual grain hit-miss detector for large die-stacked DRAM caches.|2013|DATE|conf/date/El-NacouziAPZJM13
+Characterizing the performance benefits of fused CPU/GPU systems using FusionSim.|2013|DATE|conf/date/ZakharenkoAM13
+Toward virtualizing branch direction prediction.|2012|DATE|conf/date/Sadooghi-AlvandiAM12
+A Framework for Coarse-Grain Optimizations in the On-Chip Memory Hierarchy.|2007|MICRO|conf/micro/ZebchukSM07
+IDEAL: image denoising accelerator.|2017|MICRO|conf/micro/MahmoudZLHABOM17
+Read-After-Read Memory Dependence Prediction.|1999|MICRO|conf/micro/MoshovosS99
+Wormhole: Wisely Predicting Multidimensional Branches.|2014|MICRO|conf/micro/AlbericioMJM14
+Multi-grain coherence directories.|2013|MICRO|conf/micro/ZebchukFM13
+Doppelgänger: a cache for approximate computing.|2015|MICRO|conf/micro/MiguelAMJ15
+Bit-pragmatic deep neural network computing.|2017|MICRO|conf/micro/AlbericioDJSOGM17
+Instruction distribution heuristics for quad-cluster, dynamically-scheduled, superscalar processors.|2000|MICRO|conf/micro/BaniasadiM00
+Value-Based Deep Learning Hardware Acceleration.|2018|NoCArc@MICRO|conf/micro/Moshovos18
+Self-contained, accurate precomputation prefetching.|2015|MICRO|conf/micro/AttaTSBM15
+Streamlining Inter-Operation Memory Communication via Data Dependence Prediction.|1997|MICRO|conf/micro/MoshovosS97
+A tagless coherence directory.|2009|MICRO|conf/micro/ZebchukSQM09
+Temporal instruction fetch streaming.|2008|MICRO|conf/micro/FerdmanWAFM08
+SLICC: Self-Assembly of Instruction Cache Collectives for OLTP Workloads.|2012|MICRO|conf/micro/AttaTAM12
+Diffy: a Déjà vu-Free Differential Deep Neural Network Accelerator.|2018|MICRO|conf/micro/MahmoudSM18
+Stripes: Bit-serial deep neural network computing.|2016|MICRO|conf/micro/JuddAHAM16
+Memory Dependence Speculation Tradeoffs in Centralized, Continuous-Window Superscalar Processors.|2000|HPCA|conf/hpca/MoshovosS00
+Practical off-chip meta-data for temporal memory streaming.|2009|HPCA|conf/hpca/WenischFAFM09
+Prediction-based superpage-friendly TLB designs.|2015|HPCA|conf/hpca/PapadopoulouTSM15
+RECAP: A region-based cure for the common cold (cache).|2013|HPCA|conf/hpca/ZebchukCTSM13
+Accurate and Complexity-Effective Spatial Pattern Prediction.|2004|HPCA|conf/hpca/ChenYFM04
+JETTY: Filtering Snoops for Reduced Energy Consumption in SMP Servers.|2001|HPCA|conf/hpca/MoshovosMFC01
+SPREX: A soft processor with Runahead execution.|2012|ReConFig|conf/reconfig/AasaraaiM12
+An Efficient Non-blocking Data Cache for Soft Processors.|2010|ReConFig|conf/reconfig/AasaraaiM10
+What limits the operating frequency of a soft processor design.|2014|ReConFig|conf/reconfig/AasaraaiM14
+Advanced branch predictors for soft processors.|2014|ReConFig|conf/reconfig/WuM14
+Low-cost, high-performance branch predictors for soft processors.|2013|FPL|conf/fpl/WuAM13
+Towards a viable out-of-order soft core: Copy-Free, checkpointed register renaming.|2009|FPL|conf/fpl/AasaraaiM09
+Behavior and performance of interactive multi-player game servers.|2001|ISPASS|conf/ispass/AbdelkhalekBM01
+Message from the program chair.|2016|ISPASS|conf/ispass/Moshovos16
+Demystifying GPU microarchitecture through microbenchmarking.|2010|ISPASS|conf/ispass/WongPSM10
+QTrace: An interface for customizable full system instrumentation.|2013|ISPASS|conf/ispass/TongLM13
+Characterizing Sources of Ineffectual Computations in Deep Learning Networks.|2019|ISPASS|conf/ispass/NikolicMMZM19
+QTrace: a framework for customizable full system instrumentation.|2015|ISPASS|conf/ispass/TongM15
+Reducing OLTP instruction misses with thread migration.|2012|DaMoN|conf/damon/AttaTAM12
+An Architectural Approach to Characterizing and Eliminating Sources of Inefficiency in a Soft Processor Design.|2014|FCCM|conf/fccm/AasaraaiM14
+Image Signal Processors on FPGAs.|2014|FCCM|conf/fccm/WuM14
+Slice-processors: an implementation of operation-based prediction.|2001|ICS|conf/ics/MoshovosPB01
+BranchTap: improving performance with very few checkpoints through adaptive speculation control.|2006|ICS|conf/ics/AklM06
+Proteus: Exploiting Numerical Precision Variability in Deep Neural Networks.|2016|ICS|conf/ics/JuddAHAJM16
+Improving virtual function call target prediction via dependence-based pre-computation.|1999|International Conference on Supercomputing|conf/ics/RothMS99
+Identifying and Exploiting Ineffectual Computations to Enable Hardware Acceleration of Deep Learning.|2018|NEWCAS|conf/newcas/MoshovosAJDSMHN18
+Design space exploration of instruction schedulers for out-of-order soft processors.|2010|FPT|conf/fpt/AasaraaiM10
+On the latency, energy and area of checkpointed, superscalar register alias tables.|2007|ISLPED|conf/islped/SafiAMVA07
+SEPAS: a highly accurate energy-efficient branch predictor.|2004|ISLPED|conf/islped/BaniasadiM04
+Instruction flow-based front-end throttling for power-aware high-performance processors.|2001|ISLPED|conf/islped/BaniasadiM01
+Asymmetric-frequency clustering: a power-aware back-end for high-performance processors.|2002|ISLPED|conf/islped/BaniasadiM02
+A physical level study and optimization of CAM-based checkpointed register alias table.|2008|ISLPED|conf/islped/SafiMV08
+Low-leakage asymmetric-cell SRAM.|2002|ISLPED|conf/islped/AziziMN02
+Checkpointing alternatives for high performance, power-aware processors.|2003|ISLPED|conf/islped/Moshovos03
+L-CBF: a low-power, fast counting bloom filter architecture.|2006|ISLPED|conf/islped/SafiMV06
+BarTLB: Barren page resistant TLB for managed runtime languages.|2014|ICCD|conf/iccd/TongM14
+Branch Predictor Prediction: A Power-Aware Branch Predictor for High-Performance Processors.|2002|ICCD|conf/iccd/BaniasadiM02
+RECAST: Boosting Tag Line Buffer Coverage in Low-Power High-Level Caches "for Free".|2005|ICCD|conf/iccd/ParkMF05
+Memory Requirements for Convolutional Neural Network Hardware Accelerators.|2018|IISWC|conf/iiswc/SiuSMM18
+Memory controller design under cloud workloads.|2016|IISWC|conf/iiswc/MahmoudM16
+Gene Sequencing: Where Time Goes.|2018|IISWC|conf/iiswc/RoodiM18
+Temporal streams in commercial server applications.|2008|IISWC|conf/iiswc/WenischFAFM08
+Characterizing Sources of Ineffectual Computations in Deep Learning Networks.|2018|IISWC|conf/iiswc/NikolicMM18
+Turbo-ROB: A Low Cost Checkpoint/Restore Accelerator.|2008|HiPEAC|conf/hipeac/AklM08
+Bit-Pragmatic Deep Neural Network Computing.|2017|ICLR (Workshop)|conf/iclr/AlbericioJDSM17
+Spatial Memory Streaming.|2006|ISCA|conf/isca/SomogyiWAFM06
+STREX: boosting instruction cache reuse in OLTP workloads through stratified transaction execution.|2013|ISCA|conf/isca/AttaTTAM13
+Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing.|2016|ISCA|conf/isca/AlbericioJHAJM16
+CHIMAERA: a high-performance architecture with a tightly-coupled reconfigurable functional unit.|2000|ISCA|conf/isca/YeMHB00
+Laconic deep learning inference acceleration.|2019|ISCA|conf/isca/SharifyLMNSSPM19
+RegionScout: Exploiting Coarse Grain Sharing in Snoop-Based Coherence.|2005|ISCA|conf/isca/Moshovos05
+Mechanisms for store-wait-free multiprocessors.|2007|ISCA|conf/isca/WenischAFM07
+Dynamic Speculation and Synchronization of Data Dependences.|1997|ISCA|conf/isca/MoshovosBVS97
+Dependance Based Prefetching for Linked Data Structures.|1998|ASPLOS|conf/asplos/RothMS98
+Phantom-BTB: a virtualized branch target buffer design.|2009|ASPLOS|conf/asplos/BurceaM09
+Predictor virtualization.|2008|ASPLOS|conf/asplos/BurceaSMF08
+Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks.|2019|ASPLOS|conf/asplos/LascorzJSPMSNSM19
+Loom: exploiting weight and activation precisions to accelerate convolutional neural networks.|2018|DAC|conf/dac/SharifyLSJM18

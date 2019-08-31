@@ -1,0 +1,89 @@
+POSTER: Application-Driven Near-Data Processing for Similarity Search.|2017|PACT|conf/IEEEpact/LeeMMACO17
+IFRit: interference-free regions for dynamic data-race detection.|2012|OOPSLA|conf/oopsla/Effinger-DeanLCGB12
+Alembic: automatic locality extraction via migration.|2014|OOPSLA|conf/oopsla/HoltBCO14
+Input-covering schedules for multithreaded programs.|2013|OOPSLA|conf/oopsla/BerganCG13
+Probability type inference for flexible approximate programming.|2015|OOPSLA|conf/oopsla/BostonSGC15
+Symbolic execution of multithreaded programs from arbitrary program contexts.|2014|OOPSLA|conf/oopsla/BerganGC14
+Composable specifications for structured shared-memory communication.|2010|OOPSLA|conf/oopsla/WoodSCG10
+Correlation manipulating circuits for stochastic computing.|2018|DATE|conf/date/LeeAC18
+MATIC: Learning around errors for efficient low-voltage neural network accelerators.|2018|DATE|conf/date/KimHMACS18
+Energy-efficient hybrid stochastic-binary neural networks for near-sensor computing.|2017|DATE|conf/date/LeeAHSC17
+Approximate storage in solid-state memories.|2013|MICRO|conf/micro/SampsonNSC13
+Neural Acceleration for General-Purpose Approximate Programs.|2012|MICRO|conf/micro/EsmaeilzadehSCB12
+Scalable Cache Miss Handling for High Memory-Level Parallelism.|2006|MICRO|conf/micro/TuckCT06
+Finding concurrency bugs with context-aware communication graphs.|2009|MICRO|conf/micro/LuciaC09
+Data provenance tracking for concurrent programs.|2015|CGO|conf/cgo/LuciaC15
+Colorama: Architectural Support for Data-Centric Synchronization.|2007|HPCA|conf/hpca/CezeMPT07
+Checked Load: Architectural support for JavaScript type-checking on mobile processors.|2011|HPCA|conf/hpca/AndersonFCE11
+SNNAP: Approximate computing on programmable SoCs via neural acceleration.|2015|HPCA|conf/hpca/MoreauWNSECO15
+Evaluation of a Multithreaded Architecture for Cellular Computing.|2002|HPCA|conf/hpca/CascavalCCDGLMSW02
+Characterizing the Performance and Energy Efficiency of Lock-Free Data Structures.|2011|Interaction between Compilers and Computer Architectures|conf/IEEEinteract/HuntSC11
+Optimizing synthesis with metasketches.|2016|POPL|conf/popl/BornholtTGC16
+Computer Security, Privacy, and DNA Sequencing: Compromising Computers with Synthesized DNA, Privacy Leaks, and More.|2017|USENIX Security Symposium|conf/uss/NeyKOCK17
+Accelerating Data Race Detection with Minimal Hardware Support.|2011|Euro-Par (1)|conf/europar/Gonzalez-AlberquillaSCP11
+An Overview of the Blue Gene/L System Software Organization.|2003|Euro-Par|conf/europar/AlmasiBBCCCCEGLMMSS03
+Visual Road: A Video Data Management Benchmark.|2019|SIGMOD Conference|conf/sigmod/HaynesMBCC19
+VisualCloud Demonstration: A DBMS for Virtual Reality.|2017|SIGMOD Conference|conf/sigmod/HaynesMBCC17
+A Content-Addressable DNA Database with Learned Sequence Encodings.|2018|DNA|conf/dna/StewartCWLSSC18
+Similarity Search on Automata Processors.|2017|IPDPS|conf/ipps/LeeKMACO17
+Application Codesign of Near-Data Processing for Similarity Search.|2018|IPDPS|conf/ipps/LeeMMACO18
+NCAM: Near-Data Processing for Nearest Neighbor Search.|2015|MEMSYS|conf/memsys/MundoLCO15
+DNA Data Storage and Near-Molecule Processing for the Yottabyte Era.|2019|CIDR|conf/cidr/StraussC19
+A Visual Cloud for Virtual Reality Applications.|2017|CIDR|conf/cidr/BalazinskaCCCS17
+Exploiting quality-energy tradeoffs with arbitrary quantization: special session paper.|2017|CODES+ISSS|conf/codes/MoreauAHAC17
+Augmenting Interpersonal Communication through Connected Lighting.|2017|CHI Extended Abstracts|conf/chi/MorrisCMC17
+EnerJ: approximate data types for safe and general low-power computation.|2011|PLDI|conf/pldi/SampsonDFGCG11
+Isolating and understanding concurrency errors using reconstructed execution fragments.|2011|PLDI|conf/pldi/LuciaWC11
+Data-race exceptions have benefits beyond the memory model.|2011|MSPC|conf/pldi/WoodCG11
+Expressing and verifying probabilistic assertions.|2014|PLDI|conf/pldi/SampsonPMMGC14
+Exploring storage class memory with key value stores.|2013|INFLOW@SOSP|conf/sosp/BaileyHCGL13
+Troubleshooting Transiently-Recurring Errors in Production Systems with Blame-Proportional Logging.|2018|USENIX Annual Technical Conference|conf/usenix/LuoNSMC18
+Latency-Tolerant Software Distributed Shared Memory.|2015|USENIX Annual Technical Conference|conf/usenix/NelsonHMBCKO15
+A hardware-friendly bilateral solver for real-time virtual reality video.|2017|High Performance Graphics|conf/egh/MazumdarABGCOS17
+Tasking with out-of-order spawn in TLS chip multiprocessors: microarchitecture and compilation.|2005|ICS|conf/ics/RenauTLCST05
+Thread-Level Speculation on a CMP can be energy efficient.|2005|ICS|conf/ics/RenauSCLSTT05
+Hardware-Software Co-Design: Not Just a Cliché.|2015|SNAPL|conf/snapl/SampsonBC15
+The impact of memory models on software reliability in multiprocessors.|2011|PODC|conf/podc/JaffeMECS11
+TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.|2018|OSDI|conf/osdi/ChenMJZYSCWHCGK18
+Deterministic Process Groups in dOS.|2010|OSDI|conf/osdi/BerganHCG10
+A limit study of JavaScript parallelism.|2010|IISWC|conf/iiswc/FortunaACE10
+Automatic discovery of performance and energy pitfalls in HTML and CSS.|2012|IISWC|conf/iiswc/SampsonCCMG12
+Exploring computation-communication tradeoffs in camera systems.|2017|IISWC|conf/iiswc/MazumdarMKCACOS17
+Clustering Billions of Reads for DNA Data Storage.|2017|NIPS|conf/nips/RashtchianMRAJY17
+Learning to Optimize Tensor Programs.|2018|NeurIPS|conf/nips/ChenZYJMCGK18
+An overview of the BlueGene/L Supercomputer.|2002|SC|conf/sc/AdigaAA02
+Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training.|2018|SoCC|conf/cloud/LuoNCPK18
+Disciplined Inconsistency with Consistency Types.|2016|SoCC|conf/cloud/HoltBZPOC16
+Crunching Large Graphs with Commodity Processors.|2011|HotPar|conf/hotpar/NelsonMHBCEGKO11
+Customizing Progressive JPEG for Efficient Image Storage.|2017|HotStorage|conf/hotstorage/YanZWSC17
+Claret: using data types for highly concurrent distributed transactions.|2015|PaPoC@EuroSys|conf/eurosys/HoltZPOC15
+POSH: a TLS compiler that exploits program structure.|2006|PPOPP|conf/ppopp/LiuTCASRT06
+Implicit parallelism with ordered transactions.|2007|PPOPP|conf/ppopp/PraunCC07
+Atom-Aid: Detecting and Surviving Atomicity Violations.|2008|ISCA|conf/isca/LuciaDSC08
+Bulk Disambiguation of Speculative Threads in Multiprocessors.|2006|ISCA|conf/isca/CezeTTC06
+RADISH: Always-on sound and complete race detection in software and hardware.|2012|ISCA|conf/isca/DeviettiWSCGQ12
+DeLorean: Recording and Deterministically Replaying Shared-Memory Multiprocessor Execution Effciently.|2008|ISCA|conf/isca/MontesinosCT08
+Conflict exceptions: simplifying concurrent language semantics with precise hardware exceptions for data-races.|2010|ISCA|conf/isca/LuciaCSQB10
+DNA-based molecular architecture with spatially localized components.|2013|ISCA|conf/isca/MuscatSCS13
+General-purpose code acceleration with limited-precision analog computation.|2014|ISCA|conf/isca/AmantYPTEHCB14
+ColorSafe: architectural support for debugging and dynamically avoiding multi-variable atomicity violations.|2010|ISCA|conf/isca/LuciaCS10
+BulkSC: bulk enforcement of sequential consistency.|2007|ISCA|conf/isca/CezeTMT07
+Blue Gene/L, a System-On-A-Chip.|2002|CLUSTER|conf/cluster/AlmasiAB02
+RCDC: a relaxed consistency deterministic computer.|2011|ASPLOS|conf/asplos/DeviettiNBCG11
+SoftSig: software-exposed hardware signatures for code analysis and optimization.|2008|ASPLOS|conf/asplos/TuckACT08
+Integrated 3D-stacked server designs for increasing physical density of key-value stores.|2014|ASPLOS|conf/asplos/GutierrezCGDCM14
+A DNA-Based Archival Storage System.|2016|ASPLOS|conf/asplos/BornholtLCCSS16
+Puddle: A Dynamic, Error-Correcting, Full-Stack Microfluidics Platform.|2019|ASPLOS|conf/asplos/WillseySTVNPBNJ19
+Low-level detection of language-level data races with LARD.|2014|ASPLOS|conf/asplos/WoodCG14
+Architecture support for disciplined approximate programming.|2012|ASPLOS|conf/asplos/EsmaeilzadehSCB12
+Approximate Storage of Compressed and Encrypted Videos.|2017|ASPLOS|conf/asplos/JevdjicSCM17
+DMP: deterministic shared memory multiprocessing.|2009|ASPLOS|conf/asplos/DeviettiLCO09
+DDOS: taming nondeterminism in distributed systems.|2013|ASPLOS|conf/asplos/HuntBCG13
+High-Density Image Storage Using Approximate Memory Cells.|2016|ASPLOS|conf/asplos/GuoSCM16
+Monitoring and Debugging the Quality of Results in Approximate Programs.|2015|ASPLOS|conf/asplos/RingenburgSACG15
+Concurrency control with data coloring.|2008|MSPC|conf/asplos/CezePCMT08
+Cooperative empirical failure avoidance for multithreaded programs.|2013|ASPLOS|conf/asplos/LuciaC13
+CoreDet: a compiler and runtime system for deterministic multithreaded execution.|2010|ASPLOS|conf/asplos/BerganADCG10
+Leveraging the VTA-TVM Hardware-Software Stack for FPGA Acceleration of 8-bit ResNet-18 Inference.|2018|ReQuEST@ASPLOS|conf/asplos/MoreauCC18
+IncBricks: Toward In-Network Computation with an In-Network Cache.|2017|ASPLOS|conf/asplos/LiuLNCKA17
+Operating System Implications of Fast, Cheap, Non-Volatile Memory.|2011|HotOS|conf/hotos/BaileyCGL11

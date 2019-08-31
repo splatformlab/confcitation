@@ -1,0 +1,134 @@
+XTREM: a power simulator for the Intel XScale® core.|2004|LCTES|conf/lctrts/ContrerasMPJL04
+Embedded systems in the wild: ZebraNet software, hardware, and deployment experiences.|2006|LCTES|conf/lctrts/Martonosi06
+LOCALE: Collaborative Localization Estimation for Sparse Mobile Sensor Networks.|2008|IPSN|conf/ipsn/ZhangM08
+Adaptive spatiotemporal node selection in dynamic networks.|2010|PACT|conf/IEEEpact/HariMBHKKKMP10
+Starchart: Hardware and software optimization using recursive partitioning regression trees.|2013|PACT|conf/IEEEpact/JiaSM13
+Characterizing the TLB Behavior of Emerging Parallel Workloads on Chip Multiprocessors.|2009|PACT|conf/IEEEpact/BhattacharjeeM09
+Evaluating the impact of advanced memory systems on compiler-parallelized codes.|1995|PACT|conf/IEEEpact/TorrieTMH95
+A Taxonomy of Branch Mispredictions, and Alloyed Prediction as a Robust Solution to Wrong-History Mispredictions.|2000|IEEE PACT|conf/IEEEpact/SkadronMC00
+Energy adaptation techniques to optimize data delivery in store-and-forward sensor networks.|2006|SenSys|conf/sensys/ZhangM06
+A new scheme on link quality prediction and its applications to metric-based routing.|2005|SenSys|conf/sensys/WangMP05
+Hardware design experiences in ZebraNet.|2004|SenSys|conf/sensys/ZhangSLM04
+Data compression algorithms for energy-constrained devices in delay tolerant networks.|2006|SenSys|conf/sensys/SadlerM06
+Situation-Aware Caching Strategies in Highly Varying Mobile Networks.|2006|MASCOTS|conf/mascots/WangMP06
+A supervised learning approach for routing optimizations in wireless sensor networks.|2006|REALMAN@MobiHoc|conf/mobihoc/WangMP06
+QDB: From Quantum Algorithms Towards Correct Quantum Programs.|2018|PLATEAU@SPLASH|conf/oopsla/HuangM18
+Extracting useful computation from error-prone processors for streaming applications.|2013|DATE|conf/date/YetimMM13
+Improving Prediction for Procedure Returns with Return-address-stack Repair Mechanisms.|1998|MICRO|conf/micro/SkadronAMC98
+Live, Runtime Phase Monitoring and Prediction on Real Systems with Application to Dynamic Power Management.|2006|MICRO|conf/micro/IsciCM06
+Graphicionado: A high-performance and energy-efficient accelerator for graph analytics.|2016|MICRO|conf/micro/HamWSSM16
+Runtime Power Monitoring in High-End Processors: Methodology and Empirical Data.|2003|MICRO|conf/micro/IsciM03
+SHiP: signature-based hit predictor for high performance caching.|2011|MICRO|conf/micro/WuJHMSE11
+PACMan: prefetch-aware cache management for high performance caching.|2011|MICRO|conf/micro/WuJMSE11
+DeSC: decoupled supply-compute communication management for heterogeneous architectures.|2015|MICRO|conf/micro/HamAM15
+PipeProof: Automated Memory Consistency Proofs for Microarchitectural Specifications.|2018|MICRO|conf/micro/ManerkarLMG18
+Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures.|2018|MICRO|conf/micro/DingHJFMC18
+Optimized surface code communication in superconducting quantum computers.|2017|MICRO|conf/micro/JavadiAbhariGHF17
+CCICheck: usingµhb graphs to verify the coherence-consistency interface.|2015|MICRO|conf/micro/ManerkarLPM15
+Keynotes: Internet of Things: History and hype, technology and policy.|2016|MICRO|conf/micro/Martonosi16
+RTLcheck: verifying the memory consistency of RTL designs.|2017|MICRO|conf/micro/ManerkarLMP17
+CheckMate: Automated Synthesis of Hardware Exploits and Security Litmus Tests.|2018|MICRO|conf/micro/TrippelLM18
+Pipe Check: Specifying and Verifying Microarchitectural Enforcement of Memory Consistency Models.|2014|MICRO|conf/micro/LustigPM14
+A Dynamic Compilation Framework for Controlling Microprocessor Energy and Performance.|2005|MICRO|conf/micro/WuMCRCWLB05
+An Analysis of Efficient Multi-Core Global Power Management Policies: Maximizing Performance for a Given Power Budget.|2006|MICRO|conf/micro/IsciBCBM06
+Voltage and Frequency Control With Adaptive Reaction Time in Multiple-Clock-Domain Processors.|2005|HPCA|conf/hpca/WuJMC05
+Dynamically Exploiting Narrow Width Operands to Improve Processor Power and Performance.|1999|HPCA|conf/hpca/BrooksM99
+Dynamic Thermal Management for High-Performance Microprocessors.|2001|HPCA|conf/hpca/BrooksM01
+Control Techniques to Eliminate Voltage Emergencies in High Performance Processors.|2003|HPCA|conf/hpca/JosephBM03
+Phase characterization for power: evaluating control-flow-based and event-counter-based techniques.|2006|HPCA|conf/hpca/IsciM06
+MRPB: Memory request prioritization for massively parallel processors.|2014|HPCA|conf/hpca/JiaSM14
+TCP: Tag Correlating Prefetchers.|2003|HPCA|conf/hpca/HuMK03
+Reducing GPU offload latency via fine-grained CPU-GPU synchronization.|2013|HPCA|conf/hpca/LustigM13
+Shared last-level TLBs for chip multiprocessors.|2011|HPCA|conf/hpca/BhattacharjeeLM11
+Wavelet Analysis for Microprocessor Design: Experiences with Wavelet-Based dI/dt Characterization.|2004|HPCA|conf/hpca/JosephHM04
+Low-infrastructure methods to improve internet access for mobile users in emerging regions.|2011|WWW (Companion Volume)|conf/www/IsaacmanM11
+EPROF: An energy/performance/reliability optimization framework for streaming applications.|2012|ASP-DAC|conf/aspdac/YetimMM12
+Implementing Application-Specific Cache-Coherence Protocols in Configurable Hardware.|1999|CANPC|conf/canpc/BrooksM99
+Adaptive usage of cellular and WiFi bandwidth: an optimal scheduling formulation.|2012|CHANTS@MobiCom|conf/mobicom/YetimM12
+Potential for collaborative caching and prefetching in largely-disconnected villages.|2008|Wireless Networks and Systems for Developing Regions|conf/mobicom/IsaacmanM08
+Power-Performance Modeling and Tradeoff Analysis for a High End Microprocessor.|2000|PACS|conf/pacs/BrooksMWB00
+Supervised Learning in Sensor Networks: New Approaches with Routing, Reliability Optimizations.|2006|SECON|conf/secon/WangMP06
+On Availability of Bit-Narrow Operations in General-Purpose Applications.|2000|FPL|conf/fpl/StefanovicM00
+Solving Boolean Satisfiability with Dynamic Hardware Configurations.|1998|FPL|conf/fpl/ZhongMAM98
+Characterization and cross-platform analysis of high-throughput accelerators.|2015|ISPASS|conf/ispass/OkaJMI15
+Characterization and dynamic mitigation of intra-application cache interference.|2011|ISPASS|conf/ispass/WuM11
+Stargazer: Automated regression-based GPU design space exploration.|2012|ISPASS|conf/ispass/JiaSM12
+Spectral analysis for characterizing program power and performance.|2004|ISPASS|conf/ispass/JosephMH04
+Keynote: Parallelism, heterogeneity, communication: Emerging challenges for performance analysis.|2012|ISPASS|conf/ispass/Martonosi12
+Transport layer approaches for improving idle energy in challenged sensor networks.|2006|CHANTS@SIGCOMM|conf/sigcomm/WangWMP06
+Limits and Graph Structure of Available Instruction-Level Parallelism (Research Note).|2000|Euro-Par|conf/europar/StefanovicM00
+An Adaptive Globally-Synchronizing Clock Algorithm and its Implementation on a Myrinet-based PC Cluster.|1999|SIGMETRICS|conf/sigmetrics/LiaoMC99
+New Metrics and Models for a Post-ISA Era: Managing Complexity and Scaling Performance in Heterogeneous Parallelism and Internet-of-Things.|2018|SIGMETRICS (Abstracts)|conf/sigmetrics/Martonosi18
+MemSpy: Analyzing Memory System Bottlenecks in Programs.|1992|SIGMETRICS|conf/sigmetrics/MartonosiGA92
+Effectiveness of Trace Sampling for Performance Debugging Tools.|1993|SIGMETRICS|conf/sigmetrics/MartonosiGA93
+Managing the cost, energy consumption, and carbon footprint of internet services.|2010|SIGMETRICS|conf/sigmetrics/LeBBMN10
+Integrating Performance Monitoring and Communication in Parallel Computers.|1996|SIGMETRICS|conf/sigmetrics/MartonosiOH96
+Capping the brown energy consumption of Internet services at low cost.|2010|Green Computing Conference|conf/green/LeBNBM10
+Augmenting Modern Superscalar Architectures with Configurable Extended Instructions.|2000|IPDPS Workshops|conf/ipps/ZhouM00
+RegReS: Adaptively maintaining a target density of regional services in opportunistic vehicular networks.|2011|PerCom|conf/percom/KoukoumidisPM11
+Ranges of human mobility in Los Angeles and New York.|2011|PerCom Workshops|conf/percom/IsaacmanBCKMRV11
+Adaptive delay-tolerant scheduling for efficient cellular and WiFi usage.|2014|WoWMoM|conf/wowmom/YetimM14
+Locomotive: Optimizing mobile web traffic using selective compression.|2017|WoWMoM|conf/wowmom/MelissarisSM17
+Efficient behavior-driven runtime dynamic voltage scaling policies.|2005|CODES+ISSS|conf/codes/XieMM05
+An Edge-Endpoint-Based Configurable Hardware Architecture for VLSI CAD Layout Design Rule Checking.|1999|FCCM|conf/fccm/LuoMA99
+Accelerating Boolean Satisfiability with Configurable Hardware.|1998|FCCM|conf/fccm/ZhongMAM98
+Compile-time dynamic voltage scaling settings: opportunities and limits.|2003|PLDI|conf/pldi/XieMM03
+Human mobility modeling at metropolitan scales.|2012|MobiSys|conf/mobisys/IsaacmanBCMRVW12
+Demo: SignalGuru: leveraging mobile phones for collaborative traffic signal schedule advisory.|2011|MobiSys|conf/mobisys/KoukoumidisPM11a
+SignalGuru: leveraging mobile phones for collaborative traffic signal schedule advisory.|2011|MobiSys|conf/mobisys/KoukoumidisPM11
+Implementing Software on Resource-Constrained Mobile Sensors: Experiences with Impala and ZebraNet.|2004|MobiSys|conf/mobisys/LiuSZM04
+Dali: a communication-centric data abstraction layer for energy-constrained devices in mobile sensor networks.|2007|MobiSys|conf/mobisys/SadlerM07
+Identifying Important Places in People's Lives from Cellular Network Data.|2011|Pervasive|conf/pervasive/IsaacmanBCKMRV11
+Multipath Execution: Opportunities and Limits.|1998|International Conference on Supercomputing|conf/ics/AhujaSMC98
+Monitoring Shared Virtual Memory Performance on a Myrinet-based PC Cluster.|1998|International Conference on Supercomputing|conf/ics/LiaoJIMC98
+Characterizing and improving the use of demand-fetched caches in GPUs.|2012|ICS|conf/ics/JiaSM12
+Cache Miss Equations: An Analytical Representation of Cache Misses.|1997|International Conference on Supercomputing|conf/ics/GhoshMM97
+Automated cache optimizations using CME driven diagnosis.|2000|ICS|conf/ics/GhoshMM00
+Location-based trust for mobile user-generated content: applications, challenges and implementations.|2008|HotMobile|conf/wmcsa/LendersKZM08
+Distributed collaborative filtering over social networks.|2011|Allerton|conf/allerton/IsaacmanICM11
+A Mathematical Cache Miss Analysis for Pointer Data Structures.|2001|PPSC|conf/ppsc/ZhangM01
+Dynamic adaptive techniques for learning application delay tolerance for mobile data offloading.|2015|INFOCOM|conf/infocom/YetimM15
+Optimizing the use of request distribution and stored energy for cost reduction in multi-site internet services.|2012|SustainIT|conf/ifip6-3/EtinskiMLBN12
+Distributed rating prediction in user generated content streams.|2011|RecSys|conf/recsys/IsaacmanICM11
+ZebraNet and beyond: applications and systems support for mobile, dynamic networks.|2008|CASES|conf/cases/Martonosi08
+Power prediction for intel XScale processors using performance monitoring unit events.|2005|ISLPED|conf/islped/ContrerasM05
+Managing leakage for transient data: decay and quasi-static 4T memory cells.|2002|ISLPED|conf/islped/HuJDKSMC02
+Power efficiency for variation-tolerant multicore processors.|2006|ISLPED|conf/islped/DonaldM06
+Bounds on power savings using runtime dynamic voltage scaling: an exact algorithm and a linear-time heuristic approximation.|2005|ISLPED|conf/islped/XieMM05
+Full-system chip multiprocessor power evaluations using FPGA-based emulation.|2008|ISLPED|conf/islped/BhattacharjeeCM08
+Coordinated, distributed, formal energy management of chip multiprocessors.|2005|ISLPED|conf/islped/JuangWPMC05
+Run-time power estimation in high performance microprocessors.|2001|ISLPED|conf/islped/JosephM01
+DP-WHERE: Differentially private modeling of human mobility.|2013|BigData|conf/bigdataconf/MirICMW13
+ScaffCC: a framework for compilation and analysis of quantum computing programs.|2014|Conf. Computing Frontiers|conf/cf/JavadiAbhariPKHLCM14
+Applying Decay Strategies to Branch Predictors for Leakage Energy Savings.|2002|ICCD|conf/iccd/HuJSCM02
+Characterizing the performance effect of trials and rotations in applications that use Quantum Phase Estimation.|2014|IISWC|conf/iiswc/PatilJCHMC14
+Characterizing and improving the performance of Intel Threading Building Blocks.|2008|IISWC|conf/iiswc/ContrerasM08
+Techniques for Real-System Characterization of Java Virtual Machine Energy and Power Behavior.|2006|IISWC|conf/iiswc/ContrerasM06
+ILA-MCM: Integrating Memory Consistency Models with Instruction-Level Abstractions for Heterogeneous System-on-Chip Verification.|2018|FMCAD|conf/fmcad/ZhangTMGMM18
+Tradeoffs in Message Passing and Shared Memory Implementations of a Standard Cell Router.|1989|ICPP (3)|conf/icpp/MartonosiG89
+OKAPI: In Support of Application Correctness in Smart Home Environments.|2019|FMEC|conf/fmec/Melissaris0M19
+Impala: a middleware system for managing autonomic, parallel sensor systems.|2003|PPOPP|conf/ppopp/LiuM03
+Full-stack, real-system quantum computer studies: architectural comparisons and design insights.|2019|ISCA|conf/isca/MuraliLMJNA19
+Design Choices in the SHRIMP System: An Empirical Study.|1998|ISCA|conf/isca/BlumrichACCDDFILMS98
+Techniques for Multicore Thermal Management: Classification and New Exploration.|2006|ISCA|conf/isca/DonaldM06
+ArMOR: defending against memory consistency model mismatches in heterogeneous architectures.|2015|ISCA|conf/isca/LustigTPM15
+Thread criticality predictors for dynamic performance, power, and resource management in chip multiprocessors.|2009|ISCA|conf/isca/BhattacharjeeM09
+Cache decay: exploiting generational behavior to reduce cache leakage power.|2001|ISCA|conf/isca/KaxirasHM01
+Timekeeping in the Memory System: Predicting and Optimizing Memory Behavior.|2002|ISCA|conf/isca/HuMK02
+Informing Memory Operations: Providing Memory Performance Feedback in Modern Processors.|1996|ISCA|conf/isca/HorowitzMMS96
+Tailoring quantum architectures to implementation style: a quantum computer for mobile and persistent qubits.|2007|ISCA|conf/isca/ChiLM07
+Wattch: a framework for architectural-level power analysis and optimizations.|2000|ISCA|conf/isca/BrooksTM00
+Statistical assertions for validating patterns and finding bugs in quantum programs.|2019|ISCA|conf/isca/0001M19
+Middleware for long-term deployment of delay-tolerant sensor networks.|2006|MidSens|conf/middleware/ZhangSM06
+Experience with an Adaptive Globally-Synchronizing Clock Algorithm.|1999|SPAA|conf/spaa/LiaoMC99
+Inter-core cooperative TLB for chip multiprocessors.|2010|ASPLOS|conf/asplos/BhattacharjeeM10
+Precise Miss Analysis for Program Transformations with Caches of Arbitrary Associativity.|1998|ASPLOS|conf/asplos/GhoshMM98
+Formal online methods for voltage/frequency control in multiple clock domain microprocessors.|2004|ASPLOS|conf/asplos/WuJMC04
+TriCheck: Memory Model Verification at the Trisection of Software, Hardware, and ISA.|2017|ASPLOS|conf/asplos/TrippelMLPM17
+Compiler Management of Communication and Parallelism for Quantum Computation.|2015|ASPLOS|conf/asplos/HeckeyPJHKBFCM15
+COATCheck: Verifying Memory Ordering at the Hardware-OS Interface.|2016|ASPLOS|conf/asplos/LustigSMB16
+Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.|2019|ASPLOS|conf/asplos/MuraliBJCM19
+CommGuard: Mitigating Communication Errors in Error-Prone Parallel Execution.|2015|ASPLOS|conf/asplos/YetimMM15
+Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with ZebraNet.|2002|ASPLOS|conf/asplos/JuangOWMPR02
+Using Reconfigurable Computing Techniques to Accelerate Problems in the CAD Domain: A Case Study with Boolean Satisfiability.|1998|DAC|conf/dac/ZhongAMM98
+Static Timing Analysis of Embedded Software.|1997|DAC|conf/dac/MalikML97

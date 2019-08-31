@@ -1,0 +1,201 @@
+TRAMS Project: Variability and Reliability of SRAM Memories in sub-22 nm Bulk-CMOS Technologies.|2011|FET|journals/procedia/CanalRABMZGV11
+Global productiveness propagation: a code optimization technique to speculatively prune useless narrow computations.|2011|LCTES|conf/lctrts/BhagatGSG11
+A Cost-Effective Clustered Architecture.|1999|IEEE PACT|conf/IEEEpact/CanalPG99
+An Ultra Low-Power Hardware Accelerator for Acoustic Scoring in Speech Recognition.|2017|PACT|conf/IEEEpact/TabaniAT017
+Fast, Accurate and Flexible Data Locality Analysis.|1998|IEEE PACT|conf/IEEEpact/SanchezG98
+FASTM: A Log-based Hardware Transactional Memory with Fast Abort Recovery.|2009|PACT|conf/IEEEpact/LuponMG09
+Beforehand Migration on D-NUCA Caches.|2011|PACT|conf/IEEEpact/LiraJMG11
+Efficient Interconnects for Clustered Microarchitectures.|2002|IEEE PACT|conf/IEEEpact/ParcerisaSGD02
+Exploiting Pseudo-Schedules to Guide Data Dependence Graph Partitioning.|2002|IEEE PACT|conf/IEEEpact/AletaCSGK02
+Speculative dynamic vectorization for HW/SW co-designed processors.|2012|PACT|conf/IEEEpact/KumarMG12
+A Unified Modulo Scheduling and Register Allocation Technique for Clustered Processors.|2001|IEEE PACT|conf/IEEEpact/CodinaSG01
+E-PUR: an energy-efficient processing unit for recurrent neural networks.|2018|PACT|conf/IEEEpact/SilfaDAG18
+Optimizing Program Locality Through CMEs and GAs.|2003|IEEE PACT|conf/IEEEpact/VeraAGL03
+Early Register Release for Out-of-Order Processors with RegisterWindows.|2007|PACT|conf/IEEEpact/QuinonesPG07
+Compiler Directed Early Register Release.|2005|IEEE PACT|conf/IEEEpact/JonesOAGE05
+Swing module scheduling: a lifetime-sensitive approach.|1996|IEEE PACT|conf/IEEEpact/LlosaGAV96
+Anaphase: A Fine-Grain Thread Decomposition Scheme for Speculative Multithreading.|2009|PACT|conf/IEEEpact/MadrilesLCGLMMG09
+Control-Flow Speculation through Value Prediction for Superscalar Processors.|1999|IEEE PACT|conf/IEEEpact/GonzalezG99
+Variable-Based Multi-module Data Caches for Clustered VLIW Processors.|2005|IEEE PACT|conf/IEEEpact/GibertASVG05
+Meeting points: using thread criticality to adapt multicore hardware to parallel regions.|2008|PACT|conf/IEEEpact/CaiGRMCG08
+Static Locality Analysis for Cache Management.|1997|IEEE PACT|conf/IEEEpact/SanchezGV97
+Combining depth-first and breadth-first search in Prolog execution.|1994|GULP-PRODE (2)|conf/agp/TubellaG94
+Parallel Numerical Algorithms.|1994|PDP|conf/pdp/Gonzalez94
+A Jacobi-based algorithm for computing symmetric eigenvalues and eigenvectors in a two-dimensional mesh.|1998|PDP|conf/pdp/RoyoVG98
+Exploiting path parallelism in logic programming.|1995|PDP|conf/pdp/TubellaG95
+Improving the Performance Efficiency of an IDS by Exploiting Temporal Locality in Network Traffic.|2012|MASCOTS|conf/mascots/ShenoyTG12
+Load Balancing in a Network Flow Optimization Code.|1995|PARA|conf/para/FontdecabaGL95
+VCTA: A Via-Configurable Transistor Array regular fabric.|2010|VLSI-SoC|conf/vlsi/PonsMRAVG10
+Cache organizations for clustered microarchitectures.|2004|WMPI|conf/wmpi/GonzalezLG04
+INFORMER: An integrated framework for early-stage memory robustness analysis.|2014|DATE|conf/date/GanapathyCACGR14
+Circuit propagation delay estimation through multivariate regression-based modeling under spatio-temporal variability.|2010|DATE|conf/date/GanapathyCGR10
+A detailed methodology to compute Soft Error Rates in advanced technologies.|2016|DATE|conf/date/RieraCA016
+Effective instruction scheduling techniques for an interleaved cache clustered VLIW processor.|2002|MICRO|conf/micro/GibertSG02
+A Dynamically Adaptable Hardware Transactional Memory.|2010|MICRO|conf/micro/LuponMG10
+Ultra-low power render-based collision detection for CPU/GPU systems.|2015|MICRO|conf/micro/LucasMPG15
+The Design and Performance of a Conflict-Avoiding Cache.|1997|MICRO|conf/micro/TophamGG97
+Reducing wire delay penalty through value prediction.|2000|MICRO|conf/micro/ParcerisaG00
+Instruction Replication for Clustered Microarchitectures.|2003|MICRO|conf/micro/AletaCGK03
+Penelope: The NBTI-Aware Processor.|2007|MICRO|conf/micro/AbellaVG07
+Cache Sensitive Modulo Scheduling.|1997|MICRO|conf/micro/SanchezG97
+Value Prediction for Speculative Multithreaded Architectures.|1999|MICRO|conf/micro/MarcuelloTG99
+Hypernode reduction modulo scheduling.|1995|MICRO|conf/micro/LlosaVAG95
+Very low power pipelines using significance compression.|2000|MICRO|conf/micro/CanalGS00
+Low Vccmin fault-tolerant cache with highly predictable performance.|2009|MICRO|conf/micro/AbellaCCVG09
+Graph-partitioning based instruction scheduling for clustered processors.|2001|MICRO|conf/micro/AleteCSG01
+UNFOLD: a memory-efficient speech recognizer using on-the-fly WFST composition.|2017|MICRO|conf/micro/YazdaniA017
+An ultra low-power hardware accelerator for automatic speech recognition.|2016|MICRO|conf/micro/YazdaniSAG16
+Accelerating microprocessor silicon validation by exposing ISA diversity.|2011|MICRO|conf/micro/FoutrisGPVG11
+Delaying Physical Register Allocation through Virtual-Physical Registers.|1999|MICRO|conf/micro/MonrealGVGV99
+Flexible Compiler-Managed L0 Buffers for Clustered VLIW Processors.|2003|MICRO|conf/micro/GibertSG03
+Modulo scheduling for a fully-distributed clustered VLIW architecture.|2000|MICRO|conf/micro/SanchezG00
+Heterogeneous Clustered VLIW Microarchitectures.|2007|CGO|conf/cgo/AletaCGK07
+Removing checks in dynamically typed languages through efficient profiling.|2017|CGO|conf/cgo/DotM017
+Virtual Cluster Scheduling Through the Scheduling Graph.|2007|CGO|conf/cgo/CodinaSG07
+Warm-Up Simulation Methodology for HW/SW Co-Designed Processors.|2014|CGO|conf/cgo/BrankovicSGG14
+Software-Controlled Operand-Gating.|2004|CGO|conf/cgo/CanalGS04
+Local Scheduling Techniques for Memory Coherence in a Clustered VLIW Processor with a Distributed Data Cache.|2003|CGO|conf/cgo/GibertSG03
+Hardware/software-based diagnosis of load-store queues using expandable activity logs.|2011|HPCA|conf/hpca/CarreteroVARMG11
+A Novel Register Renaming Technique for Out-of-Order Processors.|2018|HPCA|conf/hpca/TabaniATG18
+Rendering Elimination: Early Discard of Redundant Tiles in the Graphics Pipeline.|2019|HPCA|conf/hpca/AngladaLPAM019
+Low-Complexity Distributed Issue Queue.|2004|HPCA|conf/hpca/AbellaG04
+The Synergy of Multithreading and Access/Execute Decoupling.|1999|HPCA|conf/hpca/ParcerisaG99
+Virtual-Physical Registers.|1998|HPCA|conf/hpca/GonzalezGV98
+Control Speculation in Multithreaded Processors through Dynamic Loop Detection.|1998|HPCA|conf/hpca/TubellaG98
+Thread-Spawning Schemes for Speculative Multithreading.|2002|HPCA|conf/hpca/MarcuelloG02
+Distributing the Frontend for Temperature Reduction.|2005|HPCA|conf/hpca/ChaparroMGG05
+Dynamic Cluster Assignment Mechanisms.|2000|HPCA|conf/hpca/CanalPG00
+Improving Branch Prediction and Predicated Execution in Out-of-Order Processors.|2007|HPCA|conf/hpca/QuinonesPG07
+Fg-STP: Fine-Grain Single Thread Partitioning on Multicores.|2011|HPCA|conf/hpca/RanjanLMG11
+Early Visibility Resolution for Removing Ineffectual Computations in the Graphics Pipeline.|2019|HPCA|conf/hpca/AngladaLPA019
+Power-Aware Control Speculation through Selective Throttling.|2003|HPCA|conf/hpca/AragonGG03
+Software Directed Issue Queue Power Reduction.|2005|HPCA|conf/hpca/JonesOAG05
+High-Performance low-vcc in-order core.|2010|HPCA|conf/hpca/AbellaCVCG10
+Shared resource aware scheduling on power-constrained tiled many-core processors.|2016|Conf. Computing Frontiers|conf/cd/JhaHFT0E16
+Confidence Estimation for Branch Prediction Reversal.|2001|HiPC|conf/hipc/AragonGGG01
+Implementing a hybrid SRAM / eDRAM NUCA architecture.|2011|HiPC|conf/hipc/LiraMBG11
+ERICO: Effective Removal of Inline Caching Overhead in Dynamic Typed Languages.|2016|HiPC|conf/hipc/DotMG16
+Speculative dynamic vectorization to assist static vectorization in a HW/SW co-designed environment.|2013|HiPC|conf/hipc/KumarMG13
+Virtual registers.|1997|HiPC|conf/hipc/GonzalezVGA97
+P-slice based efficient speculative multithreading.|2009|HiPC|conf/hipc/RanjanMLG09
+Power-Aware Adaptive Issue Queue and Register File.|2003|HiPC|conf/hipc/AbellaG03
+Compiler analysis for trace-level speculative multithreaded architectures.|2005|Interaction between Compilers and Computer Architectures|conf/IEEEinteract/MolinaGT05
+A Co-designed HW/SW Approach to General Purpose Program Acceleration Using a Programmable Functional Unit.|2011|Interaction between Compilers and Computer Architectures|conf/IEEEinteract/DebCG11
+Key Microarchitectural Innovations for Future Microprocessors.|2009|ARCS|conf/arcs/Gonzalez09
+Vectorizing for Wider Vector Units in a HW/SW Co-designed Environment.|2013|HPCC/EUC|conf/hpcc/KumarMG13
+Exploiting temporal locality in network traffic using commodity multi-cores.|2012|ISPASS|conf/ispass/ShenoyTG12
+An efficient solver for Cache Miss Equations.|2000|ISPASS|conf/ispass/BermudoVGL00
+Last Bank: Dealing with Address Reuse in Non-Uniform Cache Architecture for CMPs.|2009|Euro-Par|conf/europar/LiraMG09
+Divide-and-Conquer Algorithms on Two-Dimensional Meshes.|1998|Euro-Par|conf/europar/Valero-GarciaGCR98
+Overlapping Communication and Computation in Hypercubes.|1996|Euro-Par, Vol. I|conf/europar/CerioVG96
+Value Compression to Reduce Power in Data Caches.|2003|Euro-Par|conf/europar/AliagasMGGT03
+Memory Address Prediction for Data Speculation.|1997|Euro-Par|conf/europar/GonzalezG97
+Value Compression for Efficient Computation.|2005|Euro-Par|conf/europar/CanalGS05
+Complete Exchange Algorithms for Meshes and Tori Using a Systematic Approach (Research Note).|2000|Euro-Par|conf/europar/CerioVG00
+A Fast and Accurate Approach to Analyze Cache Memory Behavior (Research Note).|2000|Euro-Par|conf/europar/VeraLGB00
+PARSAR: Parallelisation of a Chirp Scaling Algorithm SAR Processor.|1997|Euro-Par|conf/europar/MartinezFMNGBG97
+A framework for modeling and optimization of prescient instruction prefetch.|2003|SIGMETRICS|conf/sigmetrics/AamodtMCGHWS03
+Exploiting Speculative Thread-Level Parallelism on a SMT Processor.|1999|HPCN Europe|conf/hpcn/MarcuelloG99
+Reducing Memory Traffic Via Redundant Store Instructions.|1999|HPCN Europe|conf/hpcn/MolinaGT99
+Improving the Resilience of an IDS against Performance Throttling Attacks.|2012|SecureComm|conf/securecomm/ShenoyTG12
+Efficient resources assignment schemes for clustered multithreaded processors.|2008|IPDPS|conf/ipps/LatorreGG08
+Hardware/Software Mechanisms for Protecting an IDS against Algorithmic Complexity Attacks.|2012|IPDPS Workshops|conf/ipps/ShenoyTG12
+A Performance and Area Efficient Architecture for Intrusion Detection Systems.|2011|IPDPS|conf/ipps/ShenoyTG11
+Inherently Workload-Balanced Clustered Microarchitecture.|2005|IPDPS|conf/ipps/AbellaG05
+Jacobi Orderings for Multi-Port Hypercubes.|1998|IPPS/SPDP|conf/ipps/RoyoGV98
+HK-NUCA: Boosting Data Searches in Dynamic Non-Uniform Cache Architectures for Chip Multiprocessors.|2011|IPDPS|conf/ipps/LiraMG11
+Empowering a helper cluster through data-width aware instruction selection policies.|2006|IPDPS|conf/ipps/UnsalEVG06
+SAMIE-LSQ: set-associative multiple-instruction entry load/store queue.|2006|IPDPS|conf/ipps/AbellaG06
+A software-hardware hybrid steering mechanism for clustered microarchitectures.|2008|IPDPS|conf/ipps/CaiCGG08
+Control-Flow Independence Reuse via Dynamic Vectorization.|2005|IPDPS|conf/ipps/PajueloGV05
+A Quantitative Assessment of Thread-Level Speculation Techniques.|2000|IPDPS|conf/ipps/MarcuelloG00
+The Mitosis Speculative Multithreaded Architectures.|2005|PARCO|conf/parco/MadrilesQSMG05
+Instruction Scheduling for Clustered VLIW Architectures.|2000|ISSS|conf/isss/SanchezG00
+Mitosis compiler: an infrastructure for speculative threading based on pre-computation slices.|2005|PLDI|conf/pldi/QuinonesMSMGT05
+Demystifying on-the-fly spill code.|2005|PLDI|conf/pldi/AletaCGK05
+An interleaved cache clustered VLIW processor.|2002|ICS|conf/ics/GibertSG02
+Speculative Multithreaded Processors.|1998|International Conference on Supercomputing|conf/ics/MarcuelloGT98
+Selective predicate prediction for out-of-order processors.|2006|ICS|conf/ics/QuinonesPG06
+Clustered speculative multithreaded processors.|1999|International Conference on Supercomputing|conf/ics/MarcuelloG99
+Eliminating Cache Conflict Misses through XOR-Based Placement Functions.|1997|International Conference on Supercomputing|conf/ics/GonzalezVTP97
+Instruction fetch unit for parallel execution of branch instructions.|1989|ICS|conf/ics/GonzalezL89
+Speculative Execution via Address Prediction and Data Prefetching.|1997|International Conference on Supercomputing|conf/ics/GonzalezG97
+Dynamic removal of redundant computations.|1999|International Conference on Supercomputing|conf/ics/MolinaGT99
+Author retrospective for the dual data cache.|2014|ICS 25th Anniversary|conf/ics/GonzalezA14
+A comparative study of modulo scheduling techniques.|2002|ICS|conf/ics/CodinaLG02
+Design space exploration for multicore architectures: a power/performance/thermal view.|2006|ICS|conf/ics/MonchieroCG06
+The auction: optimizing banks usage in Non-Uniform Cache Architectures.|2010|ICS|conf/ics/LiraMG10
+The Potential of Data Value Speculation to Boost ILP.|1998|International Conference on Supercomputing|conf/ics/GonzalezG98
+Heterogeneous way-size cache.|2006|ICS|conf/ics/AbellaG06
+A Data Cache with Multiple Caching Strategies Tuned to Different Types of Locality.|1995|International Conference on Supercomputing|conf/ics/GonzalezAV95
+Reducing the complexity of the issue logic.|2001|ICS|conf/ics/CanalG01
+A locality sensitive multi-module cache with explicit management.|1999|International Conference on Supercomputing|conf/ics/SanchezG99
+Back-end assignment schemes for clustered multithreaded processors.|2004|ICS|conf/ics/LatorreGG04
+A low-complexity issue logic.|2000|ICS|conf/ics/CanalG00
+Dual path instruction processing.|2002|ICS|conf/ics/AragonGGS02
+Reducing Misspeculation Penalty in Trace-Level Speculative Multithreaded Architectures.|2005|ISHPC|conf/ishpc/MolinaTG05
+Near-Optimal Loop Tiling by Means of Cache Miss Equations and Genetic Algorithms.|2002|ICPP Workshops|conf/icppw/AbellaGLV02
+Thread shuffling: combining DVFS and thread migration toreduce energy consumptions for multi-core systems.|2011|ISLPED|conf/islped/CaiGMCG11
+Thread fusion.|2008|ISLPED|conf/islped/GonzalezCCMRG08
+MODEST: a model for energy estimation under spatio-temporal variability.|2010|ISLPED|conf/islped/GanapathyCGR10
+Independent front-end and back-end dynamic voltage scaling for a GALS microarchitecture.|2006|ISLPED|conf/islped/MagklisCGG06
+Non redundant data cache.|2003|ISLPED|conf/islped/MolinaAGGT03
+Accurate off-line phase classification for HW/SW co-designed processors.|2014|Conf. Computing Frontiers|conf/cf/BrankovicSGG14
+SoftHV: a HW/SW co-designed processor with horizontal and vertical fusion.|2011|Conf. Computing Frontiers|conf/cf/DebCG11
+Performance analysis and predictability of the software layer in dynamic binary translators/optimizers.|2013|Conf. Computing Frontiers|conf/cf/BrankovicSGG13
+Chrysso: an integrated power manager for constrained many-core processors.|2015|Conf. Computing Frontiers|conf/cf/JhaHFCCTGE15
+Data Speculative Multithreaded Architecture.|1998|EUROMICRO|conf/euromicro/MarcuelloG98
+The Latency Hiding Effectiveness of Decoupled Access/Execute Processors.|1998|EUROMICRO|conf/euromicro/ParcerisaG98
+A Partial Breadth-First Execution Model for Prolog.|1994|ICTAI|conf/ictai/TubellaG94
+Selective Branch Prediction Reversal By Correlating with Data Values and Control Flow.|2001|ICCD|conf/iccd/AragonGGG01
+LRU-PEA: A smart replacement policy for non-uniform cache architectures on chip multiprocessors.|2009|ICCD|conf/iccd/LiraMG09
+iRMW: A low-cost technique to reduce NBTI-dependent parametric failures in L1 data caches.|2014|ICCD|conf/iccd/GanapathyCGR14
+Dynamic Cluster Resizing.|2003|ICCD|conf/iccd/GonzalezG03
+A novel variation-tolerant 4T-DRAM cell with enhanced soft-error tolerance.|2012|ICCD|conf/iccd/GanapathyCACGR12
+Thermal-Aware Clustered Microarchitectures.|2004|ICCD|conf/iccd/ChaparroGG04
+Trace-Level Speculative Multithreaded Architecture.|2002|ICCD|conf/iccd/MolinaGT02
+On Reducing Register Pressure and Energy in Multiple-Banked Register Files.|2003|ICCD|conf/iccd/AbellaG03a
+Dynamic fine-grain body biasing of caches with latency and leakage 3T1D-based monitors.|2011|ICCD|conf/iccd/GanapathyCGR11
+Memory Bank Predictors.|2005|ICCD|conf/iccd/BieschewskiPG05
+MASkIt: Soft error rate estimation for combinational circuits.|2016|ICCD|conf/iccd/AngladaCA016
+Power Efficient Data Cache Designs.|2003|ICCD|conf/iccd/AbellaG03
+Frontend Frequency-Voltage Adaptation for Optimal Energy-Delay^2.|2004|ICCD|conf/iccd/MagklisGG04
+Near-Optimal Padding for Removing Conflict Misses.|2002|LCPC|conf/lcpc/VeraLG02
+Online error detection and correction of erratic bits in register files.|2009|IOLTS|conf/iolts/VeraACCG09
+Fuse: A Technique to Anticipate Failures due to Degradation in ALUs.|2007|IOLTS|conf/iolts/AbellaVUEG07
+Reducing DUE-FIT of caches by exploiting acoustic wave detectors for error recovery.|2013|IOLTS|conf/iolts/UpasaniVG13
+New reliability mechanisms in memory design for sub-22nm technologies.|2011|IOLTS|conf/iolts/AymerichABCCFGHMMPRRVVWZ11
+Cross-layer early reliability evaluation: Challenges and promises.|2014|IOLTS|conf/iolts/CarloVGNGCMPGBRRL14
+On-Line Failure Detection and Confinement in Caches.|2008|IOLTS|conf/iolts/AbellaCVCG08
+Framework for economical error recovery in embedded cores.|2014|IOLTS|conf/iolts/UpasaniVG14
+Quantitative characterization of the software layer of a HW/SW co-designed processor.|2016|IISWC|conf/iiswc/Cano0BPSGM016
+Design of complex circuits using the Via-Configurable transistor array regular layout fabric.|2011|SoCC|conf/socc/PonsMRAVG11
+Software Prefetching for Software Pipelined Loops.|1998|HICSS (7)|conf/hicss/SanchezG98
+The Xor embedding: An embedding of hypercubes onto rings and toruses.|1993|ASAP|conf/asap/0001V93
+A Methodology for User-Oriented Scalability Analysis.|1997|ASAP|conf/asap/RoyoVGM97
+Impact of positive bias temperature instability (PBTI) on 3T1D-DRAM cells.|2011|ACM Great Lakes Symposium on VLSI|conf/glvlsi/AymerichGRCG11
+Dynamic Selective Devectorization for Efficient Power Gating of SIMD Units in a HW/SW Co-Designed Environment.|2013|SBAC-PAD|conf/sbac-pad/KumarMG13
+Analysis and Optimization of Engines for Dynamically Typed Languages.|2015|SBAC-PAD|conf/sbac-pad/DotMG15
+A Power-Efficient Co-designed Out-of-Order Processor.|2011|SBAC-PAD|conf/sbac-pad/DebCG11
+Effectiveness of hybrid recovery techniques on parametric failures.|2013|ISQED|conf/isqed/GanapathyCGR13
+Trace-Level Reuse.|1999|ICPP|conf/icpp/GonzalezTM99
+Using Coherence Information and Decay Techniques to Optimize L2 Cache Leakage in CMPs.|2009|ICPP|conf/icpp/MonchieroCG09
+Hardware Schemes for Early Register Release.|2002|ICPP|conf/icpp/MonrealVGV02
+The Effectiveness of Loop Unrolling for Modulo Scheduling in Clustered VLIW Architectures.|2000|ICPP|conf/icpp/SanchezG00
+Cross-layer system reliability assessment framework for hardware faults.|2016|ITC|conf/itc/ValleroSPCCTKGR16
+MT-SBST: Self-test optimization in multithreaded multicore architectures.|2010|ITC|conf/itc/FoutrisPGAVG10
+Limits of Instruction Level Parallelism with Data Value Speculation.|1998|VECPAR|conf/vecpar/GonzalezG98
+Moore's law implications on energy reduction.|2011|HiPEAC|conf/hipeac/Gonzalez11
+Speculative Dynamic Vectorization.|2002|ISCA|conf/isca/PajueloGV02
+MeRLiN: Exploiting Dynamic Instruction Behavior for Fast and Accurate Microarchitecture Level Reliability Assessment.|2017|ISCA|conf/isca/KaliorakisGC017
+End-to-end register data-flow continuous self-test.|2009|ISCA|conf/isca/CarreteroCVAG09
+Multiple-banked register file architectures.|2000|ISCA|conf/isca/CruzGVT00
+Computation Reuse in DNNs by Exploiting Input Similarity.|2018|ISCA|conf/isca/RieraAG18
+SCU: a GPU stream compaction unit for graph processing.|2019|ISCA|conf/isca/SeguraA019
+Deconfigurable microprocessor architectures for silicon debug acceleration.|2013|ISCA|conf/isca/FoutrisGVG13
+Setting an error detection infrastructure with low cost acoustic wave detectors.|2012|ISCA|conf/isca/UpasaniVG12
+Boosting single-thread performance in multi-core systems through fine-grain multi-threading.|2009|ISCA|conf/isca/MadrilesLCGLMMG09
+The Dark Side of DNN Pruning.|2018|ISCA|conf/isca/YazdaniRAG18
+Avoiding core's DUE&SDC via acoustic wave detectors and tailored error containment and recovery.|2014|ISCA|conf/isca/UpasaniVG14
+Energy-effective issue logic.|2001|ISCA|conf/isca/FolegnaniG01
+DDGacc: boosting dynamic DDG-based binary optimizations through specialized hardware support.|2012|VEE|conf/vee/PavlouGLG12

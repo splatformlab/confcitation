@@ -1,0 +1,61 @@
+Studying Compiler-Microarchitecture Interactions through Interval Analysis.|2007|PACT|conf/IEEEpact/EyermanES07
+AC/DC: An Adaptive Data Cache Prefetcher.|2004|IEEE PACT|conf/IEEEpact/NesbitDS04
+Modeling Superscalar Processors via Statistical Simulation.|2001|IEEE PACT|conf/IEEEpact/NussbaumS01
+Hardware Support for Control Transfers in Code Caches.|2003|MICRO|conf/micro/KimS03
+Path-Based Next Trace Prediction.|1997|MICRO|conf/micro/JacobsonRS97
+Trace Cache: A Low Latency Approach to High Bandwidth Instruction Fetching.|1996|MICRO|conf/micro/RotenbergBS96
+Comparing Program Phase Detection Techniques.|2003|MICRO|conf/micro/DhodapkarS03
+Assigning Confidence to Conditional Branch Predictions.|1996|MICRO|conf/micro/JacobsenRS96
+Fair Queuing Memory Systems.|2006|MICRO|conf/micro/NesbitALS06
+The Performance Potential of Data Dependence Speculation&Collapsing.|1996|MICRO|conf/micro/SazeidesVS96
+The Predictability of Data Values.|1997|MICRO|conf/micro/SazeidesS97
+Control Independence in Trace Processors.|1999|MICRO|conf/micro/RotenbergS99
+Implementing high availability memory with a duplication cache.|2008|MICRO|conf/micro/AggarwalSSJR08
+Trace Processors.|1997|MICRO|conf/micro/RotenbergJSS97
+Using Dynamic Binary Translation to Fuse Dependent Instructions.|2004|CGO|conf/cgo/HuS04
+Dynamic Binary Translation for Accumulator-Oriented Architectures.|2003|CGO|conf/cgo/KimS03
+Instruction Pre-Processing in Trace Processors.|1999|HPCA|conf/hpca/JacobsonS99
+Control Flow Speculation in Multiscalar Processors.|1997|HPCA|conf/hpca/JacobsonBSS97
+Data Cache Prefetching Using a Global History Buffer.|2004|HPCA|conf/hpca/NesbitS04
+An approach for implementing efficient superscalar CISC processors.|2006|HPCA|conf/hpca/HuKLS06
+A Study of Control Independence in Superscalar Processors.|1999|HPCA|conf/hpca/RotenbergJS99
+Power-Efficient DRAM Speculation.|2008|HPCA|conf/hpca/AggarwalCLS08
+Instruction Level Distributed Processing.|2000|HiPC|conf/hipc/Smith00
+Early-Stage Definition of LPX: A Low Power Issue-Execute Processor.|2002|PACS|conf/pacs/BoseBBCDEGJKKSSSZAD02
+Statistical Simulation of Symmetric Multiprocessor Systems.|2002|Annual Simulation Symposium|conf/anss/NussbaumS02
+The future of simulation: A field of dreams.|2004|ISPASS|conf/ispass/CalderCPS04
+Characterizing the branch misprediction penalty.|2006|ISPASS|conf/ispass/EyermanSE06
+An accurate, high speed implementation of division by reciprocal approximation.|1989|IEEE Symposium on Computer Arithmetic|conf/arith/FowlerS89
+Tuning Reconfigurable Microarchitectures for Power Efficiency.|2004|IPDPS|conf/ipps/DhodapkarS04
+Keynote: Is there anything more to learn about high performance processors?|2003|ICS|conf/ics/Smith03
+Some Real Observations on Virtual Machines.|2004|Asia-Pacific Computer Systems Architecture Conference|conf/aPcsac/Smith04
+Instruction Level Distributed Processing: Adapting to Future Technology.|2000|ISHPC|conf/ishpc/Smith00
+Saving energy with just in time instruction delivery.|2002|ISLPED|conf/islped/KarkhanisSB02
+A Study of Partitioned Vector Register Files.|1992|SC|conf/sc/LeeS92
+Studying Compiler Optimizations on Superscalar Processors Through Interval Analysis.|2008|HiPEAC|conf/hipeac/EyermanES08
+Retrospective: A Study of Branch Prediction Strategies.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Smith98
+Managing Multi-Configuration Hardware via Dynamic Working Set Analysis.|2002|ISCA|conf/isca/DhodapkarS02
+Configurable isolation: building high availability systems with commodity multi-core processors.|2007|ISCA|conf/isca/AggarwalRJS07
+Virtual private caches.|2007|ISCA|conf/isca/NesbitLS07
+Retrospective: Decoupled Access/Execute Architectures.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Smith98a
+Automated design of application specific superscalar processors: an analytical approach.|2007|ISCA|conf/isca/KarkhanisS07
+Improving Multiprocessor Performance with Coarse-Grain Coherence Tracking.|2005|ISCA|conf/isca/CantinLS05
+Modeling Program Predictability.|1998|ISCA|conf/isca/SazeidesS98
+Instruction Issue Logic for Pipelined Supercomputers.|1984|ISCA|conf/isca/WeissS84
+An Instruction Set and Microarchitecture for Instruction Level Distributed Processing.|2002|ISCA|conf/isca/KimS02
+Trace preconstruction.|2000|ISCA|conf/isca/JacobsonS00
+Reducing Startup Time in Co-Designed Virtual Machines.|2006|ISCA|conf/isca/HuS06
+A First-Order Superscalar Processor Model.|2004|ISCA|conf/isca/KarkhanisS04
+Retrospective: Implementing Precise Interrupts in Pipelined Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Smith98b
+A Study of Branch Prediction Strategies.|1981|ISCA|conf/isca/Smith81
+Efficient digital neurons for large scale cortical architectures.|2014|ISCA|conf/isca/Smith14
+Decoupled Access/Execute Computer Architectures.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Smith98d
+Decoupled access/execute computer architectures.|1982|ISCA|conf/isca/Smith82
+Complexity-Effective Superscalar Processors.|1997|ISCA|conf/isca/PalacharlaJS97
+The complexity of verifying memory coherence.|2003|SPAA|conf/spaa/CantinLS03
+Stealth prefetching.|2006|ASPLOS|conf/asplos/CantinLS06
+A performance counter architecture for computing accurate CPI components.|2006|ASPLOS|conf/asplos/EyermanEKS06
+A Study of Scalar Compilation Techniques for Pipelined Supercomputers.|1987|ASPLOS|conf/asplos/WeissS87
+The ZS-1 Central Processor.|1987|ASPLOS|conf/asplos/SmithDVKRFSL87
+Developments in logic network path delay analysis.|1982|DAC|conf/dac/BeningLAS82
+A unified view of virtualization.|2005|VEE|conf/vee/Smith05

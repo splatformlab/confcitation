@@ -1,0 +1,81 @@
+StealthTest: Low Overhead Online Software Testing Using Transactional Memory.|2009|PACT|conf/IEEEpact/BobbaXYHW09
+Sirocco: Cost-Effective Fine-Grain Distributed Shared Memory.|1998|IEEE PACT|conf/IEEEpact/SchoinasFHLW98
+Dynamic Verification of End-to-End Multiprocessor Invariants.|2003|DSN|conf/dsn/SorinHW03
+A Case for Deconstructing Hardware Transactional Memory Systems.|2007|Programming Models for Ubiquitous Parallelism|conf/dagstuhl/HillHMSVW07
+Tempest: A Substrate for Portable Parallel Programs.|1995|COMPCON|conf/compcon/HillLW95
+Border control: sandboxing accelerators.|2015|MICRO|conf/micro/OlsonPHW15
+Lazy release consistency for GPUs.|2016|MICRO|conf/micro/AlsopOBW16
+Skewed Compressed Caches.|2014|MICRO|conf/micro/SardashtiSW14
+Heterogeneous system coherence for integrated CPU-GPU systems.|2013|MICRO|conf/micro/PowerBGPBHRW13
+Decoupled compressed cache: exploiting spatial locality for energy-optimized compressed caching.|2013|MICRO|conf/micro/SardashtiW13
+Managing Wire Delay in Large Chip-Multiprocessor Caches.|2004|MICRO|conf/micro/BeckmannW04
+TLC: Transmission Line Caches.|2003|MICRO|conf/micro/BeckmannW03
+ASR: Adaptive Selective Replication for CMP Caches.|2006|MICRO|conf/micro/BeckmannMW06
+Parallel Dispatch Queue: A Queue-Based Programming Abstraction to Parallelize Fine-Grain Communication Protocols.|1999|HPCA|conf/hpca/FalsafiW99
+LogTM: log-based transactional memory.|2006|HPCA|conf/hpca/MooreBMHW06
+Interactions Between Compression and Prefetching in Chip Multiprocessors.|2007|HPCA|conf/hpca/AlameldeenW07
+Variability in Architectural Simulations of Multi-Threaded Workloads.|2003|HPCA|conf/hpca/AlameldeenW03
+Bandwidth Adaptive Snooping.|2002|HPCA|conf/hpca/MartinSHW02
+Safe and efficient supervised memory systems.|2011|HPCA|conf/hpca/BobbaLHW11
+Improving Multiple-CMP Systems Using Token Coherence.|2005|HPCA|conf/hpca/MartyBHHMW05
+Calvin: Deterministic or not? Free will to choose.|2011|HPCA|conf/hpca/HowerDHW11
+Supporting x86-64 address translation for 100s of GPU lanes.|2014|HPCA|conf/hpca/PowerHW14
+QuickRelease: A throughput-oriented approach to release consistency on GPUs.|2014|HPCA|conf/hpca/HechtmanCHTBHRW14
+LogTM-SE: Decoupling Hardware Transactional Memory from Caches.|2007|HPCA|conf/hpca/YenBMMVHSW07
+Scheduling Communication on a SMP Node Parallel Machine.|1997|HPCA|conf/hpca/FalsafiW97
+Memory System Behavior of Java-Based Middleware.|2003|HPCA|conf/hpca/KarlssonMHW03
+Keynote talk challenges in chip multiprocessor memory systems.|2006|Memory System Performance and Correctness|conf/ACMmsp/Wood06
+The Wisconsin Wind Tunnel: Virtual Prototyping of Parallel Computers.|1993|SIGMETRICS|conf/sigmetrics/ReinhardtHLLLW93
+A Model for Estimating Trace-Sample Miss Ratios.|1991|SIGMETRICS|conf/sigmetrics/WoodHK91
+Full-system timing-first simulation.|2002|SIGMETRICS|conf/sigmetrics/MauerHW02
+Implementing Stack Simulation for Highly-Associative Memories.|1991|SIGMETRICS|conf/sigmetrics/KimHW91
+Active Memory: A New Abstraction for Memory-System Simulation.|1995|SIGMETRICS|conf/sigmetrics/LebeckW95
+Reuse-based online models for caches.|2013|SIGMETRICS|conf/sigmetrics/SenW13
+Implementation Techniques for Main Memory Database Systems.|1984|SIGMOD Conference|conf/sigmod/DeWittKOSSW84
+Toward GPUs being mainstream in analytic processing: An initial argument using simple scan-aggregate queries.|2015|DaMoN|conf/damon/PowerLHPW15
+Accuracy vs. performance in parallel simulation of interconnection networks.|1995|IPPS|conf/ipps/BurgerW95
+Using Speculation to Simplify Multiprocessor Design.|2004|IPDPS|conf/ipps/SorinMHW04
+UniFI: leveraging non-volatile memories for a unified fault tolerance and idle power management technique.|2012|ICS|conf/ics/SardashtiW12
+Synchronization Hardware for Networks of Workstations: Performance vs. Cost.|1996|International Conference on Supercomputing|conf/ics/HyderW96
+Something old and something new: P-states can borrow microarchitecture techniques too.|2012|ISLPED|conf/islped/EckertMSW12
+The Tempest approach to distributed shared memory.|1996|ICCD|conf/iccd/WoodHL96
+A comparative analysis of microarchitecture effects on CPU and GPU memory system behavior.|2014|IISWC|conf/iiswc/HestnessKW14
+GPU Computing Pipeline Inefficiencies and Optimization Opportunities in Heterogeneous CPU-GPU Processors.|2015|IISWC|conf/iiswc/HestnessKW15
+Exploring Processor Design Options for Java-Based Middleware.|2005|ICPP|conf/icpp/KarlssonHMW05
+Gravel: fine-grain GPU-initiated network messages.|2017|SC|conf/sc/OrrCBORW17
+Paging tradeoffs in distributed-shared-memory multiprocessors.|1994|SC|conf/sc/BurgerHMW94
+Application-specific protocols for user-level shared memory.|1994|SC|conf/sc/FalsafiLRSHLRW94
+Kernel Support for the Wisconsin Wind Tunnel.|1993|USENIX Microkernels and Other Kernel Architectures Symposium|conf/mkern/ReinhardtFW93
+Relaxed Consistency and Coherence Granularity in DSM Systems: A Performance Evaluation.|1997|PPOPP|conf/ppopp/ZhouISLTSHW97
+SafetyNet: Improving the Availability of Shared Memory Multiprocessors with Global Checkpoint/Recovery.|2002|ISCA|conf/isca/SorinMHW02
+Multicast Snooping: A New Coherence Method Using a Multicast Address Network.|1999|ISCA|conf/isca/BilirDHPSHW99
+TokenTM: Efficient Execution of Large Transactions with Hardware Transactional Memory.|2008|ISCA|conf/isca/BobbaGHSW08
+Performance pathologies in hardware transactional memory.|2007|ISCA|conf/isca/BobbaMVYHSW07
+An In-Cache Address Translation Mechanism.|1986|ISCA|conf/isca/WoodEGHPRTKP86
+Mechanisms for Cooperative Shared Memory.|1993|ISCA|conf/isca/WoodCFHLLLMPR93
+Forwardflow: a scalable core for power-constrained CMPs.|2010|ISCA|conf/isca/GibsonW10
+Retrospective: Tempest and Typhoon: User-Level Shared Memory.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/ReinhardtLW98
+Decoupled Hardware Support for Distributed Shared Memory.|1996|ISCA|conf/isca/ReinhardtPW96
+Using Destination-Set Prediction to Improve the Latency/Bandwidth Tradeoff in Shared-Memory Multiprocessors.|2003|ISCA|conf/isca/MartinHSHW03
+Supporting Reference and Dirty Bits in SPUR's Virtual Address Cache.|1989|ISCA|conf/isca/WoodK89
+Coherent Network Interfaces for Fine-Grain Communication.|1996|ISCA|conf/isca/MukherjeeFHW96
+Analytic Evaluation of Shared-memory Systems with ILP Processors.|1998|ISCA|conf/isca/SorinPAVW98
+Implementing A Cache Consistency Protocol.|1985|ISCA|conf/isca/KatzEWPS85
+Tempest and Typhoon: User-Level Shared Memory.|1994|ISCA|conf/isca/ReinhardtLW94
+WiDGET: Wisconsin decoupled grid execution tiles.|2010|ISCA|conf/isca/WatanabeDW10
+Token Coherence: Decoupling Performance and Correctness.|2003|ISCA|conf/isca/MartinHW03
+Dynamic Self-Invalidation: Reducing Coherence Overhead in Shared-Memory Multiprocessors.|1995|ISCA|conf/isca/LebeckW95
+LogCA: A High-Level Performance Model for Hardware Accelerators.|2017|ISCA|conf/isca/AltafW17
+Fine-grain task aggregation and coordination on GPUs.|2014|ISCA|conf/isca/OrrBRW14
+Reactive NUMA: A Design for Unifying S-COMA and CC-NUMA.|1997|ISCA|conf/isca/FalsafiW97
+Tempest and Typhoon: User-Level Shared Memory.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/ReinhardtLW98a
+Adaptive Cache Compression for High-Performance Processors.|2004|ISCA|conf/isca/AlameldeenW04
+Resolved: specialized architectures, languages, and system software should supplant general-purpose alternatives within a decade.|2014|ASPLOS|conf/asplos/Wood14
+Heterogeneous-race-free memory models.|2014|ASPLOS|conf/asplos/HowerHBGHRW14
+Timestamp snooping: an approach for extending SMPs.|2000|ASPLOS|conf/asplos/MartinSAADMMPHW00
+Fine-grain Access Control for Distributed Shared Memory.|1994|ASPLOS|conf/asplos/SchoinasFLRLW94
+Crossing Guard: Mediating Host-Accelerator Coherence Interactions.|2017|ASPLOS|conf/asplos/OlsonHW17
+Supporting nested transactional memory in logTM.|2006|ASPLOS|conf/asplos/MoravanBMYHLSW06
+Cooperative Shared Memory: Software and Hardware Support for Scalable Multiprocesors.|1992|ASPLOS|conf/asplos/HillLRW92
+Synchronization Using Remote-Scope Promotion.|2015|ASPLOS|conf/asplos/OrrCYBHW15
+DBMSs on a Modern Processor: Where Does Time Go?|1999|VLDB|conf/vldb/AilamakiDHW99

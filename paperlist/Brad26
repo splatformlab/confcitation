@@ -1,0 +1,96 @@
+Predicated Static Single Assignment.|1999|IEEE PACT|conf/IEEEpact/CarterSCCF99
+Picking Statistically Valid and Early Simulation Points.|2003|IEEE PACT|conf/IEEEpact/PerelmanHC03
+An Event-Driven Multithreaded Dynamic Optimization Framework.|2005|IEEE PACT|conf/IEEEpact/ZhangCT05
+Quantifying Instruction Criticality.|2002|IEEE PACT|conf/IEEEpact/TuneTC02
+Variational Path Profiling.|2005|IEEE PACT|conf/IEEEpact/PerelmanCC05
+Basic Block Distribution Analysis to Find Periodic Behavior and Simulation Points in Applications.|2001|IEEE PACT|conf/IEEEpact/SherwoodPC01
+Dynamic Hammock Predication for Non-Predicated Instruction Set Architectures.|1998|IEEE PACT|conf/IEEEpact/KlauserAGC98
+A Loop Correlation Technique to Improve Performance Auditing.|2007|PACT|conf/IEEEpact/LauAHC07
+Reducing Transfer Delay Using Java Class File Splitting and Prefetching.|1999|OOPSLA|conf/oopsla/KrintzCH99
+Transient fault prediction based on anomalies in processor events.|2007|DATE|conf/date/NarayanasamyCC07
+Balanced Multithreading: Increasing Throughput via a Low Cost Multithreading Hierarchy.|2004|MICRO|conf/micro/TuneKTC04
+Procedure Placement Using Temporal Ordering Information.|1997|MICRO|conf/micro/GloyBSC97
+Hardware and Binary Modification Support for Code Pointer Protection From Buffer Overflow.|2004|MICRO|conf/micro/TuckCV04
+Value Profiling.|1997|MICRO|conf/micro/CalderFE97
+A system level perspective on branch architecture performance.|1995|MICRO|conf/micro/CalderGE95
+Pointer cache assisted prefetching.|2002|MICRO|conf/micro/CollinsSCT02
+Exploiting Fine-Grained Data Parallelism with Chip Multiprocessors and Fast Barriers.|2006|MICRO|conf/micro/SampsonGCJSC06
+Predictive Techniques for Aggressive Load Speculation.|1998|MICRO|conf/micro/ReinmanC98
+Predictor-directed stream buffers.|2000|MICRO|conf/micro/SherwoodSC00
+Fetch Directed Instruction Prefetching.|1999|MICRO|conf/micro/ReinmanCA99
+The predictability of branches in libraries.|1995|MICRO|conf/micro/CalderGS95
+Selecting Software Phase Markers with Code Structure Analysis.|2006|CGO|conf/cgo/LauPC06
+Phi-Predication for Light-Weight If-Conversion.|2003|CGO|conf/cgo/ChuangCF03
+A Self-Repairing Prefetcher in an Event-Driven Dynamic Optimization Framework.|2006|CGO|conf/cgo/ZhangCT06
+Accelerating and Adapting Precomputation Threads for Effcient Prefetching.|2007|HPCA|conf/hpca/ZhangTC07
+Dynamic Prediction of Critical Path Instructions.|2001|HPCA|conf/hpca/TuneLTC01
+Creating Converged Trace Schedules Using String Matching.|2004|HPCA|conf/hpca/NarayanasamyHSC04
+Incorporating Predicate Information into Branch Predictors.|2003|HPCA|conf/hpca/SimonCF03
+Predictive Sequential Associative Cache.|1996|HPCA|conf/hpca/CalderGE96
+Catching Accurate Profiles in Hardwar.|2003|HPCA|conf/hpca/NarayanasamySSCV03
+Transition Phase Classification and Prediction.|2005|HPCA|conf/hpca/LauSC05
+Instruction Recycling on a Multiple-Path Processor.|1999|HPCA|conf/hpca/WallaceTC99
+Quantifying Load Stream Behavior.|2002|HPCA|conf/hpca/SairSC02
+Reducing Indirect Function call Overhead in C++ Programs.|1994|POPL|conf/popl/CalderG94
+The future of simulation: A field of dreams.|2004|ISPASS|conf/ispass/CalderCPS04
+Considering all starting points for simultaneous multithreading simulation.|2006|ISPASS|conf/ispass/BiesbrouckEC06
+A co-phase matrix to guide simultaneous multithreading simulation.|2004|ISPASS|conf/ispass/BiesbrouckSC04
+Structures for phase classification.|2004|ISPASS|conf/ispass/LauSC04
+Motivation for Variable Length Intervals and Hierarchical Phase Behavior.|2005|ISPASS|conf/ispass/LauPHSC05
+Comparing multinomial and k-means clustering for SimPoint.|2006|ISPASS|conf/ispass/HamerlyPC06
+Cross Binary Simulation Points.|2007|ISPASS|conf/ispass/PerelmanLPJHC07
+The Strong correlation Between Code Signatures and Performance.|2005|ISPASS|conf/ispass/LauSPHC05
+ToolBlocks: An Infrastructure for the Construction of Memory Hierarchy Analysis Tools (Research Note).|2000|Euro-Par|conf/europar/SherwoodC00
+Using SimPoint for accurate and efficient simulation.|2003|SIGMETRICS|conf/sigmetrics/PerelmanHBSC03
+Automatic logging of operating system effects to guide application-level architecture simulation.|2006|SIGMETRICS/Performance|conf/sigmetrics/NarayanasamyPPCC06
+Software Profiling for Deterministic Replay Debugging of User Code.|2006|SoMeT|conf/somet/NarayanasamyPC06
+A Dependency Chain Clustered Microarchitecture.|2005|IPDPS|conf/ipps/NarayanasamyWWSC05
+Detecting phases in parallel applications on shared memory architectures.|2006|IPDPS|conf/ipps/PerelmanPBSCD06
+Dynamic phase analysis for cycle-close trace generation.|2005|CODES+ISSS|conf/codes/PereiraLCG05
+Corpus-Based Static Branch Prediction.|1995|PLDI|conf/pldi/CalderGLMMZ95
+Automatically classifying benign and harmful data racesallusing replay analysis.|2007|PLDI|conf/pldi/NarayanasamyWTEC07
+Online performance auditing: using hot optimizations without getting burned.|2006|PLDI|conf/pldi/LauAHC06
+Using Annotation to Reduce Dynamic Optimization Time.|2001|PLDI|conf/pldi/KrintzC01
+Efficient Procedure Mapping Using Cache Line Coloring.|1997|PLDI|conf/pldi/HashemiKC97
+Windows Azure Storage: a highly available cloud storage service with strong consistency.|2011|SOSP|conf/sosp/CalderWONSMXSWSHUKEBMAAHHBDAMSMR11
+Erasure Coding in Windows Azure Storage.|2012|USENIX Annual Technical Conference|conf/usenix/HuangSXOCG0Y12
+Using predicate path information in hardware to determine true dependences.|2002|ICS|conf/ics/CarterC02
+Predicate prediction for efficient out-of-order execution.|2003|ICS|conf/ics/ChuangC03
+Classifying load and store instructions for memory renaming.|1999|International Conference on Supercomputing|conf/ics/ReinmanCTTA99
+Reducing cache misses using hardware and software page placement.|1999|International Conference on Supercomputing|conf/ics/SherwoodCE99
+Deterministic Memory-Efficient String Matching Algorithms for Intrusion Detection.|2004|INFOCOM|conf/infocom/TuckSCV04
+An EPIC Processor with Pending Functional Units.|2002|ISHPC|conf/ishpc/CarterCC02
+Loop Termination Prediction.|2000|ISHPC|conf/ishpc/SherwoodC00
+Limits of Task-Based Parallelism in Irregular Applications.|2000|ISHPC|conf/ishpc/KreaseckTC00
+High Performance and Energy Efficient Serial Prefetch Architecture.|2002|ISHPC|conf/ishpc/ReinmanCA02
+Balancing design options with Sherpa.|2004|CASES|conf/cases/SherwoodOC04
+Patchable instruction ROM architecture.|2001|CASES|conf/cases/SherwoodC01
+Reducing code size with echo instructions.|2003|CASES|conf/cases/LauSSC03
+Speculative Code Value Specialization Using the Trace Cache Fill Unit.|2006|ICCD|conf/iccd/ZhangCTC06
+Patching Processor Design Errors.|2006|ICCD|conf/iccd/NarayanasamyCC06
+Reproducible simulation of multi-threaded workloads for architecture design exploration.|2008|IISWC|conf/iiswc/PereiraPC08
+Representative Multiprogram Workloads for Multithreaded Processor Simulation.|2007|IISWC|conf/iiswc/BiesbrouckEC07
+Phase-based cache reconfiguration for a highly-configurable two-level cache hierarchy.|2008|ACM Great Lakes Symposium on VLSI|conf/glvlsi/Gordon-RossLC08
+Reducing Delay with Dynamic Selection of Compression Formats.|2001|HPDC|conf/hpdc/KrintzC01
+Efficient Sampling Startup for Sampled Processor Simulation.|2005|HiPEAC|conf/hipeac/BiesbrouckEC05
+Exploiting a Computation Reuse Cache to Reduce Energy in Network Processors.|2005|HiPEAC|conf/hipeac/LiVCG05
+Bounds Checking with Taint-Based Analysis.|2007|HiPEAC|conf/hipeac/ChuangNCJ07
+Leapfrogging: A Portable Technique for Implementing Efficient Futures.|1993|PPOPP|conf/ppopp/WagnerC93
+Instruction Cache Fetch Policies for Speculative Execution.|1995|ISCA|conf/isca/LeeBCG95
+Selective Value Prediction.|1999|ISCA|conf/isca/CalderRT99
+Fast and Accurate Instruction Fetch and Branch Prediction.|1994|ISCA|conf/isca/CalderG94
+Automated design of finite state machine predictors for customized processors.|2001|ISCA|conf/isca/SherwoodC01
+Threaded Multiple Path Execution.|1998|ISCA|conf/isca/WallaceCT98
+BugNet: Continuously Recording Program Execution for Deterministic Replay Debugging.|2005|ISCA|conf/isca/NarayanasamyPC05
+Phase Tracking and Prediction.|2003|ISCA|conf/isca/SherwoodSC03
+A Pipelined Memory Architecture for High Throughput Network Processors.|2003|ISCA|conf/isca/SherwoodVC03
+A Scalable Front-End Architecture for Fast Instruction Delivery.|1999|ISCA|conf/isca/ReinmanAC99
+Next Cache Line and Set Prediction.|1995|ISCA|conf/isca/CalderG95
+Inside windows azure: the challenges and opportunities of a cloud operating system.|2014|ASPLOS|conf/asplos/Calder14
+Cache-Conscious Data Placement.|1998|ASPLOS|conf/asplos/CalderKJA98
+Recording shared memory dependencies using strata.|2006|ASPLOS|conf/asplos/NarayanasamyPC06
+Unbounded page-based transactional memory.|2006|ASPLOS|conf/asplos/ChuangNVSBPCC06
+Reducing Branch Costs via Branch Alignment.|1994|ASPLOS|conf/asplos/CalderG94
+Automatically characterizing large scale program behavior.|2002|ASPLOS|conf/asplos/SherwoodPHC02
+Overlapping Execution with Transfer Using Non-Strict Execution for Mobile Programs.|1998|ASPLOS|conf/asplos/KrintzCLZ98
+The entropia virtual machine for desktop grids.|2005|VEE|conf/vee/CalderCWY05

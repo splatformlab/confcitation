@@ -1,0 +1,81 @@
+Implementation and Evaluation of a Dynamically Routed Processor Operand Network.|2007|NOCS|conf/nocs/GratzSHSMKB07
+Exploring the Design Space of Future CMPs.|2001|IEEE PACT|conf/IEEEpact/HuhBK01
+Multitasking workload scheduling on flexible-core chip multiprocessors.|2008|PACT|conf/IEEEpact/GulatiKSKB08
+Using dead blocks as a virtual victim cache.|2010|PACT|conf/IEEEpact/KhanJBF10
+Static Placement, Dynamic Issue (SPDI) Scheduling for EDGE Architectures.|2004|IEEE PACT|conf/IEEEpact/NagarajanKBMLK04
+Feature selection and policy optimization for distributed instruction placement using reinforcement learning.|2008|PACT|conf/IEEEpact/CoonsRTMBM08
+Modeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic.|2002|DSN|conf/dsn/ShivakumarKKBA02
+Dynamic-vector execution on a general purpose EDGE chip multiprocessor.|2014|ICSAMOS|conf/samos/DuricPSSUCVBV14
+Agile Co-Design for a Reconfigurable Datacenter.|2016|FPGA|conf/fpga/AlkalayACCFHHHH16
+EVX: Vector execution on low power EDGE cores.|2014|DATE|conf/date/DuricPSUCVB14
+Cache bursts: A new approach for eliminating dead blocks and increasing cache efficiency.|2008|MICRO|conf/micro/LiuFHB08
+A design space evaluation of grid processor architectures.|2001|MICRO|conf/micro/NagarajanSBK01
+Dataflow Predication.|2006|MICRO|conf/micro/SmithNSMBKM06
+Scalable Hardware Memory Disambiguation for High ILP Processors.|2003|MICRO|conf/micro/SethumadhavanDBMK03
+Neural Acceleration for General-Purpose Approximate Programs.|2012|MICRO|conf/micro/EsmaeilzadehSCB12
+Preventing PCM banks from seizing too much power.|2011|MICRO|conf/micro/HaySSLB11
+Composable Lightweight Processors.|2007|MICRO|conf/micro/KimSGRGBK07
+A cloud-scale acceleration architecture.|2016|MICRO|conf/micro/CaulfieldCPAFHH16
+Distributed Microarchitectural Protocols in the TRIPS Prototype Processor.|2006|MICRO|conf/micro/SankaralingamNMDDGGGHKLRSSSKB06
+Universal Mechanisms for Data-Parallel Architectures.|2003|MICRO|conf/micro/SankaralingamKMB03
+Strategies for mapping dataflow blocks to distributed hardware.|2008|MICRO|conf/micro/RobatmiliCBM08
+Low-power, high-performance analog neural branch prediction.|2008|MICRO|conf/micro/AmantJB08
+Merging Head and Tail Duplication for Convergent Hyperblock Formation.|2006|MICRO|conf/micro/MaherSBM06
+Compiling for EDGE Architectures.|2006|CGO|conf/cgo/SmithGMNYBMB06
+Priority-based cache allocation in throughput processors.|2015|HPCA|conf/hpca/LiRJOEBFR15
+Reducing DRAM Latencies with an Integrated Memory Hierarchy Design.|2001|HPCA|conf/hpca/LinRB01
+How to implement effective prediction and forwarding for fusable dynamic multicore architectures.|2013|HPCA|conf/hpca/RobatmiliLEGSPBK13
+Exploiting criticality to reduce bottlenecks in distributed uniprocessors.|2011|HPCA|conf/hpca/RobatmiliGBK11
+PocketTrend: Timely Identification and Delivery of Trending Search Content to Mobile Users.|2015|WWW|conf/www/PekhimenkoLRSB15
+The Good Block: Hardware/Software Design for Composable, Block-Atomic Processors.|2011|Interaction between Compilers and Computer Architectures|conf/IEEEinteract/MaherCMB11
+Critical path analysis of the TRIPS architecture.|2006|ISPASS|conf/ispass/NagarajanCMBK06
+Analysis of the TRIPS prototype block predictor.|2009|ISPASS|conf/ispass/RanganathanBK09
+Accuracy vs. performance in parallel simulation of interconnection networks.|1995|IPPS|conf/ipps/BurgerW95
+Panel Statement.|2011|IPDPS|conf/ipps/StenstromBHKOPS11
+Architectural versus physical solutions for on-chip communication challenges.|2003|CODES+ISSS|conf/codes/Burger03
+Evolving Compiler Heuristics to Manage Communication and Contention.|2010|AAAI|conf/aaai/TaylorCRMBM10
+Reconfigurable computing in the era of post-silicon scaling [panel discussion].|2013|FCCM|conf/fccm/ChungBBGTVW13
+A Scalable Multi-engine Xpress9 Compressor with Asynchronous Data Transfer.|2014|FCCM|conf/fccm/KimHB14
+A Scalable High-Bandwidth Architecture for Lossless Compression on FPGAs.|2015|FCCM|conf/fccm/FowersKBH15
+Azure Accelerated Networking: SmartNICs in the Public Cloud.|2018|NSDI|conf/nsdi/FirestonePMCDAA18
+Using managed runtime systems to tolerate holes in wearable memories.|2013|PLDI|conf/pldi/GaoSBMBL13
+Better I/O through byte-addressable, persistent memory.|2009|SOSP|conf/sosp/ConditNFILBC09
+Author retrospective for a NUCA substrate for flexible CMP cache sharing.|2014|ICS 25th Anniversary|conf/ics/HuhKS0BK14
+Techniques for Reducing Overheads of Shared-Memory Multiprocessing.|1995|International Conference on Supercomputing|conf/ics/KagiABG95
+A NUCA substrate for flexible CMP cache sharing.|2005|ICS|conf/ics/HuhKSZBK05
+Designing Ultra-large Instruction Issue Windows.|2003|Asia-Pacific Computer Systems Architecture Conference|conf/aPcsac/Burger03
+End-to-end validation of architectural power models.|2009|ISLPED|conf/islped/GovindanKB09
+Microprocessor pipeline energy analysis.|2003|ISLPED|conf/islped/NatarajanHKMB03
+Routed Inter-ALU Networks for ILP Scalability and Performance.|2003|ICCD|conf/iccd/SankaralingamSKB03
+Exploiting Microarchitectural Redundancy For Defect Tolerance.|2003|ICCD|conf/iccd/ShivakumarKMB03
+Design and Implementation of the TRIPS Primary Memory System.|2006|ICCD|conf/iccd/SethumadhavanMDBK06
+Exploiting microarchitectural redundancy for defect tolerance.|2012|ICCD|conf/iccd/ShivakumarKMB12
+Static Energy Reduction Techniques for Microprocessor Caches.|2001|ICCD|conf/iccd/HansonHAKB01
+Implementation and Evaluation of On-Chip Network Architectures.|2006|ICCD|conf/iccd/GratzKMKB06
+Filtering Superfluous Prefetches Using Density Vectors.|2001|ICCD|conf/iccd/LinRBP01
+Register Bank Assignment for Spatially Partitioned Processors.|2008|LCPC|conf/lcpc/RobatmiliCBM08
+Paging tradeoffs in distributed-shared-memory multiprocessors.|1994|SC|conf/sc/BurgerHMW94
+High performance dense linear algebra on a spatially distributed processor.|2008|PPOPP|conf/ppopp/DiamondRKGGB08
+Clock rate versus IPC: the end of the road for conventional microarchitectures.|2000|ISCA|conf/isca/AgarwalHKB00
+Counting Dependence Predictors.|2008|ISCA|conf/isca/RoesnerBK08
+Exploiting ILP, TLP and DLP with the Polymorphous TRIPS Architecture.|2003|ISCA|conf/isca/SankaralingamNLKHBKM03
+The Optimal Logic Depth Per Pipeline Stage is 6 to 8 FO4 Inverter Delays.|2002|ISCA|conf/isca/HrishikeshBKSJF02
+Late-binding: enabling unordered load-store queues.|2007|ISCA|conf/isca/SethumadhavanREBK07
+DataScalar Architectures.|1997|ISCA|conf/isca/BurgerKG97
+Memory Bandwidth Limitations of Future Microprocessors.|1996|ISCA|conf/isca/BurgerGK96
+A Configurable Cloud-Scale DNN Processor for Real-Time AI.|2018|ISCA|conf/isca/FowersOPMLLAHAG18
+General-purpose code acceleration with limited-precision analog computation.|2014|ISCA|conf/isca/AmantYPTEHCB14
+Use ECP, not ECC, for hard failures in resistive memories.|2010|ISCA|conf/isca/SchechterLSB10
+Efficient Synchronization: Let Them Eat QOLB.|1997|ISCA|conf/isca/KagiBG97
+Architecting phase change memory as a scalable dram alternative.|2009|ISCA|conf/isca/LeeIMB09
+Guided Region Prefetching: A Cooperative Hardware/Software Approach.|2003|ISCA|conf/isca/WangBRMW03
+A reconfigurable fabric for accelerating large-scale datacenter services.|2014|ISCA|conf/isca/PutnamCCCCDEFGGHHHHKLLPPSTXB14
+Dark silicon and the end of multicore scaling.|2011|ISCA|conf/isca/EsmaeilzadehBASB11
+Scalable selective re-execution for EDGE architectures.|2004|ASPLOS|conf/asplos/DesikanSBK04
+An evaluation of the TRIPS computer system.|2009|ASPLOS|conf/asplos/GebhartMCDGMRRSBKBM09
+A spatial path scheduling algorithm for EDGE architectures.|2006|ASPLOS|conf/asplos/CoonsCBMK06
+Architecture support for disciplined approximate programming.|2012|ASPLOS|conf/asplos/EsmaeilzadehSCB12
+Dynamically replicated memory: building reliable systems from nanoscale resistive memories.|2010|ASPLOS|conf/asplos/IpekCNBM10
+Pocket cloudlets.|2011|ASPLOS|conf/asplos/KoukoumidisLSLB11
+Coherence decoupling: making use of incoherence.|2004|ASPLOS|conf/asplos/HuhCBS04
+An adaptive, non-uniform cache structure for wire-delay dominated on-chip caches.|2002|ASPLOS|conf/asplos/KimBK02

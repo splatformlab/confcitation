@@ -1,0 +1,529 @@
+Compiler-directed thermal management for VLIW functional units.|2006|LCTES|conf/lctrts/MutyamLNKI06
+Towards Energy-Aware Iteration Space Tiling.|2000|LCTES|conf/lctrts/KandemirVIK00
+Compiling for memory emergency.|2005|LCTES|conf/lctrts/KandemirCK05
+Compiler-directed application mapping for NoC based chip multiprocessors.|2007|LCTES|conf/lctrts/ChenLK07
+Adapting instruction level parallelism for optimizing leakage in VLIW architectures.|2003|LCTES|conf/lctrts/KimVKI03
+Code protection for resource-constrained embedded devices.|2004|LCTES|conf/lctrts/SaputraCBVKI04
+Morphable Cache Architectures: Potential Benefits.|2001|LCTES/OM|conf/lctrts/KadayifKVIR01
+Energy-conscious compilation based on voltage scaling.|2002|LCTES-SCOPES|conf/lctrts/SaputraKVIHHK02
+Compiler directed network-on-chip reliability enhancement for chip multiprocessors.|2010|LCTES|conf/lctrts/OzturkKIN10
+Compiler-directed cache polymorphism.|2002|LCTES-SCOPES|conf/lctrts/HuKVISZ02
+Off-chip access localization for NoC-based multicores.|2012|PACT|conf/IEEEpact/DingKZK12
+Meeting midway: Improving CMP performance with memory-side prefetching.|2013|PACT|conf/IEEEpact/YedlapalliKKKDS13
+Neither more nor less: Optimizing thread-level parallelism for GPGPUs.|2013|PACT|conf/IEEEpact/KayiranJKD13
+Exploiting Inter-Warp Heterogeneity to Improve GPGPU Performance.|2015|PACT|conf/IEEEpact/Ausavarungnirun15
+Storage Consolidation on SSDs: Not Always a Panacea, but Can We Ease the Pain?|2015|PACT|conf/IEEEpact/ShahidiSKD15
+Optimizing Data Layouts for Parallel Computation on Multicores.|2011|PACT|conf/IEEEpact/ZhangDLK11
+Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities.|2016|PACT|conf/IEEEpact/PattnaikTJKMKMD16
+Exploiting Staleness for Approximating Loads on CMPs.|2015|PACT|conf/IEEEpact/RengasamySKD15
+?C-States: Fine-grained GPU Datapath Power Management.|2016|PACT|conf/IEEEpact/KayiranJPATKLMD16
+Reducing Energy Consumption of On-Chip Networks Through a Hybrid Compiler-Runtime Approach.|2007|PACT|conf/IEEEpact/ChenLK07
+Application-aware prefetch prioritization in on-chip networks.|2012|PACT|conf/IEEEpact/NachiappanMKSMD12
+Compiler Directed Data Locality Optimization for Multicore Architectures.|2011|PACT|conf/IEEEpact/DingSKK11
+Data Relation Vectors: A New Abstraction for Data Optimizations.|2000|IEEE PACT|conf/IEEEpact/KandemirR00
+Trading cache hit rate for memory performance.|2014|PACT|conf/IEEEpact/DingKGJDY14
+A Matrix-Based Approach to the Global Locality Optimization Problem.|1998|IEEE PACT|conf/IEEEpact/KandemirCRB98
+Reshaping cache misses to improve row-buffer locality in multicore systems.|2013|PACT|conf/IEEEpact/DingLKI13
+NVMMU: A Non-volatile Memory Management Unit for Heterogeneous GPU-SSD Architectures.|2015|PACT|conf/IEEEpact/ZhangDSKJ15
+Ring Prediction for Non-Uniform Cache Architectures.|2007|PACT|conf/IEEEpact/AkiokaLKRI07
+Profiler and compiler assisted adaptive I/O prefetching for shared storage caches.|2008|PACT|conf/IEEEpact/SonMOKKK08
+Leakage Energy Management in Cache Hierarchies.|2002|IEEE PACT|conf/IEEEpact/LiKTVKIS02
+PEPON: performance-aware hierarchical power budgeting for NoC based multicores.|2012|PACT|conf/IEEEpact/SharifiMSKD12
+On Reducing False Sharing while Improving Locality on Shared Memory Multiprocessors.|1999|IEEE PACT|conf/IEEEpact/KandemirCRB99
+Compiler Algorithms for Optimizing Locality and Parallelism on Shared and Distributed Memory Machines.|1997|IEEE PACT|conf/IEEEpact/KandemirRC97
+Exploring the Potential for Collaborative Data Compression and Hard-Error Tolerance in PCM Memories.|2017|DSN|conf/dsn/JadidiATKKD17
+A Data-Centric Approach to Checksum Reuse for Array-Intensive Applications.|2005|DSN|conf/dsn/ChenKK05
+ICR: In-Cache Replication for Enhancing Data Cache Reliability.|2003|DSN|conf/dsn/ZhangGKS03
+Memory-Conscious Reliable Execution on Embedded Chip Multiprocessors.|2006|DSN|conf/dsn/ChenKK06
+vEC: virtual energy counters.|2001|PASTE|conf/paste/KadayifCKVIS01
+Energy management schemes for memory-resident database systems.|2004|CIKM|conf/cikm/PisharathCK04
+Automatic Feedback Control of Shared Hybrid Caches in 3D Chip Multiprocessors.|2011|PDP|conf/pdp/SharifiK11
+Locality-Aware Dynamic Mapping for Multithreaded Applications.|2012|PDP|conf/pdp/DemirozTKT12
+On the Performance of the POSIX I/O Interface to PVFS.|2004|PDP|conf/pdp/VilayannurRCTSK04
+Optimizing Bus Energy Consumption of On-Chip Multiprocessors Using Frequent Values.|2004|PDP|conf/pdp/LiuSK04
+Quantifying Thread Vulnerability for Multicore Architectures.|2011|PDP|conf/pdp/OzTKT11
+A Holistic Approach to System Level Energy Optimization.|2000|PATMOS|conf/patmos/IrvinKVS00
+ZombieNAND: Resurrecting Dead NAND Flash for Improved SSD Longevity.|2014|MASCOTS|conf/mascots/WilsonJK14
+Quantifying and Optimizing the Impact of Victim Cache Line Selection in Manycore Systems.|2014|MASCOTS|conf/mascots/KandemirDG14
+CachedGC: Cache-Assisted Garbage Collection in Modern Solid State Drives.|2018|MASCOTS|conf/mascots/ShahidiK18
+Tolerating Write Disturbance Errors in PCM: Experimental Characterization, Analysis, and Mechanisms.|2018|MASCOTS|conf/mascots/JadidiKD18
+DEMM: A Dynamic Energy-Saving Mechanism for Multicore Memories.|2017|MASCOTS|conf/mascots/SharifiDGZTKD17
+Content Popularity-Based Selective Replication for Read Redirection in SSDs.|2018|MASCOTS|conf/mascots/ElyasiASKD18
+Quantifying and Optimizing Data Access Parallelism on Manycores.|2018|MASCOTS|conf/mascots/RyooKTK18
+Quantifying the Potential Benefits of On-chip Near-Data Computing in Manycore Processors.|2017|MASCOTS|conf/mascots/KotraGNKD17
+Automated Tracing of I/O Stack.|2010|EuroMPI|conf/pvm/KimZSPKPLC10
+A Window-Based Approach to Retrieving Memory-Resident Data for Query Execution.|2004|IDEAS|conf/ideas/PisharathCK04
+Exploiting Software Pipelining for Network-on-Chip architectures.|2006|ISVLSI|conf/isvlsi/LiKK06
+A Data-Driven Approach for Embedded Security.|2005|ISVLSI|conf/isvlsi/SaputraOVKB05
+Increasing Data TLB Resilience to Transient Errors.|2005|ISVLSI|conf/isvlsi/LiK05
+Compiler-Directed Management of Leakage Power in Software-Managed Memories.|2006|ISVLSI|conf/isvlsi/ChenLKOD06
+Exploiting Inter-Processor Data Sharing for Improving Behavior of Multi-Processor SoCs.|2005|ISVLSI|conf/isvlsi/ChenCOK05
+Reducing Memory Requirements through Task Recomputation in Embedded Multi-CPU Systems.|2006|ISVLSI|conf/isvlsi/KocTOK06
+Hardware-Software Co-Adaptation for Data-Intensive Embedded Applications.|2002|ISVLSI|conf/isvlsi/KadayifKVI02
+An Integer Linear Programming Based Approach to Simultaneous Memory Space Partitioning and Data Allocation for Chip Multiprocessors.|2006|ISVLSI|conf/isvlsi/OzturkCKK06
+Using Dynamic Branch Behavior for Power-Efficient Instruction Fetch.|2003|ISVLSI|conf/isvlsi/HuVIK03
+Leakage-Aware SPM Management.|2006|ISVLSI|conf/isvlsi/ChenLOCKK06
+Fault Tolerant Algorithms for Network-On-Chip Interconnect.|2004|ISVLSI|conf/isvlsi/PirrettiLBVKI04
+Energy Behavior of Java Applications from the Memory Perspective.|2001|Java Virtual Machine Research and Technology Symposium|conf/jvm/VijaykrishnanKKTSI01
+Adaptive Garbage Collection for Battery-Operated Environments.|2002|Java Virtual Machine Research and Technology Symposium|conf/jvm/ChenKVIW02
+Heap compression for memory-constrained Java environments.|2003|OOPSLA|conf/oopsla/ChenKVIMW03
+Examining Thread Vulnerability analysis using fault-injection.|2013|VLSI-SoC|conf/vlsi/OzTKT13
+Reducing leakage energy in FPGAs using region-constrained placement.|2004|FPGA|conf/fpga/GayasenTVKIT04
+A dynamic locality optimization algorithm for linear algebra codes.|2001|SAC|conf/sac/Kandemir01
+Field level analysis for heap space optimization in embedded java environments.|2004|ISMM|conf/iwmm/ChenKVI04
+Performance aware secure code partitioning.|2007|DATE|conf/date/NarayananKB07
+A Crosstalk Aware Interconnect with Variable Cycle Transmission.|2004|DATE|conf/date/LiVKI04
+Reducing Cache Access Energy in Array-Intensive Application.|2002|DATE|conf/date/KandemirK02
+Exploiting Processor Workload Heterogeneity for Reducing Energy Consumption in Chip Multiprocessors.|2004|DATE|conf/date/KadayifKK04
+BB-GC: Basic-Block Level Garbage Collection.|2005|DATE|conf/date/OzturkKI05
+Power-Efficient Trace Caches.|2002|DATE|conf/date/HuVKI02
+A special-purpose compiler for look-up table and code generation for function evaluation.|2010|DATE|conf/date/ZhangDYMZKCPS10
+Implementation and Evaluation of an On-Demand Parameter-Passing Strategy for Reducing Energy.|2003|DATE|conf/date/KandemirKZ03
+Thermal-Aware Task Allocation and Scheduling for Embedded Systems.|2005|DATE|conf/date/HungXVKI05
+A Compiler-Based Approach for Improving Intra-Iteration Data Reuse.|2002|DATE|conf/date/Kandemir02
+Increasing Register File Immunity to Transient Errors.|2005|DATE|conf/date/MemikKO05
+Nonuniform Banking for Reducing Memory Energy Consumption.|2005|DATE|conf/date/OzturkK05
+Feedback control for providing QoS in NoC based multicores.|2010|DATE|conf/date/SharifiZK10
+Masking the Energy Behavior of DES Encryption.|2003|DATE|conf/date/SaputraVKIBKZ03
+Compiler Support for Reducing Leakage Energy Consumption.|2003|DATE|conf/date/ZhangKVID03
+Studying Storage-Recomputation Tradeoffs in Memory-Constrained Embedded Processing.|2005|DATE|conf/date/KandemirLCCO05
+Data Space Oriented Scheduling in Embedded Systems.|2003|DATE|conf/date/KandemirCZK03
+A Constraint Network Based Approach to Memory Layout Optimization.|2005|DATE|conf/date/ChenKK05
+Performance-reliability tradeoff analysis for multithreaded applications.|2012|DATE|conf/date/OzTKT12
+EAC: A Compiler Framework for High-Level Energy Estimation and Optimization.|2002|DATE|conf/date/KadayifKVIS02
+Using dynamic compilation for continuing execution under reduced memory availability.|2009|DATE|conf/date/OzturkK09
+Generalized Data Transformations for Enhancing Cache Behavior.|2003|DATE|conf/date/LuzKKS03
+Memory bank aware dynamic loop scheduling.|2007|DATE|conf/date/KandemirYSO07
+Dynamic scratch-pad memory management for irregular array access patterns.|2006|DATE|conf/date/ChenOKK06
+Locality-Aware Process Scheduling for Embedded MPSoCs.|2005|DATE|conf/date/KandemirC05
+Reliability-Centric High-Level Synthesis.|2005|DATE|conf/date/TosunMAKX05
+Configuration-Sensitive Process Scheduling for FPGA-Based Computing Platforms.|2004|DATE|conf/date/ChenKS04
+Scheduling Reusable Instructions for Power Reduction.|2004|DATE|conf/date/HuVKKI04
+Impact of Data Transformations on Memory Bank Locality.|2004|DATE|conf/date/Kandemir04
+Tuning In-Sensor Data Filtering to Reduce Energy Consumption in Wireless Sensor Networks.|2004|DATE|conf/date/KadayifK04
+An Integrated Approach for Improving Cache Behavior.|2003|DATE|conf/date/MemikKCK03
+Access Pattern-Based Code Compression for Memory-Constrained Embedded Systems.|2005|DATE|conf/date/OzturkSKK05
+Process variation aware thread mapping for Chip Multiprocessors.|2009|DATE|conf/date/HongNKO09
+Activity clustering for leakage management in SPMs.|2006|DATE|conf/date/KandemirCLIK06
+Compiler-Directed Instruction Duplication for Soft Error Detection.|2005|DATE|conf/date/HuLDKVI05
+Adaptive prefetching for shared cache based chip multiprocessors.|2009|DATE|conf/date/KandemirZO09
+Dynamic partitioning of processing and memory resources in embedded MPSoC architectures.|2006|DATE|conf/date/XueOLKK06
+Data Windows: A Data-Centric Approach for Query Execution in Memory-Resident Databases.|2004|DATE|conf/date/PisharathCK04
+Runtime Code Parallelization for On-Chip Multiprocessors.|2003|DATE|conf/date/KandemirZK03
+Compiler-Directed Management of Instruction Accesses.|2003|DSD|conf/dsd/ChenCKZKKS03
+CCC: Crossbar Connected Caches for Reducing Energy Consumption of On-Chip Multiprocessors.|2003|DSD|conf/dsd/LiVKIK03
+Synergistic TLBs for High Performance Address Translation in Chip Multiprocessors.|2010|MICRO|conf/micro/SrikantaiahK10
+Generating physical addresses directly for saving instruction TLB energy.|2002|MICRO|conf/micro/KadayifSKKC02
+Data movement aware computation partitioning.|2017|MICRO|conf/micro/TangKKK17
+Compiler Support for Optimizing Memory Bank-Level Parallelism.|2014|MICRO|conf/micro/DingGK14
+A data layout optimization framework for NUCA-based multicores.|2011|MICRO|conf/micro/ZhangDKLJ11
+Reducing memory interference in multicore systems via application-aware memory channel partitioning.|2011|MICRO|conf/micro/MuralidharaSMKM11
+Short-Circuiting Memory Traffic in Handheld Platforms.|2014|MICRO|conf/micro/YedlapalliNSSKD14
+MDACache: Caching for Multi-Dimensional-Access Memories.|2018|MICRO|conf/micro/GeorgeLJKKSN18
+CritICs Critiquing Criticality in Mobile Apps.|2018|MICRO|conf/micro/RengasamyZZNSKD18
+Amber*: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources.|2018|MICRO|conf/micro/GoukK0KCKKJ18
+SHARP control: controlled shared cache management in chip multiprocessors.|2009|MICRO|conf/micro/SrikantaiahKW09
+Exploiting VLIW schedule slacks for dynamic and leakage energy reduction.|2001|MICRO|conf/micro/ZhangVKIDT01
+Compiler-directed instruction cache leakage optimization.|2002|MICRO|conf/micro/ZhangHDKVI02
+Optimizing shared cache behavior of chip multiprocessors.|2009|MICRO|conf/micro/KandemirMNZO09
+CHAMELEON: A Dynamically Reconfigurable Heterogeneous Memory System.|2018|MICRO|conf/micro/KotraZAWK18
+Invalid Data-Aware Coding to Enhance the Read Performance of High-Density Flash Memories.|2018|MICRO|conf/micro/ChoiJK18
+Race-to-sleep + content caching + display caching: a recipe for energy-efficient video streaming on handhelds.|2017|MICRO|conf/micro/ZhangRZNSKID17
+Improving Locality Using Loop and Data Transformations in an Integrated Framework.|1998|MICRO|conf/micro/KandemirCRB98
+Addressing End-to-End Memory Access Latency in NoC-Based Multicores.|2012|MICRO|conf/micro/SharifiKKD12
+Power protocol: reducing power dissipation on off-chip data buses.|2002|MICRO|conf/micro/BasuCPK02
+Managing GPU Concurrency in Heterogeneous Architectures.|2014|MICRO|conf/micro/KayiranNJAKLMD14
+Improving bank-level parallelism for irregular applications.|2016|MICRO|conf/micro/TangKYK16
+Trace-based affine reconstruction of codes.|2016|CGO|conf/cgo/0001AKT16
+Optimizing Address Code Generation for Array-Intensive DSP Applications.|2005|CGO|conf/cgo/ChenK05
+Reactive tiling.|2015|CGO|conf/cgo/SrinivasDK15
+On-chip cache hierarchy-aware tile scheduling for multicore machines.|2011|CGO|conf/cgo/LiuZDK11
+Locality-aware mapping and scheduling for multicores.|2013|CGO|conf/cgo/DingZKSY13
+Neighborhood-aware data locality optimization for NoC-based multicores.|2011|CGO|conf/cgo/KandemirZLY11
+A Compiler-Guided Approach for Reducing Disk Power Consumption by Exploiting Disk Access Locality.|2006|CGO|conf/cgo/SonCK06
+Compiler-Directed Variable Latency Aware SPM Management to CopeWith Timing Problems.|2007|CGO|conf/cgo/OzturkCKK07
+Panacea: towards holistic optimization of MapReduce applications.|2012|CGO|conf/cgo/LiuRCK12
+Controlled Kernel Launch for Dynamic Parallelism in GPUs.|2017|HPCA|conf/hpca/TangPJKJPIKD17
+MorphCache: A Reconfigurable Adaptive Multi-level Cache hierarchy.|2011|HPCA|conf/hpca/SrikantaiahKZKIX11
+FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads.|2019|HPCA|conf/hpca/0048JK19
+Sprinkler: Maximizing resource utilization in many-chip solid state disks.|2014|HPCA|conf/hpca/JungK14
+Tuning Garbage Collection in an Embedded Java Environment.|2002|HPCA|conf/hpca/ChenSKVIW02
+Using Complete Machine Simulation for Software Power Estimation: The SoftWatt Approach.|2002|HPCA|conf/hpca/GurumurthiSIVKLJ02
+Organizing the Last Line of Defense before Hitting the Memory Wall for CMP.|2004|HPCA|conf/hpca/LiuSK04
+Domain knowledge based energy management in handhelds.|2015|HPCA|conf/hpca/NachiappanYSSKI15
+DRAM Energy Management Using Software and Hardware Directed Power Mode Control.|2001|HPCA|conf/hpca/DelaluzKVSI01
+An in-depth study of next generation interface for emerging non-volatile memories.|2016|NVMSA|conf/nvmsa/ChoiZGLJK16
+Improving I/O Performance of Applications through Compiler-Directed Code Restructuring.|2008|FAST|conf/fast/KandemirSK08
+PEN: Design and Evaluation of Partial-Erase for 3D NAND-Based High Density SSDs.|2018|FAST|conf/fast/LiuKJK18
+Exploiting Inter-File Access Patterns Using Multi-Collective I/O.|2002|FAST|conf/fast/MemikKC02
+MROrchestrator: A Fine-Grained Resource Orchestration Framework for MapReduce Clusters.|2012|IEEE CLOUD|conf/IEEEcloud/SharmaPLKD12
+Global I/O optimizations for out-of-core computations.|1997|HiPC|conf/hipc/KandemirKC97
+Parallel Read Partitioning for Concurrent Assembly of Metagenomic Data.|2018|HiPC|conf/hipc/RengasamyKMM18
+Improving Offset Assignment on Embedded Processors Using Transformations.|2000|HiPC|conf/hipc/AtriRK00
+Energy-Aware Instruction Scheduling.|2000|HiPC|conf/hipc/ParikhKVI00
+A compiler technique for improving whole-program locality.|2001|POPL|conf/popl/Kandemir01
+Compiler-directed channel allocation for saving power in on-chip networks.|2006|POPL|conf/popl/ChenLK06
+Maximizing data reuse for minimizing memory space requirements and execution cycles.|2006|ASP-DAC|conf/aspdac/KandemirCL06
+Optimal topology exploration for application-specific 3D architectures.|2006|ASP-DAC|conf/aspdac/OzturkWKX06
+Studying interactions between prefetching and cache line turnoff.|2005|ASP-DAC|conf/aspdac/KadayifKC05
+Compiler-directed selective data protection against soft errors.|2005|ASP-DAC|conf/aspdac/ChenKIM05
+Optimizing embedded applications using programmer-inserted hints.|2005|ASP-DAC|conf/aspdac/ChenK05
+Energy-aware computation duplication for improving reliability in embedded chip multiprocessors.|2006|ASP-DAC|conf/aspdac/ChenKL06
+Reducing dynamic compilation overhead by overlapping compilation and execution.|2006|ASP-DAC|conf/aspdac/UnnikrishnanKL06
+FD-HGAC: a hybrid heuristic/genetic algorithm hardware/software co-synthesis framework with fault detection.|2005|ASP-DAC|conf/aspdac/ConnerXKDL05
+Using loop invariants to fight soft errors in data caches.|2005|ASP-DAC|conf/aspdac/NarayananSKL05
+Energy savings through embedded processing on disk system.|2006|ASP-DAC|conf/aspdac/SonCKL06
+Compiler-Guided data compression for reducing memory consumption of embedded applications.|2006|ASP-DAC|conf/aspdac/OzturkCKK06
+Object duplication for improving reliability.|2006|ASP-DAC|conf/aspdac/ChenKVI06
+Using data replication to reduce communication energy on chip multiprocessors.|2005|ASP-DAC|conf/aspdac/KandemirCLD05
+Customized on-chip memories for embedded chip multiprocessors.|2005|ASP-DAC|conf/aspdac/OzturkKCIK05
+Prefetching-aware cache line turnoff for saving leakage energy.|2006|ASP-DAC|conf/aspdac/KadayifKL06
+Increasing FPGA resilience against soft errors using task duplication.|2005|ASP-DAC|conf/aspdac/ChenLKD05
+Efficient Function Evaluations with Lookup Tables for Structured Matrix Operations.|2007|SiPS|conf/sips/SobtiDCPSKMIKN07
+A hardware-software codesign strategy for Loop intensive applications.|2009|SASP|conf/sasp/ZhangK09
+Influence of Loop Optimizations on Energy Consumption of Multi-bank Memory Systems.|2002|CC|conf/cc/KandemirKK02
+A Compiler-Based Approach to Data Security.|2005|CC|conf/cc/LiCKB05
+Array Unification: A Locality Optimization Technique.|2001|CC|conf/cc/KandemirU01
+Address Register Assignment for Reducing Code Size.|2003|CC|conf/cc/KandemirICR03
+Data Space Oriented Tiling.|2002|ESOP|conf/esop/Kandemir02
+A Dual-VDDLow Power FPGA Architecture.|2004|FPL|conf/fpl/GayasenLVKIT04
+TANOR: A Tool for Accelerating N-Body Simulations on Reconfigurable Platforms.|2007|FPL|conf/fpl/KimMIKNSDCPS07
+MLC PCM main memory with accelerated read.|2016|ISPASS|conf/ispass/ArjomandJKSD16
+Pro-active Page Replacement for Scientific Applications: A Characterization.|2005|ISPASS|conf/ispass/VilayannurSK05
+Compiler-directed physical address generation for reducing dTLB power.|2004|ISPASS|conf/ispass/KadayifNKS04
+Storage consolidation: Not always a panacea, but can we ease the pain?|2016|ISPASS|conf/ispass/ShahidiASKD16
+Interplay of energy and performance for disk arrays running transaction processing workloads.|2003|ISPASS|conf/ispass/GurumurthiZSKFVI03
+Performance and energy evaluation of data prefetching on intel Xeon Phi.|2015|ISPASS|conf/ispass/GuttmanKAC15
+Evaluating STT-RAM as an energy-efficient main memory alternative.|2013|ISPASS|conf/ispass/KultursayKSM13
+Minimizing interference through application mapping in multi-level buffer caches.|2011|ISPASS|conf/ispass/PatrickVK11
+Compiler-Guided Code Restructuring for Improving Instruction TLB Energy Behavior.|2004|Euro-Par|conf/europar/KadayifKD04
+Exploiting On-Chip Data Transfers for Improving Performance of Chip-Scale Multiprocessors.|2003|Euro-Par|conf/europar/ChenKCK03
+Design and Evaluation of a Compiler-Directed Collective I/O Technique.|2000|Euro-Par|conf/europar/MemikKC00
+I/O-Conscious Tiling for Disk-Resident Data Sets.|1999|Euro-Par|conf/europar/KandemirCR99
+Using Data Compression to Increase Energy Savings in Multi-bank Memories.|2004|Euro-Par|conf/europar/KandemirOIK04
+Scalable Parallelization Strategies to Accelerate NuFFT Data Translation on Multicores.|2010|Euro-Par (2)|conf/europar/ZhangLKKPS10
+Hybrid Techniques for Fast Multicore Simulation.|2009|Euro-Par|conf/europar/ShantharamRK09
+Bandwidth Constrained Coordinated HW/SW Prefetching for Multicores.|2011|Euro-Par (1)|conf/europar/MuralidharaKZ11
+An Energy-Oriented Evaluation of Communication Optimizations for Microcensor Networks.|2003|Euro-Par|conf/europar/KadayifKCK03
+Multilayer Cache Partitioning for Multiprogram Workloads.|2011|Euro-Par (1)|conf/europar/KandemirPKZ11
+Enhancing Spatial Locality via Data Layout Optimizations.|1998|Euro-Par|conf/europar/KandemirCRSB98
+Exploring the Possibility of Operating in the Compressed Domain.|2004|Euro-Par|conf/europar/LuzKSI04
+Code Scheduling for Optimizing Parallelism and Data Locality.|2010|Euro-Par (1)|conf/europar/YemlihaKOKM10
+Optimization of Out-of-Core Computations Using Chain Vectors.|1997|Euro-Par|conf/europar/KandemirRC97
+Software-directed combined cpu/link voltage scaling fornoc-based cmps.|2008|SIGMETRICS|conf/sigmetrics/KandemirO08
+CApRI: CAche-conscious data reordering for irregular codes.|2014|SIGMETRICS|conf/sigmetrics/DingK14
+A Study on Performance and Power Efficiency of Dense Non-Volatile Caches in Multi-Core Systems.|2017|SIGMETRICS (Abstracts)|conf/sigmetrics/JadidiAKD17
+METE: meeting end-to-end QoS in multicores through system-wide resource management.|2011|SIGMETRICS|conf/sigmetrics/SharifiSMKD11
+Revisiting widely held SSD expectations and rethinking system-level implications.|2013|SIGMETRICS|conf/sigmetrics/JungK13
+Memory Row Reuse Distance and its Role in Optimizing Application Performance.|2015|SIGMETRICS|conf/sigmetrics/KandemirZTK15
+Exploiting Data Longevity for Enhancing the Lifetime of Flash-based Storage Class Memory.|2017|SIGMETRICS (Abstracts)|conf/sigmetrics/ChoiAJK17
+Implementation and evaluation of a migration-based NUCA design for chip multiprocessors.|2008|SIGMETRICS|conf/sigmetrics/LiKI08
+Coordinated power management of voltage islands in CMPs.|2010|SIGMETRICS|conf/sigmetrics/MishraSKD10
+Studying inter-core data reuse in multicores.|2011|SIGMETRICS|conf/sigmetrics/ZhangKY11
+Modeling and improving data cache reliability.|2007|SIGMETRICS|conf/sigmetrics/KadayifK07
+GemDroid: a framework to evaluate mobile platforms.|2014|SIGMETRICS|conf/sigmetrics/NachiappanYSKSD14
+Exploiting Core Criticality for Enhanced GPU Performance.|2016|SIGMETRICS|conf/sigmetrics/JogKPKMID16
+Topology-Aware I/O Caching for Shared Storage Systems.|2009|ISCA PDCCS|conf/ISCApdcs/SonKZG09
+Power Aware Disk Allocation.|2009|ISCA PDCCS|conf/ISCApdcs/GargPK09a
+Dynamic Storage Cache Partitioning Using Feedback Control Theory.|2009|ISCA PDCCS|conf/ISCApdcs/GargPK09
+A Collective I/O Scheme Based on Compiler Analysis.|2000|LCR|conf/lcr/Kandemir00
+Improving Locality in Out-of-Core Computations Using Data Layout Transformations.|1998|LCR|conf/lcr/KandemirCR98
+Restructuring I/O-Intensive Computations for Locality.|1999|HPCN Europe|conf/hpcn/KandemirCR99
+Using Task Recomputation During Application Mapping in Parallel Embedded Architectures.|2006|CDES|conf/cdes/TosunKK06
+A Unified Compiler Algorithm for Optimizing Locality, Parallelism and Communication in Out-of-core Computations.|1997|IOPADS|conf/iopads/KandemirCRK97
+Dynamic core partitioning for energy efficiency.|2010|IPDPS Workshops|conf/ipps/DingKIR10
+A helper thread based EDP reduction scheme for adapting application execution in CMPs.|2008|IPDPS|conf/ipps/DingKRI08
+HCW 2016 Keynote Talk.|2016|IPDPS Workshops|conf/ipps/Kandemir16
+Software-Directed Disk Power Management for Scientific Applications.|2005|IPDPS|conf/ipps/SonKC05
+T-NUCA - a novel approach to non-uniform access latency cache architectures for 3D CMPs.|2010|IPDPS Workshops|conf/ipps/MalkowskiRKI10
+Improving Performance of Java Applications Using a Coprocessor.|2004|IPDPS|conf/ipps/LiK04
+Towards energy efficient scaling of scientific codes.|2008|IPDPS|conf/ipps/DingMRK08
+A Parallel Architecture for Secure FPGA Symmetric Encryption.|2004|IPDPS|conf/ipps/SwankoskiNKI04
+Designing Energy-Efficient Software.|2002|IPDPS|conf/ipps/SivasubramaniamKVI02
+Re-NUCA: A Practical NUCA Architecture for ReRAM Based Last-Level Caches.|2016|IPDPS|conf/ipps/KotraAGKD16
+Analyzing the soft error resilience of linear solvers on multicore multiprocessors.|2010|IPDPS|conf/ipps/MalkowskiRK10
+Cache-Aware Approximate Computing for Decision Tree Learning.|2016|IPDPS Workshops|conf/ipps/KislalKK16
+Evaluating the role of scratchpad memories in chip multiprocessors for sparse matrix computations.|2008|IPDPS|conf/ipps/YanamandraCRIK08
+Improving MPI Independent Write Performance Using A Two-Stage Write-Behind Buffering Method.|2007|IPDPS|conf/ipps/LiaoCCCK07
+Improving I/O performance through compiler-directed code restructuring and adaptive prefetching.|2008|IPDPS|conf/ipps/SonKK08
+Intra-application cache partitioning.|2010|IPDPS|conf/ipps/MuralidharaKR10
+Disk-Cache and Parallelism Aware I/O Scheduling to Improve Storage System Performance.|2013|IPDPS|conf/ipps/PrabhakarKJ13
+Enhancing L2 organization for CMPs with a center cell.|2006|IPDPS|conf/ipps/LiuSKI06
+Energy-Aware Compilation and Execution in Java-Enabled Mobile Devices.|2003|IPDPS|conf/ipps/ChenKKVIC03
+Improving Memory Performance of Embedded Java Applications by Dynamic Layout Modifications.|2004|IPDPS|conf/ipps/LiAEMUK04
+Energy and Performance Considerations in Work Partitioning for Mobile Spatial Queries.|2003|IPDPS|conf/ipps/GurumurthiASVKI03
+Exploiting Barriers to Optimize Power Consumption of CMPs.|2005|IPDPS|conf/ipps/LiuSKI05
+Reliability-Conscious Process Scheduling under Performance Constraints in FPGA-Based Embedded Systems.|2005|IPDPS|conf/ipps/ChenKTS05
+Exploiting Memory Bank Locality in Multiprocessor SoC Architectures.|2004|IPDPS|conf/ipps/Kandemir04
+Influence of Array Allocation Mechanisms on Memory System Energy.|2001|IPDPS|conf/ipps/AthavaleVKI01
+Improving Java Performance Using Dynamic Method Migration on FPGAs.|2004|IPDPS|conf/ipps/LattanziGKNBB04
+Compiler-Directed I/O Optimization.|2002|IPDPS|conf/ipps/KandemirC02
+A Generalized Framework for Global Communication Optimization.|1998|IPPS/SPDP|conf/ipps/KandemirBCRS98
+Interference Resolver in Shared Storage Systems to Provide Fairness to I/O Intensive Applications.|2013|IPDPS Workshops|conf/ipps/PrabhakarKRJ13
+Reducing Power with Performance Constraints for Parallel Sparse Applications.|2005|IPDPS|conf/ipps/ChenMKR05
+Managing power, performance and reliability trade-offs.|2008|IPDPS|conf/ipps/RaghavanKIM08
+A Graph Based Framework to Detect Optimal Memory Layouts for Improving Data Locality.|1999|IPPS/SPDP|conf/ipps/KandemirCRB99
+Integrated link/CPU voltage scaling for reducing energy consumption of parallel sparse matrix applications.|2006|IPDPS|conf/ipps/SonMCKR06
+Data Access Reorganizations in Compiling Out-of-Core Data Parallel Programs on Distributed Memory Machines.|1997|IPPS|conf/ipps/KandemirBC97
+Power and Performance in I/O for Scientific Applications.|2005|IPDPS|conf/ipps/ColomaCCLSKW05
+REMAP: a reliability/endurance mechanism for advancing PCM.|2017|MEMSYS|conf/memsys/TavanaZAKDK17
+Anatomy of GPU Memory System for Multi-Application Execution.|2015|MEMSYS|conf/memsys/JogKKPBCKKD15
+Increasing on-chip memory space utilization for embedded chip multiprocessors through data compression.|2005|CODES+ISSS|conf/codes/OzturkKI05
+Compiler-directed code restructuring for reducing data TLB energy.|2004|CODES+ISSS|conf/codes/KandemirKC04
+Analyzing heap error behavior in embedded JVM environments.|2004|CODES+ISSS|conf/codes/ChenKVSI04
+Locality-conscious process scheduling in embedded systems.|2002|CODES|conf/codes/KadayifKKC02
+Energy savings through compression in embedded Java environments.|2002|CODES|conf/codes/ChenKVIW02
+Compiler-directed selection of dynamic memory layouts.|2001|CODES|conf/codes/KandemirK01
+Tracking object life cycle for leakage energy optimization.|2003|CODES+ISSS|conf/codes/ChenVKIW03
+VL-CDRAM: variable line sized cached DRAMs.|2003|CODES+ISSS|conf/codes/HegdeVKI03
+Performance enhancement under power constraints using heterogeneous CMOS-TFET multicores.|2012|CODES+ISSS|conf/codes/KultursaySSNKD12
+Switch Box Architectures for Three-Dimensional FPGAs.|2006|FCCM|conf/fccm/GayasenVKR06
+An ILP Formulation for Task Scheduling on Heterogeneous Chip Multiprocessors.|2006|ISCIS|conf/iscis/TosunMKO06
+Exploiting scratch-pad memory using Presburger formulas.|2001|ISSS|conf/isss/KandemirKS01
+A compiler framework for extracting superword level parallelism.|2012|PLDI|conf/pldi/LiuZJDK12
+Profile-driven energy reduction in network-on-chips.|2007|PLDI|conf/pldi/LiCKK07
+Reducing NoC energy consumption through compiler-directed channel voltage scaling.|2006|PLDI|conf/pldi/ChenLKI06
+Cache topology aware computation mapping for multicores.|2010|PLDI|conf/pldi/KandemirYMSIZ10
+Optimizing off-chip accesses in multicores.|2015|PLDI|conf/pldi/DingTKZK15
+A Hybrid Evolutionary Algorithm for Solving the Register Allocation Problem.|2004|EvoCOP|conf/evoW/DemirozTK04
+Energy-Conscious Memory Allocation and Deallocation for Pointer-Intensive Applications.|2003|EMSOFT|conf/emsoft/LuzKCK03
+Exploiting last idle periods of links for network power management.|2005|EMSOFT|conf/emsoft/LiCKK05
+Enhancing Compiler Techniques for Memory Energy Optimizations.|2002|EMSOFT|conf/emsoft/ZambrenoKC02
+Optimizing inter-processor data locality on embedded chip multiprocessors.|2005|EMSOFT|conf/emsoft/ChenK05
+Exploring parallelization strategies for NUFFT data translation.|2009|EMSOFT|conf/emsoft/ZhangKPS09
+A novel application development environment for large-scale scientific computations.|2000|ICS|conf/ics/ShenLCMKMTS00
+Disk layout optimization for reducing energy consumption.|2005|ICS|conf/ics/SonCK05
+Adaptive multi-level cache allocation in distributed storage architectures.|2010|ICS|conf/ics/PrabhakarSKP10
+A compiler approach for reducing data cache energy.|2003|ICS|conf/ics/ZhangKKC03
+An integer linear programming approach for optimizing cache locality.|1999|International Conference on Supercomputing|conf/ics/KandemirBCRA99
+Design of a large-scale storage-class RRAM system.|2013|ICS|conf/ics/JungSK13
+A Hyperplane Based Approach for Optimizing Spatial Locality in Loop Nests.|1998|International Conference on Supercomputing|conf/ics/KandemirCSBR98
+A Compiler Algorithm for Optimizing Locality in Loop Nests.|1997|International Conference on Supercomputing|conf/ics/KandemirRC97
+Feedback control based cache reliability enhancement for emerging multicores.|2011|ICCAD|conf/iccad/ZhaoSSK11
+Improving Memory Energy Using Access Pattern Classification.|2001|ICCAD|conf/iccad/KandemirSD01
+Compiler-directed voltage scaling on communication links for reducing power consumption.|2005|ICCAD|conf/iccad/LiCK05
+Cooperative parallelization.|2011|ICCAD|conf/iccad/YedlapalliKK11
+Improving soft-error tolerance of FPGA configuration bits.|2004|ICCAD|conf/iccad/SrinivasanGVKXI04
+Improving scratch-pad memory reliability through compiler-guided data block duplication.|2005|ICCAD|conf/iccad/LiCKK05
+Integrated code and data placement in two-dimensional mesh based chip multiprocessors.|2008|ICCAD|conf/iccad/YemlihaSKKI08
+Banked scratch-pad memory management for reducing leakage energy consumption.|2004|ICCAD|conf/iccad/KandemirICK04
+Runtime integrity checking for inter-object connections.|2005|ICCAD|conf/iccad/ChenK05a
+Code restructuring for improving cache performance of MPSoCs.|2005|ICCAD|conf/iccad/ChenK05
+Dynamic compilation for energy adaptation.|2002|ICCAD|conf/iccad/UnnikrishnanCKM02
+SPM management using Markov chain based data access prediction.|2008|ICCAD|conf/iccad/YemlihaSKO08
+Data locality enhancement for CMPs.|2007|ICCAD|conf/iccad/Kandemir07
+Exploring heterogeneous NoC design space.|2011|ICCAD|conf/iccad/ZhaoKDI11
+Array Composition and Decomposition for Optimizing Embedded Applications.|2003|ICCAD|conf/iccad/ChenKNS03
+Improving last level cache locality by integrating loop and data transformations.|2012|ICCAD|conf/iccad/DingK12
+Integrating loop and data optimizations for locality within a constraint network based framework.|2005|ICCAD|conf/iccad/ChenOKK05
+2D data locality: definition, abstraction, and application.|2005|ICCAD|conf/iccad/Kandemir05
+Cache miss clustering for banked memory systems.|2006|ICCAD|conf/iccad/OzturkCKK06
+Adapative Error Protection for Energy Efficiency.|2003|ICCAD|conf/iccad/LiVKI03
+Optimizing data locality using array tiling.|2011|ICCAD|conf/iccad/DingZLK11
+Leveraging value locality for efficient design of a hybrid cache in multicore processors.|2017|ICCAD|conf/iccad/ArjomandJKD17
+Improving shared cache behavior of multithreaded object-oriented applications in multicores.|2011|ICCAD|conf/iccad/KandemirSS11
+Memory Space Conscious Loop Iteration Duplication for Reliable Execution.|2005|SAS|conf/sas/ChenKK05
+Loop Transformations for Reducing Data Space Requirements of Resource-Constrained Applications.|2003|SAS|conf/sas/UnnikrishnanCKKK03
+Multi-Level On-Chip Memory Hierarchy Design for Embedded Chip Multiprocessors.|2006|ICPADS (1)|conf/icpads/OzturkKIT06
+SPM Conscious Loop Scheduling for Embedded Chip Multiprocessors.|2006|ICPADS (1)|conf/icpads/XueKCY06
+Improving Locality Using a Graph-Based Technique for Detecting Memory Layouts of Arrays.|1999|PPSC|conf/ppsc/KandemirCRB99
+I/O Optimizations for Compiling Out-of Core Programs on Distributed-Memory Machines.|1997|PPSC|conf/ppsc/KandemirBC97
+Lightweight barrier-based parallelization support for non-cache-coherent MPSoC platforms.|2007|CASES|conf/cases/MarongiuBK07
+Exploiting bank locality in multi-bank memories.|2003|CASES|conf/cases/ChenKSI03
+Slicing based code parallelization for minimizing inter-processor communication.|2009|CASES|conf/cases/KandemirZMON09
+Performance, energy, and reliability tradeoffs in replicating hot cache lines.|2003|CASES|conf/cases/ZhangKSI03
+Verifiable annotations for embedded java environments.|2005|CASES|conf/cases/ChenK05
+Energy-efficient instruction cache using page-based placement.|2001|CASES|conf/cases/KimVKI01
+Energy-oriented compiler optimizations for partitioned memory architectures.|2000|CASES|conf/cases/DelaluzKVI00
+Dynamic on-chip memory management for chip multiprocessors.|2004|CASES|conf/cases/KandemirOK04
+Compiler-directed proactive power management for networks.|2005|CASES|conf/cases/LiCKI05
+Reducing energy consumption of queries in memory-resident database systems.|2004|CASES|conf/cases/PisharathCK04
+Optimizing inter-nest data locality.|2002|CASES|conf/cases/KandemirKCZ02
+MPISec I/O: Providing Data Confidentiality in MPI-I/O.|2009|CCGRID|conf/ccgrid/PrabhakarPK09
+Markov Model Based Disk Power Management for Data Intensive Workloads.|2009|CCGRID|conf/ccgrid/GargSKRP09
+Integrated Data Reorganization and Disk Mapping for Reducing Disk Energy Consumption.|2007|CCGRID|conf/ccgrid/SonK07
+On Urgency of I/O Operations.|2012|CCGRID|conf/ccgrid/KandemirYPJ12
+Discretionary Caching for I/O on Clusters.|2003|CCGRID|conf/ccgrid/VilayannurSKTR03
+APP: Minimizing Interference Using Aggressive Pipelined Prefetching in Multi-level Buffer Caches.|2011|CCGRID|conf/ccgrid/PatrickVK11
+Adaptive QoS Decomposition and Control for Storage Cache Management in Multi-server Environments.|2011|CCGRID|conf/ccgrid/PrabhakarSGK11
+Energy optimization techniques in cluster interconnects.|2003|ISLPED|conf/islped/KimYLVKIYD03
+Power-aware code scheduling for clusters of active disks.|2005|ISLPED|conf/islped/SonCK05
+An ilp based approach to reducing energy consumption in nocbased CMPS.|2007|ISLPED|conf/islped/OzturkKS07
+EECache: exploiting design choices in energy-efficient last-level caches for chip multiprocessors.|2014|ISLPED|conf/islped/ChengPSSIKSX14
+Minimizing energy consumption of banked memories using data recomputation.|2006|ISLPED|conf/islped/KocOKNE06
+Improving energy efficiency of multi-threaded applications using heterogeneous CMOS-TFET multicores.|2011|ISLPED|conf/islped/SwaminathanKSNKD11
+Exploiting program hotspots and code sequentiality for instruction cache leakage management.|2003|ISLPED|conf/islped/HuNVIK03
+Dataflow analysis for energy-efficient scratch-pad memory management.|2005|ISLPED|conf/islped/ChenK05
+Power-aware partitioned cache architectures.|2001|ISLPED|conf/islped/KimVKSIG01
+Improving disk reuse for reducing power consumption.|2007|ISLPED|conf/islped/KandemirSK07
+Soft error and energy consumption interactions: a data cache perspective.|2004|ISLPED|conf/islped/LiDVKI04
+Compiler support for block buffering.|2001|ISLPED|conf/islped/KandemirRS01
+Reducing power through compiler-directed barrier synchronization elimination.|2006|ISLPED|conf/islped/KandemirS06
+An evaluation of code and data optimizations in the context of disk power reduction.|2005|ISLPED|conf/islped/KandemirSC05
+Memory system energy (poster session): influence of hardware-software optimizations.|2000|ISLPED|conf/islped/EsakkimuthuVKI00
+Estimating influence of data layout optimizations on SDRAM energy consumption.|2003|ISLPED|conf/islped/KimVKBCI03
+Phase-aware adaptive hardware selection for power-efficient scientific computations.|2007|ISLPED|conf/islped/MalkowskiRKI07
+Design space exploration of workload-specific last-level caches.|2012|ISLPED|conf/islped/SwaminathanKSNK12
+Energy-aware data prefetching for multi-speed disks.|2006|Conf. Computing Frontiers|conf/cf/SonK06
+Improving the performance of k-means clustering through computation skipping and data locality optimizations.|2012|Conf. Computing Frontiers|conf/cf/KislalBK12
+Multi-compilation: capturing interactions among concurrently-executing applications.|2006|Conf. Computing Frontiers|conf/cf/OzturkCK06
+TaPEr: tackling power emergencies in the dark silicon era by exploiting resource scalability.|2015|Conf. Computing Frontiers|conf/cf/ZhaoKI15
+Reuse distance based performance modeling and workload mapping.|2012|Conf. Computing Frontiers|conf/cf/MuralidharaKK12
+Use of Local Memory for Efficient Java Execution.|2001|ICCD|conf/iccd/TomarKVKI01
+A Scale-Out Enterprise Storage Architecture.|2017|ICCD|conf/iccd/ChoiJKD17
+Ring data location prediction scheme for Non-Uniform Cache Architectures.|2008|ICCD|conf/iccd/AkiokaLMRKI08
+Reducing dTLB Energy Through Dynamic Resizing.|2003|ICCD|conf/iccd/DelaluzKSIV03
+A Framework for Energy Estimation of VLIW Architecture.|2001|ICCD|conf/iccd/KimVKI01
+Temperature-Sensitive Loop Parallelization for Chip Multiprocessors.|2005|ICCD|conf/iccd/NarayananCKX05
+An ILP-Based Approach to Locality Optimization.|2004|LCPC|conf/lcpc/ChenOK04
+Compiler-Based Code Partitioning for Intelligent Embedded Disk Processing.|2003|LCPC|conf/lcpc/ChenCKN03
+Experimental Evaluation of Energy Behavior of Iteration Space Tiling.|2000|LCPC|conf/lcpc/KandemirVIK00
+Improving Offset Assignment for Embedded Processors.|2000|LCPC|conf/lcpc/AtriRK00
+Improving Off-Chip Memory Energy Behavior in a Multi-processor, Multi-bank Environment.|2001|LCPC|conf/lcpc/LuzKS01
+Dynamic Compilation for Reducing Energy Consumption of I/O-Intensive Applications.|2005|LCPC|conf/lcpc/SonCKC05
+A Hybrid Strategy Based on Data Distribution and Migration for Optimizing Memory Locality.|2002|LCPC|conf/lcpc/KadayifKC02
+A Loop Transformation Algorithm Based on Explicit Data Layout Representation for Optimizing Locality.|1998|LCPC|conf/lcpc/KandemirRCB98
+An Adaptive Locality-Conscious Process Scheduler for Embedded Systems.|2005|IEEE Real-Time and Embedded Technology and Applications Symposium|conf/rtas/ChenCOK05
+Phase Detection with Hidden Markov Models for DVFS on Many-Core Processors.|2015|ICDCS|conf/icdcs/BoothKZKR15
+Provisioning a Multi-tiered Data Staging Area for Extreme-Scale Machines.|2011|ICDCS|conf/icdcs/PrabhakarVKBLK11
+Software-Directed Data Access Scheduling for Reducing Disk Energy Consumption.|2012|ICDCS|conf/icdcs/ZhangLK12
+Will They Blend?: Exploring Big Data Computation Atop Traditional HPC NAS Storage.|2014|ICDCS|conf/icdcs/WilsonKG14
+A cache topology-aware multi-query scheduler for multicore architectures.|2014|IISWC|conf/iiswc/OrhanDYKO14
+TraceTracker: Hardware/software co-evaluation for large-scale I/O workload reconstruction.|2017|IISWC|conf/iiswc/KwonZPCDSKJ17
+Exploring the impact of memory block permutation on performance of a crossbar ReRAM main memory.|2017|IISWC|conf/iiswc/RamezaniEAKS17
+Reviving Zombie Pages on SSDs.|2018|IISWC|conf/iiswc/ElyasiSKD18
+Characterizing diverse handheld apps for customized hardware acceleration.|2017|IISWC|conf/iiswc/RengasamyZNZSKD17
+Congestion-aware memory management on NUMA platforms: A VMware ESXi case study.|2017|IISWC|conf/iiswc/KotraKMK17
+QoS aware dynamic time-slice tuning.|2014|IISWC|conf/iiswc/DingYK14
+Workload Clustering for Increasing Energy Savings on Embedded MPSoCs.|2005|SoCC|conf/socc/NarayananOKK05
+A Learning-Guided Hierarchical Approach for Biomedical Image Segmentation.|2018|SoCC|conf/socc/JiangSRKADK18
+On-Chip Memory Management for Embedded MpSoC Architectures Based on Data Compression.|2005|SoCC|conf/socc/OzturkKIT05
+Energy-Aware Code Replication for Improving Reliability in Embedded Chip Multiprocessors.|2006|SoCC|conf/socc/ChenOCK06
+Compiler Support for Voltage Islands.|2006|SoCC|conf/socc/ChenKK06
+Exploiting large on-chip memory space through data recomputation.|2010|SoCC|conf/socc/KocKE10
+Constraint-based Code mapping for heterogeneous Chip multiprocessors.|2005|SoCC|conf/socc/TosunMKO05
+Geometric Tiling for Reducing Power Consumption in Structured Matrix Operations.|2006|SoCC|conf/socc/ChenXKSDSPCKV06
+Energy-Optimal Data Collection and Communication Using a Group of UUVs.|2007|AAAI Fall Symposium: Regarding the Intelligence in Distributed Intelligent Systems|conf/aaaifs/ErkanKGL07
+Automated Mission Parallelization for Unmanned Underwater Vehicles.|2007|AAAI Fall Symposium: Regarding the Intelligence in Distributed Intelligent Systems|conf/aaaifs/GigerKLDT07
+Reliability-Aware Co-Synthesis for Embedded Systems.|2004|ASAP|conf/asap/XieLKVI04
+Selective code/data migration for reducing communication energy in embedded MpSoC architectures.|2006|ACM Great Lakes Symposium on VLSI|conf/glvlsi/OzturkKSK06
+Using data compression in an MPSoC architecture for improving performance.|2005|ACM Great Lakes Symposium on VLSI|conf/glvlsi/OzturkKI05
+An ILP based approach to address code generation for digital signal processors.|2006|ACM Great Lakes Symposium on VLSI|conf/glvlsi/OzturkKT06
+Integer linear programming based energy optimization for banked DRAMs.|2005|ACM Great Lakes Symposium on VLSI|conf/glvlsi/OzturkK05
+Energy management in software-controlled multi-level memory hierarchies.|2005|ACM Great Lakes Symposium on VLSI|conf/glvlsi/OzturkK05a
+Tuning data replication for improving behavior of MPSoC applications.|2004|ACM Great Lakes Symposium on VLSI|conf/glvlsi/OzturkKIK04
+Load elimination for low-power embedded processors.|2005|ACM Great Lakes Symposium on VLSI|conf/glvlsi/MemikKM05
+APRIL: A Run-Time Library for Tape-Resident Data.|2000|IEEE Symposium on Mass Storage Systems|conf/mss/MemikKCT00
+NANDFlashSim: Intrinsic latency variation aware NAND flash memory system modeling and simulation at microarchitecture level.|2012|MSST|conf/mss/JungWDSK12
+Fault Recovery Designs for Processor-Embedded Distributed Storage Architectures with I/O-Intensive DB Workloads.|2005|MSST|conf/mss/ChiuCK05
+Hybrid-comp: A criticality-aware compressed last-level cache.|2018|ISQED|conf/isqed/JadidiAKD18
+Exploring performance-power tradeoffs in providing reliability for NoC-based MPSoCs.|2011|ISQED|conf/isqed/ZhaoKI11
+Data Replication in Banked DRAMs for Reducing Energy Consumption.|2006|ISQED|conf/isqed/OzturkK06
+Efficient K nearest neighbor algorithm implementations for throughput-oriented architectures.|2018|ISQED|conf/isqed/RyooAKK18
+Shared Scratch-Pad Memory Space Management.|2006|ISQED|conf/isqed/OzturkKK06
+Reliability-Centric Hardware/Software Co-Design.|2005|ISQED|conf/isqed/TosunMAKXH05
+Compiler-Directed Power Density Reduction in NoC-Based Multi-Core Designs.|2006|ISQED|conf/isqed/NarayananKO06
+An ILP Formulation for Reliability-Oriented High-Level Synthesis.|2005|ISQED|conf/isqed/TosunOMAKXH05
+A Scratch-Pad Memory Aware Dynamic Loop Scheduling Algorithm.|2008|ISQED|conf/isqed/OzturkKN08
+Design and Evaluation of Smart Disk Architecture for DSS Commercial Workloads.|2000|ICPP|conf/icpp/MemikKC00
+Compiler Optimizations for I/O-Intensive Computations.|1999|ICPP|conf/icpp/KandemirCR99
+Minimizing Data and Synchronization Costs in One-Way Communication.|1998|ICPP|conf/icpp/KandemirSBRC98
+Performance Implications of Architectural and Software Techniques on I/O-Intensive Applications.|1998|ICPP|conf/icpp/KandaswamyKCB98
+A Framework for Interprocedural Locality Optimization Using Both Loop and Data Layout Transformations.|1999|ICPP|conf/icpp/KandemirCRB99
+Improving the Performance of Out-of-Core Computations.|1997|ICPP|conf/icpp/KandemirRC97
+Data Management for Large-Scale Scientific Computations in High Performance Distributed Systems.|1999|HPDC|conf/hpdc/ChoudharyKNNSTMT99
+Cashing in on hints for better prefetching and caching in PVFS and MPI-IO.|2010|HPDC|conf/hpdc/PatrickKKSC10
+Software-directed data access scheduling for reducing disk energy consumption.|2011|HPDC|conf/hpdc/ZhangLWK11
+Computation mapping for multi-level storage cache hierarchies.|2010|HPDC|conf/hpdc/KandemirMKS10
+Parallelizing garbage collection with I/O to improve flash resource utilization.|2018|HPDC|conf/hpdc/ChoiJKD18
+Compiler-directed file layout optimization for hierarchical storage systems.|2012|SC|conf/sc/DingZKS12
+Prefetch throttling and data pinning for improving performance of shared caches.|2008|SC|conf/sc/OzturkSKK08
+Exploring the potentials of parallel garbage collection in SSDs for enterprise storage systems.|2016|SC|conf/sc/ShahidiAJKDS16
+Virtual I/O caching: dynamic storage cache management for concurrent workloads.|2011|SC|conf/sc/FrascaPRK11
+Exploring the future of out-of-core computing with compute-local non-volatile memory.|2013|SC|conf/sc/JungWCSAYSCK13
+A case for integrated processor-cache partitioning in chip multiprocessors.|2009|SC|conf/sc/SrikantaiahDMDK09
+Dynamic storage cache allocation in multi-server architectures.|2009|SC|conf/sc/PrabhakarSPK09
+CPM in CMPs: Coordinated Power Management in Chip-Multiprocessors.|2010|SC|conf/sc/MishraSKD10
+IOPin: Runtime Profiling of Parallel I/O in HPC Systems.|2012|SC Companion|conf/sc/KimSLKTC12
+A novel migration-based NUCA design for chip multiprocessors.|2008|SC|conf/sc/KandemirLIS08
+Optimization and Evaluation of Hartree-Fock Application's I/O with PASSION.|1997|SC|conf/sc/KandaswamyKCB97
+An Evolutionary Path to Object Storage Access.|2012|SC Companion|conf/sc/GoodellKLKR12
+Securing Disk-Resident Data through Application Level Encryption.|2007|IEEE Security in Storage Workshop|conf/sisw/PrabhakarSPNK07
+The Curious Case of Container Orchestration and Scheduling in GPU-based Datacenters.|2018|SoCC|conf/cloud/ThinakaranGSKD18
+Locality-Aware Distributed Loop Scheduling for Chip Multiprocessors.|2007|VLSI Design|conf/vlsid/XueKCLORV07
+Efficient Synthesis of Array Intensive Computations onto FPGA Based Accelerators.|2001|VLSI Design|conf/vlsid/ShenoyBCK01
+Enhancing Locality in Two-Dimensional Space through Integrated Computation and Data Mappings.|2007|VLSI Design|conf/vlsid/KandemirOD07
+Strategies for Improving Data Locality in Embedded Applications.|2002|VLSI Design|conf/vlsid/CrosbieKKRC02
+Thermal-Aware Application Scheduling on Device-Heterogeneous Embedded Architectures.|2015|VLSI Design|conf/vlsid/SwaminathanKLSK15
+A Heuristic for Clock Selection in High-Level Synthesis.|2002|VLSI Design|conf/vlsid/RamanujamDHK02
+Compiler-Directed Array Interleaving for Reducing Energy in Multi-Bank Memories.|2002|VLSI Design|conf/vlsid/DelaluzKVISK02
+Address Code and Arithmetic Optimizations for Embedded Systems.|2002|VLSI Design|conf/vlsid/RamanujamKHK02
+Compiler-Directed Code Restructuring for Operating with Compressed Arrays.|2007|VLSI Design|conf/vlsid/YemlihaCOKD07
+A Process Scheduler-Based Approach to NoC Power Management.|2007|VLSI Design|conf/vlsid/LiCKOKRV07
+Formulation and Validation of an Energy Dissipation Model for the Clock Generation Circuitry and Distribution Networks.|2001|VLSI Design|conf/vlsid/DuarteVIK01
+An Evaluation of Different Page Allocation Strategies on High-Speed SSDs.|2012|HotStorage|conf/hotstorage/JungK12
+Challenges in Getting Flash Drives Closer to CPU.|2013|HotStorage|conf/hotstorage/JungK13
+Fair Resource Allocation in Consolidated Flash Systems.|2019|HotStorage|conf/hotstorage/ChoiUKJ19
+SRP: Symbiotic Resource Partitioning of the Memory Hierarchy in CMPs.|2010|HiPEAC|conf/hipeac/SrikantaiahK10
+Communication Based Proactive Link Power Management.|2009|HiPEAC|conf/hipeac/MuralidharaK09
+Adapting Application Mapping to Systematic Within-Die Process Variations on Chip Multiprocessors.|2009|HiPEAC|conf/hipeac/DingKIR09
+In-Network Caching for Chip Multiprocessors.|2009|HiPEAC|conf/hipeac/YanamandraINKN09
+A compiler-directed data prefetching scheme for chip multiprocessors.|2009|PPOPP|conf/ppopp/SonKKC09
+Enhancing the performance of MPI-IO applications by overlapping I/O, computation and communication.|2008|PPOPP|conf/ppopp/PatrickSK08
+Intra-application shared cache partitioning for multithreaded applications.|2010|PPOPP|conf/ppopp/MuralidharaKR10
+Exposing disk layout to compiler for reducing energy consumption of parallel disk based systems.|2005|PPOPP|conf/ppopp/SonCKC05
+QoS aware storage cache management in multi-server environments.|2011|PPOPP|conf/ppopp/PrabhakarSGK11
+Data layout optimization for GPGPU architectures.|2013|PPOPP|conf/ppopp/LiuDJK13
+VIP: virtualizing IP chains on handheld platforms.|2015|ISCA|conf/isca/NachiappanZRSSK15
+DRPM: Dynamic Speed Control for Power Mangagement in Server Class Disks.|2003|ISCA|conf/isca/GurumurthiSKF03
+A case for core-assisted bottleneck acceleration in GPUs: enabling flexible data compression with assist warps.|2015|ISCA|conf/isca/VijaykumarPJ0AD15
+Physically Addressed Queueing (PAQ): Improving parallelism in Solid State Disks.|2012|ISCA|conf/isca/JungWK12
+Opportunistic computing in GPU architectures.|2019|ISCA|conf/isca/PattnaikTKJMKSD19
+Boosting Access Parallelism to PCM-Based Main Memory.|2016|ISCA|conf/isca/ArjomandKSD16
+Design and Management of 3D Chip Multiprocessors Using Network-in-Memory.|2006|ISCA|conf/isca/LiNRXVK06
+HIOS: A host interface I/O scheduler for Solid State Disks.|2014|ISCA|conf/isca/JungCSYK14
+Orchestrated scheduling and prefetching for GPGPUs.|2013|ISCA|conf/isca/JogKMKMID13
+Energy-driven integrated hardware-software optimizations using SimplePower.|2000|ISCA|conf/isca/VijaykrishnanKIKY00
+Taking Garbage Collection Overheads Off the Critical Path in SSDs.|2012|Middleware|conf/middleware/JungPK12
+Improving I/O performance using soft-QoS-based dynamic storage cache partitioning.|2009|CLUSTER|conf/cluster/PatrickGSK09
+Runtime system support for software-guided disk power management.|2007|CLUSTER|conf/cluster/SonK07
+Kernel-Level Caching for Optimizing I/O by Exploiting Inter-Application Data Sharing.|2002|CLUSTER|conf/cluster/VilayannurKS02
+Exploiting Intra-Request Slack to Improve SSD Performance.|2017|ASPLOS|conf/asplos/ElyasiASKDJ17
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling.|2017|ASPLOS|conf/asplos/KotraSCK17
+OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance.|2013|ASPLOS|conf/asplos/JogKNMKMID13
+Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications.|2014|GPGPU@ASPLOS|conf/asplos/JogBGPKKD14
+Adaptive set pinning: managing shared caches in chip multiprocessors.|2008|ASPLOS|conf/asplos/SrikantaiahKI08
+Triple-A: a Non-SSD based autonomic all-flash array for high performance storage systems.|2014|ASPLOS|conf/asplos/JungCSK14
+SOML Read: Rethinking the Read Operation Granularity of 3D NAND SSDs.|2019|ASPLOS|conf/asplos/LiuKJKD19
+Locality-conscious workload assignment for array-based computations in MPSOC architectures.|2005|DAC|conf/dac/LiK05
+Process variation-aware routing in NoC based multicores.|2011|DAC|conf/dac/SharifiK11
+Reducing Memory Requirements of Nested Loops for Embedded Systems.|2001|DAC|conf/dac/RamanujamHKN01
+A Memory-Conscious Code Parallelization Scheme.|2007|DAC|conf/dac/XueOK07
+Automatic data migration for reducing energy consumption in multi-bank memory systems.|2002|DAC|conf/dac/LuzKK02
+Effect of Distributed Directories in Mesh Interconnects.|2019|DAC|conf/dac/HorroKP0T19
+Reducing Off-Chip Memory Access Costs Using Data Recomputation in Embedded Chip Multi-processors.|2007|DAC|conf/dac/KocKEO07
+Exploiting shared scratch pad memory space in embedded multiprocessor systems.|2002|DAC|conf/dac/KandemirRC02
+Improving java virtual machine reliability for memory-constrained embedded systems.|2005|DAC|conf/dac/ChenK05
+FLOSS: FLOw sensitive scheduling on mobile platforms.|2018|DAC|conf/dac/ZhangRNZSKD18
+An energy saving strategy based on adaptive loop parallelization.|2002|DAC|conf/dac/KadayifKK02
+An integer linear programming based approach for parallelizing applications in On-chip multiprocessors.|2002|DAC|conf/dac/KadayifKS02
+The design and use of simplepower: a cycle-accurate energy estimation tool.|2000|DAC|conf/dac/YeVKI00
+Optimizing code parallelization through a constraint network based approach.|2006|DAC|conf/dac/OzturkCK06
+Courteous cache sharing: being nice to others in capacity management.|2012|DAC|conf/dac/SharifiSKI12
+Dynamic thread and data mapping for NoC based CMPs.|2009|DAC|conf/dac/KandemirOM09
+A hybrid NoC design for cache coherence optimization for chip multiprocessors.|2012|DAC|conf/dac/ZhaoJDZKI12
+Interprocedural optimizations for improving data cache performance of array-intensive embedded applications.|2003|DAC|conf/dac/ZhangCKK03
+Application mapping for chip multiprocessors.|2008|DAC|conf/dac/ChenLSK08
+Influence of compiler optimizations on system power.|2000|DAC|conf/dac/KandemirVIY00
+Scheduler-based DRAM energy management.|2002|DAC|conf/dac/DelaluzSKVI02
+Network footprint reduction through data access and computation placement in NoC-based manycores.|2015|DAC|conf/dac/LiuKDK15
+LODS: locality-oriented dynamic scheduling for on-chip multiprocessors.|2004|DAC|conf/dac/Kandemir04
+A helper thread based dynamic cache partitioning scheme for multithreaded applications.|2011|DAC|conf/dac/KandemirYK11
+Compiler-directed scratch pad memory hierarchy design and management.|2002|DAC|conf/dac/KandemirC02
+Data compression for improving SPM behavior.|2004|DAC|conf/dac/OzturkKDCI04
+Dynamic Management of Scratch-Pad Memory Space.|2001|DAC|conf/dac/KandemirRIVKP01
+REEact: a customizable virtual execution manager for multicore platforms.|2012|VEE|conf/vee/WangDMACDIKS12
+Exploiting frequent field values in java objects for reducing heap memory requirements.|2005|VEE|conf/vee/ChenKI05
+A Systematic Approach to Automatically Generate Multiple Semantically Equivalent Program Versions.|2008|Ada-Europe|conf/adaEurope/NarayananK08
+Secure Execution of Computations in Untrusted Hosts.|2006|Ada-Europe|conf/adaEurope/NarayananKBK06
+Analyzing energy behavior of spatial access methods for memory-resident data.|2001|VLDB|conf/vldb/AnSVKIG01

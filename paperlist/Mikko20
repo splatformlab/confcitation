@@ -1,0 +1,91 @@
+BitBench: a benchmark for bitstream computing.|2019|LCTES|conf/lctrts/DaruwallaZSL19
+Accelerating atomic operations on GPGPUs.|2013|NOCS|conf/nocs/FraneyL13
+Circuit-Switched Coherence.|2008|NOCS|conf/nocs/JergerPL08
+Compiler assisted coalescing.|2018|PACT|conf/IEEEpact/PuthoorL18
+Characterization of Silent Stores.|2000|IEEE PACT|conf/IEEEpact/BellLL00
+The Effect of Program Optimization on Trace Cache Efficiency.|1999|IEEE PACT|conf/IEEEpact/HowardL99
+Skewed redundancy.|2008|PACT|conf/IEEEpact/BellL08
+Hash Map Inlining.|2016|PACT|conf/IEEEpact/GopeL16
+Constraint Graph Analysis of Multithreaded Programs.|2003|IEEE PACT|conf/IEEEpact/CainLN03
+Redeeming IPC as a Performance Metric for Multithreaded Programs.|2003|IEEE PACT|conf/IEEEpact/LepakCL03
+An accurate flip-flop selection technique for reducing logic SER.|2008|DSN|conf/dsn/HillLS08
+Mitigating random variation with spare RIBs: Redundant intermediate bitslices.|2012|DSN|conf/dsn/PalframanKL12
+Edge chasing delayed consistency: pushing the limits of weak memory models.|2012|RACES@SPLASH|conf/oopsla/CainL12
+Time redundant parity for low-cost transient error detection.|2011|DATE|conf/date/PalframanKL11
+Bias-Free Branch Predictor.|2014|MICRO|conf/micro/GopeL14
+Macro-op Scheduling: Relaxing Scheduling Loop Constraints.|2003|MICRO|conf/micro/KimL03
+Exceeding the Dataflow Limit via Value Prediction.|1996|MICRO|conf/micro/LipastiS96
+The NoX router.|2011|MICRO|conf/micro/HayengaL11
+Silent stores for free.|2000|MICRO|conf/micro/LepakL00
+Virtual tree coherence: Leveraging regions and in-network multicast trees for scalable cache coherence.|2008|MICRO|conf/micro/JergerPL08
+SPAID: software prefetching in pointer- and call-intensive environments.|1995|MICRO|conf/micro/LipastiSKR95
+CRAM: coded registers for amplified multiporting.|2011|MICRO|conf/micro/NareshPL11
+Light speed arbitration and flow control for nanophotonic interconnects.|2009|MICRO|conf/micro/VantreaseBSL09
+Correctly implementing value prediction in microprocessors that support multithreading or multiprocessing.|2001|MICRO|conf/micro/MartinSCHL01
+SCARAB: a single cycle adaptive routing and bufferless network.|2009|MICRO|conf/micro/HayengaJL09
+Combating Aging with the Colt Duty Cycle Equalizer.|2010|MICRO|conf/micro/GunadiSKL10
+Wavelength stealing: an opportunistic approach to channel sharing in multi-chip photonic interconnects.|2013|MICRO|conf/micro/ZulfiqarKSLZK13
+Dynamic Class Hierarchy Mutation.|2006|CGO|conf/cgo/SuL06
+Atomic SC for simple in-order processors.|2014|HPCA|conf/hpca/GopeL14
+iPatch: Intelligent fault patching to improve energy efficiency.|2015|HPCA|conf/hpca/PalframanKL15
+Tag tables.|2015|HPCA|conf/hpca/FraneyL15
+Bridging the semantic gap: Emulating biological neuronal behaviors with simple digital neurons.|2013|HPCA|conf/hpca/NereHLT13
+An Architectural Evaluation of Java TPC-W.|2001|HPCA|conf/hpca/CainRML01
+Understanding Scheduling Replay Schemes.|2004|HPCA|conf/hpca/KimL04
+Revolver: Processor architecture for power efficient loop execution.|2014|HPCA|conf/hpca/HayengaNL14
+Precision-aware soft error protection for GPUs.|2014|HPCA|conf/hpca/PalframanKL14
+An approach for implementing efficient superscalar CISC processors.|2006|HPCA|conf/hpca/HuKLS06
+Recycling Data Slack in Out-of-Order Cores.|2019|HPCA|conf/hpca/RaviL19
+Atomic Coherence: Leveraging nanophotonics to build race-free cache coherence protocols.|2011|HPCA|conf/hpca/VantreaseLB11
+Power-Efficient DRAM Speculation.|2008|HPCA|conf/hpca/AggarwalCLS08
+A Cortically Inspired Learning Model.|2010|IJCCI (Selected Papers)|conf/ijcci/HashmiL10a
+Discovering Cortical Algorithms.|2010|IJCCI (ICFC-ICNC)|conf/ijcci/HashmiL10
+Friendly fire: understanding the effects of multiprocessor prefetches.|2006|ISPASS|conf/ispass/JergerHL06
+Deconstructing commit.|2004|ISPASS|conf/ispass/BellL04
+Reaping the Benefit of Temporal Silence to Improve Communication Performance.|2005|ISPASS|conf/ispass/LepakL05
+Accelerating search and recognition workloads with SSE 4.2 string and text processing instructions.|2011|ISPASS|conf/ispass/ShiLL11
+The Performance Potential of Value and Dependence Prediction.|1997|Euro-Par|conf/europar/LipastiS97
+Profiling Heterogeneous Multi-GPU Systems to Accelerate Cortically Inspired Learning Algorithms.|2011|IPDPS|conf/ipps/NereHL11
+Cortical columns: Building blocks for intelligent systems.|2009|CIMSIVP|conf/cimsivp/HashmiL09
+Temporal codes in on-chip interconnects.|2017|ISLPED|conf/islped/MishkinKL17
+Stall cycle redistribution in a transparent fetch pipeline.|2006|ISLPED|conf/islped/HillL06
+Tag check elision.|2014|ISLPED|conf/islped/ZhengWL14
+REEL: Reducing effective execution latency of floating point operations.|2013|ISLPED|conf/islped/ReddyGGKSL13
+Aggressive Slack Recycling via Transparent Pipelines.|2018|ISLPED|conf/islped/RaviL18
+Power-aware operand delivery.|2007|ISLPED|conf/islped/GunadiL07
+BADGR: A practical GHR implementation for TAGE branch predictors.|2016|ICCD|conf/iccd/SchlaisL16
+Architecture-Compatible Code Boosting for Performance Enhancement of the IBM RS/6000.|1993|ICCD|conf/iccd/DiepLS93
+Data compression for thermal mitigation in the Hybrid Memory Cube.|2013|ICCD|conf/iccd/KhurshidL13
+Transparent mode flip-flops for collapsible pipelines.|2007|ICCD|conf/iccd/HillL07
+Accelerating search and recognition with a TCAM functional unit.|2008|ICCD|conf/iccd/HashmiL08
+Can Trace-Driven Simulators Accurately Predict Superscalar Performance?|1996|ICCD|conf/iccd/BlackHLS96
+A position-insensitive finished store buffer.|2007|ICCD|conf/iccd/GunadiL07
+An Evaluation of Server Consolidation Workloads for Multi-Core Designs.|2007|IISWC|conf/iiswc/JergerVL07
+BenchNN: On the broad potential application scope of hardware neural network accelerators.|2012|IISWC|conf/iiswc/ChenCDGHLNQST12
+Online and Operand-Aware Detection of Failures Utilizing False Alarm Vectors.|2015|ACM Great Lakes Symposium on VLSI|conf/glvlsi/YazdanbakhshPDK15
+Evaluating hopfield-network-based linear solvers for hardware constrained neural substrates.|2017|IJCNN|conf/ijcnn/ShuklaJL17
+A self-learning map-seeking circuit for visual object recognition.|2015|IJCNN|conf/ijcnn/ShuklaL15
+Exploiting Partial Operand Knowledge.|2003|ICPP|conf/icpp/MestanL03
+Minimizing Energy Consumption for High-Performance Processing.|2002|VLSI Design|conf/vlsid/WeglarzSL02
+COP: to compress and protect main memory.|2015|ISCA|conf/isca/PalframanKL15
+Half-Price Architecture.|2003|ISCA|conf/isca/KimL03
+Memory Ordering: A Value-Based Approach.|2004|ISCA|conf/isca/CainL04
+Improving Multiprocessor Performance with Coarse-Grain Coherence Tracking.|2005|ISCA|conf/isca/CantinLS05
+Architectural Support for Server-Side PHP Processing.|2017|ISCA|conf/isca/GopeSL17
+On the value locality of store instructions.|2000|ISCA|conf/isca/LepakL00
+Avoiding Initialization Misses to the Heap.|2002|ISCA|conf/isca/LewisLB02
+Virtual Circuit Tree Multicasting: A Case for On-Chip Hardware Multicast Support.|2008|ISCA|conf/isca/JergerPL08
+CHARSTAR: Clock Hierarchy Aware Resource Scaling in Tiled ARchitectures.|2017|ISCA|conf/isca/RaviL17
+Physical Register Inlining.|2004|ISCA|conf/isca/LipastiMG04
+Automatic abstraction and fault tolerance in cortical microachitectures.|2011|ISCA|conf/isca/HashmiBTL11
+CRIB: consolidated rename, issue, and bypass.|2011|ISCA|conf/isca/GunadiL11
+Implementing Optimizations at Decode Time.|2002|ISCA|conf/isca/KimL02
+Achieving predictable performance through better memory controller placement in many-core CMPs.|2009|ISCA|conf/isca/AbtsJKGL09
+The complexity of verifying memory coherence.|2003|SPAA|conf/spaa/CantinLS03
+Verifying sequential consistency using vector clocks.|2002|SPAA|conf/spaa/CainL02
+Temporally silent stores.|2002|ASPLOS|conf/asplos/LepakL02
+A case for neuromorphic ISAs.|2011|ASPLOS|conf/asplos/HashmiNTL11
+Stealth prefetching.|2006|ASPLOS|conf/asplos/CantinLS06
+Cortical architectures on a GPGPU.|2010|GPGPU|conf/asplos/NereL10
+Value Locality and Load Value Prediction.|1996|ASPLOS|conf/asplos/LipastiWS96
+Speculative optimization using hardware-monitored guarded regions for java virtual machines.|2007|VEE|conf/vee/SuL07

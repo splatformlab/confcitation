@@ -1,0 +1,79 @@
+Packaging and Multiplexing of Hierarchical Scalable Expanders.|1994|PCRCW|conf/pcrcw/ChongBLK94
+On deriving unknown vulnerabilities from zero-day polymorphic and metamorphic worm exploits.|2005|ACM Conference on Computer and Communications Security|conf/ccs/CrandallSW05
+Bezoar: Automated virtual machine-based full-system recovery from control-flow hijacking attacks.|2008|NOMS|conf/noms/OliveiraCWYWSC08
+Minimal Multi-threading: Finding and Removing Redundant Instructions in Multi-threaded Processors.|2010|MICRO|conf/micro/LongFBOOFC10
+Memory cocktail therapy: a general learning-based framework to optimize dynamic tradeoffs in NVMs.|2017|MICRO|conf/micro/DengZMHC17
+Exploiting ILP in Page-based Intelligent Memory.|1999|MICRO|conf/micro/OskinHKCFC99
+Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures.|2018|MICRO|conf/micro/DingHJFMC18
+Optimized surface code communication in superconducting quantum computers.|2017|MICRO|conf/micro/JavadiAbhariGHF17
+Execution leases: a hardware-supported mechanism for enforcing strong non-interference.|2009|MICRO|conf/micro/TiwariLWCS09
+Minos: Control Data Attack Prevention Orthogonal to Memory Model.|2004|MICRO|conf/micro/CrandallC04
+The Sensitivity of Communication Mechanisms to Bandwidth and Latency.|1998|HPCA|conf/hpca/ChongBDKA98
+Balancing Performance and Lifetime of MLC PCM by Using a Region Retention Monitor.|2017|HPCA|conf/hpca/ZhangZJLC17
+A Realizable Distributed Ion-Trap Quantum Computer.|2006|HiPC|conf/hipc/ThakerMC06
+HLSpower: Hybrid Statistical Modeling of the Superscalar Power-Performance Design Space.|2002|HiPC|conf/hipc/RaoOC02
+Synchroscalar: Initial Lessons in Power-Aware Design of a Tile-Based Embedded Architecture.|2003|PACS|conf/pacs/OliverRSCCJCKAC03
+Predicting memory page stability and its application to memory deduplication and live migration.|2017|ISPASS|conf/ispass/ElghamrawyFC17
+Quantifying the environmental advantages of large-scale computing.|2010|Green Computing Conference|conf/green/AnagnostopoulouSC10
+A case for smartphone reuse to augment elementary school education.|2010|Green Computing Conference|conf/green/LiOBFOGZC10
+Exploiting Data Similarity to Reduce Memory Footprints.|2011|IPDPS|conf/ipps/BiswasSSFSC11
+ReDHiP: Recalibrating Deep Hierarchy Prediction for Energy Efficiency.|2014|IPDPS|conf/ipps/0001FBC14
+Cooperative NV-NUMA: prolonging non-volatile memory lifetime through bandwidth sharing.|2018|MEMSYS|conf/memsys/JokarZC18
+Thermal-aware, heterogeneous materials for improved energy and reliability in 3D PCM architectures.|2017|MEMSYS|conf/memsys/SaadeldeenDSC17
+Herniated Hash Tables: Exploiting Multi-Level Phase Change Memory for In-Place Data Expansion.|2015|MEMSYS|conf/memsys/DengZFC15
+Secure information flow analysis for hardware design: using the right abstraction for the job.|2010|PLAS|conf/pldi/0001THSC10
+Caisson: a hardware description language for secure information flow.|2011|PLDI|conf/pldi/LiTOKCSH11
+Position paper: Sapper - a language for provable hardware policy enforcement.|2013|PLAS|conf/pldi/0001KOTRKSHC13
+Combining static and dynamic defect-tolerance techniques for nanoscale memory systems.|2007|ICCAD|conf/iccad/BiswasWMKC07
+A pageable, defect-tolerant nanoscale memory system.|2007|NANOARCH|conf/nanoarch/BiswasCMK07
+Design-space exploration of fault-tolerant building blocks for large-scale quantum computing.|2007|NANOARCH|conf/nanoarch/MetodiCTCC07
+Smartphone Evolution and Reuse: Establishing a More Sustainable Model.|2010|ICPP Workshops|conf/icppw/LiOBFOGZC10
+Experiences Using Minos as a Tool for Capturing and Analyzing Novel Worms for Unknown Vulnerabilities.|2005|DIMVA|conf/dimva/CrandallWC05
+LogStore: toward energy-proportional storage servers.|2012|ISLPED|conf/islped/ZhengCCB12
+Memristors for neural branch prediction: a case study in strict latency and write endurance challenges.|2013|Conf. Computing Frontiers|conf/cf/SaadeldeenFLHBSSC13
+Tile size selection for low-power tile-based architectures.|2006|Conf. Computing Frontiers|conf/cf/OliverRBMFCA06
+Credit-based dynamic reliability management using online wearout detection.|2008|Conf. Computing Frontiers|conf/cf/OliverAAC08
+ScaffCC: a framework for compilation and analysis of quantum computing programs.|2014|Conf. Computing Frontiers|conf/cf/JavadiAbhariPKHLCM14
+Reducing Cost and Tolerating Defects in Page-based Intelligent Memory.|2000|ICCD|conf/iccd/OskinKHLC00
+Quick-and-Dirty: Improving Performance of MLC PCM by Using Temporary Short Writes.|2017|ICCD|conf/iccd/ZhangZJCL17
+ActiveOS: Virtualizing Intelligent Memory.|1999|ICCD|conf/iccd/OskinCS99
+QuRE: The Quantum Resource Estimator toolbox.|2013|ICCD|conf/iccd/SucharaKFCLP13
+Characterization of Error-Tolerant Applications when Protecting Control Data.|2006|IISWC|conf/iiswc/ThakerFOBLMC06
+Characterizing the performance effect of trials and rotations in applications that use Quantum Phase Estimation.|2014|IISWC|conf/iiswc/PatilJCHMC14
+Function flattening for lease-based, information-leak-free systems.|2010|ASAP|conf/asap/LiTSC10
+Challenging on-chip SRAM security with boot-state statistics.|2017|HOST|conf/host/McMahanCXHCS17
+Power-Aware Resource Allocation for CPU- and Memory-Intense Internet Services.|2012|E2DC|conf/e2dc/AnagnostopoulouBSBYFC12
+Scalable expanders: exploiting hierarchical random wiring.|1994|STOC|conf/stoc/BrewerCL94
+A Case for Energy-Aware Security Mechanisms.|2013|AINA Workshops|conf/aina/0001C13
+Exploring the Processor and ISA Design for Wireless Sensor Network Applications.|2008|VLSI Design|conf/vlsid/MysoreACS08
+Conflict-Avoidance in Multicore Caching for Data-Similar Executions.|2009|ISPAN|conf/ispan/BiswasFSC09
+Building a better butterfly: the multiplexed metabutterfly.|1994|ISPAN|conf/ispan/ChongBLK94
+Lemonade from Lemons: Harnessing Device Wearout to Create Limited-Use Security Architectures.|2017|ISCA|conf/isca/DengFKC17
+From Speculation to Security: Practical and Efficient Information Flow Tracking Using Speculative Hardware.|2008|ISCA|conf/isca/ChenWYZYC08
+Multi-execution: multicore caching for data-similar executions.|2009|ISCA|conf/isca/BiswasFSDSC09
+Crafting a usable microkernel, processor, and I/O system with strict and provable information flow security.|2011|ISCA|conf/isca/TiwariOLVLHKCS11
+Mellow Writes: Extending Lifetime in Resistive Memories through Selective Slow Write Backs.|2016|ISCA|conf/isca/ZhangNFSXC16
+Charm: A Language for Closed-Form High-Level Architecture Modeling.|2018|ISCA|conf/isca/CuiDDHMJTCS18
+Active Pages: A Computation Model for Intelligent Memory.|1998|ISCA|conf/isca/OskinCS98
+Asymptotic improvements to quantum circuits via qutrits.|2019|ISCA|conf/isca/GokhaleBDBBC19
+Building Quantum Wires: The Long and the Short of It.|2003|ISCA|conf/isca/OskinCCK03
+Quantum Memory Hierarchies: Efficient Designs to Match Available Parallelism in Quantum Computing.|2006|ISCA|conf/isca/ThakerMCCC06
+Quantum rotations: a case study in static and dynamic machine-code generation for quantum computers.|2013|ISCA|conf/isca/KudrowBDFTBC13
+Fighting fire with fire: modeling the datacenter-scale effects of targeted superlattice thermal management.|2011|ISCA|conf/isca/BiswasTSTC11
+SurfNoC: a low latency and provably non-interfering approach to secure networks-on-chip.|2013|ISCA|conf/isca/WasselGOHKCS13
+METRO: A Router Architecture for High-Performance, Short-Haul Routing Networks.|1994|ISCA|conf/isca/ChongMDBPEK94
+Synchroscalar: A Multiple Clock Domain, Power-Aware, Tile-Based Embedded Processor.|2004|ISCA|conf/isca/OliverRSCCJFAC04
+HLS: combining statistical and symbolic simulation to guide microprocessor designs.|2000|ISCA|conf/isca/OskinCF00
+Remote Queues: Exposing Message Queues for Optimization and Atomicity.|1995|SPAA|conf/spaa/BrewerCLSK95
+The effect of communication costs in solid-state quantum computing architectures.|2003|SPAA|conf/spaa/CopseyOMCCK03
+Efficient orchestration of sub-word parallelism in media processors.|2004|SPAA|conf/spaa/OliverAC04
+Design and Performance of Multipath MIN Architectures.|1992|SPAA|conf/spaa/ChongK92
+ExecRecorder: VM-based full-system replay for attack analysis and system recovery.|2006|ASID|conf/asplos/OliveiraCWWSC06
+Complete information flow tracking from the gates up.|2009|ASPLOS|conf/asplos/TiwariWMMCS09
+Sapper: a language for hardware-level security policy enforcement.|2014|ASPLOS|conf/asplos/0001KOTRKSHC14
+Temporal search: detecting hidden malware timebombs with virtual machines.|2006|ASPLOS|conf/asplos/CrandallWOSWC06
+Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers.|2019|ASPLOS|conf/asplos/ShiLGRSHC19
+Protecting Page Tables from RowHammer Attacks using Monotonic Pointers in DRAM True-Cells.|2019|ASPLOS|conf/asplos/WuSCL19
+Compiler Management of Communication and Parallelism for Quantum Computation.|2015|ASPLOS|conf/asplos/HeckeyPJHKBFCM15
+Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.|2019|ASPLOS|conf/asplos/MuraliBJCM19
+Quantum Computing is Getting Real: Architecture, PL, and OS Roles in Closing the Gap between Quantum Algorithms and Machines.|2018|ASPLOS|conf/asplos/Chong18

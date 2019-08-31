@@ -1,0 +1,79 @@
+On the Adequacy of Direct Mapped Caches for Lisp and Prolog Data Reference Patterns.|1989|NACLP|conf/slp/MadanPS89
+Adapting to Intermittent Faults in Future Multicore Systems.|2007|PACT|conf/IEEEpact/WellsCS07
+Hardware support for spin management in overcommitted virtual machines.|2006|PACT|conf/IEEEpact/WellsCS06
+Microprocessors - 10 Years Back, 10 Years Ahead.|2001|Informatics|conf/dagstuhl/Sohi01
+Features of the Structured Memory Access (SMA) Architecture.|1986|COMPCON|conf/compcon/PleszkunSKD86
+A study of time-redundant fault tolerance techniques for high-performance pipelined computers.|1989|FTCS|conf/ftcs/SohiFS89
+Read-After-Read Memory Dependence Prediction.|1999|MICRO|conf/micro/MoshovosS99
+Multiple instruction issue and single-chip processors.|1988|MICRO|conf/micro/PleszkunS88
+The anatomy of the register file in a multiscalar processor.|1994|MICRO|conf/micro/BreachVS94
+Exploiting Value Locality in Physical Register Files.|2003|MICRO|conf/micro/BalakrishnanS03
+Register traffic analysis for streamlining inter-operation communication in fine-grain parallel processors.|1992|MICRO|conf/micro/FranklinS92
+A static power model for architects.|2000|MICRO|conf/micro/ButtsS00
+Register integration: a simple and efficient implementation of squash reuse.|2000|MICRO|conf/micro/RothS00
+Streamlining Inter-Operation Memory Communication via Data Dependence Prediction.|1997|MICRO|conf/micro/MoshovosS97
+Characterizing and predicting value degree of use.|2002|MICRO|conf/micro/ButtsS02
+Zero-cycle loads: microarchitecture support for reducing load latency.|1995|MICRO|conf/micro/AustinS95
+A quantitative framework for automated pre-execution thread selection.|2002|MICRO|conf/micro/RothS02
+Understanding the Differences Between Value Prediction and Instruction Reuse.|1998|MICRO|conf/micro/SodaniS98
+The Use of Multithreading for Exception Handling.|1999|MICRO|conf/micro/ZillesES99
+Task Selection for a Multiscalar Processor.|1998|MICRO|conf/micro/VijaykumarS98
+Control flow prediction for dynamic ILP processors.|1993|MICRO|conf/micro/PnevmatikatosFS93
+Dataflow execution of sequential imperative programs on multicore architectures.|2011|MICRO|conf/micro/GuptaS11
+Master/slave speculative parallelization.|2002|MICRO|conf/micro/ZillesS02
+Single-Chip Multiprocessors: The Next Wave of Computer Architecture Innovation.|2004|MICRO|conf/micro/Sohi04
+A Programmable Co-Processor for Profiling.|2001|HPCA|conf/hpca/ZillesS01
+Speculative Versioning Cache.|1998|HPCA|conf/hpca/GopalVSS98
+Memory Dependence Speculation Tradeoffs in Centralized, Continuous-Window Superscalar Processors.|2000|HPCA|conf/hpca/MoshovosS00
+Speculative Data-Driven Multithreading.|2001|HPCA|conf/hpca/RothS01
+Revisiting virtual L1 caches: A practical design using dynamic synonym remapping.|2016|HPCA|conf/hpca/YoonS16
+Serializing instructions in system-intensive workloads: Amdahl's Law strikes again.|2008|HPCA|conf/hpca/WellsS08
+Amir Roth: Speculative Multithreaded Processors.|2000|HiPC|conf/hipc/Sohi00
+Experience with Mean Value Analysis Models for Evaluating Shared Bus, Throughput-Oriented Multiprocessors.|1991|SIGMETRICS|conf/sigmetrics/ChiangS91
+ATM: Approximate Task Memoization in the Runtime System.|2017|IPDPS|conf/ipps/BrumarCMVS17
+Adaptive, efficient, parallel execution of parallel programs.|2014|PLDI|conf/pldi/SridharanGS14
+Globally precise-restartable execution of parallel programs.|2014|PLDI|conf/pldi/GuptaSS14
+Efficient Detection of All Pointer and Array Access Errors.|1994|PLDI|conf/pldi/AustinBS94
+Restricted Fetch&Phi operations for parallel processing.|1989|ICS|conf/ics/SohiSG89
+Holistic run-time parallelism management for time and energy efficiency.|2013|ICS|conf/ics/SridharanGS13
+Cooperative cache partitioning for chip multiprocessors.|2007|ICS|conf/ics/ChangS07
+Author retrospective for cooperative cache partitioning for chip multiprocessors.|2014|ICS 25th Anniversary|conf/ics/ChangS14
+Improving virtual function call target prediction via dependence-based pre-computation.|1999|International Conference on Supercomputing|conf/ics/RothMS99
+Exploitation of operation-level parallelism in a processor of the CRAY X-MP.|1990|ICCD|conf/iccd/VajapeyamSH90
+Out-of-Order Instruction Fetch Using Multiple Sequencers.|2002|ICPP|conf/icpp/OberoiS02
+Serialization sets: a dynamic dependence-based parallel execution model.|2009|PPOPP|conf/ppopp/AllenSS09
+Organization and Analysis of a Gracefully-Degrading Interleaved Memory System.|1987|ISCA|conf/isca/CheungSSP87
+Execution-based prediction using speculative slices.|2001|ISCA|conf/isca/ZillesS01
+Instruction Issue Logic for High-Performance, Interruptable Pipelined Processors.|1987|ISCA|conf/isca/SohiV87
+The Performance Potential of Multiple Functional Unit Processors.|1988|ISCA|conf/isca/PleszkunS88
+Dynamic Dependency Analysis of Ordinary Programs.|1992|ISCA|conf/isca/AustinS92
+Instruction Issue Logic for High-Performance, Interruptable Pipelined Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/SohiV98
+The Expandable Split Window Paradigm for Exploiting Fine-Grain Parallelism.|1992|ISCA|conf/isca/FranklinS92
+Streamlining Data Cache Access with Fast Address Calculation.|1995|ISCA|conf/isca/AustinPS95
+Retrospective: Multiscalar Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Sohi98a
+An Empirical Study of the CRAY Y-MP Processor Using the Perfect Club Benchmarks.|1991|ISCA|conf/isca/VajapeyamSH91
+Using Feedback to Control Tree Saturation in Multistage Interconnection Networks.|1989|ISCA|conf/isca/ScottS89
+Dynamic Instruction Reuse.|1997|ISCA|conf/isca/SodaniS97
+Understanding the backward slices of performance degrading instructions.|2000|ISCA|conf/isca/ZillesS00
+High-Bandwidth Address Translation for Multiple-Issue Processors.|1996|ISCA|conf/isca/AustinS96
+Multiscalar Processors.|1995|ISCA|conf/isca/SohiBV95
+Use-Based Register Caching with Decoupled Indexing.|2004|ISCA|conf/isca/ButtsS04
+Cooperative Caching for Chip Multiprocessors.|2006|ISCA|conf/isca/ChangS06
+Parallelism in the Front-End.|2003|ISCA|conf/isca/OberoiS03
+Multiscalar Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/SohiBV98
+Guarded Executing and Branch Prediction in Dynamic ILP Processors.|1994|ISCA|conf/isca/PnevmatikatosS94
+Dynamic Speculation and Synchronization of Data Dependences.|1997|ISCA|conf/isca/MoshovosBVS97
+An Efficient LISP-Execution Architecture with a New Representation for List Structures.|1985|ISCA|conf/isca/SohiDP85
+Retrospective: Instruction Issue Logic for High-Performance, Interruptable Pipelined Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Sohi98
+Effective Jump-Pointer Prefetching for Linked Data Structures.|1999|ISCA|conf/isca/RothS99
+Program Demultiplexing: Data-flow based Speculative Parallelization of Methods in Sequential Programs.|2006|ISCA|conf/isca/BalakrishnanS06
+Tradeoffs in Instruction Format Design for Horizontal Architectures.|1989|ASPLOS|conf/asplos/SohiV89
+Dependance Based Prefetching for Linked Data Structures.|1998|ASPLOS|conf/asplos/RothMS98
+Mixed-mode multicore reliability.|2009|ASPLOS|conf/asplos/WellsCS09
+Filtering Translation Bandwidth with Virtual Caching.|2018|ASPLOS|conf/asplos/YoonLS18
+Dynamic dead-instruction detection and elimination.|2002|ASPLOS|conf/asplos/ButtsS02
+High-Bandwidth Data Memory Systems for Superscalar Processors.|1991|ASPLOS|conf/asplos/SohiF91
+An Empirical Analysis of Instruction Repetition.|1998|ASPLOS|conf/asplos/SodaniS98
+Coherence decoupling: making use of incoherence.|2004|ASPLOS|conf/asplos/HuhCBS04
+Computation spreading: employing hardware migration to specialize CMP cores on-the-fly.|2006|ASPLOS|conf/asplos/ChakrabortyWS06
+Adapting to intermittent faults in multicore systems.|2008|ASPLOS|conf/asplos/WellsCS08

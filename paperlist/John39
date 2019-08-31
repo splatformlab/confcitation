@@ -1,0 +1,76 @@
+SurfaceVibe: vibration-based tap&swipe tracking on ubiquitous surfaces.|2017|IPSN|conf/ipsn/PanRMFCHSNZ17
+Improving Bag-Of-Words: Capturing Local Information for Motion-Based Activity Recognition.|2018|UbiComp/ISWC Adjunct|conf/huc/ZengYMQLS18
+Automatic partitioning of signal processing programs for symmetric multiprocessors.|1996|IEEE PACT|conf/IEEEpact/NewburnS96
+Efficacy and Performance Impact of Value Prediction.|1998|IEEE PACT|conf/IEEEpact/RychlikFKS98
+Exploiting Instruction-Level Resource Parallelism for Transparent, Integrated Control-Flow Monitoring.|1991|FTCS|conf/ftcs/SchuetteS91
+Systematic Validation of Pipeline Interlock for Superscalar Microarchitectures.|1995|FTCS|conf/ftcs/DiepS95
+Direct Methods for Synthesis of Self-Monitoring State Machines.|1992|FTCS|conf/ftcs/RobinsonS92
+Implementation Optimization Techniques for Architecture Synthesis of Application-Specific Processors.|1991|MICRO|conf/micro/BreternitzS91
+An Instruction-Level Performance Analysis of the Multiflow TRACE 14/300.|1991|MICRO|conf/micro/SchuetteS91
+Exceeding the Dataflow Limit via Value Prediction.|1996|MICRO|conf/micro/LipastiS96
+PipeRench implementation of the instruction path coprocessor.|2000|MICRO|conf/micro/ChouPSS00
+EXPLORER: a retargetable and visualization-based trace-driven simulator for superscalar processors.|1993|MICRO|conf/micro/DiepSP93
+Scaling and Charact rizing Database Workloads: Bridging the Gap between Research and Practice.|2003|MICRO|conf/micro/HankinsDAHENS03
+Organization of array data for concurrent memory access.|1988|MICRO|conf/micro/BreternitzS88
+Theoretical modeling of superscalar processor performance.|1994|MICRO|conf/micro/NoonburgS94
+A limit study of local memory requirements using value reuse profiles.|1995|MICRO|conf/micro/HuangS95
+Die Stacking (3D) Microarchitecture.|2006|MICRO|conf/micro/BlackABDJLMMNPRRSSW06
+Flexible processors: a promising application-specific processor design approach.|1988|MICRO|conf/micro/WolfeS88
+Dynamic speculative precomputation.|2001|MICRO|conf/micro/CollinsTWS01
+Physical Experimentation with Prefetching Helper Threads on Intel's Hyper-Threaded Processors.|2004|CGO|conf/cgo/KimLWCTZWYGS04
+Memory Latency-Tolerance Approaches for Itanium Processors: Out-of-Order Execution vs. Speculative Precomputation.|2002|HPCA|conf/hpca/WangWCGKS02
+A Framework for Statistical Modeling of Superscalar Processor Performance.|1997|HPCA|conf/hpca/NoonburgS97
+Hardware Support for Prescient Instruction Prefetch.|2004|HPCA|conf/hpca/AamodtCHWS04
+Register Renaming and Scheduling for Dynamic Execution of Predicated Code.|2001|HPCA|conf/hpca/WangWKRS01
+Non-Vital Loads.|2002|HPCA|conf/hpca/RakvicBLS02
+Quantitative Evaluation of the Register Stack Engine and Optimizations for Future Itanium Processors.|2002|Interaction between Compilers and Computer Architectures|conf/IEEEinteract/WeldonCWHWLS02
+Relating buffer-oriented microarchitecture validation to high-level pipeline functionality.|2001|HLDVT|conf/hldvt/UtamaphethaiBS01
+A PDG-based Tool and its Use in Analyzing Program Control Dependences.|1994|IFIP PACT|conf/ifipPACT/NewburnNS94
+A Realistic Study on Multithreaded Superscalar Processor Design.|1997|Euro-Par|conf/europar/ChouSS97
+The Performance Potential of Value and Dependence Prediction.|1997|Euro-Par|conf/europar/LipastiS97
+Mispredicted Path Cache Effects.|1999|Euro-Par|conf/europar/CombsCS99
+A framework for modeling and optimization of prescient instruction prefetch.|2003|SIGMETRICS|conf/sigmetrics/AamodtMCGHWS03
+The design of two easily-testable VLSI array multipliers.|1983|IEEE Symposium on Computer Arithmetic|conf/arith/FergusonS83
+A Dependency Chain Clustered Microarchitecture.|2005|IPDPS|conf/ipps/NarayanasamyWWSC05
+Space-Time Graph Modeling of Ride Requests Based on Real-World Data.|2017|AAAI Workshops|conf/aaai/JauhriFBHGPS17
+Compiler Support for Low-Cost Synchronization Among Threads.|1997|PARCO|conf/parco/NewburnS97
+Data Driven Analysis of the Potentials of Dynamic Ride Pooling.|2017|IWCTS@SIGSPATIAL|conf/gis/ChenJS17
+Post-Pass Binary Adaptation for Software-Based Speculative Precomputation.|2002|PLDI|conf/pldi/LiaoWWSHL02
+Load Execution Latency Reduction.|1998|International Conference on Supercomputing|conf/ics/BlackMPRUS98
+Reducing branch misprediction penalties via dynamic control independence detection.|1999|International Conference on Supercomputing|conf/ics/ChouFS99
+Evaluation and Synthesis of Self-Monitoring State Machines.|1990|ICCAD|conf/iccad/RobinsonS90
+System-Level Issues for Software Thread Integration: Guest Triggering and Host Selection.|1999|RTSS|conf/rtss/DeanS99
+Techniques for Software Thread Integration in Real-Time Embedded Systems.|1998|RTSS|conf/rtss/DeanS98
+Hardware to Software Migration with Real-Time Thread Integration.|1998|EUROMICRO|conf/euromicro/DeanS98
+Clear and Present Tensions in Microprocessor Design.|2001|ICCD|conf/iccd/Shen01
+Architecture-Compatible Code Boosting for Performance Enhancement of the IBM RS/6000.|1993|ICCD|conf/iccd/DiepLS93
+Parallel Cachelets.|2001|ICCD|conf/iccd/LimayeRS01
+Branch Behavior of a Commercial OLTP Workload on Intel IA32 Processors.|2002|ICCD|conf/iccd/AnnavaramDS02
+Can Trace-Driven Simulators Accurately Predict Superscalar Performance?|1996|ICCD|conf/iccd/BlackHLS96
+Best of Both Latency and Throughput.|2004|ICCD|conf/iccd/GrochowskiRSW04
+Balancing Fine- and Medium-Grained Parallelism in Scheduling Loops for the XIMD Architecture.|1993|Architectures and Compilation Techniques for Fine and Medium Grain Parallelism|conf/ifip10-3/NewburnHS93
+Fault tolerance analysis of several interconnection networks.|1982|ICPP|conf/icpp/Shen82
+Easily-Testable (N, K) Shuffle/Exchange Networks.|1983|ICPP|conf/icpp/LeeS83
+Extraction and Simulation of Realistic CMOS Faults Using Inductive Fault Analysis.|1988|ITC|conf/itc/ShenF88
+Systematic Characterization of Physical Defects for Fault Analysis of MOS IC Cells.|1984|ITC|conf/itc/MalyFS84
+Continuous Signature Monitoring: Efficient Concurrent-Detection of Processor Control Errors.|1988|ITC|conf/itc/WilkenS88
+On-Line Self-Monitoring Using Signatured Instruction Streams.|1983|ITC|conf/itc/SchuetteS83
+Automated Design for Testability of Semicustom Integrated Circuits.|1985|ITC|conf/itc/FasangSSG85
+Superscalar Processor Validation at the Microarchitecture Level.|1999|VLSI Design|conf/vlsid/UtamaphethaiBS99
+Performance Evaluation of the PowerPC 620 Microarchitecture.|1995|ISCA|conf/isca/DiepNS95
+Mitigating Amdahl's Law through EPI Throttling.|2005|ISCA|conf/isca/AnnavaramGS05
+Completion time multiple branch prediction for enhancing trace cache performance.|2000|ISCA|conf/isca/RakvicBS00
+Speculative Disambiguation: A Compilation Technique for Dynamic Memory Disambiguation.|1994|ISCA|conf/isca/HuangSS94
+Instruction Level Profiling and Evaluation of the IBM/6000.|1991|ISCA|conf/isca/StephensCHPS91
+Speculative precomputation: long-range prefetching of delinquent loads.|2001|ISCA|conf/isca/CollinsWTHLLS01
+Multiple Instruction Stream Processor.|2006|ISCA|conf/isca/HankinsCCWRWS06
+The Block-Based Trace Cache.|1999|ISCA|conf/isca/BlackRS99
+Instruction path coprocessors.|2000|ISCA|conf/isca/ChouS00
+Fault Tolerance of a Class of Connecting Networks.|1980|ISCA|conf/isca/ShenH80
+The White Dwarf: A High-Performance Application-Specific Processor.|1988|ISCA|conf/isca/BreternitzSTKBS88
+A Variable Instruction Stream Extension to the VLIW Architecture.|1991|ASPLOS|conf/asplos/WolfeS91
+The Intrinsic Bandwidth Requirements of Ordinary Programs.|1996|ASPLOS|conf/asplos/HuangS96
+Helper threads via virtual multithreading on an experimental itanium®2 processor-based platform.|2004|ASPLOS|conf/asplos/WangCWKGCYSMS04
+Value Locality and Load Value Prediction.|1996|ASPLOS|conf/asplos/LipastiWS96
+Architecture Synthesis of High-Performance Application-Specific Processors.|1990|DAC|conf/dac/BreternitzS90
+Highlights of CMU Research on CAD, CAM, CAT of VLSI Circuits.|1986|FJCC|conf/fjcc/Shen86

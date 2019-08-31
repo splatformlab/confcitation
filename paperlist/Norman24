@@ -1,0 +1,83 @@
+Core architecture optimization for heterogeneous chip multiprocessors.|2006|PACT|conf/IEEEpact/KumarTJ06
+A First Generation Mutually-Immersive Mobile Telepresence Surrogate with Automatic Backtracking.|2004|ICRA|conf/icra/JouppiIMMT04
+Telepresence Systems With Automatic Preservation of User Head Height, Local Rotation, and Remote Translation.|2005|ICRA|conf/icra/JouppiT05
+The MIPS Machine.|1982|COMPCON|conf/compcon/HennessyJGBSGRL82
+Microprocessors in the era of terascale integration.|2007|DATE|conf/date/BorkarJS07
+Design implications of memristor-based RRAM cross-point structures.|2011|DATE|conf/date/XuDJX11
+CACTI-3DD: Architecture-level modeling for 3D die-stacked DRAM main memory.|2012|DATE|conf/date/ChenLMABJ12
+Optimizing NUCA Organizations and Wiring Alternatives for Large Caches with CACTI 6.0.|2007|MICRO|conf/micro/MuralimanoharBJ07
+Kiln: closing the performance gap between systems with and without persistence support.|2013|MICRO|conf/micro/ZhaoLYXJ13
+The Future Evolution of High-Performance Microprocessors.|2005|MICRO|conf/micro/Jouppi05
+MIPS: A microprocessor architecture.|1982|MICRO|conf/micro/HennessyJPRGBG82
+System-level integrated server architectures for scale-out datacenters.|2011|MICRO|conf/micro/LiLFCRJ11
+The Multicluster Architecture: Reducing Cycle Time Through Partitioning.|1997|MICRO|conf/micro/FarkasCJV97
+Implementing high availability memory with a duplication cache.|2008|MICRO|conf/micro/AggarwalSSJR08
+Exploiting Fine-Grained Data Parallelism with Chip Multiprocessors and Fast Barriers.|2006|MICRO|conf/micro/SampsonGCJSC06
+Conjoined-Core Chip Multiprocessing.|2004|MICRO|conf/micro/KumarJT04
+McPAT: an integrated power, area, and timing modeling framework for multicore and manycore architectures.|2009|MICRO|conf/micro/LiASBTJ09
+Single-ISA Heterogeneous Multi-Core Architectures: The Potential for Processor Power Reduction.|2003|MICRO|conf/micro/KumarFJRT03
+Staged Reads: Mitigating the impact of DRAM writes on DRAM reads.|2012|HPCA|conf/hpca/ChatterjeeMBDJ12
+Enterprise IT Trends and Implications for Architecture Research.|2005|HPCA|conf/hpca/RanganathanJ05
+How Useful Are Non-Blocking Loads, Stream Buffers and Speculative Execution in Multiple Issue Processors?|1995|HPCA|conf/hpca/FarkasJC95
+i2WAP: Improving non-volatile cache lifetime by reducing inter- and intra-set write variations.|2013|HPCA|conf/hpca/WangDXJ13
+Register File Design Considerations in Dynamically Scheduled Processors.|1996|HPCA|conf/hpca/FarkasJC96
+FREE-p: Protecting non-volatile memory against both hard and soft errors.|2011|HPCA|conf/hpca/YoonMCRJE11
+First steps towards mutually-immersive mobile telepresence.|2002|CSCW Videos|conf/cscw/JouppiMITS02
+First steps towards mutually-immersive mobile telepresence.|2002|CSCW|conf/cscw/Jouppi02
+The Future Evolution of High-Performance Microprocessors.|2004|HiPC|conf/hipc/Jouppi04
+McSimA+: A manycore simulator with application-level+ simulation and detailed microarchitecture modeling.|2013|ISPASS|conf/ispass/AhnLSJ13
+A circuit-architecture co-optimization framework for evaluating emerging memory hierarchies.|2013|ISPASS|conf/ispass/DongJX13
+BiReality: mutually-immersive telepresence.|2004|ACM Multimedia|conf/mm/JouppiITS04
+Z3: An Economical Hardware Technique for High-Quality Antialiasing and Transparency.|1999|Workshop on Graphics Hardware|conf/egh/JouppiC99
+Prefiltered Antialiased Lines Using Half-Plane Distance Functions.|2000|Workshop on Graphics Hardware|conf/egh/McNamaraMJ00
+Neon: A Single-Chip 3D Workstation Graphics Accelerator.|1998|Workshop on Graphics Hardware|conf/egh/McCormackMGSJC98
+History-Assisted Adaptive-Granularity Caches (HAAG$) for High Performance 3D DRAM Architectures.|2015|ICS|conf/ics/ChenLAMZXO0BJ15
+Design of cross-point metal-oxide ReRAM emphasizing reliability and cost.|2013|ICCAD|conf/iccad/NiuXMJX13
+PCRAMsim: System-level performance, energy, and area modeling for Phase-Change RAM.|2009|ICCAD|conf/iccad/DongJX09
+CACTI-P: Architecture-level modeling for SRAM-based structures with advanced leakage reduction techniques.|2011|ICCAD|conf/iccad/LiCABJ11
+CACTI-IO: CACTI with off-chip power-area-timing models.|2012|ICCAD|conf/iccad/JouppiKMS12
+Region of interest editing of MPEG-2 video streams in the compressed domain.|2004|ICME|conf/icmcs/AugustineRNJI04
+Improving the performance and power efficiency of shared helpers in CMPs.|2006|CASES|conf/cases/ShayestehRJSS06
+System implications of integrated photonics.|2008|ISLPED|conf/islped/Jouppi08
+Design trade-offs for high density cross-point resistive memory.|2012|ISLPED|conf/islped/NiuXMJX12
+Emerging technologies and their impact on system design.|2009|ISLPED|conf/islped/JouppiX09
+Feline: Fast Elliptical Lines for Anisotropic Texture Mapping.|1999|SIGGRAPH|conf/siggraph/McCormackPFJ99
+Resilience Challenges for Exascale Systems.|2009|DFT|conf/dft/Jouppi09
+Leveraging 3D PCRAM technologies to reduce checkpoint overhead for future exascale systems.|2009|SC|conf/sc/DongMJKX09
+Future scaling of processor-memory interfaces.|2009|SC|conf/sc/AhnJKLS09
+Architecture - The potential energy efficiency of vector acceleration.|2006|SC|conf/sc/LemuetSCJ06
+Simple but Effective Heterogeneous Main Memory with On-Chip Memory Controller Support.|2010|SC|conf/sc/DongXMJ10
+System implications of memory reliability in exascale computing.|2011|SC|conf/sc/LiCHMKBRJ11
+MAGE: adaptive granularity and ECC for resilient and power efficient memory systems.|2012|SC|conf/sc/LiYCZABXJ12
+Practical nonvolatile multilevel-cell phase change memory.|2013|SC|conf/sc/YoonCSJ13
+High-performance ethernet-based communications for future multi-core processors.|2007|SC|conf/sc/SchlanskerCOSRBCMBJ07
+System-wide performance monitors and their application to the optimization of coherent memory accesses.|2005|PPOPP|conf/ppopp/CollardJY05
+A High-Speed Optical Multi-Drop Bus for Computer Interconnections.|2008|Hot Interconnects|conf/hoti/TanRYMMMSJKWLKMBOS08
+A Nanophotonic Interconnect for High-Performance Many-Core Computation.|2008|Hot Interconnects|conf/hoti/BeausoleilABDFFJMSSSVX08
+Cache Write Policies and Performance.|1993|ISCA|conf/isca/Jouppi93
+Architectural and Organizational Tradeoffs in the Design of the MultiTitan CPU.|1989|ISCA|conf/isca/Jouppi89
+A Comprehensive Memory Modeling Tool and Its Application to the Design and Analysis of Future Memory Hierarchies.|2008|ISCA|conf/isca/ThoziyoorAMBJ08
+A Simulation Based Study of TLB Performance.|1992|ISCA|conf/isca/ChenBJ92
+Configurable isolation: building high availability systems with commodity multi-core processors.|2007|ISCA|conf/isca/AggarwalRJS07
+Tradeoffs in Two-Level On-Chip Caching.|1994|ISCA|conf/isca/JouppiW94
+Corona: System Implications of Emerging Nanophotonic Technology.|2008|ISCA|conf/isca/VantreaseSMMJFDBBA08
+Reconfigurable caches and their application to media processing.|2000|ISCA|conf/isca/RanganathanAJ00
+Improving Direct-Mapped Cache Performance by the Addition of a Small Fully-Associative Cache and Prefetch Buffers.|1990|ISCA|conf/isca/Jouppi90
+Improving Direct-Mapped Cache Performance by the Addition of a Small Fully-Associative Cache Prefetch Buffers.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Jouppi98a
+Rethinking DRAM design and organization for energy-constrained multi-cores.|2010|ISCA|conf/isca/UdipiMCBDJ10
+Combining memory and a controller with photonics through 3D-stacking to enable scalable and energy-efficient systems.|2011|ISCA|conf/isca/UdipiMBDJ11
+The Optimal Logic Depth Per Pipeline Stage is 6 to 8 FO4 Inverter Delays.|2002|ISCA|conf/isca/HrishikeshBKSJF02
+Performance of Image and Video Processing with General-Purpose Processors and Media ISA Extensions.|1999|ISCA|conf/isca/RanganathanAJ99
+In-Datacenter Performance Analysis of a Tensor Processing Unit.|2017|ISCA|conf/isca/JouppiYPPABBBBB17
+Single-ISA Heterogeneous Multi-Core Architectures for Multithreaded Workload Performance.|2004|ISCA|conf/isca/KumarTRJF04
+Memory-System Design Considerations for Dynamically-Scheduled Processors.|1997|ISCA|conf/isca/FarkasCJV97
+Complexity/Performance Tradeoffs with Non-Blocking Loads.|1994|ISCA|conf/isca/FarkasJ94
+LOT-ECC: Localized and tiered reliability mechanisms for commodity memory systems.|2012|ISCA|conf/isca/UdipiMBDJ12
+Complexity-Effective Superscalar Processors.|1997|ISCA|conf/isca/PalacharlaJS97
+The role of optics in future high radix switch design.|2011|ISCA|conf/isca/BinkertDJMMSA11
+Retrospective: Improving Direct-Mapped Cache Performance by the Addition of a Small Fully-Associative Cache and Prefetch Buffers.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Jouppi98
+Available Instruction-Level Parallelism for Superscalar and Superpipelined Machines.|1989|ASPLOS|conf/asplos/JouppiW89
+A Unified Vector/Scalar Floating-Point Architecture.|1989|ASPLOS|conf/asplos/JouppiBW89
+Hardware/Software Tradeoffs for Increased Performance.|1982|ASPLOS|conf/asplos/HennessyJBGG82
+Understanding the trade-offs in multi-level cell ReRAM memory design.|2013|DAC|conf/dac/XuNMJX13
+Timing analysis for nMOS VLSI.|1983|DAC|conf/dac/Jouppi83

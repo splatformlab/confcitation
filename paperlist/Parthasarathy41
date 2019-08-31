@@ -1,0 +1,69 @@
+An FPGA memcached appliance.|2013|FPGA|conf/fpga/ChalamalasettiLWARM13
+A Power Benchmarking Framework for Network Devices.|2009|Networking|conf/networking/MahadevanSBR09
+Online detection of utility cloud anomalies using metric distributions.|2010|NOMS|conf/noms/WangTSR10
+Meet the walkers: accelerating index traversals for in-memory databases.|2013|MICRO|conf/micro/KocberberGPFLR13
+System-level integrated server architectures for scale-out datacenters.|2011|MICRO|conf/micro/LiLFCRJ11
+Implementing high availability memory with a duplication cache.|2008|MICRO|conf/micro/AggarwalSSJR08
+Single-ISA Heterogeneous Multi-Core Architectures: The Potential for Processor Power Reduction.|2003|MICRO|conf/micro/KumarFJRT03
+Industrial perspectives panel.|2009|HPCA|conf/hpca/Ranganathan09
+Fabric convergence implications on systems architecture.|2008|HPCA|conf/hpca/LeighRS08
+Enterprise IT Trends and Implications for Architecture Research.|2005|HPCA|conf/hpca/RanganathanJ05
+The Impact of Instruction-Level Parallelism on Multiprocessor Performance and Simulation Methodology.|1997|HPCA|conf/hpca/PaiRA97
+System-level implications of disaggregated memory.|2012|HPCA|conf/hpca/LimTSACRW12
+Kelp: QoS for Accelerated Machine Learning Systems.|2019|HPCA|conf/hpca/Zhu0CGRE19
+FREE-p: Protecting non-volatile memory against both hard and soft errors.|2011|HPCA|conf/hpca/YoonMCRJE11
+Memory Hierarchy for Web Search.|2018|HPCA|conf/hpca/AyersAKR18
+Consistent and Durable Data Structures for Non-Volatile Byte-Addressable Memory.|2011|FAST|conf/fast/VenkataramanTRC11
+End of Moore's Law: Or, a Computer Architect's Mid-life Crisis?|2017|HiPC|conf/hipc/Ranganathan17
+Energy-Driven Statistical Sampling: Detecting Software Hotspots.|2002|PACS|conf/pacs/ChangFR02
+Energy Consumption in Mobile Devices: Why Future Systems Need Requirements-Aware Energy Scale-Down.|2003|PACS|conf/pacs/MayoR03
+Evaluating FPGA-acceleration for real-time unstructured search.|2012|ISPASS|conf/ispass/ChalamalasettiMVWR12
+Topology-aware resource allocation for data-intensive workloads.|2010|ApSys|conf/sigcomm/LeeTRK10
+JouleSort: a balanced energy-efficiency benchmark.|2007|SIGMOD Conference|conf/sigmod/RivoireSRK07
+Weatherman: Automated, Online and Predictive Thermal Mapping and Management for Data Centers.|2006|ICAC|conf/icac/MooreCR06
+vManage: loosely coupled platform and virtualization management in data centers.|2009|ICAC|conf/icac/KumarTKRS09
+Energy Efficiency: The New Holy Grail of Data Management Systems Research.|2009|CIDR|conf/cidr/HarizopoulosSR09
+Energy-aware user interfaces: an evaluation of user acceptance.|2004|CHI|conf/chi/HarterVGMR04
+Consistent, durable, and safe memory management for byte-addressable non volatile main memory.|2013|TRIOS@SOSP|conf/sosp/MoraruAKTRB13
+Energy-Adaptive Display System Designs for Future Mobile Environments.|2003|MobiSys|conf/mobisys/IyerLMR03
+Pegasus: Coordinated Scheduling for Virtualized Accelerator-based Systems.|2011|USENIX Annual Technical Conference|conf/usenix/GuptaSTTR11
+Making Scheduling "Cool": Temperature-Aware Workload Placement in Data Centers.|2005|USENIX Annual Technical Conference, General Track|conf/usenix/MooreCRS05
+Investigating the Relationship Between Battery Life and User Acceptance of Dynamic, Energy-Aware Interfaces on Handhelds.|2004|Mobile HCI|conf/mhci/BloomEGMR04
+Tracking the power in an enterprise decision support system.|2009|ISLPED|conf/islped/MezaSRFV09
+Hardware acceleration for similarity measurement in natural language processing.|2013|ISLPED|conf/islped/TandonQCRDW13
+Power management from cores to datacenters: where are we going to get the next ten-fold improvements?|2008|ISLPED|conf/islped/Ranganathan08
+The new (system) balance of power and opportunities for optimizations.|2014|ISLPED|conf/islped/Ranganathan14
+Active storage revisited: the case for power and performance benefits for unstructured data processing applications.|2008|Conf. Computing Frontiers|conf/cf/SmullenSTGRU08
+Exploring latency-power tradeoffs in deep nonvolatile memory hierarchies.|2012|Conf. Computing Frontiers|conf/cf/YoonGRS12
+A limits study of benefits from nanostore-based future data-centric system architectures.|2012|Conf. Computing Frontiers|conf/cf/ChangRMRSL12
+A Comparison of High-Level Full-System Power Models.|2008|HotPower|conf/osdi/RivoireRK08
+Delivering Energy Proportionality with Non Energy-Proportional Systems - Optimizing the Ensemble.|2008|HotPower|conf/osdi/ToliaWMBRZ08
+Evaluating impact of manageability features on device performance.|2010|CNSM|conf/cnsm/LeverichTRK10
+RSIM: a simulator for shared-memory multiprocessor and uniprocessor systems that exploit ILP.|1997|WCAE@HPCA|conf/wcae/PaiRA97
+Industrial perspectives panel.|2009|PPOPP|conf/ppopp/Ranganathan09
+Configurable isolation: building high availability systems with commodity multi-core processors.|2007|ISCA|conf/isca/AggarwalRJS07
+Thin servers with smart pipes: designing SoC accelerators for memcached.|2013|ISCA|conf/isca/LimMSRW13
+Heracles: improving resource efficiency at scale.|2015|ISCA|conf/isca/LoCGRK15
+Reconfigurable caches and their application to media processing.|2000|ISCA|conf/isca/RanganathanAJ00
+BOOM: Enabling mobile memory based low-power server DIMMs.|2012|ISCA|conf/isca/YoonCMR12
+Profiling a warehouse-scale computer.|2015|ISCA|conf/isca/KanevDHRMWB15
+Ensemble-level Power Management for Dense Blade Servers.|2006|ISCA|conf/isca/RanganathanLIC06
+AsmDB: understanding and mitigating front-end stalls in warehouse-scale computers.|2019|ISCA|conf/isca/AyersNACKKKLMR19
+Performance of Image and Video Processing with General-Purpose Processors and Media ISA Extensions.|1999|ISCA|conf/isca/RanganathanAJ99
+Disaggregated memory for expansion and sharing in blade servers.|2009|ISCA|conf/isca/LimCMRRW09
+Single-ISA Heterogeneous Multi-Core Architectures for Multithreaded Workload Performance.|2004|ISCA|conf/isca/KumarTRJF04
+Understanding and Designing New Server Architectures for Emerging Warehouse-Computing Environments.|2008|ISCA|conf/isca/LimRCPMR08
+The Interaction of Software Prefetching with ILP Processors in Shared-Memory Systems.|1997|ISCA|conf/isca/RanganathanPAA97
+Learning Memory Access Patterns.|2018|ICML|conf/icml/HashemiSSALCKR18
+Motivating co-ordination of power management solutions in data centers.|2007|CLUSTER|conf/cluster/RaghavendraRTZW07
+Cost-aware scheduling for heterogeneous enterprise machines (CASH'EM).|2007|CLUSTER|conf/cluster/BurgeRW07
+Using Speculative Retirement and Larger Instruction Windows to Narrow the Performance Gap Between Memory Consistency Models.|1997|SPAA|conf/spaa/RanganathanPA97
+No "power" struggles: coordinated multi-level power management for the data center.|2008|ASPLOS|conf/asplos/RaghavendraRTWZ08
+Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks.|2018|ASPLOS|conf/asplos/BoroumandGKASTK18
+Totally green: evaluating and designing servers for lifecycle environmental impact.|2012|ASPLOS|conf/asplos/ChangMRSSB12
+vbench: Benchmarking Video Transcoding in the Cloud.|2018|ASPLOS|conf/asplos/LottariniRCKRSW18
+Performance of Database Workloads on Shared-Memory Systems with Out-of-Order Processors.|1998|ASPLOS|conf/asplos/RanganathanGAB98
+An Evaluation of Memory Consistency Models for Shared-Memory Systems with ILP Processors.|1996|ASPLOS|conf/asplos/PaiRAH96
+Software-Defined Far Memory in Warehouse-Scale Computers.|2019|ASPLOS|conf/asplos/Lagar-CavillaAS19
+Sustainable data centers: enabled by supply and demand side management.|2009|DAC|conf/dac/BanerjeePBR09
+sNICh: efficient last hop networking in the data center.|2010|ANCS|conf/ancs/RamMCRRS10

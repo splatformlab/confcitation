@@ -1,0 +1,98 @@
+CCNoC: Specializing On-Chip Interconnects for Energy Efficiency in Cache-Coherent Servers.|2012|NOCS|conf/nocs/VolosSGPFM12
+Using dead blocks as a virtual victim cache.|2010|PACT|conf/IEEEpact/KhanJBF10
+Near-Memory Address Translation.|2017|PACT|conf/IEEEpact/PicorelJF17
+Speculative Sequential Consistency with Little Custom Storage.|2002|IEEE PACT|conf/IEEEpact/GniadyF02
+Address Partitioning in DSM Clusters with Parallel Coherence Controllers.|2000|IEEE PACT|conf/IEEEpact/PragaspathyF00
+Store-Ordered Streaming of Shared Memory.|2005|IEEE PACT|conf/IEEEpact/WenischSHKGAF05
+Sirocco: Cost-Effective Fine-Grain Distributed Shared Memory.|1998|IEEE PACT|conf/IEEEpact/SchoinasFHLW98
+A complexity-effective architecture for accelerating full-system multiprocessor simulations using FPGAs.|2008|FPGA|conf/fpga/ChungNHFM08
+Memory coherence activity prediction in commercial workloads.|2004|WMPI|conf/wmpi/SomogyiWHKAF04
+From embedded multi-core SoCs to scale-out processors.|2013|DATE|conf/date/CoppolaFGK13
+Towards near-threshold server processors.|2016|DATE|conf/date/PahlevanPZRZBVA16
+Warehouse-Scale Computing in the Post-Moore Era.|2017|ALGOCLOUD|conf/algocloud/Falsafi17
+The DeSyRe Project: On-Demand System Reliability.|2012|DSD|conf/dsd/SourdisSBFGMMPPRST12
+Near-Optimal Precharging in High-Performance Nanoscale CMOS Caches.|2003|MICRO|conf/micro/YangF03
+Meet the walkers: accelerating index traversals for in-memory databases.|2013|MICRO|conf/micro/KocberberGPFLR13
+Multi-grain coherence directories.|2013|MICRO|conf/micro/ZebchukFM13
+Dual use of superscalar datapath for transient-fault detection and recovery.|2001|MICRO|conf/micro/RayHF01
+Proactive instruction fetch.|2011|MICRO|conf/micro/FerdmanKF11
+Multi-bit Error Tolerant Caches Using Two-Dimensional Error Coding.|2007|MICRO|conf/micro/KimHMFH07
+Reunion: Complexity-Effective Multicore Redundancy.|2006|MICRO|conf/micro/SmolensGFH06
+Reducing set-associative cache energy via way-prediction and selective direct-mapping.|2001|MICRO|conf/micro/PowellAVFR01
+Confluence: unified instruction supply for scale-out servers.|2015|MICRO|conf/micro/KaynakGF15
+NOC-Out: Microarchitecting a Scale-Out Processor.|2012|MICRO|conf/micro/Lotfi-KamranGF12
+Unison Cache: A Scalable and Effective Die-Stacked DRAM Cache.|2014|MICRO|conf/micro/JevdjicLKF14
+BuMP: Bulk Memory Access Prediction and Streaming.|2014|MICRO|conf/micro/VolosPFG14
+Temporal instruction fetch streaming.|2008|MICRO|conf/micro/FerdmanWAFM08
+SHIFT: shared history instruction fetch for lean-core server processors.|2013|MICRO|conf/micro/KaynakGF13
+Efficient Resource Sharing in Concurrent Error Detecting Superscalar Microarchitectures.|2004|MICRO|conf/micro/SmolensKHF04
+SABRes: Atomic object reads for in-memory rack-scale computing.|2016|MICRO|conf/micro/DaglisUNBFG16
+Parallel Dispatch Queue: A Queue-Based Programming Abstraction to Parallelize Fine-Grain Communication Protocols.|1999|HPCA|conf/hpca/FalsafiW99
+Exploiting Choice in Resizable Cache Design to Optimize Deep-Submicron Processor Energy-Delay.|2002|HPCA|conf/hpca/YangPFV02
+An Integrated Circuit/Architecture Approach to Reducing Leakage in Deep-Submicron High-Performance I-Caches.|2001|HPCA|conf/hpca/YangPFRV01
+FADE: A programmable filtering accelerator for instruction-grain monitoring.|2014|HPCA|conf/hpca/FytrakiVKFG14
+Practical off-chip meta-data for temporal memory streaming.|2009|HPCA|conf/hpca/WenischFAFM09
+Cuckoo directory: A scalable directory for many-core systems.|2011|HPCA|conf/hpca/FerdmanLBF11
+Accurate and Complexity-Effective Spatial Pattern Prediction.|2004|HPCA|conf/hpca/ChenYFM04
+Scheduling Communication on a SMP Node Parallel Machine.|1997|HPCA|conf/hpca/FalsafiW97
+JETTY: Filtering Snoops for Reduced Energy Consumption in SMP Servers.|2001|HPCA|conf/hpca/MoshovosMFC01
+Last-Touch Correlated Data Streaming.|2007|ISPASS|conf/ispass/FerdmanF07
+Simulation sampling with live-points.|2006|ISPASS|conf/ispass/WenischWFH06
+TurboSMARTS: accurate microarchitecture simulation sampling in minutes.|2005|SIGMETRICS|conf/sigmetrics/WenischWFH05
+An Analysis of Load Imbalance in Scale-out Data Serving.|2016|SIGMETRICS|conf/sigmetrics/NovakovicDBFG16
+Contention detection by throttling: A black-box on-line approach.|2015|IWQoS|conf/iwqos/ValloneBCF15
+Architecture-Conscious Databases: sub-optimization or the next big leap?|2005|DaMoN|conf/damon/CarmeanFKPR05
+Accelerating Database Operations Using a Network Processor.|2005|DaMoN|conf/damon/GoldAHF05
+Statistical sampling of microarchitecture simulation.|2006|IPDPS|conf/ipps/WenischWFH06
+PROToFLEX: FPGA-accelerated Hybrid Functional Simulator.|2007|IPDPS|conf/ipps/ChungNHFM07
+Design guidelines for high-performance SCM hierarchies.|2018|MEMSYS|conf/memsys/UstiugovDPSBFP18
+Database Servers on Chip Multiprocessors: Limitations and Opportunities.|2007|CIDR|conf/cidr/HardavellasPJMAF07
+DeSyRe: On-Demand Adaptive and Reconfigurable Fault-Tolerant SoCs.|2014|ARC|conf/arc/SourdisSABFGIMMPPPRSSSTTV14
+Unlocking Energy.|2016|USENIX Annual Technical Conference|conf/usenix/FalsafiGPT16
+Multiplex: unifying conventional and speculative thread-level parallelism on a chip multiprocessor.|2001|ICS|conf/ics/OoiKPEFV01
+TurboTag: lookup filtering to reduce coherence directory power.|2010|ISLPED|conf/islped/Lotfi-KamranFCF10
+Thermal characterization of cloud workloads on a power-efficient server-on-chip.|2012|ICCD|conf/iccd/MilojevicIJOLPPNHFS12
+RECAST: Boosting Tag Line Buffer Coverage in Low-Power High-Level Caches "for Free".|2005|ICCD|conf/iccd/ParkMF05
+Temporal streams in commercial server applications.|2008|IISWC|conf/iiswc/WenischFAFM08
+Training DNNs with Hybrid Block Floating Point.|2018|NeurIPS|conf/nips/DrumondLJF18
+Application-specific protocols for user-level shared memory.|1994|SC|conf/sc/FalsafiLRSHLRW94
+PAI: A Lightweight Mechanism for Single-Node Memory Recovery in DSM Servers.|2007|PRDC|conf/prdc/KimSFH07
+Building Fast, Dense, Low-Power Caches Using Erasure-Based Inline Multi-bit ECC.|2013|PRDC|conf/prdc/KimYMBMF13
+Chip-Level Redundancy in Distributed Shared-Memory Multiprocessors.|2009|PRDC|conf/prdc/GoldFH09
+The Case for RackOut: Scalable Data Serving Using Rack-Scale Systems.|2016|SoCC|conf/cloud/NovakovicDBFG16
+Kernel Support for the Wisconsin Wind Tunnel.|1993|USENIX Microkernels and Other Kernel Architectures Symposium|conf/mkern/ReinhardtFW93
+Reference idempotency analysis: a framework for optimizing speculative execution.|2001|PPOPP|conf/ppopp/KimOEFV01
+Is SC + ILP=RC?|1999|ISCA|conf/isca/GniadyFV99
+Spatial Memory Streaming.|2006|ISCA|conf/isca/SomogyiWAFM06
+Flexible Hardware Acceleration for Instruction-Grain Program Monitoring.|2008|ISCA|conf/isca/ChenKSFGMRRRV08
+Mechanisms for Cooperative Shared Memory.|1993|ISCA|conf/isca/WoodCFHLLLMPR93
+Temporal Streaming of Shared Memory.|2005|ISCA|conf/isca/WenischSHKAF05
+Manycore network interfaces for in-memory rack-scale computing.|2015|ISCA|conf/isca/DaglisNBFG15
+Selective, accurate, and timely self-invalidation using last-touch prediction.|2000|ISCA|conf/isca/LaiF00
+Memory Sharing Predictor: The Key to a Speculative Coherent DSM.|1999|ISCA|conf/isca/LaiF99
+Dead-block prediction&dead-block correlating prefetchers.|2001|ISCA|conf/isca/LaiFF01
+The Mondrian Data Engine.|2017|ISCA|conf/isca/DrumondDMUPFGP17
+Iimplicitly-Multithreaded Processors.|2003|ISCA|conf/isca/ParkFV03
+Die-stacked DRAM caches for servers: hit ratio, latency, or bandwidth? have it all with footprint cache.|2013|ISCA|conf/isca/JevdjicVF13
+SMARTS: Accelerating Microarchitecture Simulation via Rigorous Statistical Sampling.|2003|ISCA|conf/isca/WunderlichWFH03
+Coherent Network Interfaces for Fine-Grain Communication.|1996|ISCA|conf/isca/MukherjeeFHW96
+Spatio-temporal memory streaming.|2009|ISCA|conf/isca/SomogyiWAF09
+Mechanisms for store-wait-free multiprocessors.|2007|ISCA|conf/isca/WenischAFM07
+Reactive NUCA: near-optimal block placement and replication in distributed caches.|2009|ISCA|conf/isca/HardavellasFFA09
+Reactive NUMA: A Design for Unifying S-COMA and CC-NUMA.|1997|ISCA|conf/isca/FalsafiW97
+Scale-out processors.|2012|ISCA|conf/isca/Lotfi-KamranGFVKPAJIOF12
+Comparing the effectiveness of fine-grain memory caching against page migration/replication in reducing traffic in DSM clusters.|2000|SPAA|conf/spaa/LaiF00
+Scheduling threads for constructive cache sharing on CMPs.|2007|SPAA|conf/spaa/ChenGKLABFFHMW07
+Parallel depth first vs. work stealing schedulers on CMP architectures.|2006|SPAA|conf/spaa/LiaskovitisCGABFFHKMW06
+Clearing the clouds: a study of emerging scale-out workloads on modern hardware.|2012|ASPLOS|conf/asplos/FerdmanAKVAJKPAF12
+Scale-out NUMA.|2014|ASPLOS|conf/asplos/NovakovicDBFG14
+Fingerprinting: bounding soft-error detection latency and bandwidth.|2004|ASPLOS|conf/asplos/SmolensGKFHN04
+RPCValet: NI-Driven Tail-Aware Balancing ofµs-Scale RPCs.|2019|ASPLOS|conf/asplos/DaglisSF19
+ParaLog: enabling and accelerating online parallel monitoring of multithreaded applications.|2010|ASPLOS|conf/asplos/VlachosGKCFGM10
+Log-based architectures for general-purpose monitoring of deployed code.|2006|ASID|conf/asplos/ChenFGKMTAFGLS06
+Fine-grain Access Control for Distributed Shared Memory.|1994|ASPLOS|conf/asplos/SchoinasFLRLW94
+Predictor virtualization.|2008|ASPLOS|conf/asplos/BurceaSMF08
+LTRF: Enabling High-Capacity Register Files for GPUs via Hardware/Software Cooperative Register Prefetching.|2018|ASPLOS|conf/asplos/SadrosadatiMESD18
+Shore-MT: a scalable storage manager for the multicore era.|2009|EDBT|conf/edbt/JohnsonPHAF09
+DBmbench: fast and accurate database workload representation on modern microarchitecture.|2005|CASCON|conf/cascon/ShaoAF05
+To Share or Not To Share?|2007|VLDB|conf/vldb/JohnsonHPMHSAF07

@@ -1,0 +1,97 @@
+Hardware in the loop for optical flow sensing in a robotic bee.|2011|IROS|conf/iros/DuhamelPFBBWW11
+An event-guided approach to reducing voltage noise in processors.|2009|DATE|conf/date/GuptaRHWB09
+Understanding voltage variations in chip multiprocessors using a distributed power-delivery network.|2007|DATE|conf/date/GuptaOJWB07
+Optimizing pipelines for power and performance.|2002|MICRO|conf/micro/SrinivasanBGBZSE02
+Process Variation Tolerant 3T1D-Based Cache Architectures.|2007|MICRO|conf/micro/LiangCWB07
+CPR: Composable performance regression for scalable multiprocessor models.|2008|MICRO|conf/micro/LeeCWB08
+Co-designing accelerators and SoC interfaces using gem5-Aladdin.|2016|MICRO|conf/micro/ShaoXSWB16
+Mitigating the Impact of Process Variations on Processor Register Files and Execution Units.|2006|MICRO|conf/micro/LiangB06
+Voltage Smoothing: Characterizing and Mitigating Voltage Noise in Production Processors via Software-Guided Thread Scheduling.|2010|MICRO|conf/micro/ReddiKKCSWB10
+A Dynamic Compilation Framework for Controlling Microprocessor Energy and Performance.|2005|MICRO|conf/micro/WuMCRCWLB05
+Tribeca: design for PVT variations with local recovery and fine-grained adaptation.|2009|MICRO|conf/micro/GuptaRBWB09
+HELIX: automatic parallelization of irregular programs for chip multiprocessing.|2012|CGO|conf/cgo/CampanoniJHRWB12
+HELIX-UP: relaxing program semantics to unleash parallelization.|2015|CGO|conf/cgo/CampanoniHWB15
+Performance, Energy, and Thermal Considerations for SMT and CMP Architectures.|2005|HPCA|conf/hpca/LiBHS05
+Illustrative Design Space Studies with Microarchitectural Regression Models.|2007|HPCA|conf/hpca/LeeB07
+Roughness of microarchitectural design topologies and its implications for optimization.|2008|HPCA|conf/hpca/LeeB08
+Quantifying sources of error in McPAT and potential impacts on architectural studies.|2015|HPCA|conf/hpca/XiJBWB15
+Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective.|2018|HPCA|conf/hpca/HazelwoodBBCDDF18
+System level analysis of fast, per-core DVFS using on-chip switching regulators.|2008|HPCA|conf/hpca/KimGWB08
+Dynamically Exploiting Narrow Width Operands to Improve Processor Power and Performance.|1999|HPCA|conf/hpca/BrooksM99
+Voltage emergency prediction: Using signatures to reduce operating margins.|2009|HPCA|conf/hpca/ReddiGHWSB09
+Dynamic Thermal Management for High-Performance Microprocessors.|2001|HPCA|conf/hpca/BrooksM01
+Control Techniques to Eliminate Voltage Emergencies in High Performance Processors.|2003|HPCA|conf/hpca/JosephBM03
+DeCoR: A Delayed Commit and Rollback mechanism for handling inductive noise in processors.|2008|HPCA|conf/hpca/GuptaRSWB08
+Achieving uniform performance and maximizing throughput in the presence of heterogeneity.|2011|HPCA|conf/hpca/RanganPWB11
+CMP design space exploration subject to physical constraints.|2006|HPCA|conf/hpca/LiLBHS06
+Implementing a hybrid SRAM / eDRAM NUCA architecture.|2011|HiPC|conf/hipc/LiraMBG11
+The alarms project: A hardware/software approach to addressing parameter variations.|2011|ASP-DAC|conf/aspdac/Brooks11
+Implementing Application-Specific Cache-Coherence Protocols in Configurable Hardware.|1999|CANPC|conf/canpc/BrooksM99
+Early-Stage Definition of LPX: A Low Power Issue-Execute Processor.|2002|PACS|conf/pacs/BoseBBCDEGJKKSSSZAD02
+An Adaptive Issue Queue for Reduced Power at High Performance.|2000|PACS|conf/pacs/BuyuktosunogluSBBCA00
+Power-Performance Modeling and Tradeoff Analysis for a High End Microprocessor.|2000|PACS|conf/pacs/BrooksMWB00
+ISA-independent workload characterization and its implications for specialized architectures.|2013|ISPASS|conf/ispass/ShaoB13
+Addressing the computing technology-capability gap: The coming Golden Age of design.|2015|NAS|conf/nas/Brooks15
+Sub-uJ deep neural networks for embedded applications.|2017|ACSSC|conf/acssc/WhatmoughLWB17
+Architectural power models for SRAM and CAM structures based on hybrid analytical/empirical techniques.|2007|ICCAD|conf/iccad/LiangTB07
+Evaluation of voltage interpolation to address process variations.|2008|ICCAD|conf/iccad/BrownellWB08
+Microarchitecture parameter selection to optimize system performance under process variation.|2006|ICCAD|conf/iccad/LiangB06
+A power electronics unit to drive piezoelectric actuators for flying microrobots.|2015|CICC|conf/cicc/LokZHWBW15
+Supply-noise resilient adaptive clocking for battery-powered aerial microrobotic System-on-Chip in 40nm CMOS.|2013|CICC|conf/cicc/ZhangTBW13
+A fully integrated battery-connected switched-capacitor 4: 1 voltage regulator with 70% peak efficiency using bottom-plate charge recycling.|2013|CICC|conf/cicc/TongZKBW13
+Architecture and circuit techniques for low-throughput, energy-constrained systems across technology generations.|2006|CASES|conf/cases/HempsteadWB06
+An accelerator-based wireless sensor network processor in 130nm CMOS.|2009|CASES|conf/cases/HempsteadWB09
+Efficient architectures through application clustering and architectural heterogeneity.|2006|CASES|conf/cases/StrozekB06
+A Process-Variation-Tolerant Floating-Point Unit with Voltage Interpolation and Variable Latency.|2008|ISSCC|conf/isscc/LiangBW08
+A fully-integrated 3-level DC/DC converter for nanosecond-scale DVS with fast shunt regulation.|2011|ISSCC|conf/isscc/KimBW11
+21.5 A 3-to-5V input 100Vpp output 57.7mW 0.42% THD+N highly integrated piezoelectric actuator driver.|2017|ISSCC|conf/isscc/ChaputBW17
+14.3 A 28nm SoC with a 1.2GHz 568nJ/prediction sparse deep-neural-network engine with>0.1 timing error rate tolerance for IoT applications.|2017|ISSCC|conf/isscc/WhatmoughLLRBW17
+XIOSim: power-performance modeling of mobile x86 cores.|2012|ISLPED|conf/islped/KanevWB12
+A case for efficient accelerator design space exploration via Bayesian optimization.|2017|ISLPED|conf/islped/ReagenHAGWWB17
+Instruction-driven clock scheduling with glitch mitigation.|2008|ISLPED|conf/islped/WeiBKL08
+The design of a bloom filter hardware accelerator for ultra low power systems.|2009|ISLPED|conf/islped/LyonsB09
+Understanding the energy efficiency of simultaneous multithreading.|2004|ISLPED|conf/islped/LiBHSB04
+Evaluation of voltage stacking for near-threshold multicore computing.|2012|ISLPED|conf/islped/LeeBW12
+Energy characterization and instruction-level energy model of Intel's Xeon Phi processor.|2013|ISLPED|conf/islped/ShaoB13
+Power and thermal effects of SRAM vs. Latch-Mux design styles and clock gating choices.|2005|ISLPED|conf/islped/LiHMBHS05
+Towards a software approach to mitigate voltage emergencies.|2007|ISLPED|conf/islped/GuptaRSWB07
+Characterizing and evaluating voltage noise in multi-core near-threshold processors.|2013|ISLPED|conf/islped/ZhangTKLWB13
+Eliminating voltage emergencies via microarchitectural voltage control feedback and dynamic optimization.|2004|ISLPED|conf/islped/HazelwoodB04
+Quantifying acceleration: Power/performance trade-offs of application kernels in hardware.|2013|ISLPED|conf/islped/ReagenSWB13
+A multi-chip system optimized for insect-scale flapping-wing robots.|2015|VLSIC|conf/vlsic/ZhangLTCLRLBW15
+A 16nm 25mm2SoC with a 54.5x Flexibility-Efficiency Range from Dual-Core Arm Cortex-A53 to eFPGA and Cache-Coherent Accelerators.|2019|VLSI Circuits|conf/vlsic/WhatmoughLDHXGP19
+A 16-core voltage-stacked system with an integrated switched-capacitor DC-DC converter.|2015|VLSIC|conf/vlsic/LeeTZBW15
+Empirical performance models for 3T1D memories.|2009|ICCD|conf/iccd/LovinLLBW09
+Multi-accelerator system development with the ShrinkFit acceleration framework.|2014|ICCD|conf/iccd/LyonsWB14
+Evaluating Techniques for Exploiting Instruction Slack.|2004|ICCD|conf/iccd/ChinSB04
+Applications of Deep Neural Networks for Ultra Low Power IoT.|2017|ICCD|conf/iccd/KodaliHMWBW17
+Very Low Voltage (VLV) Design.|2017|ICCD|conf/iccd/BertranBBBBCCCE17
+Design and test strategies for microarchitectural post-fabrication tuning.|2009|ICCD|conf/iccd/LiangLWB09
+Using dynamic dependence analysis to improve the quality of high-level synthesis designs.|2017|ISCAS|conf/iscas/GaribottiRSWB17
+System design considerations for sensor network applications.|2008|ISCAS|conf/iscas/HempsteadWB08
+MachSuite: Benchmarks for accelerator design and customized architectures.|2014|IISWC|conf/iiswc/ReagenASWB14
+Tradeoffs between power management and tail latency in warehouse-scale applications.|2014|IISWC|conf/iiswc/KanevHWB14
+Fathom: reference workloads for modern deep learning methods.|2016|IISWC|conf/iiswc/AdolfRRWB16
+A circuit level implementation of an adaptive issue queue for power-aware microprocessors.|2001|ACM Great Lakes Symposium on VLSI|conf/glvlsi/BuyuktosunogluASBBC01
+Place and route considerations for voltage interpolated designs.|2009|ISQED|conf/isqed/BrownellKBW09
+Circuit and system design for robotic flying vehicles.|2015|VLSI-DAT|conf/vlsi-dat/Brooks15
+Co-designed systems for deep learning hardware accelerators.|2018|VLSI-DAT|conf/vlsi-dat/Brooks18
+System-on-Chip Architecture Design for Intelligent Sensor Networks.|2006|IIH-MSP|conf/iih-msp/FangKOWBL06
+Methods of inference and learning for performance modeling of parallel applications.|2007|PPOPP|conf/ppopp/LeeBSSSM07
+ReVIVaL: A Variation-Tolerant Architecture Using Voltage Interpolation and Variable Latency.|2008|ISCA|conf/isca/LiangWB08
+Aladdin: A pre-RTL, power-performance accelerator simulator enabling large design space exploration of customized architectures.|2014|ISCA|conf/isca/ShaoRWB14
+An Ultra Low Power System Architecture for Sensor Network Applications.|2005|ISCA|conf/isca/HempsteadTMWB05
+Profiling a warehouse-scale computer.|2015|ISCA|conf/isca/KanevDHRMWB15
+Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.|2016|ISCA|conf/isca/ReagenWARLLHWB16
+Wattch: a framework for architectural-level power analysis and optimizations.|2000|ISCA|conf/isca/BrooksTM00
+HELIX-RC: An architecture-compiler co-design for automatic parallelization of irregular programs.|2014|ISCA|conf/isca/CampanoniBKJWB14
+Thread motion: fine-grained power management for multi-core systems.|2009|ISCA|conf/isca/RanganWB09
+TinyBench: The Case For A Standardized Benchmark Suite for TinyOS Based Wireless Sensor Network Devices.|2004|LCN|conf/lcn/HempsteadWB04
+Efficiency trends and limits from comprehensive microarchitectural adaptivity.|2008|ASPLOS|conf/asplos/LeeB08
+Accurate and efficient regression modeling for microarchitectural performance and power prediction.|2006|ASPLOS|conf/asplos/LeeB06
+Mallacc: Accelerating Memory Allocation.|2017|ASPLOS|conf/asplos/KanevXWB17
+The HELIX project: overview and directions.|2012|DAC|conf/dac/CampanoniJHWB12
+Software-assisted hardware reliability: abstracting circuit-level challenges to the software stack.|2009|DAC|conf/dac/ReddiGSWBC09
+Dimetrodon: processor-level preventive thermal management via idle cycle injection.|2011|DAC|conf/dac/BailisRGBS11
+Ivory: Early-Stage Design Space Exploration Tool for Integrated Voltage Regulators.|2017|DAC|conf/dac/ZouLZTRBWZ17
+Ares: a framework for quantifying the resilience of deep neural networks.|2018|DAC|conf/dac/ReagenGPWLMBW18

@@ -1,0 +1,94 @@
+Dynamic Hammock Predication for Non-Predicated Instruction Set Architectures.|1998|IEEE PACT|conf/IEEEpact/KlauserAGC98
+A Fault Tolerant Approach to Microprocessor Design.|2001|DSN|conf/dsn/WeaverA01
+Energy efficient object detection on the mobile GP-GPU.|2017|AFRICON|conf/africon/AndargieRAB17
+Øzone: Efficient execution with zero timing leakage for modern microarchitectures.|2018|DATE|conf/date/AwekeA18a
+uSFI: Ultra-lightweight software fault isolation for IoT-class devices.|2018|DATE|conf/date/AwekeA18
+CrashTest'ing SWAT: Accurate, gate-level evaluation of symptom-based resiliency solutions.|2012|DATE|conf/date/PellegriniSCFHJAAB12
+Fault-based attack of RSA authentication.|2010|DATE|conf/date/PellegriniBA10
+Low-cost protection for SER upsets and silicon defects.|2007|DATE|conf/date/MehraraASCBA07
+DVS for On-Chip Bus Designs Based on Timing Error Correction.|2005|DATE|conf/date/KaulSBMA05
+SiPterposer: A Fault-Tolerant Substrate for Flexible System-in-Package Design.|2019|DATE|conf/date/EhrettAB19
+Exploring specialized near-memory processing for data intensive operations.|2016|DATE|conf/date/YitbarekYDA16
+Improving the Accuracy and Performance of Memory Communication Through Renaming.|1997|MICRO|conf/micro/TysonA97
+Locking down insecure indirection with hardware-based control-data isolation.|2015|MICRO|conf/micro/ArthurMDA15
+On High-Bandwidth Data Cache Design for Multi-Issue Processors.|1997|MICRO|conf/micro/RiversTDA97
+Razor: A Low-Power Pipeline Based on Circuit-Level Timing Speculation.|2003|MICRO|conf/micro/ErnstKDPRPZBAFM03
+Testudo: Heavyweight security analysis via statistical sampling.|2008|MICRO|conf/micro/GreathouseWRBABP08
+DIVA: A Reliable Substrate for Deep Submicron Microarchitecture Design.|1999|MICRO|conf/micro/Austin99
+Compiler controlled value prediction using branch predictor based confidence.|2000|MICRO|conf/micro/LarsonA00
+Online design bug detection: RTL analysis, flexible mechanisms, and evaluation.|2008|MICRO|conf/micro/ConstantinidesMA08
+Zero-cycle loads: microarchitecture support for reducing load latency.|1995|MICRO|conf/micro/AustinS95
+Software-Based Online Detection of Hardware Defects Mechanisms, Architectural Support, and Evaluation.|2007|MICRO|conf/micro/ConstantinidesMAB07
+Efficient checker processor design.|2000|MICRO|conf/micro/ChatterjeeWA00
+Fetch Directed Instruction Prefetching.|1999|MICRO|conf/micro/ReinmanCA99
+A Systematic Methodology to Compute the Architectural Vulnerability Factors for a High-Performance Microprocessor.|2003|MICRO|conf/micro/MukherjeeWERA03
+Getting in control of your control flow with control-data isolation.|2015|CGO|conf/cgo/ArthurMDA15
+Smokestack: Thwarting DOP Attacks with Runtime Stack Layout Randomization.|2019|CGO|conf/cgo/AgaA19
+Highly scalable distributed dataflow analysis.|2011|CGO|conf/cgo/GreathouseLAB11
+Schnauzer: scalable profiling for likely security bug sites.|2013|CGO|conf/cgo/ArthurMRAB13
+Cold Boot Attacks are Still Hot: Security Analysis of Memory Scramblers in Modern Processors.|2017|HPCA|conf/hpca/YitbarekADA17
+BulletProof: a defect-tolerant CMP switch architecture.|2006|HPCA|conf/hpca/ConstantinidesPBZBMAO06
+The SimpleScalar tool set as an instructional tool: experiences and future directions.|1998|WCAE@HPCA|conf/hpca/Austin98
+Depth-driven verification of simultaneous interfaces.|2006|ASP-DAC|conf/aspdac/WagnerBA06
+Opportunities and challenges for better than worst-case design.|2005|ASP-DAC|conf/aspdac/AustinBBM05
+SNIFFER: A high-accuracy malware detector for enterprise-based systems.|2017|IVSW|conf/ivsw/ChavisDHHYAB17
+High Coverage Detection of Input-Related Security Faults.|2003|USENIX Security Symposium|conf/uss/LarsonA03
+Performance analysis using pipeline visualization.|2001|ISPASS|conf/ispass/WeaverBMEA01
+MASE: a novel infrastructure for detailed microarchitectural modeling.|2001|ISPASS|conf/ispass/LarsonCA01
+Reliability-aware data placement for partial memory protection in embedded processors.|2006|Memory System Performance and Correctness|conf/ACMmsp/MehraraA06
+Robust low power computing in the nanoscale era.|2006|SBCCI|conf/sbcci/Austin06
+Razor: a low-power pipeline based on circuit-level timing speculation.|2006|SBCCI|conf/sbcci/Austin06a
+Memory system design space exploration for low-power, real-time speech recognition.|2004|CODES+ISSS|conf/codes/KrishnaMA04
+The potential of sampling for dynamic analysis.|2011|PLAS|conf/pldi/GreathouseA11
+Efficient Detection of All Pointer and Array Access Errors.|1994|PLDI|conf/pldi/AustinBS94
+Classifying load and store instructions for memory renaming.|1999|International Conference on Supercomputing|conf/ics/ReinmanCTTA99
+Wrangling in the Power of Code Pointers with ProxyCFI.|2019|DBSec|conf/dbsec/AgaHA19
+SWAN: mitigating hardware trojans with design ambiguity.|2018|ICCAD|conf/iccad/LinscottEBA18
+Vulnerability-tolerant secure architectures.|2018|ICCAD|conf/iccad/AustinBKMT18
+High Performance and Energy Efficient Serial Prefetch Architecture.|2002|ISHPC|conf/ishpc/ReinmanCA02
+Architectural optimizations for low-power, real-time speech recognition.|2003|CASES|conf/cases/KrishnaMA03
+A second-generation sensor network processor with application-driven memory optimizations and out-of-order execution.|2005|CASES|conf/cases/NazhandaliMZOAB05
+Application specific architectures: a recipe for fast, flexible and power efficient designs.|2001|CASES|conf/cases/WeaverKWA01
+EVA: An efficient vision architecture for mobile systems.|2013|CASES|conf/cases/ClemonsPSA13
+Keynote: Peering into the post Moore's Law world.|2017|ISLPED|conf/islped/Austin17
+Reducing pipeline energy demands with local DVS and dynamic retiming.|2004|ISLPED|conf/islped/LeeDPABM04
+On the rules of low-power design (and how to break them).|2008|ISLPED|conf/islped/Austin08
+Microarchitectural power modeling techniques for deep sub-micron microprocessors.|2004|ISLPED|conf/islped/KimKBAM04
+Deployment of Better Than Worst-Case Design: Solutions and Needs.|2005|ICCD|conf/iccd/AustinB05
+Keynote talk I: Ending the Tyranny of Amdahl's Law.|2015|ICCD|conf/iccd/Austin15
+CrashTest: A fast high-fidelity FPGA-based resiliency analysis framework.|2008|ICCD|conf/iccd/PellegriniCZSBA08
+MEVBench: A mobile computer vision benchmarking suite.|2011|IISWC|conf/iiswc/ClemonsZSA11
+Øzone: Efficient execution with zero timing leakage for modern microarchitectures.|2017|HOST|conf/host/AwekeA17
+When good protections go bad: Exploiting anti-DoS measures to accelerate rowhammer attacks.|2017|HOST|conf/host/AgaAA17
+Bridging the Moore's Law Performance Gap with Innovation Scaling.|2015|ICPE|conf/wosp/Austin15
+Error Analysis for the Support of Robust Voltage Scaling.|2005|ISQED|conf/isqed/RobertsABMF05
+A2: Analog Malicious Hardware.|2016|IEEE Symposium on Security and Privacy|conf/sp/YangHDAS16
+MVSS: Michigan Visual Sonification System.|2012|ESPA|conf/espa/ClemonsBSAS12
+Effective support of simulation in computer architecture instruction.|2002|WCAE|conf/wcae/WeaverLA02
+Efficient Dynamic Scheduling Through Tag Elimination.|2002|ISCA|conf/isca/ErnstA02
+Polymorphic On-Chip Networks.|2008|ISCA|conf/isca/KimDOA08
+Dynamic Dependency Analysis of Ordinary Programs.|1992|ISCA|conf/isca/AustinS92
+Cyclone: A Broadcast-Free Dynamic Instruction Scheduler with Selective Replay.|2003|ISCA|conf/isca/ErnstHA03
+Streamlining Data Cache Access with Fast Address Calculation.|1995|ISCA|conf/isca/AustinPS95
+CryptoManiac: a fast flexible architecture for secure communication.|2001|ISCA|conf/isca/WuWA01
+High-Bandwidth Address Translation for Multiple-Issue Processors.|1996|ISCA|conf/isca/AustinS96
+Demand-driven software race detection using hardware performance counters.|2011|ISCA|conf/isca/GreathouseMFPA11
+Regaining Lost Cycles with HotCalls: A Fast Interface for SGX Secure Enclaves.|2017|ISCA|conf/isca/WeisseBA17
+Energy Optimization of Subthreshold-Voltage Sensor Network Processors.|2005|ISCA|conf/isca/NazhandaliZORMHPAB05
+Architectural implications of brick and mortar silicon manufacturing.|2007|ISCA|conf/isca/KimMOA07
+A Scalable Front-End Architecture for Fast Instruction Delivery.|1999|ISCA|conf/isca/ReinmanAC99
+Ultra low-cost defect protection for microprocessor pipelines.|2006|ASPLOS|conf/asplos/ShyamCPBA06
+Cache-Conscious Data Placement.|1998|ASPLOS|conf/asplos/CalderKJA98
+A case for unlimited watchpoints.|2012|ASPLOS|conf/asplos/GreathouseXLA12
+Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn.|2019|ASPLOS|conf/asplos/GallagherBCAYAH19
+Architectural Support for Fast Symmetric-Key Cryptography.|2000|ASPLOS|conf/asplos/BurkeMA00
+ANVIL: Software-Based Protection Against Next-Generation Rowhammer Attacks.|2016|ASPLOS|conf/asplos/AwekeYQDHOA16
+Reducing the overhead of authenticated memory encryption using delta encoding and ECC memory.|2018|DAC|conf/dac/YitbarekA18
+Circuit-aware architectural simulation.|2004|DAC|conf/dac/LeeDBABM04
+Using introspective software-based testing for post-silicon debug and repair.|2010|DAC|conf/dac/ConstantinidesA10
+What input-language is the best choice for high level synthesis (HLS)?|2010|DAC|conf/dac/GajskiAS10
+Scalable Hybrid Verification of Complex Microprocessors.|2001|DAC|conf/dac/MneimnehAWCSA01
+StressTest: an automatic approach to test generation via activity monitors.|2005|DAC|conf/dac/WagnerBA05
+Shielding against design flaws with field repairable control logic.|2006|DAC|conf/dac/WagnerBA06
+Designing robust microarchitectures.|2004|DAC|conf/dac/Austin04
+EFFEX: an embedded processor for computer vision based feature extraction.|2011|DAC|conf/dac/ClemonsJPSA11

@@ -1,0 +1,119 @@
+Memory scheduling towards high-throughput cooperative heterogeneous computing.|2014|PACT|conf/IEEEpact/WangSSK14
+Power-efficient computing for compute-intensive GPGPU applications.|2012|PACT|conf/IEEEpact/GilaniKS12
+RCS: runtime resource and core scaling for power-constrained multi-core processors.|2014|PACT|conf/IEEEpact/GhasemiK14
+3D-Xpath: high-density managed DRAM architecture with cost-effective alternative paths for memory transactions.|2018|PACT|conf/IEEEpact/LeeLSAKCOOAK18
+Workload and power budget partitioning for single-chip heterogeneous processors.|2012|PACT|conf/IEEEpact/WangSSSK12
+Lossless and lossy memory I/O link compression for improving performance of GPGPU workloads.|2012|PACT|conf/IEEEpact/SathishaSK12
+Improving Throughput of Power-Constrained GPUs Using Dynamic Voltage/Frequency and Core Scaling.|2011|PACT|conf/IEEEpact/LeeSSCK11
+In-DRAM near-data approximate acceleration for GPUs.|2018|PACT|conf/IEEEpact/YazdanbakhshSSL18
+VARIUS-NTV: A microarchitectural model to capture the increased sensitivity of manycores to process variations at near-threshold voltages.|2012|DSN|conf/dsn/KarpuzcuKKT12
+Mitigating random variation with spare RIBs: Redundant intermediate bitslices.|2012|DSN|conf/dsn/PalframanKL12
+Analyzing the performance and energy impact of 3D memory integration on embedded DSPs.|2011|ICSAMOS|conf/samos/ChangKS11
+Time redundant parity for low-cost transient error detection.|2011|DATE|conf/date/PalframanKL11
+Workload-aware voltage regulator optimization for power efficient multi-core processors.|2012|DATE|conf/date/SinkarWK12
+Process variation-aware workload partitioning algorithms for GPUs supporting spatial-multitasking.|2014|DATE|conf/date/AguileraLFMSK14
+Scratchpad memory optimizations for digital signal processing applications.|2011|DATE|conf/date/GilaniKS11
+Power-Performance Trade-Offs in Nanometer-Scale Multi-Level Caches Considering Total Leakage.|2005|DATE|conf/date/BaiKKSM05
+On-Chip Cache Device Scaling Limits and Effective Fault Repair Techniques in Future Nanoscale Technology.|2007|DSD|conf/dsd/RobertsKM07
+Razor: A Low-Power Pipeline Based on Circuit-Level Timing Speculation.|2003|MICRO|conf/micro/ErnstKDPRPZBAFM03
+vCache: architectural support for transparent and isolated virtual LLCs in virtualized environments.|2015|MICRO|conf/micro/KimKKH15
+Drowsy instruction caches: leakage power reduction using dynamic voltage scaling and cache sub-bank prediction.|2002|MICRO|conf/micro/KimFBM02
+A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.|2018|MICRO|conf/micro/LiPAYQPWSEK18
+Amber*: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources.|2018|MICRO|conf/micro/GoukK0KCKKJ18
+Pageforge: a near-memory content-aware page-merging architecture.|2017|MICRO|conf/micro/SkarlatosKT17
+Snatch: Opportunistically reassigning power allocation between processor and memory in 3D stacks.|2016|MICRO|conf/micro/SkarlatosTAQPKT16
+Exploiting GPU peak-power and performance tradeoffs through reduced effective pipeline latency.|2013|MICRO|conf/micro/GilaniKS13
+Combating Aging with the Colt Duty Cycle Equalizer.|2010|MICRO|conf/micro/GunadiSKL10
+GPU register file virtualization.|2015|MICRO|conf/micro/JeonRKA15
+Application-Transparent Near-Memory Processing Architecture with Memory Channel Network.|2018|MICRO|conf/micro/AlianMADWRMOCXK18
+Chameleon: Versatile and practical near-DRAM acceleration architecture for large memory systems.|2016|MICRO|conf/micro/MoghaddamSAK16
+iPatch: Intelligent fault patching to improve energy efficiency.|2015|HPCA|conf/hpca/PalframanKL15
+Defect Analysis and Cost-Effective Resilience Architecture for Future DRAM Devices.|2017|HPCA|conf/hpca/ChaOSHPJCJSCAK17
+ScalCore: Designing a core for voltage scalability.|2016|HPCA|conf/hpca/GopireddySTKAM16
+The case for GPGPU spatial multitasking.|2012|HPCA|conf/hpca/AdriaensCKS12
+Low-voltage on-chip cache architecture using heterogeneous cell sizes for high-performance processors.|2011|HPCA|conf/hpca/GhasemiDK11
+Alloy: Parallel-serial memory channel architecture for single-chip heterogeneous processor systems.|2015|HPCA|conf/hpca/WangPBAK15
+NCAP: Network-Driven, Packet Context-Aware Power Management for Client-Server Architecture.|2017|HPCA|conf/hpca/AlianAJKK17
+EnergySmart: Toward energy-efficient manycores for Near-Threshold Computing.|2013|HPCA|conf/hpca/KarpuzcuSKT13
+DUANG: Fast and lightweight page migration in asymmetric memory systems.|2016|HPCA|conf/hpca/WangZSPJK16
+Precision-aware soft error protection for GPUs.|2014|HPCA|conf/hpca/PalframanKL14
+Approximating warps with intra-warp operand value similarity.|2016|HPCA|conf/hpca/0001KA16
+CiDRA: A cache-inspired DRAM resilience architecture.|2015|HPCA|conf/hpca/SonLSKKA15
+G-Scalar: Cost-Effective Generalized Scalar Execution Architecture for Power-Efficient GPUs.|2017|HPCA|conf/hpca/LiuGAK17
+Power-efficient computing for compute-intensive GPGPU applications.|2013|HPCA|conf/hpca/GilaniKS13
+NDA: Near-DRAM acceleration architecture leveraging commodity DRAM devices and standard memory modules.|2015|HPCA|conf/hpca/FarahaniAMK15
+Accordion: Toward soft Near-Threshold Voltage Computing.|2014|HPCA|conf/hpca/KarpuzcuAK14
+AVS-aware power-gate sizing for maximum performance and power efficiency of power-constrained processors.|2011|ASP-DAC|conf/aspdac/SinkarK11
+Reevaluating the latency claims of 3D stacked memories.|2013|ASP-DAC|conf/aspdac/ChangBKARKS13
+QoS-aware dynamic resource allocation for spatial-multitasking GPUs.|2014|ASP-DAC|conf/aspdac/AguileraMK14
+Runtime temperature-based power estimation for optimizing throughput of thermal-constrained multi-core processors.|2010|ASP-DAC|conf/aspdac/OhKCDH10
+Analyzing impact of multiple ABB and AVS domains on throughput of power and thermal-constrained multi-core processors.|2010|ASP-DAC|conf/aspdac/LeeZK10
+Analyzing throughput of GPGPUs exploiting within-die core-to-core frequency variation.|2011|ISPASS|conf/ispass/LeeAK11
+Energy-efficient reconfigurable cache architectures for accelerator-enabled embedded systems.|2014|ISPASS|conf/ispass/FarahaniKM14
+dist-gem5: Distributed simulation of computer clusters.|2017|ISPASS|conf/ispass/AlianDDDKK17
+Energy-efficient floating-point arithmetic for digital signal processors.|2011|ACSCC|conf/acssc/GilaniKS11
+CIAO: Cache Interference-Aware Throughput-Oriented Architecture and Scheduling for GPUs.|2018|IPDPS|conf/ipps/ZhangGKJ18
+Elastic-Cache: GPU Cache Architecture for Efficient Fine- and Coarse-Grained Cache-Line Management.|2017|IPDPS|conf/ipps/LiSAK17
+Fine-Grained Task Migration for Graph Algorithms Using Processing in Memory.|2016|IPDPS Workshops|conf/ipps/AguileraZKJ16
+CTA-Aware Prefetching and Scheduling for GPU.|2018|IPDPS|conf/ipps/KooJLKA18
+A load balancing technique for memory channels.|2018|MEMSYS|conf/memsys/OhKALDM18
+FlexiGAN: An End-to-End Solution for FPGA Acceleration of Generative Adversarial Networks.|2018|FCCM|conf/fccm/YazdanbakhshBKG18
+Bolt: Faster Reconfiguration in Operating Systems.|2015|USENIX Annual Technical Conference|conf/usenix/PanneerselvamSK15
+Reducing register ports using delayed write-back queues and operand pre-fetch.|2003|ICS|conf/ics/KimM03
+Optimal algorithm for profile-based power gating: A compiler technique for reducing leakage on execution units in microprocessors.|2010|ICCAD|conf/iccad/ParkLKK10
+Yield-driven near-threshold SRAM design.|2007|ICCAD|conf/iccad/ChenBMSK07
+Improving platform energy: chip area trade-off in near-threshold computing environment.|2013|ICCAD|conf/iccad/WangSK13
+Leakage Power Optimization Techniques for Ultra Deep Sub-Micron Multi-Level Caches.|2003|ICCAD|conf/iccad/KimBM03
+Dynamic bandwidth scaling for embedded DSPs with 3D-stacked DRAM and wide I/Os.|2013|ICCAD|conf/iccad/ChangSAKASK13
+Load-Triggered Warp Approximation on GPU.|2018|ISLPED|conf/islped/LiuWK18
+Temporal codes in on-chip interconnects.|2017|ISLPED|conf/islped/MishkinKL17
+Analyzing potential power reduction with adaptive voltage positioning optimized for multicore processors.|2009|ISLPED|conf/islped/SinkarK09
+Bit Serializing a Microprocessor for Ultra-low-power.|2016|ISLPED|conf/islped/TomeiDK016
+Optimizing total power of many-core processors considering voltage scaling limit and process variations.|2009|ISLPED|conf/islped/LeeK09
+Statistical static timing analysis considering leakage variability in power gated designs.|2009|ISLPED|conf/islped/AndersonDLSK09
+REEL: Reducing effective execution latency of floating point operations.|2013|ISLPED|conf/islped/ReddyGGKSL13
+Frequency and yield optimization using power gates in power-constrained designs.|2009|ISLPED|conf/islped/KimSSLHCS09
+The microarchitecture of a low power register file.|2003|ISLPED|conf/islped/KimM03
+Microarchitectural power modeling techniques for deep sub-micron microprocessors.|2004|ISLPED|conf/islped/KimKBAM04
+Workload-adaptive process tuning strategy for power-efficient multi-core processors.|2010|ISLPED|conf/islped/LeeWGBCK10
+On Effective and Efficient Quality Management for Approximate Computing.|2016|ISLPED|conf/islped/WangZKX16
+FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs.|2018|OSDI|conf/osdi/0048KGKLACKKKJ18
+CNFET-based high throughput register file architecture.|2016|ICCD|conf/iccd/LiJJKL16
+Comparison of single-ISA heterogeneous versus wide dynamic range processors for mobile applications.|2015|ICCD|conf/iccd/GhasemiKK15
+Minimizing total area of low-voltage SRAM arrays through joint optimization of cell size, redundancy, and ECC.|2010|ICCD|conf/iccd/ZhouKGDK10
+VARIUS-TC: A modular architecture-level model of parametric variation for thin-channel switches.|2016|ICCD|conf/iccd/KhatamifardRKK16
+Fair share: Allocation of GPU resources for both performance and fairness.|2014|ICCD|conf/iccd/AguileraMK14
+Quantitative comparison of the power reduction techniques for samsung reconfigurable processor.|2014|ISCAS|conf/iscas/KimRSK14
+Simulating PCI-Express Interconnect for Future System Exploration.|2018|IISWC|conf/iiswc/AlianSK18
+Understanding power-performance relationship of energy-efficient modern DRAM devices.|2017|IISWC|conf/iiswc/LeeRSCKA17
+Understanding system characteristics of online erasure coding on scalable, distributed and large-scale SSD array systems.|2017|IISWC|conf/iiswc/KohZKYDKJ17
+Virtual Floating-Point Units for Low-Power Embedded Processors.|2012|ASAP|conf/asap/GilaniKS12
+A Linear Algebra Core Design for Efficient Level-3 BLAS.|2012|ASAP|conf/asap/PedramGKGSG12
+Energy-efficient floating-point arithmetic for software-defined radio architectures.|2011|ASAP|conf/asap/GilaniKS11
+Total leakage optimization strategies for multi-level caches.|2005|ACM Great Lakes Symposium on VLSI|conf/glvlsi/BaiKSM05
+Online and Operand-Aware Detection of Failures Utilizing False Alarm Vectors.|2015|ACM Great Lakes Symposium on VLSI|conf/glvlsi/YazdanbakhshPDK15
+GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training.|2018|NeurIPS|conf/nips/YuLNLLKSAA18
+Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training.|2018|NeurIPS|conf/nips/LiYLAKS18
+A low cost approach to calibrate on-chip thermal sensors.|2011|ISQED|conf/isqed/BharathYKRS11
+The compatibility analysis of thread migration and DVFS in multi-core processor.|2010|ISQED|conf/isqed/OhCKH10
+Analyzing and minimizing effects of temperature variation and NBTI on active leakage power of power-gated circuits.|2010|ISQED|conf/isqed/SinkarK10
+Maximizing throughput of power/thermal-constrained processors by balancing power consumption of cores.|2014|ISQED|conf/isqed/SinkarWK14
+VIP: Virtual Performance-State for Efficient Power Management of Virtual Machines.|2018|SoCC|conf/cloud/KangAKHK18
+Janus: supporting heterogeneous power management in virtualized environments.|2017|SoCC|conf/cloud/KimAHK17
+Practical Challenges in Supporting Function in Memory.|2018|A-SSCC|conf/asscc/Kim18
+Collaborative (CPU + GPU) algorithms for triangle counting and truss decomposition on the Minsky architecture: Static graph challenge: Subgraph isomorphism.|2017|HPEC|conf/hpec/DateFNXKH17
+Rebooting the Data Access Hierarchy of Computing Systems.|2017|ICRC|conf/icrc/HwuHGPKCXS17
+COP: to compress and protect main memory.|2015|ISCA|conf/isca/PalframanKL15
+AxMemo: hardware-compiler co-design for approximate code memoization.|2019|ISCA|conf/isca/LiuYWEK19
+Row-buffer decoupling: A case for low-latency DRAM microarchitecture.|2014|ISCA|conf/isca/OSKA14
+Drowsy Caches: Simple Techniques for Reducing Leakage Power.|2002|ISCA|conf/isca/FlautnerKMBM02
+SleepScale: Runtime joint speed scaling and sleep states management for power efficient data centers.|2014|ISCA|conf/isca/LiuDK14
+GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks.|2018|ISCA|conf/isca/YazdanbakhshSKE18
+PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine-Learning Algorithms.|2018|ISCA|conf/isca/SrivastavaKGLCA18
+GPUWattch: enabling energy optimizations in GPGPUs.|2013|ISCA|conf/isca/LengHEGKAR13
+FlatFlash: Exploiting the Byte-Accessibility of SSDs within a Unified Memory-Storage Hierarchy.|2019|ASPLOS|conf/asplos/AbulilaMQHKXH19
+Practical Near-Data Processing to Evolve Memory and Storage Devices into Mainstream Heterogeneous Computing Systems.|2019|DAC|conf/dac/KimM19
+LL-PCM: Low-Latency Phase Change Memory Architecture.|2019|DAC|conf/dac/KimSCHJ19
+VR-scale: runtime dynamic phase scaling of processor voltage regulators for improving power efficiency.|2016|DAC|conf/dac/MoghaddamGSPK16
+Cost-effective power delivery to support per-core voltage domains for power-constrained processors.|2012|DAC|conf/dac/GhasemiSSK12
+Optimizing throughput of power- and thermal-constrained multicore processors using DVFS and per-core power-gating.|2009|DAC|conf/dac/LeeK09

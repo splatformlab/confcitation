@@ -1,0 +1,109 @@
+Evaluating Bufferless Flow Control for On-chip Networks.|2010|NOCS|conf/nocs/MichelogiannakisSDK10
+Dynamic Fine-Grain Scheduling of Pipeline Parallelism.|2011|PACT|conf/IEEEpact/SanchezLYSK11
+Practical Near-Data Processing for In-Memory Analytics Frameworks.|2015|PACT|conf/IEEEpact/GaoAK15
+The Stream Virtual Machine.|2004|IEEE PACT|conf/IEEEpact/LabonteMTBKH04
+Characterization of TCC on Chip-Multiprocessors.|2005|IEEE PACT|conf/IEEEpact/McDonaldCCMCHKO05
+The OpenTM Transactional Application Programming Interface.|2007|PACT|conf/IEEEpact/BaekMTKO07
+Testing implementations of transactional memory.|2006|PACT|conf/IEEEpact/ManovitHCMKO06
+Decoupling Dynamic Information Flow Tracking with a dedicated coprocessor.|2009|DSN|conf/dsn/KannanDK09
+A practical FPGA-based framework for novel CMP research.|2007|FPGA|conf/fpga/WeeCNTGKO07
+Register pointer architecture for efficient embedded processors.|2007|DATE|conf/date/ParkPBBKD07
+Simultaneously improving code size, performance, and energy in embedded processors.|2006|DATE|conf/date/ZmilyK06
+ATLAS: a chip-multiprocessor with transactional memory support.|2007|DATE|conf/date/NjorogeCWTGKO07
+Resource efficient computing for warehouse-scale datacenters.|2013|DATE|conf/date/Kozyrakis13
+The ZCache: Decoupling Ways and Associativity.|2010|MICRO|conf/micro/SanchezK10
+A Scalable, Non-blocking Approach to Transactional Memory.|2007|HPCA|conf/hpca/ChafiCCMMBKO07
+Evaluating MapReduce for Multi-core and Multiprocessor Systems.|2007|HPCA|conf/hpca/RangerRPBK07
+GraphP: Reducing Communication for PIM-Based Graph Processing with Efficient Data Partition.|2018|HPCA|conf/hpca/ZhangZWGWCKQ18
+SCD: A scalable coherence directory with flexible sharer set encoding.|2012|HPCA|conf/hpca/SanchezK12
+Dynamic management of TurboMode in modern multi-core chips.|2014|HPCA|conf/hpca/LoK14
+Thread-safe dynamic binary translation using transactional memory.|2008|HPCA|conf/hpca/ChungDKK08
+The common case transactional behavior of multithreaded programs.|2006|HPCA|conf/hpca/ChungCMMCKO06
+HRL: Efficient and flexible reconfigurable logic for near-data processing.|2016|HPCA|conf/hpca/GaoK16
+Memory Hierarchy for Web Search.|2018|HPCA|conf/hpca/AyersAKR18
+Feedback-directed barrier optimization in a strongly isolated STM.|2009|POPL|conf/popl/BronsonKO09
+Time and Cost-Efficient Modeling and Generation of Large-Scale TPCC/TPCE/TPCH Workloads.|2011|TPCTC|conf/tpctc/DelimitrouSKVK11
+Nemesis: Preventing Authentication&Access Control Vulnerabilities in Web Applications.|2009|USENIX Security Symposium|conf/uss/DaltonKZ09
+Real-World Buffer Overflow Protection for Userspace and Kernelspace.|2008|USENIX Security Symposium|conf/uss/DaltonKK08
+Storage I/O generation and replay for datacenter applications.|2011|ISPASS|conf/ispass/DelimitrouSVK11
+Advancing computer systems without technology progress.|2013|ISPASS|conf/ispass/Kozyrakis13
+Improving Instruction Delivery with a Block-Aware ISA.|2005|Euro-Par|conf/europar/ZmilyKK05
+Automatic power management schemes for Internet servers and data centers.|2005|GLOBECOM|conf/globecom/MastroleonBKE05
+JouleSort: a balanced energy-efficiency benchmark.|2007|SIGMOD Conference|conf/sigmod/RivoireSRK07
+QoS-Aware Admission Control in Heterogeneous Datacenters.|2013|ICAC|conf/icac/DelimitrouBK13
+Green enterprise computing data: Assumptions and realities.|2012|IGCC|conf/green/KazandjievaHGLK12
+A case of system-level hardware/software co-design and co-verification of a commodity multi-processor system with custom hardware.|2012|CODES+ISSS|conf/codes/HongOCBKO12
+3D nanosystems enableembeddedabundant-data computing: special session paper.|2017|CODES+ISSS|conf/codes/HwangAMGWKWM17
+FARM: A Prototyping Environment for Tightly-Coupled, Heterogeneous Architectures.|2010|FCCM|conf/fccm/OguntebiHCBKO10
+Shinjuku: Preemptive Scheduling for?second-scale Tail Latency.|2019|NSDI|conf/nsdi/KaffesCHBMK19
+Spatial: a language and compiler for application accelerators.|2018|PLDI|conf/pldi/KoeplingerFPZHF18
+Understanding Ephemeral Storage for Serverless Analytics.|2018|USENIX Annual Technical Conference|conf/usenix/KlimovicWKSPT18
+Persona: A High-Performance Bioinformatics Framework.|2017|USENIX Annual Technical Conference|conf/usenix/BymaWFTKBL17
+Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics.|2018|USENIX Annual Technical Conference|conf/usenix/KlimovicLK18
+From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers.|2019|USENIX Annual Technical Conference|conf/usenix/FouladiRILCKZW19
+Fast memory snapshot for concurrent programmingwithout synchronization.|2009|ICS|conf/ics/ChungBK09
+Making nested parallel transactions practical using lightweight hardware support.|2010|ICS|conf/ics/BaekBKO10
+TAPE: a transactional application profiling environment.|2005|ICS|conf/ics/ChafiMMCCHKO05
+A low power front-end for embedded processors using a block-aware instruction set.|2007|CASES|conf/cases/ZmilyK07
+Energy-efficient and high-performance instruction fetch using a block-aware ISA.|2005|ISLPED|conf/islped/ZmilyK05
+Dune: Safe User-level Access to Privileged CPU Features.|2012|OSDI|conf/osdi/BelayBMTMK12
+A Comparison of High-Level Full-System Power Models.|2008|HotPower|conf/osdi/RivoireRK08
+IX: A Protected Dataplane Operating System for High Throughput and Low Latency.|2014|OSDI|conf/osdi/BelayPKGKB14
+Pocket: Elastic Ephemeral Storage for Serverless Analytics.|2018|OSDI|conf/osdi/KlimovicWSTPK18
+Hardware Enforcement of Application Security Policies Using Tagged Memory.|2008|OSDI|conf/osdi/ZeldovichKDK08
+ECHO: Recreating network traffic maps for datacenters with tens of thousands of servers.|2012|IISWC|conf/iiswc/DelimitrouSKK12
+Phoenix rebirth: Scalable MapReduce on a large-scale shared-memory system.|2009|IISWC|conf/iiswc/YooRK09
+Eigenbench: A simple exploration tool for orthogonal TM characteristics.|2010|IISWC|conf/iiswc/HongOCBKO10
+Decoupling datacenter studies from access to large-scale applications: A modeling approach for storage workloads.|2011|IISWC|conf/iiswc/DelimitrouSVK11
+STAMP: Stanford Transactional Applications for Multi-Processing.|2008|IISWC|conf/iiswc/MinhCKO08
+iBench: Quantifying interference for datacenter applications.|2013|IISWC|conf/iiswc/DelimitrouK13
+Cross-Examination of Datacenter Workload Modeling Techniques.|2011|ICDCS Workshops|conf/icdcsw/DelimitrouK11
+Evaluating impact of manageability features on device performance.|2010|CNSM|conf/cnsm/LeverichTRK10
+Heuristics for Profile-Driven Method-Level Speculative Parallelization.|2005|ICPP|conf/icpp/WhaleyK05
+Vector Lane Threading.|2006|ICPP|conf/icpp/RivoireSOK06
+Future scaling of processor-memory interfaces.|2009|SC|conf/sc/AhnJKLS09
+Tarcil: reconciling scheduling speed and quality in large shared clusters.|2015|SoCC|conf/cloud/DelimitrouSK15
+Energy proportionality and workload consolidation for latency-critical applications.|2015|SoCC|conf/cloud/PrekasPBKB15
+Flash storage disaggregation.|2016|EuroSys|conf/eurosys/KlimovicKTJK16
+Reconciling high server utilization and sub-millisecond quality-of-service.|2014|EuroSys|conf/eurosys/LeverichK14
+Making pull-based graph processing performant.|2018|PPOPP|conf/ppopp/GrossmanLK18
+Transactional collection classes.|2007|PPOPP|conf/ppopp/CarlstromMCKO07
+Potential show-stoppers for transactional synchronization.|2007|PPOPP|conf/ppopp/Adl-TabatabaiDHSKPS07
+Transactional programming in a multi-core environment.|2007|PPOPP|conf/ppopp/Adl-TabatabaiKS07
+Convolution engine: balancing efficiency&flexibility in specialized computing.|2013|ISCA|conf/isca/QadeerHSVKH13
+An effective hybrid transactional memory system with strong isolation guarantees.|2007|ISCA|conf/isca/MinhTCMBCKO07
+Heracles: improving resource efficiency at scale.|2015|ISCA|conf/isca/LoCGRK15
+AsmDB: understanding and mitigating front-end stalls in warehouse-scale computers.|2019|ISCA|conf/isca/AyersNACKKKLMR19
+Transactional Memory Coherence and Consistency.|2004|ISCA|conf/isca/HammondWCCDHPWKO04
+Raksha: a flexible information flow architecture for software security.|2007|ISCA|conf/isca/DaltonKK07
+A memory system design framework: creating smart memories.|2009|ISCA|conf/isca/FiroozshahianSSARKH09
+Understanding sources of inefficiency in general-purpose chips.|2010|ISCA|conf/isca/HameedQWASLRKH10
+Plasticine: A Reconfigurable Architecture For Parallel Paterns.|2017|ISCA|conf/isca/PrabhakarZKFZHP17
+ZSim: fast and accurate microarchitectural simulation of thousand-core systems.|2013|ISCA|conf/isca/SanchezK13
+Comparing memory systems for chip multiprocessors.|2007|ISCA|conf/isca/LeverichASFHK07
+Towards energy proportionality for large-scale latency-critical workloads.|2014|ISCA|conf/isca/LoCGBK14
+Automatic Generation of Efficient Accelerators for Reconfigurable Hardware.|2016|ISCA|conf/isca/KoeplingerPZDKO16
+Towards energy-proportional datacenter memory with mobile DRAM.|2012|ISCA|conf/isca/MalladiNPLKH12
+Architectural Semantics for Practical Transactional Memory.|2006|ISCA|conf/isca/McDonaldCCMCKO06
+DRAF: A Low-Power DRAM-Based Reconfigurable Acceleration Fabric.|2016|ISCA|conf/isca/GaoDNMZBK16
+Vantage: scalable and efficient fine-grain cache partitioning.|2011|ISCA|conf/isca/SanchezK11
+Learning Memory Access Patterns.|2018|ICML|conf/icml/HashemiSSALCKR18
+Improving software concurrency with hardware-assisted memory snapshot.|2008|SPAA|conf/spaa/ChungSBMMKO08
+Towards soft optimization techniques for parallel cognitive applications.|2007|SPAA|conf/spaa/BaekCMKO07
+Implementing and evaluating nested parallel transactions in software transactional memory.|2010|SPAA|conf/spaa/BaekBKO10
+Locality-aware task management for unstructured parallelism: a quantitative limit study.|2013|SPAA|conf/spaa/YooHKCK13
+Ased: availability, security, and debugging support usingtransactional memory.|2008|SPAA|conf/spaa/ChungBBSKO08
+Implementing and Evaluating a Model Checker for Transactional Memory Systems.|2010|ICECCS|conf/iceccs/BaekBKO10
+TANGRAM: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.|2019|ASPLOS|conf/asplos/GaoYPHK19
+Tradeoffs in transactional memory virtualization.|2006|ASPLOS|conf/asplos/ChungMMSCCKO06
+ReFlex: Remote Flash?Local Flash.|2017|ASPLOS|conf/asplos/KlimovicLK17
+Quasar: resource-efficient and QoS-aware cluster management.|2014|ASPLOS|conf/asplos/DelimitrouK14
+HCloud: Resource-Efficient Provisioning in Shared Cloud Systems.|2016|ASPLOS|conf/asplos/DelimitrouK16
+Hardware acceleration of transactional memory on commodity systems.|2011|ASPLOS|conf/asplos/CasperOHBKO11
+Generating Configurable Hardware from Parallel Patterns.|2016|ASPLOS|conf/asplos/PrabhakarKBLSKO16
+Bolt: I Know What You Did Last Summer... In The Cloud.|2017|ASPLOS|conf/asplos/DelimitrouK17
+Flexible architectural support for fine-grain scheduling.|2010|ASPLOS|conf/asplos/SanchezYK10
+Programming with transactional coherence and consistency (TCC).|2004|ASPLOS|conf/asplos/HammondCWHCKO04
+Paragon: QoS-aware scheduling for heterogeneous datacenters.|2013|ASPLOS|conf/asplos/DelimitrouK13
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.|2017|ASPLOS|conf/asplos/GaoPYHK17
+A Case for Managed and Model-less Inference Serving.|2019|HotOS|conf/hotos/YadwadkarRLK19

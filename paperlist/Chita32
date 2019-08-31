@@ -1,0 +1,181 @@
+Calculation of Deadline Missing Probability in a QoS Capable Cluster Interconnect.|2001|NCA|conf/nca/KimYD01
+A New Class of Scheduling Policies for Providing Time of Service Guarantees in Video-On-Demand Servers.|2004|MMNS|conf/mmns/SarhanD04
+Meeting midway: Improving CMP performance with memory-side prefetching.|2013|PACT|conf/IEEEpact/YedlapalliKKKDS13
+Neither more nor less: Optimizing thread-level parallelism for GPGPUs.|2013|PACT|conf/IEEEpact/KayiranJKD13
+Exploiting Inter-Warp Heterogeneity to Improve GPGPU Performance.|2015|PACT|conf/IEEEpact/Ausavarungnirun15
+Storage Consolidation on SSDs: Not Always a Panacea, but Can We Ease the Pain?|2015|PACT|conf/IEEEpact/ShahidiSKD15
+Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities.|2016|PACT|conf/IEEEpact/PattnaikTJKMKMD16
+Exploiting Staleness for Approximating Loads on CMPs.|2015|PACT|conf/IEEEpact/RengasamySKD15
+?C-States: Fine-grained GPU Datapath Power Management.|2016|PACT|conf/IEEEpact/KayiranJPATKLMD16
+Application-aware prefetch prioritization in on-chip networks.|2012|PACT|conf/IEEEpact/NachiappanMKSMD12
+Trading cache hit rate for memory performance.|2014|PACT|conf/IEEEpact/DingKGJDY14
+PEPON: performance-aware hierarchical power budgeting for NoC based multicores.|2012|PACT|conf/IEEEpact/SharifiMSKD12
+CloudPD: Problem determination and diagnosis in shared dynamic clouds.|2013|DSN|conf/dsn/SharmaJVD13
+Exploring the Potential for Collaborative Data Compression and Hard-Error Tolerance in PCM Memories.|2017|DSN|conf/dsn/JadidiATKKD17
+Exploring Fault-Tolerant Network-on-Chip Architectures.|2006|DSN|conf/dsn/ParkNKVD06
+A Distributed Multi-Point Network Interface for Low-Latency, Deadlock-Free On-Chip Interconnects.|2006|Nano-Net|conf/nanonet/ParkNKVD06
+Peer-to-peer unstructured anycasting using correlated swarms.|2009|International Teletraffic Congress|conf/teletraffic/PatankarNKKD09
+Availability evaluation of MIN-connected multiprocessors using decomposition technique.|1990|FTCS|conf/ftcs/DasTB90
+An analytical model for computing hypercube availability.|1989|FTCS|conf/ftcs/DasK89
+Tolerating Write Disturbance Errors in PCM: Experimental Characterization, Analysis, and Mechanisms.|2018|MASCOTS|conf/mascots/JadidiKD18
+DEMM: A Dynamic Energy-Saving Mechanism for Multicore Memories.|2017|MASCOTS|conf/mascots/SharifiDGZTKD17
+Content Popularity-Based Selective Replication for Read Redirection in SSDs.|2018|MASCOTS|conf/mascots/ElyasiASKD18
+Quantifying the Potential Benefits of On-chip Near-Data Computing in Manycore Processors.|2017|MASCOTS|conf/mascots/KotraGNKD17
+Improving Performance of Cluster-based Secure Application Servers with User-level Communication.|2005|ICDE|conf/icde/KimCD05
+RL-RED: A flowcontrol mechanism for 802.11-basedwireless ad hoc networks.|2004|Communications, Internet, and Information Technology|conf/ciit/DengYKD04
+Memory-efficient content filtering hardware for high-speed intrusion detection systems.|2007|SAC|conf/sac/YiKOJKD07
+A case for dynamic frequency tuning in on-chip networks.|2009|MICRO|conf/micro/MishraIDVED09
+Short-Circuiting Memory Traffic in Handheld Platforms.|2014|MICRO|conf/micro/YedlapalliNSSKD14
+CritICs Critiquing Criticality in Mobile Apps.|2018|MICRO|conf/micro/RengasamyZZNSKD18
+ViChaR: A Dynamic Virtual Channel Regulator for Network-on-Chip Routers.|2006|MICRO|conf/micro/NicopoulosPKVYD06
+Application-aware prioritization mechanisms for on-chip networks.|2009|MICRO|conf/micro/DasMMD09
+Race-to-sleep + content caching + display caching: a recipe for energy-efficient video streaming on handhelds.|2017|MICRO|conf/micro/ZhangRZNSKID17
+OSCAR: Orchestrating STT-RAM cache traffic for heterogeneous CPU-GPU architectures.|2016|MICRO|conf/micro/ZhanKLDX16
+Addressing End-to-End Memory Access Latency in NoC-Based Multicores.|2012|MICRO|conf/micro/SharifiKKD12
+Managing GPU Concurrency in Heterogeneous Architectures.|2014|MICRO|conf/micro/KayiranNJAKLMD14
+Migration, Assignment, and Scheduling of Jobs in Virtualized Environment.|2011|HotCloud|conf/hotcloud/LimHKD11
+Controlled Kernel Launch for Dynamic Parallelism in GPUs.|2017|HPCA|conf/hpca/TangPJKJPIKD17
+Performance and power optimization through data compression in Network-on-Chip architectures.|2008|HPCA|conf/hpca/DasMNPNIYD08
+LAPSES: A Recipe for High Performance Adaptive Router Design.|1999|HPCA|conf/hpca/VaidyaSD99
+ACCESS: Smart scheduling for asymmetric cache CMPs.|2011|HPCA|conf/hpca/JiangMZIFSMBD11
+Investigating QoS Support for Traffic Mixes with the MediaWorm Router.|2000|HPCA|conf/hpca/YumVDS00
+Performance Enhancement Techniques for InfiniBand? Architecture.|2003|HPCA|conf/hpca/KimYDYD03
+Domain knowledge based energy management in handhelds.|2015|HPCA|conf/hpca/NachiappanYSSKI15
+Modeling Virtual Channel Flow Control in Hypercubes.|1995|HPCA|conf/hpca/BouraD95
+Design and evaluation of a hierarchical on-chip interconnect for next-generation CMPs.|2009|HPCA|conf/hpca/DasEMVD09
+Towards a Communication Characterization Methodology for Parallel Applications.|1997|HPCA|conf/hpca/ChodnekarSVSD97
+A Caching Mechanism for Improving Internet based Mobile Ad Hoc Networks Performance.|2003|WWW (Posters)|conf/www/LimPLCDG03
+Providing Time of Service Guarantees in Video-On-Demand Servers.|2003|WWW (Posters)|conf/www/SarhanD03
+A multi-threaded PIPELINED Web server architecture for SMP/SoC machines.|2005|WWW|conf/www/ChoiKED05
+MROrchestrator: A Fine-Grained Resource Orchestration Framework for MapReduce Clusters.|2012|IEEE CLOUD|conf/IEEEcloud/SharmaPLKD12
+Virtual channel multiplexing in networks of workstations with irregular topology.|1998|HiPC|conf/hipc/SillaDSD98
+An adaptive power-conserving service discipline for Bluetooth.|2002|ICC|conf/icc/ZhuCKD02
+An Analytical Model for a QoS Capable Cluster Interconnect.|2001|MMB|conf/mmb/KimYD01
+Impact of virtual channels and adaptive routing on application performance.|2001|SIGCPR|conf/sigcpr/VaidyaSD01
+A Simulation-Based Analysis of Scheduling Policies for Multimedia Server.|2003|Annual Simulation Symposium|conf/anss/SarhanD03
+Optimizing energy consumption in GPUS through feedback-driven CTA scheduling.|2017|SpringSim (HPC)|conf/springsim/JadidiAKD17
+MLC PCM main memory with accelerated read.|2016|ISPASS|conf/ispass/ArjomandJKSD16
+A dynamic energy management scheme for multi-tier data centers.|2011|ISPASS|conf/ispass/LimSTD11
+Storage consolidation: Not always a panacea, but can we ease the pain?|2016|ISPASS|conf/ispass/ShahidiASKD16
+Impact of Job Allocation Strategies on Communication-Driven Coscheduling in Clusters.|2003|Euro-Par|conf/europar/ChoiAKYD03
+A Study on Performance and Power Efficiency of Dense Non-Volatile Caches in Multi-Core Systems.|2017|SIGMETRICS (Abstracts)|conf/sigmetrics/JadidiAKD17
+METE: meeting end-to-end QoS in multicores through system-wide resource management.|2011|SIGMETRICS|conf/sigmetrics/SharifiSMKD11
+Quantifying Data Locality in Dynamic Parallelism in GPUs.|2019|SIGMETRICS (Abstracts)|conf/sigmetrics/TangPKJKD19
+Coordinated power management of voltage islands in CMPs.|2010|SIGMETRICS|conf/sigmetrics/MishraSKD10
+GemDroid: a framework to evaluate mobile platforms.|2014|SIGMETRICS|conf/sigmetrics/NachiappanYSKSD14
+On Subcube Dependability in a Hypercube.|1991|SIGMETRICS|conf/sigmetrics/KimD91
+A Parallel Branch-and Bound Algorithm for MIN-Based Multiprocessors.|1991|SIGMETRICS|conf/sigmetrics/YangD91
+Exploiting Core Criticality for Enhanced GPU Performance.|2016|SIGMETRICS|conf/sigmetrics/JogKPKMID16
+D-factor: a quantitative model of application slow-down in multi-resource shared systems.|2012|SIGMETRICS|conf/sigmetrics/LimHKSD12
+On Interest Locality in Content-Based Routing for Large-scale MANETs.|2009|MASS|conf/mass/ZhangZCD09
+Performance comparison of cache invalidation strategies for Internet-based mobile ad hoc networks.|2004|MASS|conf/mass/LimLCD04
+On cache invalidation for internet-based vehicular ad hoc networks.|2008|MASS|conf/mass/LimCYD08
+Performance Analysis of Communications&Radar Coexistence in a Covert UWB OSA System.|2010|GLOBECOM|conf/globecom/SurenderND10
+Stabilized virtual buffer (SVB) - an active queue management scheme for Internet quality-of-service.|2002|GLOBECOM|conf/globecom/DengYKD02
+A control theoretic approach for designing adaptive AQM schemes.|2003|GLOBECOM|conf/globecom/DengYKD03
+Providing fairness in DiffServ architecture.|2002|GLOBECOM|conf/globecom/YiDKD02
+A quadtree communication structure for fast data searching and distribution.|1988|COMPSAC|conf/compsac/LinSD88
+Improving Response Time in Cluster-Based Web Servers through Coscheduling.|2004|IPDPS|conf/ipps/KimCED04
+Re-NUCA: A Practical NUCA Architecture for ReRAM Based Last-Level Caches.|2016|IPDPS|conf/ipps/KotraAGKD16
+A Strategy to Compute the InfiniBand Arbitration Tables.|2002|IPDPS|conf/ipps/AlfaroSDD02
+Analytical Modeling of a Parallel Branch-and-Bound Algorithm on MIN-Based Multiprocessors.|1992|IPPS|conf/ipps/YangD92
+A Switch Cache Design for MIN-Based Shared-Memory Multiprocessors.|1994|CONPAR|conf/conpar/YousifD94
+REMAP: a reliability/endurance mechanism for advancing PCM.|2017|MEMSYS|conf/memsys/TavanaZAKDK17
+Anatomy of GPU Memory System for Multi-Application Execution.|2015|MEMSYS|conf/memsys/JogKKPBCKKD15
+An admission control scheme for QoS-sensitive cellular networks.|2002|WCNC|conf/wcnc/LimCD02
+Performance Benefits of Virtual Channels and Adaptive Routing: An Application-Driven Study.|1997|International Conference on Supercomputing|conf/ics/VaidyaSD97
+Leveraging value locality for efficient design of a hybrid cache in multicore processors.|2017|ICCAD|conf/iccad/ArjomandJKD17
+A Performance Modeling Technique for Mesh-Connected Multicomputers.|1997|ICPADS|conf/icpads/YooDK97
+Analyzing Cache Performance for Video Servers.|1998|ICPP Workshops|conf/icppw/KimSD98
+A Differential Bandwidth Reservation Policy for Multimedia Wireless Networks.|2001|ICPP Workshops|conf/icppw/LimCD01
+Energy optimization techniques in cluster interconnects.|2003|ISLPED|conf/islped/KimYLVKIYD03
+Path-Centric On-Demand Rate Adaptation for Mobile Ad Hoc Networks.|2009|ICCCN|conf/icccn/KangYDC09
+A novel caching scheme for Internet based mobile ad hoc networks.|2003|ICCCN|conf/icccn/LimLCD03
+Mass Purging of Stale TCP Flows in Per-Flow Monitoring Systems.|2009|ICCCN|conf/icccn/NamPKDS09
+Cooperative Cache Invalidation Strategies for Internet-Based Vehicular Ad Hoc Networks.|2009|ICCCN|conf/icccn/LimYD09
+A Scale-Out Enterprise Storage Architecture.|2017|ICCD|conf/iccd/ChoiJKD17
+Multitasking in Multistage Interconnection Network Machines.|1992|ICDCS|conf/icdcs/YuD92
+Characterizing Network Traffic in a Cluster-based, Multi-tier Data Center.|2007|ICDCS|conf/icdcs/ErsozYD07
+Parallel Simulation of Mesh Routing Algorithms.|1996|ICDCS|conf/icdcs/RahmanD96
+Phoenix: A Constraint-Aware Scheduler for Heterogeneous Datacenters.|2017|ICDCS|conf/icdcs/ThinakaranGSKD17
+Efficient Fully Adaptive Wormhole Routing in n-Dimensional Meshes.|1994|ICDCS|conf/icdcs/BouraD94
+Power-Aware Prefetch in Mobile Environments.|2002|ICDCS|conf/icdcs/YinCDA02
+HybridMR: A Hierarchical MapReduce Scheduler for Hybrid Data Centers.|2013|ICDCS|conf/icdcs/SharmaWD13
+Clock-like Flow Replacement Schemes for Resilient Flow Monitoring.|2009|ICDCS|conf/icdcs/NamPLSKD09
+Selective Checkpointing and Rollbacks in Multithreaded Distributed Systems.|2001|ICDCS|conf/icdcs/KasbekarD01
+Rcast: A Randomized Communication Scheme for Improving Energy Efficiency in MANETs.|2005|ICDCS|conf/icdcs/LimYD05
+An Integrated Resource Sharing Policy for Multimedia Storage Servers Based on Network-Attached Disks.|2003|ICDCS|conf/icdcs/SarhanD03
+Exploring Anti-Spam Models in Large Scale VoIP Systems.|2008|ICDCS|conf/icdcs/PatankarNKD08
+Modeling wormhole routing in a hypercube.|1991|ICDCS|conf/icdcs/KimD91
+Evaluating the Combined Impact of Node Architecture and Cloud Workload Characteristics on Network Traffic and Performance/Cost.|2015|IISWC|conf/iiswc/TootaghajFAFKSD15
+Reviving Zombie Pages on SSDs.|2018|IISWC|conf/iiswc/ElyasiSKD18
+Characterizing diverse handheld apps for customized hardware acceleration.|2017|IISWC|conf/iiswc/RengasamyZNZSKD17
+A Learning-Guided Hierarchical Approach for Biomedical Image Segmentation.|2018|SoCC|conf/socc/JiangSRKADK18
+Hybrid-comp: A criticality-aware compressed last-level cache.|2018|ISQED|conf/isqed/JadidiAKD18
+An End-to-End Resource Scheduling Scheme for the Presentation of Composite Multimedia Information in a Networked Environment.|2003|MMM|conf/mmm/KimD03
+A Lazy Scheduling Scheme for Improving Hypercube Performance.|1993|ICPP (1)|conf/icpp/MohapatraYDK93
+A Reliable Statistical Admission Control Strategy for Interactive Video-on-Demand Servers with Interval Caching.|2000|ICPP|conf/icpp/KimD00
+Distributed Fault Diagnosis in the Butterfly Parallel Processor.|1989|ICPP (1)|conf/icpp/SheuLDI89
+Reliability Simulation of Multiprocessor Systems.|1985|ICPP|conf/icpp/DasB85
+A Processor Allocation Scheme for Hypercube Computers.|1989|ICPP (2)|conf/icpp/KimDL89
+Good Processor Management = Fast Allocation + Efficient Scheduling.|1997|ICPP|conf/icpp/YooD97
+Computation Availability of Multiple-Bus Multiprocessors.|1985|ICPP|conf/icpp/DasB85a
+Performance Analysis of Combining Multistage Interconnection Networks.|1994|ICPP (1)|conf/icpp/MohapatraWD94
+A Task-Based Dependability Model kor k-ary n-Cubes.|1996|ICPP, Vol. 1|conf/icpp/VaidyaYD96
+A Shared Memory Environment for Hypercubes.|1994|ICPP (1)|conf/icpp/AgarwalaD94
+Processor Management Techniques for Mesh-Connected Multiprocessors.|1995|ICPP (2)|conf/icpp/YooDY95
+Limit Allocation: An Efficient Processor Management Scheme for Hypercubes.|1994|ICPP (2)|conf/icpp/YuD94
+Dependability Evaluation of Multicomputer Networks.|1986|ICPP|conf/icpp/BhuyanD86
+Communication in Parallel Applications: Characterization and Sensitivity Analysis.|1997|ICPP|conf/icpp/SeedSD97
+A Class of Partially Adaptive Routing Algorithms for n_dimensional Meshes.|1993|ICPP (3)|conf/icpp/BouraD93
+A Queuing Model for Finite-Buffered Multistage Interconnection Networks.|1993|ICPP (1)|conf/icpp/MohapatraD93
+Fault-Tolerant Routing in Mesh Networks.|1995|ICPP (1)|conf/icpp/BouraD95
+Adaptive Block Rearrangement Algorithms for Video-On-Demand Servers.|2001|ICPP|conf/icpp/SarhanD01
+A Reliability Predictor for MIN-connected Multiprocessor Systems.|1988|ICPP (1)|conf/icpp/MacalusoDL88
+Fault-Tolerant Task Mapping Algorithms for MIN-Based Multiprocessors.|1990|ICPP (1)|conf/icpp/AlgudadyDL90
+A Cache Coherence Protocol for MIN-Based Multprocessors With Limited Inclusion.|1993|ICPP (1)|conf/icpp/YousifDT93
+A Cache-Based Checkpointing Scheme for MIN-Based Multiprocessors.|1991|ICPP (1)|conf/icpp/AlgudadyDT91
+A Parallel Optimal Branch-and-Bound Algorithm for MIN-Based Multiprocessors.|1999|ICPP|conf/icpp/YangD99
+Parallelizing garbage collection with I/O to improve flash resource utilization.|2018|HPDC|conf/hpdc/ChoiJKD18
+Exploring the potentials of parallel garbage collection in SSDs for enterprise storage systems.|2016|SC|conf/sc/ShahidiAJKDS16
+A case for integrated processor-cache partitioning in chip multiprocessors.|2009|SC|conf/sc/SrikantaiahDMDK09
+CPM in CMPs: Coordinated Power Management in Chip-Multiprocessors.|2010|SC|conf/sc/MishraSKD10
+A write update cache coherence protocol for MIN-based multiprocessors with accessibility-based split caches.|1990|SC|conf/sc/AlgudadyDT90
+Coscheduling in Clusters: Is It a Viable Alternative?|2004|SC|conf/sc/ChoiKEYD04
+The Penn State Computing Condominium Scheduling System.|1998|SC|conf/sc/AgnihotriANMD98
+Modeling and synthesizing task placement constraints in Google compute clusters.|2011|SoCC|conf/cloud/SharmaCHRD11
+The Curious Case of Container Orchestration and Scheduling in GPU-based Datacenters.|2018|SoCC|conf/cloud/ThinakaranGSKD18
+A Hybrid SoC Interconnect with Dynamic TDMA-Based Transaction-Less Buses and On-Chip Networks.|2006|VLSI Design|conf/vlsid/RichardsonNPVXDD06
+Design of a Dynamic Priority-Based Fast Path Architecture for On-Chip Interconnects.|2007|Hot Interconnects|conf/hoti/ParkDNKVID07
+VIP: virtualizing IP chains on handheld platforms.|2015|ISCA|conf/isca/NachiappanZRSSK15
+A case for heterogeneous on-chip interconnects for CMPs.|2011|ISCA|conf/isca/MishraVD11
+Architecting on-chip interconnects for stacked 3D STT-RAM caches in CMPs.|2011|ISCA|conf/isca/MishraDSXVD11
+A case for core-assisted bottleneck acceleration in GPUs: enabling flexible data compression with assist warps.|2015|ISCA|conf/isca/VijaykumarPJ0AD15
+A novel dimensionally-decomposed router for on-chip communication in 3D architectures.|2007|ISCA|conf/isca/KimNPDXVYD07
+MIRA: A Multi-layered On-Chip Interconnect Router Architecture.|2008|ISCA|conf/isca/ParkEDMXVD08
+Opportunistic computing in GPU architectures.|2019|ISCA|conf/isca/PattnaikTKJMKSD19
+Boosting Access Parallelism to PCM-Based Main Memory.|2016|ISCA|conf/isca/ArjomandKSD16
+A Gracefully Degrading and Energy-Efficient Modular Router Architecture for On-Chip Networks.|2006|ISCA|conf/isca/KimNP06
+QoS provisioning in clusters: an investigation of Router and NIC design.|2001|ISCA|conf/isca/YumKD01
+Orchestrated scheduling and prefetching for GPGPUs.|2013|ISCA|conf/isca/JogKMKMID13
+Aérgia: exploiting packet latency slack in on-chip networks.|2010|ISCA|conf/isca/DasMMD10
+Co-Ordinated Coscheduling in Time-Sharing Clusters through a Generic Framework.|2003|CLUSTER|conf/cluster/AgarwalCDYN03
+Integrated Admission and Congestion Control for QoS Support in Clusters.|2002|CLUSTER|conf/cluster/YumKDYD02
+MDCSim: A multi-tier data center simulation, platform.|2009|CLUSTER|conf/cluster/LimSNKD09
+A Load Balancing Scheme for Cluster-based Secure Network Servers.|2005|CLUSTER|conf/cluster/KimCD05
+Exploiting NIC Memory for Improving Cluster-Based Webserver Performance.|2005|CLUSTER|conf/cluster/ChoiKEYD05
+A Closer Look at Coscheduling Approaches for a Network of Workstations.|1999|SPAA|conf/spaa/NagarBSD99
+Clustered Mobility Model for Scale-Free Wireless Networks.|2006|LCN|conf/lcn/LimYD06
+Exploiting Intra-Request Slack to Improve SSD Performance.|2017|ASPLOS|conf/asplos/ElyasiASKDJ17
+OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance.|2013|ASPLOS|conf/asplos/JogKNMKMID13
+Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications.|2014|GPGPU@ASPLOS|conf/asplos/JogBGPKKD14
+SOML Read: Rethinking the Read Operation Granularity of 3D NAND SSDs.|2019|ASPLOS|conf/asplos/LiuKJKD19
+Cost-driven 3D integration with interconnect layers.|2010|DAC|conf/dac/WuSDDXDL10
+Cache revive: architecting volatile STT-RAM caches for enhanced performance in CMPs.|2012|DAC|conf/dac/JogMXXNID12
+A heterogeneous multiple network-on-chip design: an application-aware approach.|2013|DAC|conf/dac/MishraMD13
+A low latency router supporting adaptivity for on-chip interconnects.|2005|DAC|conf/dac/KimPTVD05
+FLOSS: FLOw sensitive scheduling on mobile platforms.|2018|DAC|conf/dac/ZhangRNZSKD18
+Co-training of Feature Extraction and Classification using Partitioned Convolutional Neural Networks.|2017|DAC|conf/dac/TsaiCPGDSN17
+Design and analysis of an NoC architecture from performance, reliability and energy perspective.|2005|ANCS|conf/ancs/KimPNVD05
+Issues in the Design of a Reflective Library for Checkpointing C++ Objects.|1999|SRDS|conf/srds/KasbekarDYKH99
+On the Effectiveness of a Counter-Based Cache Invalidation Scheme and Its Resiliency to Failures in Mobile Environments.|2001|SRDS|conf/srds/CaoD01

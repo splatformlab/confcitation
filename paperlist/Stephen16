@@ -1,0 +1,93 @@
+Implementation and Evaluation of a Dynamically Routed Processor Operand Network.|2007|NOCS|conf/nocs/GratzSHSMKB07
+Exploring the Design Space of Future CMPs.|2001|IEEE PACT|conf/IEEEpact/HuhBK01
+Multitasking workload scheduling on flexible-core chip multiprocessors.|2008|PACT|conf/IEEEpact/GulatiKSKB08
+Static Placement, Dynamic Issue (SPDI) Scheduling for EDGE Architectures.|2004|IEEE PACT|conf/IEEEpact/NagarajanKBMLK04
+ML-Based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection.|2019|DSN|conf/dsn/JhaBTHSKKI19
+On the Trend of Resilience for GPU-Dense Systems.|2019|DSN (Supplements)|conf/dsn/LeeSHTKE19
+Modeling the Effect of Technology Trends on the Soft Error Rate of Combinational Logic.|2002|DSN|conf/dsn/ShivakumarKKBA02
+Decomposing memory performance: data structures and phases.|2006|ISMM|conf/iwmm/AgaramKLM06
+Fine-grained DRAM: energy-efficient DRAM for extreme bandwidth systems.|2017|MICRO|conf/micro/OConnorCLWAKD17
+Netrace: dependency-driven trace-based network-on-chip simulation.|2010|NoCArc@MICRO|conf/micro/HestnessGK10
+A design space evaluation of grid processor architectures.|2001|MICRO|conf/micro/NagarajanSBK01
+Arbitrary Modulus Indexing.|2014|MICRO|conf/micro/DiamondFK14
+Dataflow Predication.|2006|MICRO|conf/micro/SmithNSMBKM06
+Unifying Primary Cache, Scratch, and Register File Memories in a Throughput Processor.|2012|MICRO|conf/micro/GebhartKKKD12
+Scalable Hardware Memory Disambiguation for High ILP Processors.|2003|MICRO|conf/micro/SethumadhavanDBMK03
+A compile-time managed multi-level register file hierarchy.|2011|MICRO|conf/micro/GebhartKD11
+Segment gating for static energy reduction in Networks-on-Chip.|2009|NoCArc@MICRO|conf/micro/HaleGK09
+A patch memory system for image processing and computer vision.|2016|MICRO|conf/micro/ClemonsCFJK16
+Exploring the Design Space of SPMD Divergence Management on Data-Parallel Architectures.|2014|MICRO|conf/micro/LeeGKSKA14
+The M-Machine multicomputer.|1995|MICRO|conf/micro/FilloKDCCGL95
+vDNN: Virtualized deep neural networks for scalable, memory-efficient neural network design.|2016|MICRO|conf/micro/RhuGCZK16
+Preemptive virtual clock: a flexible, efficient, and cost-effective QOS scheme for networks-on-chip.|2009|MICRO|conf/micro/GrotKM09
+Composable Lightweight Processors.|2007|MICRO|conf/micro/KimSGRGBK07
+The impact of delay on the design of branch predictors.|2000|MICRO|conf/micro/JimenezKL00
+Distributed Microarchitectural Protocols in the TRIPS Prototype Processor.|2006|MICRO|conf/micro/SankaralingamNMDDGGGHKLRSSSKB06
+Universal Mechanisms for Data-Parallel Architectures.|2003|MICRO|conf/micro/SankaralingamKMB03
+SwapCodes: Error Codes for Hardware-Software Cooperative GPU Pipeline Error Detection.|2018|MICRO|conf/micro/SullivanHZTK18
+Convergence and scalarization for data-parallel architectures.|2013|CGO|conf/cgo/LeeKGKA13
+Unlocking bandwidth for GPUs in CC-NUMA systems.|2015|HPCA|conf/hpca/AgarwalNOKW15
+Regional congestion awareness for load balance in networks-on-chip.|2008|HPCA|conf/hpca/GratzGK08
+Architecting an Energy-Efficient DRAM System for GPUs.|2017|HPCA|conf/hpca/ChatterjeeOLJKR17
+Selective GPU caches to eliminate CPU-GPU HW cache coherence.|2016|HPCA|conf/hpca/AgarwalNEWDK16
+How to implement effective prediction and forwarding for fusable dynamic multicore architectures.|2013|HPCA|conf/hpca/RobatmiliLEGSPBK13
+Express Cube Topologies for on-Chip Interconnects.|2009|HPCA|conf/hpca/GrotHKM09
+Towards high performance paged memory for GPUs.|2016|HPCA|conf/hpca/ZhengNZSK16
+Exploiting criticality to reduce bottlenecks in distributed uniprocessors.|2011|HPCA|conf/hpca/RobatmiliGBK11
+A case for toggle-aware compression for GPU systems.|2016|HPCA|conf/hpca/PekhimenkoBVMMK16
+Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.|2018|HPCA|conf/hpca/RhuOCPKK18
+Evaluation and optimization of multicore performance bottlenecks in supercomputing applications.|2011|ISPASS|conf/ispass/DiamondBMKKB11
+Critical path analysis of the TRIPS architecture.|2006|ISPASS|conf/ispass/NagarajanCMBK06
+Timeloop: A Systematic Approach to DNN Accelerator Evaluation.|2019|ISPASS|conf/ispass/ParasharRSCYMVK19
+SASSIFI: An architecture-level fault injection tool for GPU application resilience evaluation.|2017|ISPASS|conf/ispass/HariTSKE17
+Analysis of the TRIPS prototype block predictor.|2009|ISPASS|conf/ispass/RanganathanBK09
+Reconciling performance and programmability in networking systems.|2007|SIGCOMM|conf/sigcomm/MudigondaVK07
+Power, Performance, and Thermal Management for High-Performance Systems.|2007|IPDPS|conf/ipps/HansonKRGRR07
+CLARA: Circular Linked-List Auto and Self Refresh Architecture.|2016|MEMSYS|conf/memsys/AgrawalOBCEK16
+Anatomy of GPU Memory System for Multi-Application Execution.|2015|MEMSYS|conf/memsys/JogKKPBCKKD15
+Author retrospective for a NUCA substrate for flexible CMP cache sharing.|2014|ICS 25th Anniversary|conf/ics/HuhKS0BK14
+GPU snapshot: checkpoint offloading for GPU-dense systems.|2019|ICS|conf/ics/LeeSHTKE19
+A NUCA substrate for flexible CMP cache sharing.|2005|ICS|conf/ics/HuhKSZBK05
+Processor Mechanisms for Software Shared Memory.|2000|ISHPC|conf/ishpc/CarterDLKC00
+End-to-end validation of architectural power models.|2009|ISLPED|conf/islped/GovindanKB09
+Thermal response to DVFS: analysis with an Intel Pentium M.|2007|ISLPED|conf/islped/HansonKGRRR07
+Microprocessor pipeline energy analysis.|2003|ISLPED|conf/islped/NatarajanHKMB03
+SNAP: A 1.67 - 21.55TOPS/W Sparse Neural Acceleration Processor for Unstructured Sparse Deep Neural Network Inference in 16nm CMOS.|2019|VLSI Circuits|conf/vlsic/ZhangLLSKZ19
+A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm.|2019|VLSI Circuits|conf/vlsic/ZimmerVSCFJKKPR19
+Routed Inter-ALU Networks for ILP Scalability and Performance.|2003|ICCD|conf/iccd/SankaralingamSKB03
+Exploiting Microarchitectural Redundancy For Defect Tolerance.|2003|ICCD|conf/iccd/ShivakumarKMB03
+Design and Implementation of the TRIPS Primary Memory System.|2006|ICCD|conf/iccd/SethumadhavanMDBK06
+Exploiting microarchitectural redundancy for defect tolerance.|2012|ICCD|conf/iccd/ShivakumarKMB12
+Static Energy Reduction Techniques for Microprocessor Caches.|2001|ICCD|conf/iccd/HansonHAKB01
+The effects of explicitly parallel mechanisms on the multi-ALU processor cluster pipeline.|1998|ICCD|conf/iccd/ChangDKCL98
+Implementation and Evaluation of On-Chip Network Architectures.|2006|ICCD|conf/iccd/GratzKMKB06
+A comparative analysis of microarchitecture effects on CPU and GPU memory system behavior.|2014|IISWC|conf/iiswc/HestnessKW14
+GPU Computing Pipeline Inefficiencies and Optimization Opportunities in Heterogeneous CPU-GPU Processors.|2015|IISWC|conf/iiswc/HestnessKW15
+Scaling the Power Wall: A Path to Exascale.|2014|SC|conf/sc/VillaJOBNLSWMSKD14
+Understanding error propagation in deep learning neural network (DNN) accelerators and applications.|2017|SC|conf/sc/LiHSTPEK17
+Optimizing software-directed instruction replication for GPU error detection.|2018|SC|conf/sc/MahmoudHSTK18
+High performance dense linear algebra on a spatially distributed processor.|2008|PPOPP|conf/ppopp/DiamondRKGGB08
+Clock rate versus IPC: the end of the road for conventional microarchitectures.|2000|ISCA|conf/isca/AgarwalHKB00
+Counting Dependence Predictors.|2008|ISCA|conf/isca/RoesnerBK08
+A variable warp size architecture.|2015|ISCA|conf/isca/RogersJOK15
+Processor Coupling: Integrating Compile Time and Runtime Scheduling for Parallelism.|1992|ISCA|conf/isca/KecklerD92
+Exploiting ILP, TLP and DLP with the Polymorphous TRIPS Architecture.|2003|ISCA|conf/isca/SankaralingamNLKHBKM03
+Energy-efficient mechanisms for managing thread context in throughput processors.|2011|ISCA|conf/isca/GebhartJTKDLS11
+The Optimal Logic Depth Per Pipeline Stage is 6 to 8 FO4 Inverter Delays.|2002|ISCA|conf/isca/HrishikeshBKSJF02
+Late-binding: enabling unordered load-store queues.|2007|ISCA|conf/isca/SethumadhavanREBK07
+SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.|2017|ISCA|conf/isca/ParasharRMPVKEK17
+Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems.|2016|ISCA|conf/isca/HsiehEKCOVMK16
+Flexible software profiling of GPU architectures.|2015|ISCA|conf/isca/StephensonHLEJN15
+Exploiting Fine-grain Thread Level Parallelism on the MIT Multi-ALU Processor.|1998|ISCA|conf/isca/KecklerDMCCL98
+Topology-Aware Quality-of-Service Support in Highly Integrated Chip Multiprocessors.|2010|ISCA Workshops|conf/isca/GrotKM10
+Kilo-NOC: a heterogeneous network-on-chip architecture for scalability and service guarantees.|2011|ISCA|conf/isca/GrotHKM11
+The future of multi-core technologies.|2007|CLUSTER|conf/cluster/ClarkHBBK07
+Scalable selective re-execution for EDGE architectures.|2004|ASPLOS|conf/asplos/DesikanSBK04
+Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration.|2019|ASPLOS|conf/asplos/PellauerSCCHVKF19
+An evaluation of the TRIPS computer system.|2009|ASPLOS|conf/asplos/GebhartMCDGMRRSBKBM09
+Page Placement Strategies for GPUs within Heterogeneous Memory Systems.|2015|ASPLOS|conf/asplos/AgarwalNSOK15
+Application-aware Memory System for Fair and Efficient Execution of Concurrent GPGPU Applications.|2014|GPGPU@ASPLOS|conf/asplos/JogBGPKKD14
+An adaptive, non-uniform cache structure for wire-delay dominated on-chip caches.|2002|ASPLOS|conf/asplos/KimBK02
+Hardware Support for Fast Capability-based Addressing.|1994|ASPLOS|conf/asplos/CarterKD94
+21st century digital design tools.|2013|DAC|conf/dac/DallyMK13
+A real-time energy-efficient superpixel hardware accelerator for mobile computer vision applications.|2016|DAC|conf/dac/HongCVFKK16

@@ -1,0 +1,71 @@
+Adaptive insertion policies for managing shared caches.|2008|PACT|conf/IEEEpact/JaleelHQSSE08
+SAM: Optimizing Multithreaded Cores for Speculative Parallelism.|2017|PACT|conf/IEEEpact/AbeydeeraSJE017
+Design contest overview: Combined architecture for network stream categorization and intrusion detection (CANSCID).|2010|MEMOCODE|conf/memocode/PellauerAKNVBE10
+Automatic Construction of Program-Optimized FPGA Memory Networks.|2017|FPGA|conf/fpga/YangFWCAE17
+Leveraging latency-insensitivity to ease multiple FPGA design.|2012|FPGA|conf/fpga/FlemingAPPME12
+LMC: Automatic Resource-Aware Program-Optimized Memory Partitioning.|2016|FPGA|conf/fpga/YangFAWE16
+Leap scratchpads: automatic memory and cache management for reconfigurable logic.|2011|FPGA|conf/fpga/AdlerFPPE11
+A-Ports: an efficient abstraction for cycle-accurate performance models on FPGAs.|2008|FPGA|conf/fpga/PellauerVAAE08
+DAWG: A Defense Against Cache Timing Attacks in Speculative Execution Processors.|2018|MICRO|conf/micro/KirianskyLADE18
+SHiP: signature-based hit predictor for high performance caching.|2011|MICRO|conf/micro/WuJHMSE11
+A fast and accurate analytical technique to compute the AVF of sequential bits in a processor.|2015|MICRO|conf/micro/RaaschBSRE15
+PACMan: prefetch-aware cache management for high performance caching.|2011|MICRO|conf/micro/WuJMSE11
+A system level perspective on branch architecture performance.|1995|MICRO|conf/micro/CalderGE95
+The Use of Multithreading for Exception Handling.|1999|MICRO|conf/micro/ZillesES99
+Harmonizing Speculative and Non-Speculative Execution in Architectures for Ordered Parallelism.|2018|MICRO|conf/micro/JeffreyYSLE018
+A scalable architecture for ordered parallelism.|2015|MICRO|conf/micro/JeffreySYES15
+Data-centric execution of speculative parallel programs.|2016|MICRO|conf/micro/JeffreySAES16
+A Systematic Methodology to Compute the Architectural Vulnerability Factors for a High-Performance Microprocessor.|2003|MICRO|conf/micro/MukherjeeWERA03
+Achieving Non-Inclusive Cache Performance with Inclusive Caches: Temporal Locality Aware (TLA) Cache Management Policies.|2010|MICRO|conf/micro/JaleelBBSE10
+HAsim: FPGA-based high-detail multicore simulation using time-division multiplexing.|2011|HPCA|conf/hpca/PellauerAKPE11
+Predictive Sequential Associative Cache.|1996|HPCA|conf/hpca/CalderGE96
+Loose Loops Sink Chips.|2002|HPCA|conf/hpca/BorchTME02
+CAMP: A technique to estimate per-structure power at run-time using a few simple parameters.|2009|HPCA|conf/hpca/PowellBEMSY09
+The Soft Error Problem: An Architectural Perspective.|2005|HPCA|conf/hpca/MukherjeeER05
+High performing cache hierarchies for server workloads: Relaxing inclusion to capture the latency benefits of exclusive caches.|2015|HPCA|conf/hpca/JaleelNMSE15
+Combining Static and Dynamic Branch Prediction to Reduce Destructive Aliasing.|2000|HPCA|conf/hpca/PatilE00
+Optimizing under abstraction: Using prefetching to improve FPGA performance.|2013|FPL|conf/fpl/YangFAE13
+Scavenger: Automating the construction of application-optimized memory hierarchies.|2015|FPL|conf/fpl/YangFAWE15
+The LEAP FPGA operating system.|2014|FPL|conf/fpl/FlemingYAE14
+Exploiting spatial architectures for edit distance algorithms.|2014|ISPASS|conf/ispass/TithiCE14
+Accelerating architecture research.|2009|ISPASS|conf/ispass/Emer09
+Timeloop: A Systematic Approach to DNN Accelerator Evaluation.|2019|ISPASS|conf/ispass/ParasharRSCYMVK19
+SASSIFI: An architecture-level fault injection tool for GPU application resilience evaluation.|2017|ISPASS|conf/ispass/HariTSKE17
+Quick Performance Models Quickly: Closely-Coupled Partitioned Simulation on FPGAs.|2008|ISPASS|conf/ispass/PellauerVAAE08
+A method to estimate the energy consumption of deep neural networks.|2017|ACSSC|conf/acssc/YangCES17
+A Hierarchical Architectural Framework for Reconfigurable Logic Computing.|2013|IPDPS Workshops|conf/ipps/LiPPWE13
+CLARA: Circular Linked-List Auto and Self Refresh Architecture.|2016|MEMSYS|conf/memsys/AgrawalOBCEK16
+Design analysis of a heterogeneous distributed system.|1986|ACM SIGOPS European Workshop|conf/sigopsE/EmerR86
+LEAP Shared Memories: Automating the Construction of FPGA Coherent Memories.|2014|FCCM|conf/fccm/YangFAE14
+Reducing cache misses using hardware and software page placement.|1999|International Conference on Supercomputing|conf/ics/SherwoodCE99
+Hardware for machine learning: Challenges and opportunities.|2018|CICC|conf/cicc/SzeCESZ18
+ZIP-IO: Architecture for application-specific compression of Big Data.|2012|FPT|conf/fpt/JunFAE12
+14.5 Eyeriss: An energy-efficient reconfigurable accelerator for deep convolutional neural networks.|2016|ISSCC|conf/isscc/ChenKES16
+A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm.|2019|VLSI Circuits|conf/vlsic/ZimmerVSCFJKKPR19
+Towards closing the energy gap between HOG and CNN features for embedded vision (Invited paper).|2017|ISCAS|conf/iscas/SuleimanCES17
+Performance Considerations for Distributed Services: A Case Study: Mass Storage.|1988|ICDCS|conf/icdcs/EmerR88
+Understanding error propagation in deep learning neural network (DNN) accelerators and applications.|2017|SC|conf/sc/LiHSTPEK17
+Cache Scrubbing in Microprocessors: Myth or Necessity?|2004|PRDC|conf/prdc/MukherjeeEFR04
+Instruction Fetching: Coping with Code Bloat.|1995|ISCA|conf/isca/UhligNMSE95
+A Characterization of Processor Performance in the VAX-11/780.|1984|ISCA|conf/isca/EmerC84
+A Language for Describing Predictors and Its Application to Automatic Synthesis.|1997|ISCA|conf/isca/EmerG97
+Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.|2016|ISCA|conf/isca/ChenES16
+Adaptive insertion policies for high performance caching.|2007|ISCA|conf/isca/QureshiJPSE07
+Late-binding: enabling unordered load-store queues.|2007|ISCA|conf/isca/SethumadhavanREBK07
+SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.|2017|ISCA|conf/isca/ParasharRMPVKEK17
+Scheduling heterogeneous multi-cores through performance impact estimation (PIE).|2012|ISCA|conf/isca/CraeynestJENE12
+High performance cache replacement using re-reference interval prediction (RRIP).|2010|ISCA|conf/isca/JaleelTSE10
+Exploiting Choice: Instruction Fetch and Issue on an Implementable Simultaneous Multithreading Processor.|1996|ISCA|conf/isca/TullsenEELLS96
+Memory Dependence Prediction Using Store Sets.|1998|ISCA|conf/isca/ChrysosE98
+Computing Architectural Vulnerability Factors for Address-Based Structures.|2005|ISCA|conf/isca/BiswasRCEMR05
+Retrospective: Characterization of Processor Performance in the VAX-11/780.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/EmerC98
+Techniques to Reduce the Soft Error Rate of a High-Performance Microprocessor.|2004|ISCA|conf/isca/WeaverEMR04
+Fractal: An Execution Model for Fine-Grain Nested Speculative Parallelism.|2017|ISCA|conf/isca/SubramanianJALY17
+Tarantula: A Vector Extension to the Alpha Architecture.|2002|ISCA|conf/isca/EspasaAGGHJEFLMS02
+Triggered instructions: a control paradigm for spatially-programmed architectures.|2013|ISCA|conf/isca/ParasharPAACLPZGJARME13
+A Characterization of Processor Performance in the VAX-11/780.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/EmerC98a
+Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration.|2019|ASPLOS|conf/asplos/PellauerSCCHVKF19
+A comparative study of arbitration algorithms for the Alpha 21364 pipelined router.|2002|ASPLOS|conf/asplos/MukherjeeSBELW02
+CRUISE: cache replacement and utility-aware scheduling.|2012|ASPLOS|conf/asplos/JaleelNSSE12
+A modular digital VLSI flow for high-productivity SoC design.|2018|DAC|conf/dac/KhailanyKVCEFKP18
+Soft connections: addressing the hardware-design modularity problem.|2009|DAC|conf/dac/PellauerACE09

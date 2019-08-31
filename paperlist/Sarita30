@@ -1,0 +1,73 @@
+Cross-layer adaptive video coding to reduce energy on general-purpose processors.|2003|ICIP (3)|conf/icip/SachsAJ03
+POSTER: hVISC: A Portable Abstraction for Heterogeneous Parallel Systems.|2016|PACT|conf/IEEEpact/SrivastavaKSKAA16
+DeNovo: Rethinking the Memory Hierarchy for Disciplined Parallelism.|2011|PACT|conf/IEEEpact/ChoiKSSHAACC11
+Comparing and Combining Read Miss Clustering and Software Prefetching.|2001|IEEE PACT|conf/IEEEpact/PaiA01
+Impact of Software Approximations on the Resiliency of a Video Summarization System.|2018|DSN|conf/dsn/VenkatagiriSLWB18
+SoftArch: An Architecture Level Tool for Modeling and Analyzing Soft Errors.|2005|DSN|conf/dsn/LiABR05
+The Impact of Technology Scaling on Lifetime Reliability.|2004|DSN|conf/dsn/SrinivasanABR04
+Architecture-Level Soft Error Analysis: Examining the Limits of Common Assumptions.|2007|DSN|conf/dsn/LiABR07
+Using likely program invariants to detect hardware errors.|2008|DSN|conf/dsn/SahooLRAAZ08
+gem5-Approxilyzer: An Open-Source Tool for Application-Level Soft Error Analysis.|2019|DSN|conf/dsn/VenkatagiriAMMM19
+Low-cost program-level detectors for reducing silent data corruptions.|2012|DSN|conf/dsn/HariAN12
+Trace-based microarchitecture-level diagnosis of permanent hardware faults.|2008|DSN|conf/dsn/LiRSAAZ08
+A type and effect system for deterministic parallel Java.|2009|OOPSLA|conf/oopsla/BocchinoADAHKOSSV09
+Architectures for online error detection and recovery in multicore processors.|2011|DATE|conf/date/GizopoulosPARHSMBV11
+CrashTest'ing SWAT: Accurate, gate-level evaluation of symptom-based resiliency solutions.|2012|DATE|conf/date/PellegriniSCFHJAAB12
+Code Transformations to Improve Memory Parallelism.|1999|MICRO|conf/micro/PaiA99
+Saving energy with architectural and frequency adaptations for multimedia applications.|2001|MICRO|conf/micro/HughesSA01
+Efficient GPU synchronization without scopes: saying no to complex consistency models.|2015|MICRO|conf/micro/SinclairAA15
+mSWAT: low-cost hardware fault detection and diagnosis for multicore systems.|2009|MICRO|conf/micro/HariLRCA09
+Approxilyzer: Towards a systematic framework for instruction-level approximate computing and its application to hardware resiliency.|2016|MICRO|conf/micro/VenkatagiriMHA16
+Improving the Accuracy vs. Speed Tradeoff for Simulating Shared-Memory Multiprocessors with ILP Processors.|1999|HPCA|conf/hpca/DurbhakulaPA99
+An Evaluation of Fine-Grain Producer-Initiated Communication in Cache-Coherent Multiprocessors.|1997|HPCA|conf/hpca/Abdel-ShafiHAA97
+The Impact of Instruction-Level Parallelism on Multiprocessor Performance and Simulation Methodology.|1997|HPCA|conf/hpca/PaiRA97
+Accurate microarchitecture-level fault modeling for studying hardware faults.|2009|HPCA|conf/hpca/LiRKHA09
+A Comparison of Entry Consistency and Lazy Release Consistency Implementations.|1996|HPCA|conf/hpca/AdveCDRZ96
+Safe nondeterminism in a deterministic-by-default parallel language.|2011|POPL|conf/popl/BocchinoHHAAWS11
+The Java memory model.|2005|POPL|conf/popl/MansonPA05
+Eliminating on-chip traffic waste: are we there yet?|2015|ISPASS|conf/ispass/SmolinskiKSA15
+GSI: A GPU Stall Inspector to characterize the sources of memory stalls for tightly coupled GPUs.|2016|ISPASS|conf/ispass/AlsopSKA16
+Metrics for Architecture-Level Lifetime Reliability Analysis.|2008|ISPASS|conf/ispass/RamachandranABR08
+Managing energy-performance tradeoffs for multithreaded applications on multiprocessor architectures.|2007|SIGMETRICS|conf/sigmetrics/ParkJZA07
+Performance Modeling and Programming Environments for Petaflops Computers and the Blue Gene Machine.|2004|IPDPS Next Generation Software Program - NSFNGS - PI Workshop|conf/ipps/ZhengWLKAPG04
+Foundations of the C++ concurrency memory model.|2008|PLDI|conf/pldi/BoehmA08
+Parallel SAH k-D tree construction.|2010|High Performance Graphics|conf/egh/ChoiKLSBAH10
+Rethinking shared-memory languages and hardware.|2011|ICS|conf/ics/Adve11
+Predictive dynamic thermal management for multimedia applications.|2003|ICS|conf/ics/SrinivasanA03
+The energy efficiency of CMP vs. SMT for multimedia workloads.|2004|ICS|conf/ics/SasankaACD04
+Soft Real- Time Scheduling on Simultaneous Multithreaded Processors.|2002|RTSS|conf/rtss/JainHA02
+Memory models: a case for rethinking parallel languages and hardware.|2009|PODC|conf/podc/Adve09
+HeteroSync: A benchmark suite for fine-grained synchronization on tightly coupled GPUs.|2017|IISWC|conf/iiswc/SinclairAA17
+Resilience characterization of a vision analytics application under varying degrees of approximation.|2016|IISWC|conf/iiswc/VenkatagiriSLWB16
+Implementing Sequential Consistency in Cache-Based Systems.|1990|ICPP (1)|conf/icpp/AdveH90
+RSIM: a simulator for shared-memory multiprocessor and uniprocessor systems that exploit ILP.|1997|WCAE@HPCA|conf/wcae/PaiRA97
+HPVM: heterogeneous parallel virtual machine.|2018|PPOPP|conf/ppopp/KotsifakouSSKAA18
+GangES: Gang error simulation for hardware resiliency evaluation.|2014|ISCA|conf/isca/HariVAN14
+Exploiting Structural Duplication for Lifetime Reliability Enhancement.|2005|ISCA|conf/isca/SrinivasanABR05
+Online Estimation of Architectural Vulnerability Factor for Soft Errors.|2008|ISCA|conf/isca/LiABR08
+Reconfigurable caches and their application to media processing.|2000|ISCA|conf/isca/RanganathanAJ00
+Chasing Away RAts: Semantics and Evaluation for Relaxed Atomics on Heterogeneous Systems.|2017|ISCA|conf/isca/SinclairAA17
+Retrospective: Weak Ordering - A New Definition.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/AdveH98
+The Case for Lifetime Reliability-Aware Microprocessors.|2004|ISCA|conf/isca/SrinivasanABR04
+Comparison of Hardware and Software Cache Coherence Schemes.|1991|ISCA|conf/isca/AdveAHV91
+Stash: have your scratchpad and cache it too.|2015|ISCA|conf/isca/KomuravelliSAHK15
+Performance of Image and Video Processing with General-Purpose Processors and Media ISA Extensions.|1999|ISCA|conf/isca/RanganathanAJ99
+Analytic Evaluation of Shared-memory Systems with ILP Processors.|1998|ISCA|conf/isca/SorinPAVW98
+Weak Ordering - A New Definition.|1990|ISCA|conf/isca/AdveH90
+A Formal Approach to Frequent Energy Adaptations for Multimedia Applications.|2004|ISCA|conf/isca/HughesA04
+Variability in the execution of multimedia applications and implications for architecture.|2001|ISCA|conf/isca/HughesKAJPS01
+Detecting Data Races on Weak Memory Systems.|1991|ISCA|conf/isca/AdveHMN91
+Weak Ordering - A New Definition.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/AdveH98a
+The Interaction of Software Prefetching with ILP Processors in Shared-Memory Systems.|1997|ISCA|conf/isca/RanganathanPAA97
+Spandex: A Flexible Interface for Efficient Heterogeneous Coherence.|2018|ISCA|conf/isca/AlsopSA18
+Memory models: a case for rethinking parallel languages and hardware.|2009|SPAA|conf/spaa/Adve09
+Using Speculative Retirement and Larger Instruction Windows to Narrow the Performance Gap Between Memory Consistency Models.|1997|SPAA|conf/spaa/RanganathanPA97
+Performance directed energy management for main memory and disks.|2004|ASPLOS|conf/asplos/LiLDZZAK04
+Relyzer: exploiting application-level fault equivalence to analyze application resiliency to transient faults.|2012|ASPLOS|conf/asplos/HariANR12
+Minotaur: Adapting Software Testing Techniques for Hardware Errors.|2019|ASPLOS|conf/asplos/MahmoudVAMMFA19
+DeNovoSync: Efficient Support for Arbitrary Synchronization without Writer-Initiated Invalidations.|2015|ASPLOS|conf/asplos/SungA15
+DeNovoND: efficient hardware support for disciplined non-determinism.|2013|ASPLOS|conf/asplos/SungKA13
+Performance of Database Workloads on Shared-Memory Systems with Out-of-Order Processors.|1998|ASPLOS|conf/asplos/RanganathanGAB98
+An Evaluation of Memory Consistency Models for Shared-Memory Systems with ILP Processors.|1996|ASPLOS|conf/asplos/PaiRAH96
+Joint local and global hardware adaptations for energy.|2002|ASPLOS|conf/asplos/SasankaHA02
+Understanding the propagation of hard errors to software and implications for resilient system design.|2008|ASPLOS|conf/asplos/LiRSAAZ08

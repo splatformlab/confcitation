@@ -1,0 +1,267 @@
+Networks-on-chip in emerging interconnect paradigms: Advantages and challenges.|2009|NOCS|conf/nocs/CarloniPX09
+POSTER: Bridge the Gap Between Neural Networks and Neuromorphic Hardware.|2017|PACT|conf/IEEEpact/JiZCX17
+A Novel Gate-Level NBTI Delay Degradation Model with Stacking Effect.|2007|PATMOS|conf/patmos/LuoWHLYX07
+Independently-Controlled-Gate FinFET 6T SRAM Cell Design for Leakage Current Reduction and Enhanced Read Access Speed.|2014|ISVLSI|conf/isvlsi/MaLXZLG0N14
+Reliability-Aware SOC Voltage Islands Partition and Floorplan.|2006|ISVLSI|conf/isvlsi/YangWVX06
+Temporal Performance Degradation under RTN: Evaluation and Mitigation for Nanoscale Circuits.|2012|ISVLSI|conf/isvlsi/LuoWCXMY12
+Cost and Thermal Analysis of High-Performance 2.5D and 3D Integrated Circuit Design Space.|2016|ISVLSI|conf/isvlsi/StowABG016
+Adaptive Power Management in Software Radios Using Resolution Adaptive Analog to Digital Converters.|2005|ISVLSI|conf/isvlsi/HostetlerX05
+Delay and Energy Efficient Data Transmission for On-Chip Buses.|2006|ISVLSI|conf/isvlsi/MutyamEVX06
+Using Multiple-Input NEMS for Parallel A/D Conversion and Image Processing.|2015|ISVLSI|conf/isvlsi/MaCLGS0N15
+Dependability Analysis of Nano-scale FinFET circuits.|2006|ISVLSI|conf/isvlsi/WangXBL06
+NVMain: An Architectural-Level Main Memory Simulator for Emerging Non-volatile Memories.|2012|ISVLSI|conf/isvlsi/PorembaX12
+Impact of Circuit Degradation on FPGA Design Security.|2011|ISVLSI|conf/isvlsi/ChenSXN11
+A Real-Time and Energy-Efficient Implementation of Difference-of-Gaussian with Flexible Thin-Film Transistors.|2016|ISVLSI|conf/isvlsi/WuLQWG0Y16
+Effect of Power Optimizations on Soft Error Rate.|2003|VLSI-SoC (Selected Papers)|conf/vlsi/DegalahalRVXI03
+Redesigning software and systems for non-volatile processors on self-powered devices.|2016|VLSI-SoC|conf/vlsi/ZhaoQXHX16
+AIM: Fast and energy-efficient AES in-memory implementation for emerging non-volatile main memory.|2018|DATE|conf/date/XieLGHW018
+A Variation Aware High Level Synthesis Framework.|2008|DATE|conf/date/WangSX08
+Future memory and interconnect technologies.|2013|DATE|conf/date/Xie13
+Memory Trojan Attack on Neural Network Accelerators.|2019|DATE|conf/date/ZhaoHLYDJXWX19
+Thermal-Aware Task Allocation and Scheduling for Embedded Systems.|2005|DATE|conf/date/HungXVKI05
+MNSIM: Simulation platform for memristor-based neuromorphic computing system.|2016|DATE|conf/date/XiaLTGYHCYCW0Y16
+Near-Data Acceleration of Privacy-Preserving Biomarker Search with 3D-Stacked Memory.|2019|DATE|conf/date/GlovaALHX19
+A novel criticality computation method in statistical timing analysis.|2007|DATE|conf/date/0004XJ07
+CORN: In-Buffer Computing for Binary Neural Network.|2019|DATE|conf/date/ChangMWZZ019
+Power Attack Resistant Cryptosystem Design: A Dynamic Voltage and Frequency Switching Approach.|2005|DATE|conf/date/YangWVSX05
+Power and performance of read-write aware Hybrid Caches with non-volatile memories.|2009|DATE|conf/date/WuLZSX09
+Performance evaluation and optimization of HBM-Enabled GPU for data-intensive applications.|2017|DATE|conf/date/ZhuZWCX17
+Leakage-Aware Interconnect for On-Chip Network.|2005|DATE|conf/date/TsaiVXI05
+Gate replacement techniques for simultaneous leakage and aging optimization.|2009|DATE|conf/date/0002CWCXY09
+Reliability-Centric High-Level Synthesis.|2005|DATE|conf/date/TosunMAKX05
+Temperature-aware NBTI modeling and the impact of input vector control on performance degradation.|2007|DATE|conf/date/WangLHLYX07
+An energy-efficient 3D CMP design with fine-grained voltage scaling.|2011|DATE|conf/date/ZhaoDX11
+Design implications of memristor-based RRAM cross-point structures.|2011|DATE|conf/date/XuDJX11
+Energy- and endurance-aware design of phase change memory caches.|2010|DATE|conf/date/JooNDSCX10
+Modeling and design exploration of FBDRAM as on-chip memory.|2012|DATE|conf/date/SunXX12
+Allocation and scheduling of conditional task graph in hardware/software co-synthesis.|2001|DATE|conf/date/XieW01
+On-chip bus thermal analysis and optimization.|2006|DATE|conf/date/WangXVI06
+Thermomechanical stress-aware management for 3D IC designs.|2013|DATE|conf/date/ZouZKX13
+3DHLS: Incorporating high-level synthesis in physical planning of three-dimensional (3D) ICs.|2012|DATE|conf/date/ChenSZX12
+DESTINY: a tool for modeling emerging 3D NVM and eDRAM caches.|2015|DATE|conf/date/PorembaMLVX15
+Profile-Driven Selective Code Compression.|2003|DATE|conf/date/XieWL03
+LZW-Based Code Compression for VLIW Embedded Systems.|2004|DATE|conf/date/LinXW04
+OAP: an obstruction-aware cache management policy for STT-RAM last-level caches.|2013|DATE|conf/date/WangDX13
+Persistence Parallelism Optimization: A Holistic Approach from Memory Bus to RDMA Network.|2018|MICRO|conf/micro/HuOZLB018
+SCOPE: A Stochastic Computing Engine for DRAM-Based In-Situ Accelerator.|2018|MICRO|conf/micro/LiGHGNMZBX18
+Kiln: closing the performance gap between systems with and without persistence support.|2013|MICRO|conf/micro/ZhaoLYXJ13
+Incidental computing on IoT nonvolatile processors.|2017|MICRO|conf/micro/MaLLL0SKN17
+DRISA: a DRAM-based reconfigurable in-situ accelerator.|2017|MICRO|conf/micro/LiNMZBX17
+NEUTRAMS: Neural network transformation and co-design under neuromorphic hardware constraints.|2016|MICRO|conf/micro/JiZLCJQXC16
+FIRM: Fair and High-Performance Memory Control for Persistent Memory Systems.|2014|MICRO|conf/micro/ZhaoM014
+A unified memory network architecture for in-memory computing in commodity servers.|2016|MICRO|conf/micro/ZhanAZDFWX16
+LOFT: A High Performance Network-on-Chip Providing Quality-of-Service Support.|2010|MICRO|conf/micro/OuyangX10
+A code decompression architecture for VLIW processors.|2001|MICRO|conf/micro/XieWL01
+OSCAR: Orchestrating STT-RAM cache traffic for heterogeneous CPU-GPU architectures.|2016|MICRO|conf/micro/ZhanKLDX16
+Designing vertical bandwidth reconfigurable 3D NoCs for many core systems.|2014|3DIC|conf/3dic/ZouZGP014
+Investigation and comparison of thermal distribution in synchronous and asynchronous 3D ICs.|2009|3DIC|conf/3dic/HollosiZNXDS09
+Arithmetic unit design using 180nm TSV-based 3D stacking technology.|2009|3DIC|conf/3dic/OuyangSCDZXI09
+3D memory stacking for fast checkpointing/restore applications.|2010|3DIC|conf/3dic/XieDX10
+A 3D SoC design for H.264 application with on-chip DRAM stacking.|2010|3DIC|conf/3dic/ZhangWFCLSXSDXCL10
+A cost benefit analysis: The impact of defect clustering on the necessity of pre-bond tests.|2014|3DIC|conf/3dic/ZouP014
+3D optical networks-on-chip (NoC) for multiprocessor systems-on-chip (MPSoC).|2009|3DIC|conf/3dic/YeDXOHX09
+MorphCache: A Reconfigurable Adaptive Multi-level Cache hierarchy.|2011|HPCA|conf/hpca/SrikantaiahKZKIX11
+Adaptive placement and migration policy for an STT-RAM-based hybrid cache.|2014|HPCA|conf/hpca/WangJXSX14
+A novel architecture of the 3D stacked MRAM L2 cache for CMPs.|2009|HPCA|conf/hpca/SunDXLC09
+CREAM: A Concurrent-Refresh-Aware DRAM Memory architecture.|2014|HPCA|conf/hpca/ZhangPXSX14
+Architecture exploration for ambient energy harvesting nonvolatile processors.|2015|HPCA|conf/hpca/MaZLSLLS0N15
+A Hybrid solid-state storage architecture for the performance, energy consumption, and lifetime improvement.|2010|HPCA|conf/hpca/SunJCNXCL10
+Overcoming the challenges of crossbar resistive memory architectures.|2015|HPCA|conf/hpca/XuNMBZY015
+TS-Router: On maximizing the Quality-of-Allocation in the On-Chip Network.|2013|HPCA|conf/hpca/ChangHPNXK13
+Analysis and Optimization of the Memory Hierarchy for Graph Processing Workloads.|2019|HPCA|conf/hpca/BasakLHOXZJ019
+i2WAP: Improving non-volatile cache lifetime by reducing inter- and intra-set write variations.|2013|HPCA|conf/hpca/WangDXJ13
+Leveraging nonvolatility for architecture design with emerging NVM.|2015|NVMSA|conf/nvmsa/LiCZC015
+Designing reliable circuit in the presence of soft errors.|2005|ASP-DAC|conf/aspdac/VijaykrishnanXI05
+Modeling and design analysis of 3D vertical resistive memory - A low cost cross-point architecture.|2014|ASP-DAC|conf/aspdac/XuNYX14
+SwimmingLane: A composite approach to mitigate voltage droop effects in 3D power delivery network.|2014|ASP-DAC|conf/aspdac/HuXHX14
+Thermal-aware power network design for IR drop reduction in 3D ICs.|2012|ASP-DAC|conf/aspdac/LiMZCWHX12
+A frequent-value based PRAM memory architecture.|2011|ASP-DAC|conf/aspdac/SunNOX11
+Yield-aware time-efficient testing and self-fixing design for TSV-based 3D ICs.|2012|ASP-DAC|conf/aspdac/XieWX12
+Enabling quality-of-service in nanophotonic network-on-chip.|2011|ASP-DAC|conf/aspdac/OuyangX11
+Energy and performance driven circuit design for emerging phase-change memory.|2010|ASP-DAC|conf/aspdac/NiuCDX10
+Optimal topology exploration for application-specific 3D architectures.|2006|ASP-DAC|conf/aspdac/OzturkWKX06
+No?: Leveraging delta compression for end-to-end memory access in NoC based multicores.|2014|ASP-DAC|conf/aspdac/ZhanPXX14
+Low power memristor-based ReRAM design with Error Correcting Code.|2012|ASP-DAC|conf/aspdac/NiuXX12
+Spendthrift: Machine learning based resource and frequency scaling for ambient energy harvesting nonvolatile processors.|2017|ASP-DAC|conf/aspdac/MaLSLS0N17
+Learning the sparsity for ReRAM: mapping and pruning sparse neural network for ReRAM based accelerator.|2019|ASP-DAC|conf/aspdac/LinZW019
+On-chip hybrid power supply system for wireless sensor nodes.|2011|ASP-DAC|conf/aspdac/LiuWLMXY11
+Modeling framework for cross-point resistive memory design emphasizing reliability and variability issues.|2015|ASP-DAC|conf/aspdac/ZhengX015
+Architecture design with STT-RAM: Opportunities and challenges.|2016|ASP-DAC|conf/aspdac/ChiLCLK016
+A framework for estimating NBTI degradation of microarchitectural components.|2009|ASP-DAC|conf/aspdac/DeBoleRBWLWXCV09
+Low-leakage robust SRAM cell design for sub-100nm technologies.|2005|ASP-DAC|conf/aspdac/YangWWVX05
+AdaMS: Adaptive MLC/SLC phase-change memory design for file storage.|2011|ASP-DAC|conf/aspdac/DongX11
+A criticality-driven microarchitectural three dimensional (3D) floorplanner.|2009|ASP-DAC|conf/aspdac/SridharanDSXN09
+FD-HGAC: a hybrid heuristic/genetic algorithm hardware/software co-synthesis framework with fault detection.|2005|ASP-DAC|conf/aspdac/ConnerXKDL05
+System-level cost analysis and design exploration for three-dimensional integrated circuits (3D ICs).|2009|ASP-DAC|conf/aspdac/DongX09
+Nonvolatile memory allocation and hierarchy optimization for high-level synthesis.|2015|ASP-DAC|conf/aspdac/LiLL0Y15
+Building energy-efficient multi-level cell STT-RAM caches with data compression.|2017|ASP-DAC|conf/aspdac/LiuCLCX17
+Parametric yield driven resource binding in behavioral synthesis with multi-Vth/Vddlibrary.|2010|ASP-DAC|conf/aspdac/ChenXWT10a
+Three-dimensional integrated circuits (3D IC) floorplan and power/ground network co-synthesis.|2010|ASP-DAC|conf/aspdac/FalkensternXCW10
+Variation-aware resource sharing and binding in behavioral synthesis.|2009|ASP-DAC|conf/aspdac/WangXT09
+Tolerating process variations in high-level synthesis using transparent latches.|2009|ASP-DAC|conf/aspdac/ChenX09
+3DLAT: TSV-based 3D ICs crosstalk minimization utilizing Less Adjacent Transition code.|2014|ASP-DAC|conf/aspdac/ZouNCX14
+Minimizing leakage power in aging-bounded high-level synthesis with design time multi-Vthassignment.|2010|ASP-DAC|conf/aspdac/ChenXWT10
+Co-synthesis with custom ASICs.|2000|ASP-DAC|conf/aspdac/XieW00
+Computation-oriented fault-tolerance schemes for RRAM computing systems.|2017|ASP-DAC|conf/aspdac/HuangfuXCYTLCXW17
+Heterogeneous architecture design with emerging 3D and non-volatile memory technologies.|2015|ASP-DAC|conf/aspdac/ZouPHYZ015
+Variability-driven module selection with joint design time optimization and post-silicon tuning.|2008|ASP-DAC|conf/aspdac/WangWX08
+Two-dimensional crosstalk avoidance codes.|2008|SiPS|conf/sips/WuYX08
+Thermal-aware Design Considerations for Application-Specific Instruction Set Processor.|2008|SASP|conf/sasp/LinSFXS08
+A circuit-architecture co-optimization framework for evaluating emerging memory hierarchies.|2013|ISPASS|conf/ispass/DongJX13
+Embedded Multi-Processor System-on-chip (MPSoC) design considering process variations.|2008|IPDPS|conf/ipps/WangX08
+Collaborative VLSI-CAD Instruction in the Digital Sandbox.|2007|MSE|conf/mse/JonesLRX07
+GraphIA: an in-situ accelerator for large-scale graph processing.|2018|MEMSYS|conf/memsys/LiDLWX18
+Code Compression for VLIW Processors.|2001|Data Compression Conference|conf/dcc/XieLW01
+Code Compression Using Variable-to-fixed Coding Based on Arithmetic Coding.|2003|DCC|conf/dcc/XieWL03
+System-level design space exploration for three-dimensional (3D) SoCs.|2011|CODES+ISSS|conf/codes/ZouCXS11
+Direct Training for Spiking Neural Networks: Faster, Larger, Better.|2019|AAAI|conf/aaai/WuDLZ0S19
+Code Compression for VLIW Processors Using Variable-to-Fixed Coding.|2002|ISSS|conf/isss/LekatsasWX02
+F2BFLY: an on-chip free-space optical network with wavelength-switching.|2011|ICS|conf/ics/OuyangYNXL11
+History-Assisted Adaptive-Granularity Caches (HAAG$) for High Performance 3D DRAM Architectures.|2015|ICS|conf/ics/ChenLAMZXO0BJ15
+NVSim-CAM: a circuit-level simulator for emerging nonvolatile memory based content-addressable memory.|2016|ICCAD|conf/iccad/LiLGXX16
+Bandwidth-aware reconfigurable cache design with hybrid memory technologies.|2011|ICCAD|conf/iccad/ZhaoXX11
+Intrinsic NBTI-variability aware statistical pipeline performance assessment and tuning.|2009|ICCAD|conf/iccad/VaidyanathanOX09
+Design of cross-point metal-oxide ReRAM emphasizing reliability and cost.|2013|ICCAD|conf/iccad/NiuXMJX13
+Improving soft-error tolerance of FPGA configuration bits.|2004|ICCAD|conf/iccad/SrinivasanGVKXI04
+PCRAMsim: System-level performance, energy, and area modeling for Phase-Change RAM.|2009|ICCAD|conf/iccad/DongJX09
+Variation-aware task allocation and scheduling for MPSoC.|2007|ICCAD|conf/iccad/WangNWXV07
+Cost-effective integration of three-dimensional (3D) ICs emphasizing testing cost analysis.|2010|ICCAD|conf/iccad/ChenNXC10
+Architecting 3D vertical resistive memory for next-generation storage systems.|2014|ICCAD|conf/iccad/XuCNZY014
+Evaluation of using inductive/capacitive-coupling vertical interconnects in 3D network-on-chip.|2010|ICCAD|conf/iccad/OuyangXPX10
+Dynamic Machine Learning Based Matching of Nonvolatile Processor Microarchitecture to Harvested Energy Profile.|2015|ICCAD|conf/iccad/MaLLS0N15
+Device-architecture co-optimization of STT-RAM based memory for low power embedded systems.|2011|ICCAD|conf/iccad/XuNZKNX11
+Cost analysis and cost-driven IP reuse methodology for SoC design based on 2.5D/3D integration.|2016|ICCAD|conf/iccad/StowABG016
+Using multi-level cell STT-RAM for fast and energy-efficient local checkpointing.|2014|ICCAD|conf/iccad/ChiXZDX14
+Thermal-aware reliability analysis for platform FPGAs.|2008|ICCAD|conf/iccad/MangalagiriBKXN08
+ODESY: a novel 3T-3MTJ cell design with optimized area DEnsity, scalability and latencY.|2016|ICCAD|conf/iccad/XueCYW016
+Optimizing bandwidth and power of graphics memory with hybrid memory technologies and adaptive data migration.|2012|ICCAD|conf/iccad/ZhaoX12
+Cost-effective design of scalable high-performance systems using active and passive interposers.|2017|ICCAD|conf/iccad/Stow0SL17
+PRESCOTT: Preset-based cross-point architecture for spin-orbit-torque magnetic random access memory.|2017|ICCAD|conf/iccad/ChangWGZZ0Z17
+Guaranteeing performance yield in high-level synthesis.|2006|ICCAD|conf/iccad/HungWX06
+Power and area reduction using carbon nanotube bundle interconnect in global clock tree distribution network.|2009|NANOARCH|conf/nanoarch/0001EYNI09
+A customized design of DRAM controller for on-chip 3D DRAM stacking.|2010|CICC|conf/cicc/ZhangWFSDXCL10
+An Embedded Co-AdaBoost and Its Application in Classification of Software Document Relation.|2012|SKG|conf/skg/LiuLXLH12
+Compact models and model standard for 2.5D and 3D integration.|2014|SLIP|conf/slip/Zou014
+Investigation of Cost-Optimal Network-on-Chip for Passive and Active Interposer Systems.|2019|SLIP|conf/slip/StowA019
+Cost-efficient 3D Integration to Hinder Reverse Engineering During and After Manufacturing.|2018|AsianHOST|conf/asianhost/GuSMLX18
+CheckerCore: enhancing an FPGA soft core to capture worst-case execution times.|2009|CASES|conf/cases/OuyangRMZXM09
+Self-powered wearable sensor node: Challenges and opportunities.|2015|CASES|conf/cases/LiuLLX0Y15
+Neural network transformation under hardware constraints.|2016|CASES|conf/cases/ZhangJCX16
+Making B+-tree efficient in PCM-based main memory.|2014|ISLPED|conf/islped/ChiLX14
+EECache: exploiting design choices in energy-efficient last-level caches for chip multiprocessors.|2014|ISLPED|conf/islped/ChengPSSIKSX14
+Leveraging emerging nonvolatile memory in high-level synthesis with loop transformations.|2015|ISLPED|conf/islped/LiLZLLSWYX15
+Enabling high-performance LPDDRx-compatible MRAM.|2014|ISLPED|conf/islped/WangDX14
+Energy-efficient GPU design with reconfigurable in-package graphics memory.|2012|ISLPED|conf/islped/ZhaoSLX12
+Design trade-offs for high density cross-point resistive memory.|2012|ISLPED|conf/islped/NiuXMJX12
+Low-power dual-element memristor based memory design.|2010|ISLPED|conf/islped/NiuCX10
+Emerging technologies and their impact on system design.|2009|ISLPED|conf/islped/JouppiX09
+Exploration of 3D stacked L2 cache design for high performance and efficient thermal control.|2009|ISLPED|conf/islped/SunWX09
+Analysis and mitigation of lateral thermal blockage effect of through-silicon-via in 3D IC designs.|2011|ISLPED|conf/islped/ChenKMJX11
+3D-nonFAR: three-dimensional non-volatile FPGA architecture using phase change memory.|2010|ISLPED|conf/islped/ChenZX10
+Temperature-Aware Voltage Islands Architecting in System-on-Chip Design.|2005|ICCD|conf/iccd/HungLXVDC05
+Test-access mechanism optimization for core-based three-dimensional SOCs.|2008|ICCD|conf/iccd/WuCCX08
+FPGA routing architecture analysis under variations.|2007|ICCD|conf/iccd/SrinivasanMXV07
+Comparative analysis of NBTI effects on low power and high performance flip-flops.|2008|ICCD|conf/iccd/RamakrishnanWVX08
+Lazy Precharge: An overhead-free method to reduce precharge overhead for memory parallelism improvement of DRAM system.|2013|ICCD|conf/iccd/ZhangXXS13
+Thermal-Aware IP Virtualization and Placement for Networks-on-Chip Architecture.|2004|ICCD|conf/iccd/HungATXVI04
+Scalable memory fabric for silicon interposer-based multi-core systems.|2016|ICCD|conf/iccd/AkgunZW016
+3D GPU architecture using cache stacking: Performance, cost, power and thermal analysis.|2009|ICCD|conf/iccd/Al-MaashriSDNX09
+Low power multi-level-cell resistive memory design with incomplete data mapping.|2013|ICCD|conf/iccd/NiuZXX13
+Test-wrapper optimization for embedded cores in TSV-based three-dimensional SOCs.|2009|ICCD|conf/iccd/NoiaCX09
+Thermal-aware 3D design for side-channel information leakage.|2016|ICCD|conf/iccd/GuSBK016
+Temperature-Sensitive Loop Parallelization for Chip Multiprocessors.|2005|ICCD|conf/iccd/NarayananCKX05
+Energy-efficient multi-level cell phase-change memory system with data encoding.|2011|ICCD|conf/iccd/WangDSNX11
+Scan chain design for three-dimensional integrated circuits (3D ICs).|2007|ICCD|conf/iccd/WuFX07
+Three-Dimensional Cache Design Exploration Using 3DCacti.|2005|ICCD|conf/iccd/TsaiXVI05
+Exploring the vulnerability of CMPs to soft errors with 3D stacked non-volatile memory.|2011|ICCD|conf/iccd/SunKRX11
+ProactiveDRAM: A DRAM-initiated retention management scheme.|2014|ICCD|conf/iccd/WangD014
+Designing scratchpad memory architecture with emerging STT-RAM memory technologies.|2013|ISCAS|conf/iscas/WangSWXC13
+Crosstalk-Aware Energy Efficient Encoding for Instruction Bus through Code Compression.|2006|SoCC|conf/socc/VaidyanathanX06
+Analysis of Subthreshold Finfet Circuits for Ultra-Low Power Design.|2006|SoCC|conf/socc/WuWX06
+ILP-based scheme for timing variation-aware scheduling and resource binding.|2008|SoCC|conf/socc/ChenOX08
+Power optimization for FinFET-based circuits using genetic algorithms.|2008|SoCC|conf/socc/OuyangX08
+Modeling the Impact of Process Variation on Critical Charge Distribution.|2006|SoCC|conf/socc/DingLWYX06
+Reliability-Aware Co-Synthesis for Embedded Systems.|2004|ASAP|conf/asap/XieLKVI04
+3D-SWIFT: a high-performance 3D-stacked wide IO DRAM.|2014|ACM Great Lakes Symposium on VLSI|conf/glvlsi/ZhangXCSX14
+Reliability-aware cross-point resistive memory design.|2014|ACM Great Lakes Symposium on VLSI|conf/glvlsi/XuNZYX14
+A low-power phase change memory based hybrid cache architecture.|2008|ACM Great Lakes Symposium on VLSI|conf/glvlsi/MangalagiriSYNXIK08
+Leveraging 3D Technologies for Hardware Security: Opportunities and Challenges.|2016|ACM Great Lakes Symposium on VLSI|conf/glvlsi/GuLSBL0K16
+Security Threats and Countermeasures in Three-Dimensional Integrated Circuits.|2017|ACM Great Lakes Symposium on VLSI|conf/glvlsi/DofeGSYK017
+TSV power supply array electromigration lifetime analysis in 3D ICS.|2014|ACM Great Lakes Symposium on VLSI|conf/glvlsi/ZouZXX14
+Technology, CAD tools, and designs for emerging 3D integration technology.|2008|ACM Great Lakes Symposium on VLSI|conf/glvlsi/AlamIX08
+Energy Efficient RRAM Spiking Neural Network for Real Time Classification.|2015|ACM Great Lakes Symposium on VLSI|conf/glvlsi/WangTXLGYL015
+Mitigating electromigration of power supply networks using bidirectional current stress.|2012|ACM Great Lakes Symposium on VLSI|conf/glvlsi/XieNX12
+CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators.|2019|ACM Great Lakes Symposium on VLSI|conf/glvlsi/LinLHDX19
+Design of a nanosensor array architecture.|2004|ACM Great Lakes Symposium on VLSI|conf/glvlsi/XuVXI04
+Enabling architectural innovations using non-volatile memory.|2011|ACM Great Lakes Symposium on VLSI|conf/glvlsi/NarayananSSMSXD11
+Building a Low Latency, Highly Associative DRAM Cache with the Buffered Way Predictor.|2016|SBAC-PAD|conf/sbac-pad/WangJZLX16
+NBTI-aware statistical circuit delay assessment.|2009|ISQED|conf/isqed/VaidyanathanOXW09
+Variation Impact on SER of Combinational Circuits.|2007|ISQED|conf/isqed/RamakrishnanRSVXI07
+Thermal-Aware Floorplanning Using Genetic Algorithms.|2005|ISQED|conf/isqed/HungXVATI05
+On the efficacy of input Vector Control to mitigate NBTI effects and leakage power.|2009|ISQED|conf/isqed/WangCWBCXY09
+The Effect of Threshold Voltages on the Soft Error Rate.|2004|ISQED|conf/isqed/DegalahalRVXI04
+Interconnect and Thermal-aware Floorplanning for 3D Microprocessors.|2006|ISQED|conf/isqed/HungLXVI06
+Hierarchical Soft Error Estimation Tool (HSEET).|2008|ISQED|conf/isqed/RamakrishnanRVXIU08
+Variation Analysis of CAM Cells.|2007|ISQED|conf/isqed/MupidMVXI07
+TSV-aware topology generation for 3D Clock Tree Synthesis.|2013|ISQED|conf/isqed/LiuDWMXQY13
+Reliability-Centric Hardware/Software Co-Design.|2005|ISQED|conf/isqed/TosunMAKXH05
+Cost-driven 3D design optimization with metal layer reduction technique.|2013|ISQED|conf/isqed/ZouXX13
+CPDI: Cross-power-domain interface circuit design in monolithic 3D technology.|2013|ISQED|conf/isqed/XieDX13
+Building energy-efficient multi-level cell STT-MRAM based cache through dynamic data-resistance encoding.|2014|ISQED|conf/isqed/ChiXZX14
+Modeling of PMOS NBTI Effect Considering Temperature Variation.|2007|ISQED|conf/isqed/LuoWHLYX07
+An ILP Formulation for Reliability-Oriented High-Level Synthesis.|2005|ISQED|conf/isqed/TosunOMAKXH05
+Exploring memory controller configurations for many-core systems with 3D stacked DRAMs.|2015|ISQED|conf/isqed/GeZ0N15
+Efficient region-aware P/G TSV planning for 3D ICs.|2014|ISQED|conf/isqed/YaoC0MXY14
+Test-Access Solutions for Three-Dimensional SOCs.|2008|ITC|conf/itc/WuCCX08
+Modeling TSV open defects in 3D-stacked DRAM.|2010|ITC|conf/itc/JiangLDXX10
+Leveraging 3D PCRAM technologies to reduce checkpoint overhead for future exascale systems.|2009|SC|conf/sc/DongMJKX09
+Simple but Effective Heterogeneous Main Memory with On-Chip Memory Controller Support.|2010|SC|conf/sc/DongXMJ10
+MAGE: adaptive granularity and ECC for resilient and power efficient memory systems.|2012|SC|conf/sc/LiYCZABXJ12
+SEAT-LA: A Soft Error Analysis Tool for Combinational Logic.|2006|VLSI Design|conf/vlsid/RajaramanKVXI06
+Processor Architecture Design Using 3D Integration Technology.|2010|VLSI Design|conf/vlsid/Xie10
+Accurate Stacking Effect Macro-Modeling of Leakage Power in Sub-100nm Circuits.|2005|VLSI Design|conf/vlsid/YangWVXW05
+Influence of Leakage Reduction Techniques on Delay/Leakage Uncertainty.|2005|VLSI Design|conf/vlsid/TsaiVXI05
+A Hybrid SoC Interconnect with Dynamic TDMA-Based Transaction-Less Buses and On-Chip Networks.|2006|VLSI Design|conf/vlsid/RichardsonNPVXDD06
+Architecting Microprocessor Components in 3D Design Space.|2007|VLSI Design|conf/vlsid/VaidyanathanHWXNI07
+Soft Error Rate Analysis for Combinational Logic Using An Accurate Electrical Masking Model.|2007|VLSI Design|conf/vlsid/WangXRV07
+Dynamic Sparse Graph for Efficient Deep Learning.|2019|ICLR (Poster)|conf/iclr/LiuDHZLDX19
+LAP: Loop-Block Aware Inclusion Properties for Energy-Efficient Asymmetric Last Level Caches.|2016|ISCA|conf/isca/ChengZSIJL016
+Half-DRAM: A high-bandwidth and low-power DRAM architecture from the rethinking of fine-grained activation.|2014|ISCA|conf/isca/ZhangCXSWX14
+Architecting on-chip interconnects for stacked 3D STT-RAM caches in CMPs.|2011|ISCA|conf/isca/MishraDSXVD11
+There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes.|2017|ISCA|conf/isca/PorembaAYKXL17
+A novel dimensionally-decomposed router for on-chip communication in 3D architectures.|2007|ISCA|conf/isca/KimNPDXVYD07
+MIRA: A Multi-layered On-Chip Interconnect Router Architecture.|2008|ISCA|conf/isca/ParkEDMXVD08
+Design and Management of 3D Chip Multiprocessors Using Network-in-Memory.|2006|ISCA|conf/isca/LiNRXVK06
+PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory.|2016|ISCA|conf/isca/ChiLXZZLWX16
+Moguls: a model to explore the memory hierarchy for bandwidth improvements.|2011|ISCA|conf/isca/SunHKZXXC11
+Hybrid cache architecture with disparate memory technologies.|2009|ISCA|conf/isca/WuLZSRX09
+NEOFog: Nonvolatility-Exploiting Optimizations for Fog Computing.|2018|ASPLOS|conf/asplos/MaLKSN0WWL018
+Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler.|2018|ASPLOS|conf/asplos/JiZC018
+FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture.|2019|ASPLOS|conf/asplos/JiZXLWHZX19
+Architectural benefits and design challenges for three-dimensional integrated circuits.|2010|APCCAS|conf/apccas/XieZDX10
+Leakage Optimized DECAP Design for FPGAs.|2006|APCCAS|conf/apccas/VaidyanathanSXVR06
+PS3-RAM: a fast portable and scalable statistical STT-RAM reliability analysis method.|2012|DAC|conf/dac/WenZCWX12
+Cost-driven 3D integration with interconnect layers.|2010|DAC|conf/dac/WuSDDXDL10
+Point and discard: a hard-error-tolerant architecture for non-volatile last level caches.|2012|DAC|conf/dac/WangDX12
+Ambient energy harvesting nonvolatile processors: from circuit to system.|2015|DAC|conf/dac/LiuLLWLMLCJ0SY15
+NoC-Sprinting: Interconnect for Fine-Grained Sprinting in the Dark Silicon Era.|2014|DAC|conf/dac/ZhanXS14
+Cache revive: architecting volatile STT-RAM caches for enhanced performance in CMPs.|2012|DAC|conf/dac/JogMXXNID12
+Cost-aware three-dimensional (3D) many-core multiprocessor design.|2010|DAC|conf/dac/ZhaoDX10
+Run-Time Technique for Simultaneous Aging and Power Optimization in GPGPUs.|2014|DAC|conf/dac/ChenWLXY14
+Automated mapping for reconfigurable single-electron transistor arrays.|2011|DAC|conf/dac/ChenEWDXN11
+Design Methodologies for 3D Mixed Signal Integrated Circuits: a Practical 12-bit SAR ADC Design Case.|2014|DAC|conf/dac/LiuCHWXY14
+Efficient System Architecture in the Era of Monolithic 3D: Dynamic Inter-tier Interconnect and Processing-in-Memory.|2019|DAC|conf/dac/StowAH0LL19
+NVSim-VXs: an improved NVSim for variation aware STT-RAM simulation.|2016|DAC|conf/dac/EkenSBXW0C16
+Fine-granularity tile-level parallelism in non-volatile memory architecture with two-dimensional bank subdivision.|2016|DAC|conf/dac/PorembaZ016
+Understanding the trade-offs in multi-level cell ReRAM memory design.|2013|DAC|conf/dac/XuNMJX13
+RADAR: a 3D-reRAM based DNA alignment accelerator architecture.|2018|DAC|conf/dac/HuangfuLH018
+Thermal-Sustainable Power Budgeting for Dynamic Threading.|2014|DAC|conf/dac/HuXMCHX14
+Circuit and microarchitecture evaluation of 3D stacking magnetic RAM (MRAM) as a universal memory replacement.|2008|DAC|conf/dac/DongWSXLC08
+Designing energy-efficient NoC for real-time embedded systems through slack optimization.|2013|DAC|conf/dac/ZhanSOTNX13
+Impact of process variations on emerging memristor.|2010|DAC|conf/dac/NiuCXX10
+FLAW: FPGA lifetime awareness.|2006|DAC|conf/dac/SrinivasanMXVS06
+Memory-Bound Proof-of-Work Acceleration for Blockchain Applications.|2019|DAC|conf/dac/WuDHLX0X19
+TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.|2017|DAC|conf/dac/ChengXZC0WY17
+Core vs. uncore: the heart of darkness.|2015|DAC|conf/dac/ChengZZ0SI15
+DimNoC: a dim silicon approach towards power-efficient on-chip network.|2015|DAC|conf/dac/ZhanOGZ015
+Pinatubo: a processing-in-memory architecture for bulk bitwise operations in emerging non-volatile memories.|2016|DAC|conf/dac/LiXZZLX16

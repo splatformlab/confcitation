@@ -1,0 +1,174 @@
+Code and data partitioning for fine-grain parallelism.|2007|LCTES|conf/lctrts/ChuM07
+Efficient soft error protection for commodity embedded microprocessors using profile information.|2012|LCTES|conf/lctrts/KhudiaWM12
+Recurrence cycle aware modulo scheduling for coarse-grained reconfigurable architectures.|2009|LCTES|conf/lctrts/OhEPM09
+Low cost control flow protection using abstract control signatures.|2013|LCTES|conf/lctrts/KhudiaM13
+Compiler-managed partitioned data caches for low power.|2007|LCTES|conf/lctrts/RavindranCM07
+Edge-centric modulo scheduling for coarse-grained reconfigurable architectures.|2008|PACT|conf/IEEEpact/ParkFMOKK08
+D2MA: accelerating coarse-grained data transfer for GPUs.|2014|PACT|conf/IEEEpact/JamshidiSM14
+CoreGenesis: erasing core boundaries for robust and configurable performance.|2010|PACT|conf/IEEEpact/GuptaFADM10
+In-memory Data Flow Processor.|2017|PACT|conf/IEEEpact/FujikiMD17
+EFetch: optimizing instruction fetch for event-driven webapplications.|2014|PACT|conf/IEEEpact/ChadhaMN14
+Heterogeneous microarchitectures trump voltage scaling for low-power cores.|2014|PACT|conf/IEEEpact/LukefahrPDDWM14
+Orchestrating Multiple Data-Parallel Kernels on Multiple Devices.|2015|PACT|conf/IEEEpact/LeeSM15
+MEDICS: ultra-portable processing for medical image reconstruction.|2010|PACT|conf/IEEEpact/DasikaSRMM10
+A Distributed Control Path Architecture for VLIW Processors.|2005|IEEE PACT|conf/IEEEpact/ZhongFMS05
+Transparent CPU-GPU collaboration for data-parallel kernels on heterogeneous systems.|2013|PACT|conf/IEEEpact/LeeSPM13
+APOGEE: Adaptive prefetching on GPUs for energy efficiency.|2013|PACT|conf/IEEEpact/SethiaDSM13
+Fine Grain Cache Partitioning Using Per-Instruction Working Blocks.|2015|PACT|conf/IEEEpact/ParkPM15
+Flextream: Adaptive Compilation of Streaming Applications for Heterogeneous Architectures.|2009|PACT|conf/IEEEpact/HormatiCKRMM09
+PEPSC: A Power-Efficient Processor for Scientific Computing.|2011|PACT|conf/IEEEpact/DasikaSMM11
+VAST: the illusion of a large memory space for GPUs.|2014|PACT|conf/IEEEpact/LeeSM14
+Low Cost Transient Fault Protection Using Loop Output Prediction.|2018|DSN Workshops|conf/dsn/ParkLM18
+StageWeb: Interweaving pipeline stages into a wearout and variation tolerant CMP fabric.|2010|DSN|conf/dsn/GuptaAFM10
+The Next Generation Challenge for Software Defined Radio.|2007|SAMOS|conf/samos/WohSLLMMCF07
+A parameterized dataflow language extension for embedded streaming systems.|2008|ICSAMOS|conf/samos/LinCMMC08
+A bypass first policy for energy-efficient last level caches.|2016|SAMOS|conf/samos/ParkPM16
+Customizing wide-SIMD architectures for H.264.|2009|ICSAMOS|conf/samos/SeoWMMVC09
+Speculative execution exception recovery using write-back suppression.|1993|MICRO|conf/micro/BringmannMHGH93
+ZerehCache: armoring cache architectures in high defect density technologies.|2009|MICRO|conf/micro/AnsariGFM09
+Composite Cores: Pushing Heterogeneity Into a Core.|2012|MICRO|conf/micro/LukefahrPDSDWM12
+From SODA to scotch: The evolution of a wireless baseband processor.|2008|MICRO|conf/micro/WohLSMMCBKRWF08
+Harnessing Soft Computations for Low-Budget Fault Tolerance.|2014|MICRO|conf/micro/KhudiaM14
+Processor Acceleration Through Automated Instruction Set Customization.|2003|MICRO|conf/micro/ClarkZM03
+SAGE: self-tuning approximation for graphics engines.|2013|MICRO|conf/micro/SamadiLJHM13
+Automatic and Efficient Evaluation of Memory Hierarchies for Embedded Systems.|1999|MICRO|conf/micro/AbrahamM99
+An efficient architecture for loop based data preloading.|1992|MICRO|conf/micro/ChenBMHS92
+Superblock formation using static program analysis.|1993|MICRO|conf/micro/HankMBGH93
+Erasing Core Boundaries for Robust and Configurable Performance.|2010|MICRO|conf/micro/GuptaFAM10
+Effective compiler support for predicated execution using the hyperblock.|1992|MICRO|conf/micro/MahlkeLCHB92
+Equalizer: Dynamic Tuning of GPU Resources for Efficient Execution.|2014|MICRO|conf/micro/SethiaM14
+Data Access Microarchitectures for Superscalar Processors with Compiler-Assisted Data Prefetching.|1991|MICRO|conf/micro/ChenMCH91
+Characterizing the impact of predicated execution on branch prediction.|1994|MICRO|conf/micro/MahlkeHBGGH94
+Comparing Static and Dynamic Code Scheduling for Multiple-Instruction-Issue Processors.|1991|MICRO|conf/micro/ChangCMH91
+Application-Specific Processing on a General-Purpose Core via Transparent Instruction Set Customization.|2004|MICRO|conf/micro/ClarkKPMF04
+DeftNN: addressing bottlenecks for DNN execution on GPUs via synapse vector elimination and near-compute data fission.|2017|MICRO|conf/micro/HillJHZHLMTM17
+Polymorphic pipeline array: a flexible multicore accelerator with virtualized execution for mobile multimedia applications.|2009|MICRO|conf/micro/ParkPM09
+A Framework for Balancing Control Flow and Predication.|1997|MICRO|conf/micro/AugustHM97
+Regless: just-in-time operand staging for GPUs.|2017|MICRO|conf/micro/KloostermanBJBM17
+Cost Sensitive Modulo Scheduling in a Loop Accelerator Synthesis System.|2005|MICRO|conf/micro/FanKPM05
+Compiler Synthesized Dynamic Branch Prediction.|1996|MICRO|conf/micro/MahlkeN96
+Dynamic acceleration of multithreaded program critical paths in near-threshold systems.|2012|MICRO Workshops|conf/micro/ChoM12
+Libra: Tailoring SIMD Execution Using Heterogeneous Hardware and Dynamic Configurability.|2012|MICRO|conf/micro/ParkPPM12
+Bundled execution of recurring traces for energy-efficient general purpose processing.|2011|MICRO|conf/micro/GuptaFAMA11
+Mirage cores: the illusion of many out-of-order cores using in-order hardware.|2017|MICRO|conf/micro/PadmanabhaLDM17
+Data Access Partitioning for Fine-grain Parallelism on Multicore Architectures.|2007|MICRO|conf/micro/ChuRM07
+WarpPool: sharing requests with inter-warp coalescing for throughput processors.|2015|MICRO|conf/micro/KloostermanBWSD15
+Self-calibrating Online Wearout Detection.|2007|MICRO|conf/micro/BlomeFGM07
+The StageNet fabric for constructing resilient multicore systems.|2008|MICRO|conf/micro/GuptaFABM08
+Concise loads and stores: The case for an asymmetric compute-memory architecture for approximation.|2016|MICRO|conf/micro/JainHLKHLMTM16
+Encore: low-cost, fine-grained transient fault recovery.|2011|MICRO|conf/micro/FengGAMA11
+DynaMOS: dynamic schedule migration for heterogeneous cores.|2015|MICRO|conf/micro/PadmanabhaLDM15
+Trace based phase prediction for tightly-coupled heterogeneous cores.|2013|MICRO|conf/micro/PadmanabhaLDM13
+Runtime asynchronous fault tolerance via speculation.|2012|CGO|conf/cgo/ZhangGHLMA12
+Modulo scheduling for highly customized datapaths to increase hardware reusability.|2008|CGO|conf/cgo/FanPKM08
+Compiler Managed Dynamic Instruction Placement in a Low-Power Code Cache.|2005|CGO|conf/cgo/RavindranNDMSMB05
+Compiler-directed Data Partitioning for Multicluster Processors.|2006|CGO|conf/cgo/ChuM06
+Predicate-Aware Scheduling: A Technique for Reducing Resource Constraints.|2003|CGO|conf/cgo/SmelyanskiyMDL03
+FLASH: Foresighted Latency-Aware Scheduling Heuristic for Processors with Customized Datapaths.|2004|CGO|conf/cgo/KudlurFCRCM04
+Probabilistic Predicate-Aware Modulo Scheduling.|2004|CGO|conf/cgo/SmelyanskiyMD04
+Practical lock/unlock pairing for concurrent programs.|2013|CGO|conf/cgo/ChoKWLLM13
+Automatic speculative DOALL for clusters.|2012|CGO|conf/cgo/KimJLMA12
+Stream Compilation for Real-Time Embedded Multicore Systems.|2009|CGO|conf/cgo/ChoiLCMM09
+Dynamically accelerating client-side web applications through decoupled execution.|2011|CGO|conf/cgo/MehraraM11
+Exploiting Narrow Accelerators with Data-Centric Subgraph Mapping.|2007|CGO|conf/cgo/HormatiCM07
+Instant profiling: Instrumentation sampling for profiling datacenter applications.|2013|CGO|conf/cgo/ChoMHBM13
+Illusionist: Transforming lightweight cores into aggressive cores on demand.|2013|HPCA|conf/hpca/AnsariFGTM13
+Liquid SIMD: Abstracting SIMD Hardware using Lightweight Dynamic Mapping.|2007|HPCA|conf/hpca/ClarkHYMF07
+Dynamic parallelization of JavaScript applications using an ultra-lightweight speculation mechanism.|2011|HPCA|conf/hpca/MehraraHSM11
+BulletProof: a defect-tolerant CMP switch architecture.|2006|HPCA|conf/hpca/ConstantinidesPBZBMAO06
+Bridging the computation gap between programmable processors and hardwired accelerators.|2009|HPCA|conf/hpca/FanKDM09
+Extending Multicore Architectures to Exploit Hybrid Parallelism in Single-thread Applications.|2007|HPCA|conf/hpca/ZhongLM07
+Archipelago: A polymorphic cache design for enabling robust near-threshold operation.|2011|HPCA|conf/hpca/AnsariFGM11
+Uncovering hidden loop level parallelism in sequential applications.|2008|HPCA|conf/hpca/ZhongMLM08
+Mascar: Speeding up GPU warps by reducing memory pitstops.|2015|HPCA|conf/hpca/SethiaJM15
+The theory of deadlock avoidance via discrete control.|2009|POPL|conf/popl/WangLKKM09
+Design and Implementation of Turbo Decoders for Software Defined Radio.|2006|SiPS|conf/sips/LinMMCRF06
+Architecting an LTE base station with graphics processing units.|2013|SiPS|conf/sips/ZhengCDCAMM13
+Analyzing the scalability of SIMD for the next generation software defined radio.|2008|ICASSP|conf/icassp/WohLSMM08
+Parade: A versatile parallel architecture for accelerating pulse train clustering.|2009|SASP|conf/sasp/AnsariZM09
+A dataflow-centric approach to design low power control paths in CGRAs.|2009|SASP|conf/sasp/ParkPM09
+Power-efficient medical image processing using PUMA.|2009|SASP|conf/sasp/DasikaFM09
+Synthesis of maximally-permissive liveness-enforcing control policies for Gadara petri nets.|2010|CDC|conf/cdc/LiaoLRWM10
+Deadlock-avoidance control of multithreaded software: An efficient siphon-based algorithm for Gadara petri nets.|2011|CDC-ECE|conf/cdc/LiaoSWLRM11
+Gadara nets: Modeling and analyzing lock allocation for deadlock avoidance in multithreaded software.|2009|CDC|conf/cdc/WangLRKML09
+Characterization of Unnecessary Computations in Web Applications.|2019|ISPASS|conf/ispass/GolestaniMN19
+Increasing hardware efficiency with multifunction loop accelerators.|2006|CODES+ISSS|conf/codes/FanKPM06
+Compilation techniques for CGRAs: exploring all parallelization approaches.|2010|CODES+ISSS|conf/codes/AaRMSSH10
+Memory system design space exploration for low-power, real-time speech recognition.|2004|CODES+ISSS|conf/codes/KrishnaMA04
+Streamroller: : automatic synthesis of prescribed throughput accelerator pipelines.|2006|CODES+ISSS|conf/codes/KudlurFM06
+Maximally permissive deadlock avoidance for multithreaded computer programs (Extended abstract).|2009|CASE|conf/case/WangLNRKML09
+Region-based hierarchical operation partitioning for multicluster processors.|2003|PLDI|conf/pldi/ChuFM03
+Input responsiveness: using canary inputs to dynamically steer approximation.|2016|PLDI|conf/pldi/LaurenzanoHSMMT16
+Orchestrating the execution of stream programs on multicore platforms.|2008|PLDI|conf/pldi/KudlurM08
+Parallelizing sequential applications on commodity hardware using a low-cost software transactional memory.|2009|PLDI|conf/pldi/MehraraHHM09
+Adaptive input-aware compilation for graphics engines.|2012|PLDI|conf/pldi/SamadiHMLM12
+Control CPR: A Branch Height Reduction Optimization for EPIC Architectures.|1999|PLDI|conf/pldi/SchlanskerMJ99
+Reverse If-Conversion.|1993|PLDI|conf/pldi/WarterMHR93
+Accelerating Mobile Applications through Flip-Flop Replication.|2015|MobiSys|conf/mobisys/GordonHCFMM15
+Supervisory control of software execution for failure avoidance: Experience from the Gadara project.|2010|WODES|conf/wodes/WangCLNKLMR10
+Sculptor: Flexible Approximation with Selective Dynamic Loop Perforation.|2018|ICS|conf/ics/LiPM18
+Tolerating data access latency with register preloading.|1992|ICS|conf/ics/Chang92
+BugMD: automatic mismatch diagnosis for bug triaging.|2016|ICCAD|conf/iccad/MammoFBMK16
+Efficient execution of augmented reality applications on mobile programmable accelerators.|2013|FPT|conf/fpt/ParkPM13
+Efficient performance scaling of future CGRAs for mobile applications.|2012|FPT|conf/fpt/ParkPM12
+Architectural optimizations for low-power, real-time speech recognition.|2003|CASES|conf/cases/KrishnaMA03
+Cost-efficient soft error protection for embedded microprocessors.|2006|CASES|conf/cases/BlomeGFM06
+Modulo graph embedding: mapping applications onto coarse-grained reconfigurable architectures.|2006|CASES|conf/cases/ParkFKM06
+Mighty-morphing power-SIMD.|2010|CASES|conf/cases/DasikaWSCMM10
+Hierarchical coarse-grained stream compilation for software defined radio.|2007|CASES|conf/cases/LinKMM07
+Increasing the number of effective registers in a low-power processor using a windowed register file.|2003|CASES|conf/cases/RavindranSMDGMB03
+CGRA express: accelerating execution using dynamic operation fusion.|2009|CASES|conf/cases/ParkPM09
+Exploring the design space of LUT-based transparent accelerators.|2005|CASES|conf/cases/YehiaCMF05
+StageNetSlice: a reconfigurable microarchitecture building block for resilient CMP systems.|2008|CASES|conf/cases/GuptaFABM08
+Scalable subgraph mapping for acyclic computation accelerators.|2006|CASES|conf/cases/ClarkHMY06
+Resource recycling: putting idle resources to work on a composable accelerator.|2010|CASES|conf/cases/ParkPMK10
+Optimus: efficient realization of streaming applications on FPGAs.|2008|CASES|conf/cases/HormatiKMBR08
+When less is more (LIMO): controlled parallelism forimproved efficiency.|2012|CASES|conf/cases/ChadhaMN12
+Enabling ultra low voltage system operation by tolerating on-chip cache failures.|2009|ISLPED|conf/islped/AnsariFGM09
+Diet SODA: a power-efficient processor for digital cameras.|2010|ISLPED|conf/islped/SeoDWCMM10
+Embracing heterogeneity with dynamic core boosting.|2014|Conf. Computing Frontiers|conf/cf/ChoM14
+COMET: Code Offload by Migrating Execution Transparently.|2012|OSDI|conf/osdi/GordonJMMC12
+Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs.|2008|OSDI|conf/osdi/WangKKLM08
+Adaptive online testing for efficient hard fault detection.|2009|ICCD|conf/iccd/GuptaAFM09
+Using Profile Information to Assist Advaced Compiler Optimization and Scheduling.|1992|LCPC|conf/lcpc/ChenBMAKWLHHG92
+Trimaran: An Infrastructure for Research in Instruction-Level Parallelism.|2004|LCPC|conf/lcpc/ChakrapaniGHMPR04
+Parallelization techniques for implementing trellis algorithms on graphics processors.|2013|ISCAS|conf/iscas/ZhengCDCAMM13
+WiBench: An open source kernel suite for benchmarking wireless systems.|2013|IISWC|conf/iiswc/ZhengCDCAMM13
+A study of the effects of compiler-controlled speculation on instruction and data caches.|1995|HICSS (1)|conf/hicss/BringmannMH95
+Automatic Synthesis of Customized Local Memories for Multicluster Application Accelerators.|2004|ASAP|conf/asap/KudlurFCM04
+Systematic Register Bypass Customization for Application-Specific Processors.|2003|ASAP|conf/asap/FanCCMRSM03
+High-Level Synthesis of Nonprogrammable Hardware Accelerators.|2000|ASAP|conf/asap/SchreiberARKMAS00
+Tolerating First Level Memory Access Latency in High-Performance Systems.|1992|ICPP (1)|conf/icpp/ChenMH92
+The Effect of Compiler Optimizations on Available Parallelism in Scalar Programs.|1991|ICPP (2)|conf/icpp/MahlkeWCCH91
+ELF: maximizing memory-level parallelism for GPUs with coordinated warp and fetch scheduling.|2015|SC|conf/sc/ParkPM15
+Compiler Code Transformations for Superscalar-Based High Performance Systems.|1992|SC|conf/sc/MahlkeCGH92
+Software Defined Radio - A High Performance Embedded Challenge.|2005|HiPEAC|conf/hipeac/LeeLHWMMF05
+Maestro: Orchestrating Lifetime Reliability in Chip Multiprocessors.|2010|HiPEAC|conf/hipeac/FengGAM10
+Accelerating asynchronous programs through event sneak peek.|2015|ISCA|conf/isca/ChadhaMN15
+AnySP: anytime anywhere anyway signal processing.|2009|ISCA|conf/isca/WohSMMCF09
+A Comparison of Full and Partial Predicated Execution Support for ILP Processors.|1995|ISCA|conf/isca/MahlkeHMAH95
+IMPACT: An Architectural Framework for Multiple-Instruction-Issue Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/ChangMCWH98
+Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.|2017|ISCA|conf/isca/YuLPDDM17
+VEAL: Virtualized Execution Accelerator for Loops.|2008|ISCA|conf/isca/ClarkHM08
+Rumba: an online quality management system for approximate computing.|2015|ISCA|conf/isca/KhudiaZSM15
+IMPACT: An Architectural Framework for Multiple-Instruction-Issue Processors.|1991|ISCA|conf/isca/ChangMCWH91
+Necromancer: enhancing system throughput by animating dead cores.|2010|ISCA|conf/isca/AnsariFGM10
+An Architecture Framework for Transparent Instruction Set Customization in Embedded Processors.|2005|ISCA|conf/isca/ClarkBCMBF05
+Duality cache for data parallel acceleration.|2019|ISCA|conf/isca/FujikiMD19
+SODA: A Low-power Architecture For Software Radio.|2006|ISCA|conf/isca/LinLWHMMCF06
+Integrated Predicated and Speculative Execution in the IMPACT EPIC Architecture.|1998|ISCA|conf/isca/AugustCMSCCEOH98
+Register Connection: A New Approach to Adding Registers into Instruction Set Architectures.|1993|ISCA|conf/isca/KiyoharaMCBHAH93
+The Program Decision Logic Approach to Predicated Execution.|1999|ISCA|conf/isca/AugustSPMCCH99
+Paragon: collaborative speculative loop execution on GPU and CPU.|2012|GPGPU@ASPLOS|conf/asplos/SamadiHLM12
+Sponge: portable stream programming on graphics engines.|2011|ASPLOS|conf/asplos/HormatiSWMM11
+Paraprox: pattern-based approximation for data parallel applications.|2014|ASPLOS|conf/asplos/SamadiJLM14
+MacroSS: macro-SIMDization of streaming applications.|2010|ASPLOS|conf/asplos/HormatiCWKRMM10
+Shoestring: probabilistic soft error reliability on the cheap.|2010|ASPLOS|conf/asplos/FengGAM10
+SIMD defragmenter: efficient ILP realization on data-parallel architectures.|2012|ASPLOS|conf/asplos/ParkSPCM12
+Dynamic Memory Disambiguation Using the Memory Conflict Buffer.|1994|ASPLOS|conf/asplos/GallagherCMGH94
+In-Memory Data Parallel Processor.|2018|ASPLOS|conf/asplos/FujikiMD18
+Chimera: Collaborative Preemption for Multitasking on a Shared GPU.|2015|ASPLOS|conf/asplos/ParkPM15
+Sentinel Scheduling for VLIW and Superscalar Processors.|1992|ASPLOS|conf/asplos/MahlkeCHRS92
+Dynamic Resource Management for Efficient Utilization of Multitasking GPUs.|2017|ASPLOS|conf/asplos/ParkPM17
+DVFS in loop accelerators using BLADES.|2008|DAC|conf/dac/DasikaDFMB08
+Process variation in near-threshold wide SIMD architectures.|2012|DAC|conf/dac/SeoDWPCMBM12

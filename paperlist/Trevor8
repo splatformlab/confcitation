@@ -1,0 +1,174 @@
+XPoint cache: scaling existing bus-based coherence protocols for 2D and 3D many-core systems.|2012|PACT|conf/IEEEpact/DreslinskiMSDPSBSM12
+MEDICS: ultra-portable processing for medical image reconstruction.|2010|PACT|conf/IEEEpact/DasikaSRMM10
+An Energy Efficient Parallel Architecture Using Near Threshold Operation.|2007|PACT|conf/IEEEpact/DreslinskiZMBS07
+Flextream: Adaptive Compilation of Streaming Applications for Heterogeneous Architectures.|2009|PACT|conf/IEEEpact/HormatiCKRMM09
+PEPSC: A Power-Efficient Processor for Scientific Computing.|2011|PACT|conf/IEEEpact/DasikaSMM11
+Reconfigurable Multicore Server Processors for Low Power Operation.|2009|SAMOS|conf/samos/DreslinskiFBSM09
+Energy-Efficient Simultaneous Thread Fetch from Different Cache Levels in a Soft Real-Time SMT Processor.|2008|SAMOS|conf/samos/OzerDMBF08
+The Next Generation Challenge for Software Defined Radio.|2007|SAMOS|conf/samos/WohSLLMMCF07
+Technologies for reducing power.|2010|ICSAMOS|conf/samos/Mudge10
+A parameterized dataflow language extension for embedded streaming systems.|2008|ICSAMOS|conf/samos/LinCMMC08
+Customizing wide-SIMD architectures for H.264.|2009|ICSAMOS|conf/samos/SeoWMMVC09
+Evaluating private vs. shared last-level caches for energy efficiency in asymmetric multi-cores.|2014|ICSAMOS|conf/samos/GutierrezDM14
+PicoServer - building a compact energy efficient multiprocessor.|2008|ICSAMOS|conf/samos/Mudge08
+Trace-Driven Memory Simulation: A Survey.|2000|Performance Evaluation|conf/dagstuhl/UhligM00
+Recognizing partially hidden objects.|1985|ICRA|conf/icra/TurneyMV85
+Range image segmentation and surface parameter extraction for 3-D object recognition of industrial parts.|1987|ICRA|conf/icra/HanVM87
+Two-dimensional partially visible object recognition using efficient multidimensional range queries.|1987|ICRA|conf/icra/GottschalkTM87
+IDtrace - A Tracing Tool for i486 Simulation.|1994|MASCOTS|conf/mascots/PierceM94
+Using non-volatile memory to save energy in servers.|2009|DATE|conf/date/RobertsKM09
+DVS for On-Chip Bus Designs Based on Timing Error Correction.|2005|DATE|conf/date/KaulSBMA05
+Low power interconnects for SIMD computers.|2011|DATE|conf/date/WohSDKSBM11
+Power-Performance Trade-Offs in Nanometer-Scale Multi-Level Caches Considering Total Leakage.|2005|DATE|conf/date/BaiKKSM05
+On-Chip Cache Device Scaling Limits and Effective Fault Repair Techniques in Future Nanoscale Technology.|2007|DSD|conf/dsd/RobertsKM07
+From SODA to scotch: The evolution of a wireless baseband processor.|2008|MICRO|conf/micro/WohLSMMCBKRWF08
+The bi-Mode Branch Predictor.|1997|MICRO|conf/micro/LeeCM97
+Hi-Rise: A High-Radix Switch for 3D Integration with Single-Cycle Arbitration.|2014|MICRO|conf/micro/JelokaDDMB14
+A microarchitectural performance evaluation of a 3.2 Gbyte/s microprocessor bus.|1993|MICRO|conf/micro/StanleyUSMB93
+Razor: A Low-Power Pipeline Based on Circuit-Level Timing Speculation.|2003|MICRO|conf/micro/ErnstKDPRPZBAFM03
+A comparison of two pipeline organizations.|1994|MICRO|conf/micro/GoldenM94
+The YAGS Branch Prediction Scheme.|1998|MICRO|conf/micro/EdenM98
+Drowsy instruction caches: leakage power reduction using dynamic voltage scaling and cache sub-bank prediction.|2002|MICRO|conf/micro/KimFBM02
+Regless: just-in-time operand staging for GPUs.|2017|MICRO|conf/micro/KloostermanBJBM17
+Evaluation of a High Performance Code Compression Method.|1999|MICRO|conf/micro/LefurgyPM99
+The role of adaptivity in two-level adaptive branch prediction.|1995|MICRO|conf/micro/SechrestLM95
+Improving Code Density Using Compression Techniques.|1997|MICRO|conf/micro/LefurgyBCM97
+The store-load address table and speculative register promotion.|2000|MICRO|conf/micro/PostiffGM00
+Proactive transaction scheduling for contention management.|2009|MICRO|conf/micro/BlakeDM09
+WarpPool: sharing requests with inter-warp coalescing for throughput processors.|2015|MICRO|conf/micro/KloostermanBWSD15
+How to Fake 1000 Registers.|2005|MICRO|conf/micro/OehmkeBMR05
+Wrong-path Instruction Prefetching.|1996|MICRO|conf/micro/PierceM96
+Reconfigurable energy efficient near threshold cache architectures.|2008|MICRO|conf/micro/DreslinskiCMBSF08
+Stream Compilation for Real-Time Embedded Multicore Systems.|2009|CGO|conf/cgo/ChoiLCMM09
+Scaling towards kilo-core processors with asymmetric high-radix topologies.|2013|HPCA|conf/hpca/AbeyratneDLSGDBM13
+Software-Managed Address Translation.|1997|HPCA|conf/hpca/JacobM97
+A low power software-defined-radio baseband processor for the Internet of Things.|2016|HPCA|conf/hpca/ChenLKBDM16
+OuterSPACE: An Outer Product Based Sparse Matrix Multiplication Accelerator.|2018|HPCA|conf/hpca/PalBPAFCKBMD18
+Reducing Code Size with Run-Time Decompression.|2000|HPCA|conf/hpca/LefurgyPM00
+Bloom Filter Guided Transaction Scheduling.|2011|HPCA|conf/hpca/BlakeDM11
+A Parallel Genetic Algorithm for Multiobjective Microprocessor Design.|1995|ICGA|conf/icga/StanleyM95
+The Architecture of Smart Phones.|2015|HiPC|conf/hipc/Mudge15
+Low Power Robust Computing.|2004|HiPC|conf/hipc/Mudge04
+Power: A First Class Design Constraint for Future Architecture and Automation.|2000|HiPC|conf/hipc/Mudge00
+Opportunities and challenges for better than worst-case design.|2005|ASP-DAC|conf/aspdac/AustinBBM05
+Flexible product code-based ECC schemes for MLC NAND Flash memories.|2011|SiPS|conf/sips/YangECM11
+Design and Implementation of Turbo Decoders for Software Defined Radio.|2006|SiPS|conf/sips/LinMMCRF06
+Architecting an LTE base station with graphics processing units.|2013|SiPS|conf/sips/ZhengCDCAMM13
+Design and Analysis of LDPC Decoders for Software Defined Radio.|2007|SiPS|conf/sips/SeoMZC07
+Analyzing the scalability of SIMD for the next generation software defined radio.|2008|ICASSP|conf/icassp/WohLSMM08
+A hybrid approach to offloading mobile image classification.|2014|ICASSP|conf/icassp/HauswaldMZDCM14
+Automatic performance setting for dynamic voltage scaling.|2001|MobiCom|conf/mobicom/FlautnerRM01
+PowerFITS: Reduce Dynamic and Static I-Cache Power Using Application Specific Instruction Set Synthesis.|2005|ISPASS|conf/ispass/ChengTM05
+Web latency reduction via client-side prefetching.|2000|ISPASS|conf/ispass/EdenJM00
+SuiteSpecks and SuiteSpots: A methodology for the automatic conversion of benchmarking programs into intrinsically checkpointed assembly code.|2009|ISPASS|conf/ispass/RingenbergM09
+A study of Thread Level Parallelism on mobile devices.|2014|ISPASS|conf/ispass/GaoGDMFB14
+Full-System Critical Path Analysis.|2008|ISPASS|conf/ispass/SaidiBRM08
+Sources of error in full-system simulation.|2014|ISPASS|conf/ispass/GutierrezPDMSEHP14
+Intrinsic Checkpointing: A Methodology for Decreasing Simulation Time Through Binary Modification.|2005|ISPASS|conf/ispass/RingenbergPOM05
+A study of mobile device utilization.|2015|ISPASS|conf/ispass/GaoGRDMW15
+Kernel-Based Memory Simulation.|1994|SIGMETRICS|conf/sigmetrics/UhligNMS94
+Hierarchical decomposition and simulation of manufacturing cells.|1984|Winter Simulation Conference|conf/wsc/AntonelliVM84
+An Intrusion-Tolerant and Self-Recoverable Network Service System Using A Security Enhanced Chip Multiprocessor.|2005|ICAC|conf/icac/ShiLGFMG05
+The Effect of Speculative Execution on Cache Performance.|1994|IPPS|conf/ipps/PierceM94
+E-ECC: Low Power Erasure and Error Correction Schemes for Increasing Reliability of Commodity DRAM Systems.|2015|MEMSYS|conf/memsys/ChenAWMC15
+Checkpointing Exascale Memory Systems with Existing Memory Technologies.|2016|MEMSYS|conf/memsys/AbeyratneCODCM16
+A load balancing technique for memory channels.|2018|MEMSYS|conf/memsys/OhKALDM18
+Grand challenges in embedded systems.|2005|CODES+ISSS|conf/codes/SztipanovitsGMRSWZ05
+Performance and power analysis of computer systems.|2005|CODES+ISSS|conf/codes/Mudge05
+Thetrading functionin action.|1996|ACM SIGOPS European Workshop|conf/sigopsE/JacobM96
+Author retrospective improving data cache performance by pre-executing instructions under a cache miss.|2014|ICS 25th Anniversary|conf/ics/Mudge14
+Integrating superscalar processor components to implement register caching.|2001|ICS|conf/ics/PostiffGRM01
+Reducing register ports using delayed write-back queues and operand pre-fetch.|2003|ICS|conf/ics/KimM03
+Improving Data Cache Performance by Pre-Executing Instructions Under a Cache Miss.|1997|International Conference on Supercomputing|conf/ics/DundasM97
+Identification of critical paths in circuits with level-sensitive latches.|1992|ICCAD|conf/iccad/BurksSM92
+Total power-optimal pipelining and parallel processing under process variations in nanometer technology.|2005|ICCAD|conf/iccad/SuarisKBDM05
+Combined dynamic voltage scaling and adaptive body biasing for lower power microprocessors under dynamic workloads.|2002|ICCAD|conf/iccad/MartinFMB02
+Timing verification of sequential domino circuits.|1996|ICCAD|conf/iccad/CampenhoutMS96
+Yield-driven near-threshold SRAM design.|2007|ICCAD|conf/iccad/ChenBMSK07
+checkTcandminTc: Timing Verification and Optimal Clocking of Synchronous Digtal Circuits.|1990|ICCAD|conf/iccad/SakallahMO90
+Leakage Power Optimization Techniques for Ultra Deep Sub-Micron Multi-Level Caches.|2003|ICCAD|conf/iccad/KimBM03
+Instruction Level Mechanisms for Accurate Real-time Task Scheduling.|1986|RTSS|conf/rtss/VolzM86
+The New DRAM Interfaces: SDRAM, RDRAM and Variants.|2000|ISHPC|conf/ishpc/DavisJM00
+Mighty-morphing power-SIMD.|2010|CASES|conf/cases/DasikaWSCMM10
+Hierarchical coarse-grained stream compilation for software defined radio.|2007|CASES|conf/cases/LinKMM07
+Multicore architectures.|2007|CASES|conf/cases/Mudge07
+Lazy cache invalidation for self-modifying codes.|2012|CASES|conf/cases/GutierrezPDM12
+A dual-processor solution for the MAC layer of a software defined radio terminal.|2005|CASES|conf/cases/LeeM05
+FlashCache: a NAND flash memory file cache for low power web servers.|2006|CASES|conf/cases/KgilM06
+A 4.5Tb/s 3.4Tb/s/W 64×64 switch fabric with self-updating least-recently-granted priority and quality-of-service arbitration in 45nm CMOS.|2012|ISSCC|conf/isscc/SatpathySMCDSMB12
+Centip3De: A 3930DMIPS/W configurable near-threshold 3D stacked system with 64 ARM Cortex-M3 cores.|2012|ISSCC|conf/isscc/FickDGKSFSLKLWCMSB12
+14.7 A 288µW programmable deep-learning processor with 270KB on-chip weight storage using non-uniform memory hierarchy for mobile intelligence.|2017|ISSCC|conf/isscc/BangWLGKDCFSDMK17
+True Random Number Generator with a Metastability-Based Quality Control.|2007|ISSCC|conf/isscc/TokunagaBM07
+A memory rename table to reduce energy and improve performance.|2014|ISLPED|conf/islped/PusdesrisVM14
+Reducing pipeline energy demands with local DVS and dynamic retiming.|2004|ISLPED|conf/islped/LeeDPABM04
+Energy efficient near-threshold chip multi-processing.|2007|ISLPED|conf/islped/ZhaiDBMS07
+Reducing idle mode power in software defined radio terminals.|2006|ISLPED|conf/islped/LeeMC06
+Diet SODA: a power-efficient processor for digital cameras.|2010|ISLPED|conf/islped/SeoDWCMM10
+Enhancing DRAM Self-Refresh for Idle Power Reduction.|2016|ISLPED|conf/islped/OhAADM16
+The microarchitecture of a low power register file.|2003|ISLPED|conf/islped/KimM03
+Microarchitectural power modeling techniques for deep sub-micron microprocessors.|2004|ISLPED|conf/islped/KimKBAM04
+Analysis of hardware prefetching across virtual page boundaries.|2007|Conf. Computing Frontiers|conf/cf/DreslinskiSMR07
+A limits study of benefits from nanostore-based future data-centric system architectures.|2012|Conf. Computing Frontiers|conf/cf/ChangRMRSL12
+Vertigo: Automatic Performance-Setting for Linux.|2002|OSDI|conf/osdi/FlautnerM02
+A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accelerator using Memory Reconfiguration in 40 nm.|2019|VLSI Circuits|conf/vlsic/PalPFGTRXZAWBCC19
+Design Optimization for High-speed Per-address Two-level Branch Predictors.|1997|ICCD|conf/iccd/ChenLPM97
+Optimal Clocking of Circular Pipelines.|1991|ICCD|conf/iccd/SakallahMBD91
+Instruction Prefetching Using Branch Prediction Information.|1997|ICCD|conf/iccd/ChenLM97
+Parallelization techniques for implementing trellis algorithms on graphics processors.|2013|ISCAS|conf/iscas/ZhengCDCAMM13
+An Approximate Queueing Model for Packet Switched Multistage Interconnection Networks.|1982|ICDCS|conf/icdcs/MudgeM82
+Systematic objective-driven computer architecture optimization.|1995|ARVLSI|conf/arvlsi/StanleyM95
+Full-system analysis and characterization of interactive smartphone applications.|2011|IISWC|conf/iiswc/GutierrezDWMSEP11
+WiBench: An open source kernel suite for benchmarking wireless systems.|2013|IISWC|conf/iiswc/ZhengCDCAMM13
+Total leakage optimization strategies for multi-level caches.|2005|ACM Great Lakes Symposium on VLSI|conf/glvlsi/BaiKSM05
+Error Analysis for the Support of Robust Voltage Scaling.|2005|ISQED|conf/isqed/RobertsABMF05
+Efficiency of Feature Dependent Algorithms for the Parallel Processing of Images.|1983|ICPP|conf/icpp/MudgeT83
+Architecture of a Hypercube Supercomputer.|1986|ICPP|conf/icpp/HayesMS86
+Crosspoint Cache Architectures.|1987|ICPP|conf/icpp/WinsorM87
+A Semi-Markov Model for the Performance of Multiple-Bus Systems.|1985|ICPP|conf/icpp/MudgeA85
+Exploring DRAM organizations for energy-efficient and resilient exascale memories.|2013|SC|conf/sc/GiridharCDDCPHCMB13
+Computer architecture instruction at the University of Michigan.|1998|WCAE@ISCA|conf/wcae/TysonRM98
+Software Defined Radio - A High Performance Embedded Challenge.|2005|HiPEAC|conf/hipeac/LeeLHWMMF05
+End-to-end performance forecasting: finding bottlenecks before they happen.|2009|ISCA|conf/isca/SaidiBRM09
+Analysis of Bus Hierarchies for Multiprocessors.|1988|ISCA|conf/isca/WinsorM88
+Design Tradeoffs for Software-Managed TLBs.|1993|ISCA|conf/isca/NagleUSSMB93
+Instruction Fetching: Coping with Code Bloat.|1995|ISCA|conf/isca/UhligNMSE95
+AnySP: anytime anywhere anyway signal processing.|2009|ISCA|conf/isca/WohSMMCF09
+Improving NAND Flash Based Disk Caches.|2008|ISCA|conf/isca/KgilRM08
+A Programmable Galois Field Processor for the Internet of Things.|2017|ISCA|conf/isca/ChenLFBDMK17
+A Performance Comparison of Contemporary DRAM Architectures.|1999|ISCA|conf/isca/CuppuJDM99
+DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers.|2015|ISCA|conf/isca/HauswaldKLCLMDM15
+Correlation and Aliasing in Dynamic Branch Predictors.|1996|ISCA|conf/isca/SechrestLM96
+Disaggregated memory for expansion and sharing in blade servers.|2009|ISCA|conf/isca/LimCMRRW09
+Optimal Allocation of On-Chip Memory for Multiple-API Operating Systems.|1994|ISCA|conf/isca/NagleUMS94
+Understanding and Designing New Server Architectures for Emerging Warehouse-Computing Environments.|2008|ISCA|conf/isca/LimRCPMR08
+Probabilistic analysis of a crossbar switch.|1982|ISCA|conf/isca/MudgeM82
+SODA: A Low-power Architecture For Software Radio.|2006|ISCA|conf/isca/LinLWHMMCF06
+Drowsy Caches: Simple Techniques for Reducing Leakage Power.|2002|ISCA|conf/isca/FlautnerKMBM02
+Evolution of thread-level parallelism in desktop applications.|2010|ISCA|conf/isca/BlakeDMF10
+Implementing a Cache for a High-Performance GaAs Microprocessor.|1991|ISCA|conf/isca/OlukotunMB91
+Performance Optimization of Pipelined Primary Caches.|1992|ISCA|conf/isca/OlukotunMB92
+Accelerating Smith-Waterman Alignment Workload with Scalable Vector Computing.|2017|CLUSTER|conf/cluster/ParkBM17
+Integrated 3D-stacked server designs for increasing physical density of key-value stores.|2014|ASPLOS|conf/asplos/GutierrezCGDCM14
+Thread Level Parallelism and Interactive Performance of Desktop Applications.|2000|ASPLOS|conf/asplos/FlautnerURM00
+Sponge: portable stream programming on graphics engines.|2011|ASPLOS|conf/asplos/HormatiSWMM11
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge.|2017|ASPLOS|conf/asplos/KangHGRMMT17
+A Look at Several Memory Management Units, TLB-Refill Mechanisms, and Page Table Organizations.|1998|ASPLOS|conf/asplos/JacobM98
+PicoServer: using 3D stacking technology to enable a compact energy efficient chip multiprocessor.|2006|ASPLOS|conf/asplos/KgilDSBDMRF06
+MacroSS: macro-SIMDization of streaming applications.|2010|ASPLOS|conf/asplos/HormatiCWKRMM10
+Trap-driven Simulation with Tapeworm II.|1994|ASPLOS|conf/asplos/UhligNMS94
+Analysis of Branch Prediction Via Data Compression.|1996|ASPLOS|conf/asplos/ChenCM96
+Sirius: An Open End-to-End Voice and Vision Personal Assistant and Its Implications for Future Warehouse Scale Computers.|2015|ASPLOS|conf/asplos/HauswaldLZLRKDM15
+Resource Allocation in a High Clock Rate Microprocessor.|1994|ASPLOS|conf/asplos/UptonHMB94
+High-Level Test Generation for Design Verification of Pipelined Microprocessors.|1999|DAC|conf/dac/CampenhoutMH99
+Assessing the performance limits of parallelized near-threshold computing.|2012|DAC|conf/dac/PinckneySDFMSB12
+Circuit-aware architectural simulation.|2004|DAC|conf/dac/LeeDBABM04
+Near-threshold computing in FinFET technologies: opportunities for improved voltage scalability.|2016|DAC|conf/dac/PinckneySCSJDMS16
+VIX: Virtual Input Crossbar for Efficient Switch Allocation.|2014|DAC|conf/dac/RaoJDBDM14
+Reliability modeling and management in dynamic microprocessor-based systems.|2006|DAC|conf/dac/KarlBSM06
+A Preliminary Investigation into Parallel Routing on a Hypercube Computer.|1987|DAC|conf/dac/OlukotunM87
+Analysis and Design of Latch-Controlled Synchronous Digital Circuits.|1990|DAC|conf/dac/SakallahMO90
+FITS: framework-based instruction-set tuning synthesis for embedded application specific processors.|2004|DAC|conf/dac/ChengTM04
+Process variation in near-threshold wide SIMD architectures.|2012|DAC|conf/dac/SeoDWPCMBM12
+Quality-of-Service for a High-Radix Switch.|2014|DAC|conf/dac/AbeyratneJKBDDM14
+High radix self-arbitrating switch fabric with multiple arbitration schemes and quality of service.|2012|DAC|conf/dac/SatpathyDDMSB12
+Cellular image processing techniques for VLSI circuit layout validation and routing.|1982|DAC|conf/dac/MudgeRLA82

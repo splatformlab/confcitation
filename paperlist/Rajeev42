@@ -1,0 +1,57 @@
+Scalable and reliable communication for hardware transactional memory.|2008|PACT|conf/IEEEpact/PugsleyAMMB08
+Understanding the Behavior of Pthread Applications on Non-Uniform Cache Architectures.|2011|PACT|conf/IEEEpact/SachdevSHB11
+Prediction Based DRAM Row-Buffer Management in the Many-Core Era.|2011|PACT|conf/IEEEpact/AwasthiNBD11
+Handling the problems and opportunities posed by multiple on-chip memory controllers.|2010|PACT|conf/IEEEpact/AwasthiNSBD10
+Integrating Adaptive On-Chip Storage Structures for Reduced Dynamic Power.|2002|IEEE PACT|conf/IEEEpact/DropshoBBADSMS02
+Introspective Computing.|2017|PACT|conf/IEEEpact/TahtB17
+Optimizing datacenter power with memory system levers for guaranteed quality-of-service.|2012|PACT|conf/IEEEpact/SudanSBI12
+SWEL: hardware cache coherence protocols to map shared data onto shared caches.|2010|PACT|conf/IEEEpact/PugsleySNB10
+Optimizing NUCA Organizations and Wiring Alternatives for Large Caches with CACTI 6.0.|2007|MICRO|conf/micro/MuralimanoharBJ07
+Efficiently prefetching complex address patterns.|2015|MICRO|conf/micro/ShevgoorKBWPC15
+Memory hierarchy reconfiguration for energy and performance in general-purpose processor architectures.|2000|MICRO|conf/micro/BalasubramonianABD00
+Leveraging 3D Technology for Improved Reliability.|2007|MICRO|conf/micro/MadanB07
+Reducing the complexity of the register file in dynamic superscalar processors.|2001|MICRO|conf/micro/BalasubramonianDA01
+Avoiding information leakage in the memory controller with fixed service policies.|2015|MICRO|conf/micro/ShafieeGSBT15
+Leveraging Heterogeneity in DRAM Main Memories to Accelerate Critical Word Access.|2012|MICRO|conf/micro/ChatterjeeSBDFII12
+Quantifying the relationship between the power delivery network and architectural policies in a 3D-stacked memory device.|2013|MICRO|conf/micro/ShevgoorKCBDU13
+MemZip: Exploring unconventional benefits from memory compression.|2014|HPCA|conf/hpca/ShafieeTBD14
+Sandbox Prefetching: Safe run-time evaluation of aggressive prefetchers.|2014|HPCA|conf/hpca/PugsleyCWCSJLCB14
+Dynamic hardware-assisted software-controlled page placement to manage capacity allocation and sharing within large caches.|2009|HPCA|conf/hpca/AwasthiSBC09
+Staged Reads: Mitigating the impact of DRAM writes on DRAM reads.|2012|HPCA|conf/hpca/ChatterjeeMBDJ12
+Efficient scrub mechanisms for error-prone emerging memories.|2012|HPCA|conf/hpca/AwasthiSSRBS12
+Overcoming the challenges of crossbar resistive memory architectures.|2015|HPCA|conf/hpca/XuNMBZY015
+Energy-Efficient Processor Design Using Multiple Clock Domains with Dynamic Voltage and Frequency Scaling.|2002|HPCA|conf/hpca/SemeraroMBADS02
+Optimizing communication and capacity in a 3D stacked reconfigurable cache hierarchy.|2009|HPCA|conf/hpca/MadanZMUBIMN09
+Microarchitectural Wire Management for Performance and Power in Partitioned Architectures.|2005|HPCA|conf/hpca/BalasubramonianMRV05
+Secure DIMM: Moving ORAM Primitives Closer to Memory.|2018|HPCA|conf/hpca/ShafieeBTL18
+CHOP: Adaptive filter-based DRAM caching for CMP server platforms.|2010|HPCA|conf/hpca/JiangMZUIMNSB10
+Towards scalable, energy-efficient, bus-based on-chip networks.|2010|HPCA|conf/hpca/UdipiMB10
+A novel system architecture for web scale applications using lightweight CPUs and virtualized I/O.|2013|HPCA|conf/hpca/SudanBLXMLB13
+Non-uniform power access in large caches with low-swing wires.|2009|HiPC|conf/hipc/UdipiMB09
+Hot-and-Cold: Using Criticality in the Design of Energy-Efficient Caches.|2003|PACS|conf/pacs/BalasubramonianSDB03
+The POP Detector: A Lightweight Online Program Phase Detection Framework.|2019|ISPASS|conf/ispass/TahtGB19
+Power efficient resource scaling in partitioned architectures through dynamic heterogeneity.|2006|ISPASS|conf/ispass/MuralimanoharRB06
+NDC: Analyzing the impact of 3D-stacked memory+logic devices on MapReduce workloads.|2014|ISPASS|conf/ispass/PugsleyJZBSBDL14
+Hardware prediction of OS run-length for fine-grained resource customization.|2010|ISPASS|conf/ispass/NellansSBB10
+Addressing service interruptions in memory with thread-to-rank assignment.|2016|ISPASS|conf/ispass/ShevgoorBCK16
+Cluster prefetch: tolerating on-chip wire delays in clustered microarchitectures.|2004|ICS|conf/ics/Balasubramonian04
+Improving memristor memory with sneak current sharing.|2015|ICCD|conf/iccd/ShevgoorMBJ15
+Enabling technologies for memory compression: Metadata, mapping, and prediction.|2016|ICCD|conf/iccd/DebFSMBS16
+Understanding and alleviating intra-die and intra-DIMM parameter variation in the memory system.|2016|ICCD|conf/iccd/TaassoriSB16
+Fixed-function hardware sorting accelerators for near data MapReduce execution.|2015|ICCD|conf/iccd/PugsleyDBL15
+INXS: Bridging the throughput and energy gap for spiking neural networks.|2017|IJCNN|conf/ijcnn/NarayananSB17
+Managing DRAM Latency Divergence in Irregular GPGPU Applications.|2014|SC|conf/sc/ChatterjeeOLJB14
+ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.|2016|ISCA|conf/isca/ShafieeNMBSHWS16
+Interconnect-Aware Coherence Protocols for Chip Multiprocessors.|2006|ISCA|conf/isca/ChengMRBC06
+Rethinking DRAM design and organization for energy-constrained multi-cores.|2010|ISCA|conf/isca/UdipiMCBDJ10
+Combining memory and a controller with photonics through 3D-stacking to enable scalable and energy-efficient systems.|2011|ISCA|conf/isca/UdipiMBDJ11
+Dynamically Managing the Communication-Parallelism Trade-off in Future Clustered Processors.|2003|ISCA|conf/isca/BalasubramonianDA03
+Dynamically allocating processor resources between nearby and distant ILP.|2001|ISCA|conf/isca/BalasubramonianDA01
+Improving Server Performance on Multi-cores via Selective Off-Loading of OS Functionality.|2010|ISCA Workshops|conf/isca/NellansSBB10
+Memory bandwidth reservation in the cloud to avoid information leakage in the memory controller.|2014|HASP@ISCA|conf/isca/GunduSSPJBT14
+An MLP-aware leakage-free memory controller.|2018|HASP@ISCA|conf/isca/VuongSTB18
+Interconnect design considerations for large NUCA caches.|2007|ISCA|conf/isca/MuralimanoharB07
+LOT-ECC: Localized and tiered reliability mechanisms for commodity memory systems.|2012|ISCA|conf/isca/UdipiMBDJ12
+?: Relaxed Hierarchical ORAM.|2019|ASPLOS|conf/asplos/NagarajanSBT19
+VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures.|2018|ASPLOS|conf/asplos/TaassoriSB18
+Micro-pages: increasing DRAM efficiency with locality-aware data placement.|2010|ASPLOS|conf/asplos/SudanCNABD10

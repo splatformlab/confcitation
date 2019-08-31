@@ -1,0 +1,319 @@
+Cost-Effective Compiler Directed Memory Prefetching and Bypassing.|2002|IEEE PACT|conf/IEEEpact/OrtegaABV02
+ITCA: Inter-task Conflict-Aware CPU Accounting for CMPs.|2009|PACT|conf/IEEEpact/LuqueMCGBV09
+STM2: A Parallel STM for High Performance Simultaneous Multithreading Systems.|2011|PACT|conf/IEEEpact/KestorGHUCHV11
+Runtime-Guided Management of Scratchpad Memories in Multicore Architectures.|2015|PACT|conf/IEEEpact/AlvarezMCCMLAV15
+Using a Reconfigurable L1 Data Cache for Efficient Version Management in Hardware Transactional Memory.|2011|PACT|conf/IEEEpact/ArmejachSGHCUV11
+MLP-Aware Dynamic Cache Partitioning.|2007|PACT|conf/IEEEpact/MoretoCRV07
+The Effect of Code Reordering on Branch Prediction.|2000|IEEE PACT|conf/IEEEpact/RamirezLV00
+FAME: FAirly MEasuring Multithreaded Architectures.|2007|PACT|conf/IEEEpact/VeraCPSFV07
+POSTER: An Integrated Vector-Scalar Design on an In-order ARM Core.|2016|PACT|conf/IEEEpact/StanicP0RUCV16
+On the Efficiency of Reductions inµ-SIMD Media Extensions.|2001|IEEE PACT|conf/IEEEpact/CorbalEV01
+SymptomTM: Symptom-Based Error Detection and Recovery Using Hardware Transactional Memory.|2011|PACT|conf/IEEEpact/YalcinUCHV11
+Stencil codes on a vector length agnostic architecture.|2018|PACT|conf/IEEEpact/ArmejachCCGAVCM18
+POSTER: Exploiting Asymmetric Multi-Core Processors with Flexible System Sofware.|2016|PACT|conf/IEEEpact/ChronakiMCRBALV16
+Discovering and understanding performance bottlenecks in transactional applications.|2010|PACT|conf/IEEEpact/ZyulkyarovSHUCHV10
+Power and thermal characterization of POWER6 system.|2010|PACT|conf/IEEEpact/JimenezCGVBKCIBB10
+Automatic generation of loop scheduling for VLIW.|1995|PACT|conf/IEEEpact/BarradoLAV95
+Runahead Threads: Reducing Resource Contention in SMT Processors.|2007|PACT|conf/IEEEpact/RamirezPSV07
+Effective Usage of Vector Registers in Advanced Vector Architectures.|1997|IEEE PACT|conf/IEEEpact/VillaEV97
+Branch predictor guided instruction decoding.|2006|PACT|conf/IEEEpact/SantanaFRV06
+Swing module scheduling: a lifetime-sensitive approach.|1996|IEEE PACT|conf/IEEEpact/LlosaGAV96
+Command Vector Memory Systems: High Performance at Low Cost.|1998|IEEE PACT|conf/IEEEpact/CorbalEV98
+A Flexible Heterogeneous Multi-Core Architecture.|2007|PACT|conf/IEEEpact/PericasCCGJV07
+Efficient runahead threads.|2010|PACT|conf/IEEEpact/RamirezPSMV10
+Reducing Cache Coherence Traffic with Hierarchical Directory Cache and NUMA-Aware Runtime Scheduling.|2016|PACT|conf/IEEEpact/CahenyCMGSALV16
+Static Locality Analysis for Cache Management.|1997|IEEE PACT|conf/IEEEpact/SanchezGV97
+Quantifying the Benefits of SPECint Distant Parallelism in Simultaneous Multi-Threading Architectures.|1999|IEEE PACT|conf/IEEEpact/OrtegaMKAV99
+Imposing coarse-grained reconfiguration to general purpose processors.|2015|SAMOS|conf/samos/DuricSRPUCVS15
+Dynamic-vector execution on a general purpose EDGE chip multiprocessor.|2014|ICSAMOS|conf/samos/DuricPSSUCVBV14
+Online Prediction of Applications Cache Utility.|2007|ICSAMOS|conf/samos/MoretoCRV07
+Preliminary Analysis of the Cell BE Processor Limitations for Sequence Alignment Applications.|2008|SAMOS|conf/samos/IsazaSGRV08
+Initial Evaluation of Multimedia Extensions on VLIW Architectures.|2004|SAMOS|conf/samos/SalamiV04
+Breaking the bandwidth wall in chip multiprocessors.|2011|ICSAMOS|conf/samos/VegaCRV11
+Performance and Power Evaluation of Clustered VLIW Processors with Wide Functional Units.|2004|SAMOS|conf/samos/PericasAZLV04
+On the Problem of Minimizing Workload Execution Time in SMT Processors.|2007|ICSAMOS|conf/samos/CazorlaFKRSV07
+Effective usage of vector registers in decoupled vector architectures.|1998|PDP|conf/pdp/VillaEV98
+Identifying Critical Code Sections in Dataflow Programming Models.|2013|PDP|conf/pdp/SuboticSLV13
+The Impact of Application's Micro-Imbalance on the Communication-Computation Overlap.|2011|PDP|conf/pdp/SuboticSLV11
+Quantitative analysis of vector code.|1995|PDP|conf/pdp/EspasaVPJA95
+Access to streams in multiprocessor systems.|1993|PDP|conf/pdp/ValeroPA93
+Access To Vectors In Multi-module Memories.|1994|PDP|conf/pdp/ValeroPA94
+Loop Parallelization: Revisiting Framework of Unimodular Transformations.|1996|PDP|conf/pdp/TorresALV96
+A case for merging the ILP and DLP paradigms.|1998|PDP|conf/pdp/QuintanaEV98
+An Abstraction Methodology for the Evaluation of Multi-core Multi-threaded Architectures.|2011|MASCOTS|conf/mascots/ZilanVGNMV11
+iQ: An Efficient and Flexible Queue-Based Simulation Framework.|2017|MASCOTS|conf/mascots/RocaNCMVN17
+On Automatic Loop Data-Mapping for Distributed-Memory Multiprocessors.|1991|EDMCC|conf/edmcc/TorresALLV91
+Physical vs. Physically-Aware Estimation Flow: Case Study of Design Space Exploration of Adders.|2014|ISVLSI|conf/isvlsi/RatkovicPSUCV14
+Joint Circuit-System Design Space Exploration of Multiplier Unit Structure for Energy-Efficient Vector Processors.|2015|ISVLSI|conf/isvlsi/RatkovicPSDPUCV15
+Trends and techniques for energy efficient architectures.|2010|VLSI-SoC|conf/vlsi/JimenezGKCCBBV10
+APMC: advanced pattern based memory controller (abstract only).|2014|FPGA|conf/fpga/HussainPUCAVR14
+Transactional Memory and OpenMP.|2007|IWOMP|conf/iwomp/MilovanovicFUCMALV07
+Evaluating the Impact of OpenMP 4.0 Extensions on Relevant Parallel Workloads.|2015|IWOMP|conf/iwomp/VidalCMCFMALV15
+Evaluating kilo-instruction multiprocessors.|2004|WMPI|conf/wmpi/GalluzziBPGCV04
+Characterizing the Communication Demands of the Graph500 Benchmark on a Commodity Cluster.|2014|BDC|conf/bdc/FuentesBBVM14
+EVX: Vector execution on low power EDGE cores.|2014|DATE|conf/date/DuricPSUCVB14
+TagTM - accelerating STMs with hardware tags for fast meta-data access.|2012|DATE|conf/date/StipicTZCUV12
+Efficient cache architectures for reliable hybrid voltage operation using EDC codes.|2013|DATE|conf/date/MaricAV13
+The TERAFLUX Project: Exploiting the DataFlow Paradigm in Next Generation Teradevices.|2013|DSD|conf/dsd/SolinasBBCEFFGGGGKKLLMMNPTUVWWZG13
+Implicit vs. Explicit Resource Allocation in SMT Processors.|2004|DSD|conf/dsd/CazorlaKSFRV04
+Architectural Support for Fair Reader-Writer Locking.|2010|MICRO|conf/micro/VallejoBCHVUV10
+Modulo scheduling with integrated register spilling for clustered VLIW architectures.|2001|MICRO|conf/micro/ZalameaLAV01
+A distributed processor state management architecture for large-window processors.|2008|MICRO|conf/micro/GonzalezGVRCV08
+EazyHTM: eager-lazy hardware transactional memory.|2009|MICRO|conf/micro/TomicPKACUHV09
+Three-dimensional memory vectorization for high bandwidth media memory systems.|2002|MICRO|conf/micro/CorbalEV02
+Dynamically Controlled Resource Allocation in SMT Processors.|2004|MICRO|conf/micro/CazorlaRVF04
+Task Superscalar: An Out-of-Order Task Pipeline.|2010|MICRO|conf/micro/EtsionCRRBALV10
+Two-level hierarchical register file organization for VLIW processors.|2000|MICRO|conf/micro/ZalameaLAV00
+Hypernode reduction modulo scheduling.|1995|MICRO|conf/micro/LlosaVAG95
+Characterizing the resource-sharing levels in the UltraSPARC T2 processor.|2009|MICRO|conf/micro/CakarevicRVPCNV09
+Out-of-Order Vector Architectures.|1997|MICRO|conf/micro/EspasaVS97
+Improving Cache Management Policies Using Dynamic Reuse Distances.|2012|MICRO|conf/micro/DuongZKCVV12
+Exploiting a New Level of DLP in Multimedia Applications.|1999|MICRO|conf/micro/CorbalEV99
+Fetching instruction streams.|2002|MICRO|conf/micro/RamirezSLV02
+Design and Implementation of High-Performance Memory Systems for Future Packet Buffers.|2003|MICRO|conf/micro/GarciaCCV03
+Heuristics for Register-Constrained Software Pipelining.|1996|MICRO|conf/micro/LlosaVA96
+Vector Extensions for Decision Support DBMS Acceleration.|2012|MICRO|conf/micro/HayesPUCV12
+Delaying Physical Register Allocation through Virtual-Physical Registers.|1999|MICRO|conf/micro/MonrealGVGV99
+Widening Resources: A Cost-effective Technique for Aggressive ILP Architectures.|1998|MICRO|conf/micro/LopezLVA98
+VSR sort: A novel vectorised sorting algorithm&architecture extensions for future microprocessors.|2015|HPCA|conf/hpca/HayesPUCV15
+A Low-Complexity, High-Performance Fetch Unit for Simultaneous Multithreading Processors.|2004|HPCA|conf/hpca/FalconRV04
+Multithreaded Vector Architectures.|1997|HPCA|conf/hpca/EspasaV97
+Trace Cache Redundancy: Red&Blue Traces.|2000|HPCA|conf/hpca/RamirezLV00
+Architectural Support for Task Dependence Management with Flexible Software Scheduling.|2018|HPCA|conf/hpca/CastilloAMCVBBV18
+Virtual-Physical Registers.|1998|HPCA|conf/hpca/GonzalezGV98
+DLP + TLP Processors for the Next Generation of Media Workloads.|2001|HPCA|conf/hpca/CorbalEV01
+Out-of-Order Commit Processors.|2004|HPCA|conf/hpca/CristalOLV04
+Runahead Threads to improve SMT performance.|2008|HPCA|conf/hpca/RamirezPSV08
+A decoupled KILO-instruction processor.|2006|HPCA|conf/hpca/PericasCGJV06
+Non-Consistent Dual Register Files to Reduce Register Pressure.|1995|HPCA|conf/hpca/LlosaVA95
+Increasing multicore system efficiency through intelligent bandwidth shifting.|2015|HPCA|conf/hpca/JimenezBBOCV15
+Decoupled Vector Architectures.|1996|HPCA|conf/hpca/EspasaV96
+PAMS: Pattern Aware Memory System for embedded systems.|2014|ReConFig|conf/reconfig/HussainSPUCAVG14
+Evolutionary system for prediction and optimization of hardware architecture performance.|2008|IEEE Congress on Evolutionary Computation|conf/cec/ValdiviesoGMCVMLM08
+Simultaneous multithreaded vector architecture: merging ILP and DLP for high performance.|1997|HiPC|conf/hipc/EspasaV97
+Virtual registers.|1997|HiPC|conf/hipc/GonzalezVGA97
+Evaluation of vectorization potential of Graph500 on Intel's Xeon Phi.|2014|HPCS|conf/hpcs/StanicPRDUCV14
+Advanced Pattern based Memory Controller for FPGA based HPC applications.|2014|HPCS|conf/hpcs/HussainPUCAV14
+Reducing Fetch Architecture Complexity Using Procedure Inlining.|2004|Interaction between Compilers and Computer Architectures|conf/IEEEinteract/SantanaRV04
+Exploiting Inactive Rename Slots for Detecting Soft Errors.|2010|ARCS|conf/arcs/KayaalpEUV10
+Soft Real-Time Scheduling on SMT Processors with Explicit Resource Allocation.|2008|ARCS|conf/arcs/BonetiCGV08
+Dynamically Filtering Thread-Local Variables in Lazy-Lazy Hardware Transactional Memory.|2009|HPCC|conf/hpcc/SanyalRCUV09
+An Optimized Front-End Physical Register File with Banking and Writeback Filtering.|2004|PACS|conf/pacs/PericasGCVV04
+Automatic Exploration of Potential Parallelism in Sequential Applications.|2014|ISC|conf/supercomputer/SuboticALV14
+Novel SRAM bias control circuits for a low power L1 data cache.|2012|NORCHIP|conf/norchip/SeyediACUV12
+MAPC: Memory access pattern based controller.|2014|FPL|conf/fpl/HussainPUCAV14
+Performance Impact of Unaligned Memory Operations in SIMD Extensions for Video Codec Applications.|2007|ISPASS|conf/ispass/AlvarezSRV07
+An MPEG-4 performance study for non-SIMD, general purpose architectures.|2003|ISPASS|conf/ispass/McKeeFV03
+Performance Analysis of a New Packet Trace Compressor based on TCP Flow Clustering.|2005|ISPASS|conf/ispass/HolandaVGV05
+Trace filtering of multithreaded applications for CMP memory simulation.|2013|ISPASS|conf/ispass/RicoRV13
+Trace-driven simulation of multithreaded applications.|2011|ISPASS|conf/ispass/RicoDCERV11
+Simulation environment for studying overlap of communication and computation.|2010|ISPASS|conf/ispass/SuboticLV10
+On the Scalability of 1- and 2-Dimensional SIMD Extensions for Multimedia Applications.|2005|ISPASS|conf/ispass/SanchezASRV05
+Performance analysis of a hardware accelerator of dependence management for task-based dataflow programming models.|2016|ISPASS|conf/ispass/TanBJAAV16
+Instruction-Level Parallelism and Uniprocessor Architecture - Introduction.|1999|Euro-Par|conf/europar/SainratV99
+To Distribute or Not to Distribute: The Question of Load Balancing for Performance or Energy.|2017|Euro-Par|conf/europar/StaffordPBBV17
+Parallel Computer Architecture.|2000|Euro-Par|conf/europar/MullerSVV00
+DReAM: Per-Task DRAM Energy Metering in Multicore Systems.|2014|Euro-Par|conf/europar/LiuMACV14
+Runtime-Aware Architectures.|2015|Euro-Par|conf/europar/CasasMACC0JPUCA15
+Hardware Round-Robin Scheduler for Single-ISA Asymmetric Multi-core.|2015|Euro-Par|conf/europar/MarkovicNMUVC15
+Feasibility of QoS for SMT.|2004|Euro-Par|conf/europar/CazorlaKSFRV04
+Long DNA Sequence Comparison on Multicore Architectures.|2010|Euro-Par (2)|conf/europar/SanchezCRV10
+A Comparative Study of Redundancy in Trace Caches (Research Note).|2002|Euro-Par|conf/europar/VandierendonckRBV02
+Topic 15+20: Multimedia and Embedded Systems.|2001|Euro-Par|conf/europar/VassiliadisCVC01
+Quantifying the Potential Task-Based Dataflow Parallelism in MPI Applications.|2011|Euro-Par (1)|conf/europar/SuboticFSLV11
+Hardware Transactional Memory with Operating System Support, HTMOS.|2007|Euro-Par Workshops|conf/europar/TomicCUV07
+Maintaining Thousands of In-flight Instructions.|2004|Euro-Par|conf/europar/CristalSV04
+On the Performance of Fetch Engines Running DSS Workloads.|2000|Euro-Par|conf/europar/NavarroRLV00
+Branch Prediction Using Profile Data.|2001|Euro-Par|conf/europar/RamirezLV01
+Runtime-Assisted Shared Cache Insertion Policies Based on Re-reference Intervals.|2017|Euro-Par|conf/europar/DimicMCV17
+A performance evaluation of the multiple bus network for multiprocessor systems.|1983|SIGMETRICS|conf/sigmetrics/ValeroLLSL83
+Big Data Processing: Data Flow vs Control Flow (New Benchmarking Methodology).|2014|IIKI|conf/iiki/KosJTVM14
+A conflict-free memory banking architecture for fast VOQ packet buffers.|2003|GLOBECOM|conf/globecom/GarciaCCV03
+Optimizing job performance under a given power constraint in HPC centers.|2010|Green Computing Conference|conf/green/EtinskiCLV10
+BSLD threshold driven power management policy for HPC centers.|2010|IPDPS Workshops|conf/ipps/EtinskiCLV10
+TM-dietlibc: A TM-aware Real-World System Library.|2013|IPDPS|conf/ipps/SmiljkovicNMHUCV13
+Clock gate on abort: Towards energy-efficient hardware Transactional Memory.|2009|IPDPS|conf/ipps/SanyalRCUV09
+Runtime Aware Architectures.|2017|IPDPS|conf/ipps/Valero17
+FlexVC: Flexible Virtual Channel Management in Low-Diameter Networks.|2017|IPDPS|conf/ipps/Fuentes0BMV17
+Balancing HPC applications through smart allocation of resources in MT processors.|2008|IPDPS|conf/ipps/BonetiGCCLV08
+Adapting cache partitioning algorithms to pseudo-LRU replacement policies.|2010|IPDPS|conf/ipps/KedzierskiMCV10
+Contention-Based Nonminimal Adaptive Routing in High-Radix Networks.|2015|IPDPS|conf/ipps/Fuentes0GBRMV15
+Effective Instruction Prefetching via Fetch Prestaging.|2005|IPDPS|conf/ipps/FalconRV05
+HPC System Software for Regular and Irregular Parallel Applications.|2013|IPDPS Workshops|conf/ipps/MorariV13
+DCache Warn: An I-Fetch Policy to Increase SMT Efficiency.|2004|IPDPS|conf/ipps/CazorlaRVF04
+Hierarchical Clustered Register File Organization for VLIW Processors.|2003|IPDPS|conf/ipps/ZalameaLAV03
+A Quantitative Analysis of OS Noise.|2011|IPDPS|conf/ipps/MorariGWCV11
+Microarchitectural Support for Speculative Register Renaming.|2007|IPDPS|conf/ipps/AlastrueyMVV07
+CATA: Criticality Aware Task Acceleration for Multicore Processors.|2016|IPDPS|conf/ipps/CastilloMCA0CBB16
+Evaluating the Impact of TLB Misses on Future HPC Systems.|2012|IPDPS|conf/ipps/MorariGWRIV12
+Taking the heat off transactions: Dynamic selection of pessimistic concurrency control.|2009|IPDPS|conf/ipps/SonmezHCUV09
+Power-aware load balancing of large scale MPI applications.|2009|IPDPS|conf/ipps/EtinskiCLVV09
+Scaling Irregular Applications through Data Aggregation and Software Multithreading.|2014|IPDPS|conf/ipps/MorariTCVV14
+Control-Flow Independence Reuse via Dynamic Vectorization.|2005|IPDPS|conf/ipps/PajueloGV05
+ATM: Approximate Task Memoization in the Runtime System.|2017|IPDPS|conf/ipps/BrumarCMVS17
+General Purpose Task-Dependence Management Hardware for Task-Based Dataflow Programming Models.|2017|IPDPS|conf/ipps/TanBVAJAV17
+Using Sacks to Organize Registers in VLIW Machines.|1994|CONPAR|conf/conpar/LlosaVFA94
+Memory Access Synchronization in Vector Multiprocessors.|1994|CONPAR|conf/conpar/ValeroPA94
+Killer-mobiles: The way towards energy efficient high performance computers?|2013|ACSD|conf/acsd/Valero13
+unreadTVar: Extending Haskell Software Transactional Memory for Performance.|2007|Trends in Functional Programming|conf/sfp/SonmezPSCUV07
+TMbox: A Flexible and Reconfigurable 16-Core Hybrid Transactional Memory System.|2011|FCCM|conf/fccm/SonmezAPUCHSV11
+Hybrid Parallel Programming with MPI/StarSs.|2011|PARCO|conf/parco/LabartaMABV11
+Architectures for One Billion of Transistors.|2000|ISSS|conf/isss/Valero00
+Stand-Alone Memory Controller for Graphics System.|2014|ARC|conf/arc/HussainPUCAVH14
+From Plasma to BeeFarm: Design Experience of an FPGA-Based Multicore Prototype.|2011|ARC|conf/arc/SonmezASUCHSV11
+Improved spill code generation for software pipelined loops.|2000|PLDI|conf/pldi/ZalameaLAV00
+Architecture Performance Prediction Using Evolutionary Artificial Neural Networks.|2008|EvoWorkshops|conf/evoW/CastilloMGLMCVM08
+Vector Architectures: Past, Present and Future.|1998|International Conference on Supercomputing|conf/ics/EspasaVS98
+An asymmetric clustered processor based on value content.|2005|ICS|conf/ics/GonzalezCPVV05
+Overlapping communication and computation by using a hybrid MPI/SMPSs approach.|2010|ICS|conf/ics/MarjanovicLAV10
+On the potential of tolerant region reuse for multimedia applications.|2001|ICS|conf/ics/AlvarezCSV01
+A Performance Study of Out-of-order Vector Architectures and Short Registers.|1998|International Conference on Supercomputing|conf/ics/VillaEV98
+Power efficient job scheduling by predicting the impact of processor manufacturing variability.|2019|ICS|conf/ics/ChasapisM0RVC19
+Criticality-Aware Dynamic Task Scheduling for Heterogeneous Architectures.|2015|ICS|conf/ics/ChronakiRBALV15
+A Victim Cache for Vector Registers.|1997|International Conference on Supercomputing|conf/ics/EspasaV97
+Eliminating Cache Conflict Misses through XOR-Based Placement Functions.|1997|International Conference on Supercomputing|conf/ics/GonzalezVTP97
+Increasing effective IPC by exploiting distant parallelism.|1999|International Conference on Supercomputing|conf/ics/MartelOAV99
+Reducing Data Movement on Large Shared Memory Systems by Exploiting Computation Dependencies.|2018|ICS|conf/ics/BarreraMALVC18
+Optimizing computation-communication overlap in asynchronous task-based programs.|2019|ICS|conf/ics/CastilloJCM0BVB19
+Software trace cache.|1999|International Conference on Supercomputing|conf/ics/RamirezLNTV99
+Synchronized access to streams in SIMD vector multiprocessors.|1994|International Conference on Supercomputing|conf/ics/PeironVA94
+A european perspective on supercomputing.|2009|ICS|conf/ics/Valero09
+Enhancing the performance of assisted execution runtime systems through hardware/software techniques.|2012|ICS|conf/ics/KestorGUCV12
+Dynamic memory instruction bypassing.|2003|ICS|conf/ics/OrtegaAV03
+Conflict-free access of vectors with power-of-two strides.|1992|ICS|conf/ics/ValeroLA92
+Runtime-Guided Management of Stacked DRAM Memories in Task Parallel Programs.|2018|ICS|conf/ics/AlvarezCLAVM18
+A Data Cache with Multiple Caching Strategies Tuned to Different Types of Locality.|1995|International Conference on Supercomputing|conf/ics/GonzalezAV95
+Author retrospective for software trace cache.|2014|ICS 25th Anniversary|conf/ics/RamirezFSV14
+A novel renaming mechanism that boosts software prefetching.|2001|ICS|conf/ics/OrtegaVA01
+Runtime-Guided Mitigation of Manufacturing Variability in Power-Constrained Multi-Socket NUMA Nodes.|2016|ICS|conf/ics/ChasapisSCAVML16
+Exploring pattern-aware routing in generalized fat tree networks.|2009|ICS|conf/ics/RodriguezBMLV09
+Increasing Memory Bandwidth with Wide Buses: Compiler, Hardware and Performance Trade-Offs.|1997|International Conference on Supercomputing|conf/ics/LopezVLA97
+Adding a vector unit to a superscalar processor.|1999|International Conference on Supercomputing|conf/ics/QuintanaCEV99
+QuakeTM: parallelizing a complex sequential application using transactional memory.|2009|ICS|conf/ics/GajinovZUCAHV09
+Resource Widening Versus Replication: Limits and Performance-cost Trade-off.|1998|International Conference on Supercomputing|conf/ics/LopezLVA98
+Implicit Transactional Memory in Kilo-Instruction Multiprocessors.|2007|Asia-Pacific Computer Systems Architecture Conference|conf/aPcsac/GalluzziVCVBSSV07
+AMMC: Advanced Multi-Core Memory Controller.|2014|FPT|conf/fpt/HussainPUCAVG14
+Scalability of Macroblock-level Parallelism for H.264 Decoding.|2009|ICPADS|conf/icpads/MesaRAMJV09
+Runtime Aware Architectures.|2016|PECCS|conf/peccs/Valero16
+Killer-mobiles - The Way Towards Energy Efficient High Performance Computers?|2013|PECCS|conf/peccs/Valero13
+Studying New Ways for Improving Adaptive History Length Branch Predictors.|2002|ISHPC|conf/ishpc/FalconSMFRV02
+Exploiting Execution Locality with a Decoupled Kilo-Instruction Processor.|2005|ISHPC|conf/ishpc/PericasCGJV05
+A Simple Low-Energy Instruction Wakeup Mechanism.|2003|ISHPC|conf/ishpc/RamirezCVVV03
+Kilo-instruction Processors.|2003|ISHPC|conf/ishpc/CristalOLV03
+Workload Characterization of Stateful Networking Applications.|2005|ISHPC|conf/ishpc/VerduNGV05
+A Comprehensive Analysis of Indirect Branch Prediction.|2002|ISHPC|conf/ishpc/SantanaFFMRV02
+Tolerating Branch Predictor Latency on SMT.|2003|ISHPC|conf/ishpc/FalconSRV03
+Multiple Stream Prediction.|2005|ISHPC|conf/ishpc/SantanaRV05
+Power-Performance Trade-Offs in Wide and Clustered VLIW Cores for Numerical Codes.|2003|ISHPC|conf/ishpc/PericasAZLV03
+Improving Memory Latency Aware Fetch Policies for SMT Processors.|2003|ISHPC|conf/ishpc/CazorlaFRV03
+Decoupled State-Execute Architecture.|2005|ISHPC|conf/ishpc/PericasCGVV05
+Architectural support for real-time task scheduling in SMT processors.|2005|CASES|conf/cases/CazorlaKSFRV05
+Cost effective memory disambiguation for multimedia codes.|2002|CASES|conf/cases/SalamiCAV02
+EcoTM: Conflict-Aware Economical Unbounded Hardware Transactional Memory.|2013|ICCS|conf/iccS/TomicACUV13
+A Fully Parameterizable Low Power Design of Vector Fused Multiply-Add Using Active Clock-Gating Techniques.|2016|ISLPED|conf/islped/RatkovicPSUCV16
+Spark deployment and performance evaluation on the MareNostrum supercomputer.|2015|BigData|conf/bigdataconf/TousGTTGALBCV15
+Runtime Aware Architectures.|2017|Conf. Computing Frontiers|conf/cf/Valero17
+Quantitative analysis of sequence alignment applications on multiprocessor architectures.|2009|Conf. Computing Frontiers|conf/cf/SanchezRV09
+Kilo-instruction processors, runahead and prefetching.|2006|Conf. Computing Frontiers|conf/cf/RamirezPSV06
+Hybrid high-performance low-power and ultra-low energy reliable caches.|2011|Conf. Computing Frontiers|conf/cf/MaricACV11
+Dynamic transaction coalescing.|2014|Conf. Computing Frontiers|conf/cf/StipicKSGUCV14
+Predictable performance in SMT processors.|2004|Conf. Computing Frontiers|conf/cf/CazorlaKSFRV04
+Speculative early register release.|2006|Conf. Computing Frontiers|conf/cf/AlastrueyMVV06
+The limits of software transactional memory (STM): dissecting Haskell STM applications on a many-core environment.|2008|Conf. Computing Frontiers|conf/cf/PerfumoSSUCHV08
+Load balancing using dynamic cache allocation.|2010|Conf. Computing Frontiers|conf/cf/MoretoCSV10
+A first glance at Kilo-instruction based multiprocessors.|2004|Conf. Computing Frontiers|conf/cf/GalluzziPCBGV04
+FIMSIM: A fault injection infrastructure for microarchitectural simulators.|2011|ICCD|conf/iccd/YalcinUCV11
+A New Pointer-based Instruction Queue Design and Its Power-Performance Evaluation.|2005|ICCD|conf/iccd/RamirezCVVV05
+MIRS: Modulo Scheduling with Integrated Register Spilling.|2001|LCPC|conf/lcpc/ZalameaLAV01
+Balanced Loop Partitioning Using GTS.|1991|LCPC|conf/lcpc/LabartaATVL91
+Align and Distribute-based Linear Loop Transformations.|1993|LCPC|conf/lcpc/TorresALV93
+Detecting and Using Affinity in an Automatic Data Distribution Tool.|1994|LCPC|conf/lcpc/AyguadeGGLTV94
+IA^3: An Interference Aware Allocation Algorithm for Multicore Hard Real-Time Systems.|2011|IEEE Real-Time and Embedded Technology and Applications Symposium|conf/rtas/PaolieriQCDV11
+RVC-based time-predictable faulty caches for safety-critical systems.|2011|IOLTS|conf/iolts/AbellaQCVS11
+HD-VideoBench. A Benchmark for Evaluating High Definition Digital Video Applications.|2007|IISWC|conf/iiswc/AlvarezSRV07
+Performance Analysis of Sequence Alignment Applications.|2006|IISWC|conf/iiswc/SanchezSRV06
+PVMC: Programmable Vector Memory Controller.|2014|ASAP|conf/asap/HussainPUCAV14
+ADAM: an efficient data management mechanism for hybrid high and ultra-low voltage operation caches.|2012|ACM Great Lakes Symposium on VLSI|conf/glvlsi/MaricAV12
+Circuit design of a dual-versioning L1 data cache for optimistic concurrency.|2011|ACM Great Lakes Symposium on VLSI|conf/glvlsi/SeyediACUHV11
+RMS-TM: a comprehensive benchmark suite for transactional memory systems.|2011|ICPE|conf/wosp/KestorKUCHV11
+Selection of the Register File Size and the Resource Allocation Policy on SMT Processors.|2008|SBAC-PAD|conf/sbac-pad/AlastrueyMCVV08
+Thread to Core Assignment in SMT On-Chip Multiprocessors.|2009|SBAC-PAD|conf/sbac-pad/AcostaCRV09
+SEDEA: A Sensible Approach to Account DRAM Energy in Multicore Systems.|2017|SBAC-PAD|conf/sbac-pad/LiuMACV17
+Measuring Operating System Overhead on CMT Processors.|2008|SBAC-PAD|conf/sbac-pad/RadojkovicCVPGCNV08
+Rapid Development of Error-Free Architectural Simulators Using Dynamic Runtime Testing.|2011|SBAC-PAD|conf/sbac-pad/TomicCUV11
+Performance and Energy Efficient Hardware-Based Scheduler for Symmetric/Asymmetric CMPs.|2015|SBAC-PAD|conf/sbac-pad/MarkovicNUVC15
+The Network Adapter: The Missing Link between MPI Applications and Network Performance.|2012|SBAC-PAD|conf/sbac-pad/RodriguezMLBGLVP12
+DeTrans: Deterministic and Parallel execution of Transactions.|2014|SBAC-PAD|conf/sbac-pad/SmiljkovicSFUCV14
+Efficient Sorting on the Tilera Manycore Architecture.|2012|SBAC-PAD|conf/sbac-pad/MorariTVSV12
+On the selection of adder unit in energy efficient vector processing.|2013|ISQED|conf/isqed/RatkovicPSUCV13
+Linear programming based parallel job scheduling for power constrained systems.|2011|HPCS|conf/ieeehpcs/EtinskiCLV11
+HPCS 2013 panel: The era of exascale sciences: Challenges, needs and requirements.|2013|HPCS|conf/ieeehpcs/CappelloGVN13
+Picos, A Hardware Task-Dependence Manager for Task-Based Dataflow Programming Models.|2017|HPCS|conf/ieeehpcs/TanBVAJAV17
+Runtime Aware Architectures.|2016|DCNET|conf/icete/Valero16
+Implementing Kilo-Instruction Multiprocessors.|2005|ICPS|conf/icps/0001GCVBSSV05
+Solving Matrix Problems with No Size Restriction on a Systolic Array Processor.|1986|ICPP|conf/icpp/NavarroLV86
+A Complexity-Effective Simultaneous Multithreading Architecture.|2005|ICPP|conf/icpp/AcostaFRV05
+Optimization of Instruction Fetch for Decision Support Workloads.|1999|ICPP|conf/icpp/RamirezLNSVT99
+Impact on Performance of Fused Multiply-Add Units in Aggressive VLIW Architectures.|1999|ICPP|conf/icpp/LopezLAV99
+MFLUSH: Handling Long-Latency Loads in SMT On-Chip Multiprocessors.|2008|ICPP|conf/icpp/AcostaCRV08
+Hardware Schemes for Early Register Release.|2002|ICPP|conf/icpp/MonrealVGV02
+Efficient Routing Mechanisms for Dragonfly Networks.|2013|ICPP|conf/icpp/Garcia0BOV13
+A Vector-µSIMD-VLIW Architecture for Multimedia Applications.|2005|ICPP|conf/icpp/SalamiV05
+On-the-Fly Adaptive Routing in High-Radix Hierarchical Networks.|2012|ICPP|conf/icpp/GarciaVBOCVRLM12
+Code Semantic-Aware Runahead Threads.|2009|ICPP|conf/icpp/RamirezPSV09
+MUSA: a multi-level simulation approach for next-generation HPC machines.|2016|SC|conf/sc/GrassAARALVCM16
+Supercomputing with commodity CPUs: are mobile SoCs ready for HPC?|2013|SC|conf/sc/RajovicCGPRV13
+Exploiting asynchrony from exact forward recovery for DUE in iterative solvers.|2015|SC|conf/sc/JaulmesACLMV15
+Runtime-assisted cache coherence deactivation in task parallel programs.|2018|SC|conf/sc/CahenyAVMC18
+MOM: a Matrix SIMD Instruction Set Architecture for Multimedia Applications.|1999|SC|conf/sc/CorbalEV99
+The mont-blanc prototype: an alternative approach for HPC systems.|2016|SC|conf/sc/RajovicRMRVGBNS16
+A dynamic scheduler for balancing HPC applications.|2008|SC|conf/sc/BonetiGCV08
+Registers Size Influence on Vector Architectures.|1998|VECPAR|conf/vecpar/VillaEV98
+Vectorized AES Core for High-throughput Secure Environments.|2008|VECPAR|conf/vecpar/PericasCGVV08
+An ISA Comparison Between Superscalar and Vector Processors.|1998|VECPAR|conf/vecpar/QuintanaEV98
+A Deep Learning Mapper (DLM) for Scheduling on Heterogeneous Systems.|2017|CARLA|conf/carla/NemirovskyAMNUC17
+Fog Function Virtualization: A flexible solution for IoT applications.|2017|FMEC|conf/fmec/RocaQVN17
+LPA: A First Approach to the Loop Processor Architecture.|2008|HiPEAC|conf/hipeac/GarciaSFMV08
+Supercomputing for the Future, Supercomputing from the Past (Keynote).|2008|HiPEAC|conf/hipeac/ValeroL08
+RVC: a mechanism for time-analyzable real-time processors with faulty caches.|2011|HiPEAC|conf/hipeac/AbellaQCSV11
+Global misrouting policies in two-level hierarchical networks.|2013|INA-OCMC@HiPEAC|conf/hipeac/GarciaVBOCVLR13
+MLP-Aware Dynamic Cache Partitioning.|2008|HiPEAC|conf/hipeac/MoretoCRV08
+Direct Inter-Process Communication (dIPC): Repurposing the CODOMs Architecture to Accelerate IPC.|2017|EuroSys|conf/eurosys/VilanovaJNEV17
+Atomic quake: using transactional memory in an interactive multiplayer game server.|2009|PPOPP|conf/ppopp/ZyulkyarovGUCAHV09
+Effective communication and computation overlap with hybrid MPI/SMPSs.|2010|PPOPP|conf/ppopp/MarjanovicLAV10
+Graph partitioning applied to DAG scheduling to reduce NUMA effects.|2018|PPOPP|conf/ppopp/BarreraCMALV18
+Optimizing computation-communication overlap in asynchronous task-based programs: poster.|2019|PPoPP|conf/ppopp/CastilloJCM0BVB19
+Runtime aware architectures.|2016|GPGPU@PPoPP|conf/ppopp/Valero16
+Debugging programs that use atomic blocks and transactional memory.|2010|PPOPP|conf/ppopp/ZyulkyarovHUCV10
+Turbocharging boosted transactions or: how i learnt to stop worrying and love longer transactions.|2009|PPOPP|conf/ppopp/KulkarniUCAV09
+Thread to strand binding of parallel network applications in massive multi-threaded systems.|2010|PPOPP|conf/ppopp/RadojkovicCVPCNV10
+OFAR-CM: Efficient Dragonfly Networks with Simple Congestion Management.|2013|Hot Interconnects|conf/hoti/Garcia0BVR13
+Speculative Dynamic Vectorization.|2002|ISCA|conf/isca/PajueloGV02
+Hardware support for WCET analysis of hard real-time multicore systems.|2009|ISCA|conf/isca/PaolieriQCBV09
+Computing Size-Independent Matrix Problems on Systolic Array Processors.|1986|ISCA|conf/isca/NavarroLV86
+Analysis and Simulation of Multiplexed Single-Bus Networks With and Without Buffering.|1985|ISCA|conf/isca/GrinoCLM85
+Coherence protocol for transparent management of scratchpad memories in shared memory manycore architectures.|2015|ISCA|conf/isca/AlvarezVMCGMNAV15
+Multiple-banked register file architectures.|2000|ISCA|conf/isca/CruzGVT00
+Increasing the Number of Strides for Conflict-Free Vector Access.|1992|ISCA|conf/isca/ValeroLLPAN92
+A Two-Level Load/Store Queue Based on Execution Locality.|2008|ISCA|conf/isca/PericasCCGVJV08
+Prophet/Critic Hybrid Branch Prediction.|2004|ISCA|conf/isca/FalconSRLV04
+Systematic Hardware Adaptation of Systolic Algorithms.|1989|ISCA|conf/isca/Valero-GarciaNLV89
+Code layout optimizations for transaction processing workloads.|2001|ISCA|conf/isca/RamirezBGCLLV01
+A Content Aware Integer Register File Organization.|2004|ISCA|conf/isca/GonzalezCOVV04
+CODOMs: Protecting software with Code-centric memory Domains.|2014|ISCA|conf/isca/VilanovaBNEV14
+Vector Multiprocessors with Arbitrated Memory Access.|1995|ISCA|conf/isca/PeironVAL95
+Future Vector Microprocessor Extensions for Data Aggregations.|2016|ISCA|conf/isca/0001PUCV16
+Software-Controlled Priority Characterization of POWER5 Processor.|2008|ISCA|conf/isca/BonetiCGBCV08
+Enabling preemptive multiprogramming on GPUs.|2014|ISCA|conf/isca/TanasicGCRNV14
+Designing OS for HPC Applications: Scheduling.|2010|CLUSTER|conf/cluster/GioiosaMV10
+A Simulation Framework to Automatically Analyze the Communication-Computation Overlap in Scientific Applications.|2010|CLUSTER|conf/cluster/SuboticSLV10
+Throughput Unfairness in Dragonfly Networks under Realistic Traffic Patterns.|2015|CLUSTER|conf/cluster/Fuentes0CBV15
+Oblivious routing schemes in extended generalized Fat Tree networks.|2009|CLUSTER|conf/cluster/RodriguezMBLLV09
+A cost effective architecture for vectorizable numerical and multimedia applications.|2001|SPAA|conf/spaa/QuintanaCEV01
+Optimal task assignment in multithreaded processors: a statistical approach.|2012|ASPLOS|conf/asplos/RadojkovicCMVPCNV12
+APPLE: adaptive performance-predictable low-energy caches for reliable hybrid voltage operation.|2013|DAC|conf/dac/MaricAV13
+Scalability Analysis of Progressive Alignment on a Multicore.|2010|CISIS|conf/cisis/IsazaSGRV10
+Enabling SMT for real-time embedded systems.|2004|EUSIPCO|conf/eusipco/CazorlaKSFRV04
+Architectural impact of stateful networking applications.|2005|ANCS|conf/ancs/VerduGNV05
+MultiLayer processing - an execution model for parallel stateful packet processing.|2008|ANCS|conf/ancs/VerduNV08
+Mapping QR decomposition of a banded matrix on a ID systolic array with data contraflow and pipelined functional units.|1991|Algorithms and Parallel VLSI Architectures|conf/ccc/Valero-GarciaNLVL91

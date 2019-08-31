@@ -1,0 +1,83 @@
+Static strands: safely collapsing dependence chains for increasing embedded power efficiency.|2005|LCTES|conf/lctrts/SassoneWL05
+A Simple Divide-and-Conquer Approach for Neural-Class Branch Prediction.|2005|IEEE PACT|conf/IEEEpact/Loh05
+Exploiting Inter-Warp Heterogeneity to Improve GPGPU Performance.|2015|PACT|conf/IEEEpact/Ausavarungnirun15
+?C-States: Fine-grained GPU Datapath Power Management.|2016|PACT|conf/IEEEpact/KayiranJPATKLMD16
+A Software-Managed Approach to Die-Stacked DRAM.|2015|PACT|conf/IEEEpact/OskinL15
+Avoiding TLB Shootdowns Through Self-Invalidating TLB Entries.|2017|PACT|conf/IEEEpact/AwadBBSL17
+Predicting Conditional Branches With Fusion-Based Hybrid Predictors.|2002|IEEE PACT|conf/IEEEpact/LohH02
+Implementing Register Files for High-Performance Microprocessors in a Die-Stacked (3D) Technology.|2006|ISVLSI|conf/isvlsi/PuttaswamyL06
+Microarchitectural floorplanning under performance and thermal tradeoff.|2006|DATE|conf/date/HealyVEBLLL06
+Fire-and-Forget: Load/Store Scheduling with No Store Queue at All.|2006|MICRO|conf/micro/SubramaniamL06
+Enabling interposer-based disintegration of multi-core processors.|2015|MICRO|conf/micro/KannanJL15
+Preventing PCM banks from seizing too much power.|2011|MICRO|conf/micro/HaySSLB11
+Efficiently enabling conventional block sizes for very large die-stacked DRAM caches.|2011|MICRO|conf/micro/LohH11
+A register-file approach for row buffer caches in die-stacked DRAMs.|2011|MICRO|conf/micro/Loh11
+Unison Cache: A Scalable and Effective Die-Stacked DRAM Cache.|2014|MICRO|conf/micro/JevdjicLKF14
+Exploiting data-width locality to increase superscalar execution bandwidth.|2002|MICRO|conf/micro/Loh02
+OSCAR: Orchestrating STT-RAM cache traffic for heterogeneous CPU-GPU architectures.|2016|MICRO|conf/micro/ZhanKLDX16
+Die Stacking (3D) Microarchitecture.|2006|MICRO|conf/micro/BlackABDJLMMNPRRSSW06
+Extending the effectiveness of 3D-stacked DRAM caches with an adaptive multi-queue policy.|2009|MICRO|conf/micro/Loh09
+A Mostly-Clean DRAM Cache for Effective Hit Speculation and Self-Balancing Dispatch.|2012|MICRO|conf/micro/SimLKOT12
+Managing GPU Concurrency in Heterogeneous Architectures.|2014|MICRO|conf/micro/KayiranNJAKLMD14
+Adaptive Caches: Effective Shaping of Cache Behavior to Workloads.|2006|MICRO|conf/micro/SubramanianSL06
+NoC Architectures for Silicon Interposer Systems: Why Pay for more Wires when you Can Get them (from your interposer) for Free?|2014|MICRO|conf/micro/JergerKLL14
+Large pages and lightweight memory management in virtualized environments: can you have it both ways?|2015|MICRO|conf/micro/PhamVLB15
+Fundamental Latency Trade-off in Architecting DRAM Caches: Outperforming Impractical SRAM-Tags with a Simple and Practical Design.|2012|MICRO|conf/micro/QureshiL12
+PEEP: Exploiting predictability of memory dependences in SMT processors.|2008|HPCA|conf/hpca/SubramaniamPL08
+Store vectors for scalable memory dependence prediction and scheduling.|2006|HPCA|conf/hpca/SubramaniamL06
+Increasing TLB reach by exploiting clustering in page translations.|2014|HPCA|conf/hpca/PhamBEL14
+Criticality-based optimizations for efficient load processing.|2009|HPCA|conf/hpca/SubramaniamBWL09
+Heterogeneous memory architectures: A HW/SW approach for mixing die-stacked and off-package memories.|2015|HPCA|conf/hpca/MeswaniBRSIL15
+Efficient synthetic traffic models for large, complex SoCs.|2016|HPCA|conf/hpca/YinKPJL16
+Thermal Herding: Microarchitecture Techniques for Controlling Hotspots in High-Performance 3D-Integrated Processors.|2007|HPCA|conf/hpca/PuttaswamyL07
+Design and Analysis of an APU for Exascale Computing.|2017|HPCA|conf/hpca/VijayaraghavanE17
+MemPod: A Clustered Architecture for Efficient and Scalable Migration in Flat Address Space Multi-level Memories.|2017|HPCA|conf/hpca/ProdromouMJLT17
+Thermal optimization in multi-granularity multi-core floorplanning.|2009|ASP-DAC|conf/aspdac/HealyLLL09
+Simulation Differences Between Academia and Industry: A Branch Prediction Case Study.|2005|ISPASS|conf/ispass/Loh05
+Revisiting the performance impact of branch predictor latencies.|2006|ISPASS|conf/ispass/Loh06
+Observations and opportunities in architecting shared virtual memory for heterogeneous systems.|2016|ISPASS|conf/ispass/VeselyBOLB16
+Zesto: A cycle-level simulator for highly detailed microarchitecture exploration.|2009|ISPASS|conf/ispass/LohSX09
+A time-stamping algorithm for efficient performance estimation of superscalar processors.|2001|SIGMETRICS/Performance|conf/sigmetrics/Loh01
+HpMC: An Energy-aware Management System of Multi-level Memory Architectures.|2015|MEMSYS|conf/memsys/SuRLCSLN15
+Interconnect-Memory Challenges for Multi-chip, Silicon Interposer Systems.|2015|MEMSYS|conf/memsys/LohJKE15
+Last-level cache deduplication.|2014|ICS|conf/ics/TianKJL14
+Machine learning for performance and power modeling of heterogeneous systems.|2018|ICCAD|conf/iccad/GreathouseL18
+Cost-effective design of scalable high-performance systems using active and passive interposers.|2017|ICCAD|conf/iccad/Stow0SL17
+Design and analysis of 3D-MAPS: A many-core 3D processor with stacked memory.|2010|CICC|conf/cicc/HealyAGHKLLLLJOPSSWZLLL10
+Speculative Clustered Caches for Clustered Processors.|2002|ISHPC|conf/ishpc/HenryLS02
+Entropy-based low power data TLB design.|2006|CASES|conf/cases/BallapuramPLL06
+3D-MAPS: 3D Massively parallel processor with stacked memory.|2012|ISSCC|conf/isscc/KimAHHJKKLLLLPPRSSWZKCLLL12
+Energy-efficient GPU design with reconfigurable in-package graphics memory.|2012|ISLPED|conf/islped/ZhaoSLX12
+A modular 3d processor for flexible product design and technology migration.|2008|Conf. Computing Frontiers|conf/cf/Loh08
+Thread-aware dynamic shared cache compression in multi-core processors.|2011|ICCD|conf/iccd/XieL11
+Implementing Caches in a 3D Technology for High Performance Processors.|2005|ICCD|conf/iccd/PuttaswamyL05
+The impact of 3-dimensional integration on the design of arithmetic units.|2006|ISCAS|conf/iscas/PuttaswamyL06
+Thermal analysis of a 3D die-stacked high-performance microprocessor.|2006|ACM Great Lakes Symposium on VLSI|conf/glvlsi/PuttaswamyL06
+Dynamic instruction schedulers in a 3-dimensional integration technology.|2006|ACM Great Lakes Symposium on VLSI|conf/glvlsi/PuttaswamyL06a
+A Segmented Bloom Filter Algorithm for Efficient Predictors.|2008|SBAC-PAD|conf/sbac-pad/BreternitzLBRSAW08
+Building a Low Latency, Highly Associative DRAM Cache with the Buffered Way Predictor.|2016|SBAC-PAD|conf/sbac-pad/WangJZLX16
+Controlling the Power and Area of Neural Branch Predictors for Practical Implementation in High-Performance Processors.|2006|SBAC-PAD|conf/sbac-pad/JimenezL06
+Design and Evaluation of Hierarchical Rings with Deflection Routing.|2014|SBAC-PAD|conf/sbac-pad/AusavarungnirunFYCNDLM14
+Computer architecture for die stacking.|2012|VLSI-DAT|conf/vlsi-dat/Loh12
+Efficient RAS support for die-stacked DRAM.|2014|ITC|conf/itc/JeonLA14
+Leveraging near data processing for high-performance checkpoint/restart.|2017|SC|conf/sc/AgrawalLT17
+Challenges of High-Capacity DRAM Stacks and Potential Directions.|2018|MCHPC@SC|conf/sc/FarahaniGLI18
+Managing DRAM Latency Divergence in Irregular GPGPU Applications.|2014|SC|conf/sc/ChatterjeeOLJB14
+Toward efficient programmer-managed two-level memory hierarchies in exascale computers.|2014|Co-HPC@SC|conf/sc/MeswaniLBRSI14
+Applying Machine Learning for Ensemble Branch Predictors.|2002|IEA/AIE|conf/ieaaie/LohH02
+Scalable Shared-Cache Management by Containing Thrashing Workloads.|2010|HiPEAC|conf/hipeac/XieL10
+Scheduling Page Table Walks for Irregular GPU Applications.|2018|ISCA|conf/isca/ShinCOLSBB18
+Resilient die-stacked DRAM caches.|2013|ISCA|conf/isca/SimLSO13
+Staged memory scheduling: Achieving high performance and scalability in heterogeneous systems.|2012|ISCA|conf/isca/AusavarungnirunCSLM12
+There and Back Again: Optimizing the Interconnect in Networks of Memory Cubes.|2017|ISCA|conf/isca/PorembaAYKXL17
+Circuits for wide-window superscalar processors.|2000|ISCA|conf/isca/HenryKLS00
+Modular Routing Design for Chiplet-Based Systems.|2018|ISCA|conf/isca/YinLKPAJL18
+3D-Stacked Memory Architectures for Multi-core Processors.|2008|ISCA|conf/isca/Loh08
+Use ECP, not ECC, for hard failures in resistive memories.|2010|ISCA|conf/isca/SchechterLSB10
+Generic System Calls for GPUs.|2018|ISCA|conf/isca/VeselyBBLOR18
+Matrix scheduler reloaded.|2007|ISCA|conf/isca/SassoneRBLB07
+PIPP: promotion/insertion pseudo-partitioning of multi-core shared caches.|2009|ISCA|conf/isca/XieL09
+A Comparison of Scalable Superscalar Processors.|1999|SPAA|conf/spaa/KuszmaulHL99
+Quantifying and coping with parametric variations in 3D-stacked microarchitectures.|2010|DAC|conf/dac/OzdemirPDMLC10
+Efficient System Architecture in the Era of Monolithic 3D: Dynamic Inter-tier Interconnect and Processing-in-Memory.|2019|DAC|conf/dac/StowAH0LL19
+Scalability of 3D-Integrated Arithmetic Units in High-Performance Microprocessors.|2007|DAC|conf/dac/PuttaswamyL07

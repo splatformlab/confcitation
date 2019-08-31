@@ -1,0 +1,103 @@
+An Event-Driven Multithreaded Dynamic Optimization Framework.|2005|IEEE PACT|conf/IEEEpact/ZhangCT05
+Core architecture optimization for heterogeneous chip multiprocessors.|2006|PACT|conf/IEEEpact/KumarTJ06
+Quantifying Instruction Criticality.|2002|IEEE PACT|conf/IEEEpact/TuneTC02
+Mapping Out a Path from Hardware Transactional Memory to Speculative Multithreading.|2009|PACT|conf/IEEEpact/PorterCT09
+Coalition threading: combining traditional andnon-traditional parallelism to maximize scalability.|2012|PACT|conf/IEEEpact/KamruzzamanST12
+Initial Observations of the Simultaneous Multithreading Pentium 4 Processor.|2003|IEEE PACT|conf/IEEEpact/TuckT03
+Platform-Agnostic Learning-Based Scheduling.|2019|SAMOS|conf/samos/ProdromouVT19
+Holistic Design of Multiple-Core Architectures.|2008|ISPDC|conf/ispdc/Tullsen08
+Software data-triggered threads.|2012|OOPSLA|conf/oopsla/TsengT12
+Tuning Compiler Optimizations for Simultaneous Multithreading.|1997|MICRO|conf/micro/LoELPT97
+Balanced Multithreading: Increasing Throughput via a Low Cost Multithreading Hierarchy.|2004|MICRO|conf/micro/TuneKTC04
+Reducing peak power with a table-driven adaptive processor core.|2009|MICRO|conf/micro/KontorinisSTK09
+Handling long-latency loads in a simultaneous multithreading processor.|2001|MICRO|conf/micro/TullsenB01
+Control Flow Optimization Via Dynamic Reconvergence Prediction.|2004|MICRO|conf/micro/CollinsTW04
+Reducing power with dynamic critical path information.|2001|MICRO|conf/micro/SengTT01
+Pointer cache assisted prefetching.|2002|MICRO|conf/micro/CollinsSCT02
+Compiling for instruction cache performance on a multithreaded architecture.|2002|MICRO|conf/micro/KumarT02
+Conjoined-Core Chip Multiprocessing.|2004|MICRO|conf/micro/KumarJT04
+Dynamic speculative precomputation.|2001|MICRO|conf/micro/CollinsTWS01
+Hardware Identification of Cache Conflict Misses.|1999|MICRO|conf/micro/CollinsT99
+McPAT: an integrated power, area, and timing modeling framework for multicore and manycore architectures.|2009|MICRO|conf/micro/LiASBTJ09
+The CRISP performance model for dynamic voltage and frequency scaling in a GPGPU.|2015|MICRO|conf/micro/NathT15
+Single-ISA Heterogeneous Multi-Core Architectures: The Potential for Processor Power Reduction.|2003|MICRO|conf/micro/KumarFJRT03
+A Self-Repairing Prefetcher in an Event-Driven Dynamic Optimization Framework.|2006|CGO|conf/cgo/ZhangCT06
+Multithreaded Value Prediction.|2005|HPCA|conf/hpca/TuckT05
+Accelerating and Adapting Precomputation Threads for Effcient Prefetching.|2007|HPCA|conf/hpca/ZhangTC07
+Dynamic Prediction of Critical Path Instructions.|2001|HPCA|conf/hpca/TuneLTC01
+Fast thread migration via cache working set prediction.|2011|HPCA|conf/hpca/BrownPT11
+Understanding idle behavior and power gating mechanisms in the context of modern benchmarks on CPU-GPU Integrated systems.|2015|HPCA|conf/hpca/AroraMPJT15
+Dynamically heterogeneous cores through 3D resource pooling.|2012|HPCA|conf/hpca/HomayounKSLT12
+Multithreaded Execution Architecture and Compilation.|1999|HPCA|conf/hpca/TullsenG99
+Instruction Recycling on a Multiple-Path Processor.|1999|HPCA|conf/hpca/WallaceTC99
+Understanding the Impact of Socket Density in Density Optimized Servers.|2019|HPCA|conf/hpca/AroraS0AMTT19
+CDTT: Compiler-generated data-triggered threads.|2014|HPCA|conf/hpca/TsengT14
+Data-triggered threads: Eliminating redundant computation.|2011|HPCA|conf/hpca/TsengT11
+Supporting Fine-Grained Synchronization on a Simultaneous Multithreading Processor.|1999|HPCA|conf/hpca/TullsenLEL99
+Reliability-Aware Data Placement for Heterogeneous Memory Architecture.|2018|HPCA|conf/hpca/GuptaSRPVTG18
+MemPod: A Clustered Architecture for Efficient and Scalable Migration in Flat Address Space Multi-level Memories.|2017|HPCA|conf/hpca/ProdromouMJLT17
+Composite-ISA Cores: Enabling Multi-ISA Heterogeneity Using a Single ISA.|2019|HPCA|conf/hpca/VenkatBT19
+The Effect of Compiler Optimizations on Pentium 4 Power Consumption.|2003|Interaction between Compilers and Computer Architectures|conf/IEEEinteract/SengT03
+Fellowship - Simulation And Modeling Of A Simultaneous Multithreading Processor.|1996|Int. CMG Conference|conf/cmg/Tullsen96
+Exploring the Potential of Architecture-Level Power Optimizations.|2003|PACS|conf/pacs/SengT03
+Prime+Abort: A Timer-Free High-Precision L3 Cache Attack using Intel TSX.|2017|USENIX Security Symposium|conf/uss/DisselkoenKPT17
+Themis: Energy Efficient Management of Workloads in Virtualized Data Centers.|2012|Euro-Par Workshops|conf/europar/DhimanKAZSTR12
+Fast cost efficient designs by building upon the plackett and burman method.|2012|SIGMETRICS|conf/sigmetrics/AroraWRT12
+A comparison of core power gating strategies implemented in modern hardware.|2014|SIGMETRICS|conf/sigmetrics/AroraMEPJT14
+Symbiotic jobscheduling with priorities for a simultaneous multithreading processor.|2002|SIGMETRICS|conf/sigmetrics/SnavelyTV02
+Evaluating the impact of job scheduling and power management on processor lifetime for chip multiprocessors.|2009|SIGMETRICS/Performance|conf/sigmetrics/CoskunSTR09
+REMEDIATE: A scalable fault-tolerant architecture for low-power NUCA cache in tiled CMPs.|2013|IGCC|conf/green/BanaiyanMofradHKTD13
+HCW Keynote Address Holistic Design of Multi-Core Architectures.|2007|IPDPS|conf/ipps/Tullsen07
+Clustered Multithreaded Architectures - Pursuing both IPC and Cycle Time.|2004|IPDPS|conf/ipps/CollinsT04
+Exploiting unbalanced thread scheduling for energy and performance on a CMP of SMT processors.|2006|IPDPS|conf/ipps/VuystKT06
+Reliability and Performance Trade-off Study of Heterogeneous Memories.|2016|MEMSYS|conf/memsys/GuptaRMSTG16
+Mitosis compiler: an infrastructure for speculative threading based on pre-computation slices.|2005|PLDI|conf/pldi/QuinonesMSMGT05
+Software data spreading: leveraging distributed caches to improve single thread performance.|2010|PLDI|conf/pldi/KamruzzamanST10
+Horton Tables: Fast Hash Tables for In-Memory Data-Intensive Computing.|2016|USENIX Annual Technical Conference|conf/usenix/BreslowZGJT16
+The shared-thread multiprocessor.|2008|ICS|conf/ics/BrownT08
+Creating artificial global history to improve branch prediction accuracy.|2009|ICS|conf/ics/PorterT09
+Classifying load and store instructions for memory renaming.|1999|International Conference on Supercomputing|conf/ics/ReinmanCTTA99
+Application-specific customization of parameterized FPGA soft-core processors.|2006|ICCAD|conf/iccad/SheldonKLVT06
+Conjoining soft-core FPGA processors.|2006|ICCAD|conf/iccad/SheldonKVTL06
+Limits of Task-Based Parallelism in Irregular Applications.|2000|ISHPC|conf/ishpc/KreaseckTC00
+Dynamic workload characterization for power efficient scheduling on CMP systems.|2010|ISLPED|conf/islped/DhimanKTRSC10
+Power-sensitive multithreaded architecture.|2012|ICCD|conf/iccd/SengTC12a
+Power-Sensitive Multithreaded Architecture.|2000|ICCD|conf/iccd/SengTC00
+Low-current probabilistic writes for power-efficient STT-RAM caches.|2013|ICCD|conf/iccd/StrikosKDHT13
+Retrospective on "Power-Sensitive Multithreaded Architecture".|2012|ICCD|conf/iccd/SengTC12
+Modeling and analysis of Phase Change Materials for efficient thermal management.|2014|ICCD|conf/iccd/KaplanVHAHBTC14
+Speculative Code Value Specialization Using the Trace Cache Fill Unit.|2006|ICCD|conf/iccd/ZhangCTC06
+Inter-socket victim cacheing for platform power reduction.|2010|ICCD|conf/iccd/MazumdarTS10
+Co-locating and concurrent fine-tuning MapReduce applications on microservers for energy efficiency.|2017|IISWC|conf/iiswc/MalikTH17
+Hot peripheral thermal management to mitigate cache temperature variation.|2012|ISQED|conf/isqed/HomayounRKGT12
+ILP versus TLP on SMT.|1999|SC|conf/sc/MitchellCFT99
+Load-balanced pipeline parallelism.|2013|SC|conf/sc/KamruzzamanST13
+Compiler Techniques for Reducing Data Cache Miss Rate on a Multithreaded Architecture.|2008|HiPEAC|conf/hipeac/SarkarT08
+Runtime parallelization of legacy code on a transactional memory system.|2011|HiPEAC|conf/hipeac/DeVuystTK11
+Deciphering Predictive Schedulers for Heterogeneous-ISA Multicore Architectures.|2019|PMAM@PPoPP|conf/ppopp/ProdromouVT19
+Mobilizing the Micro-Ops: Exploiting Context Sensitive Decoding for Security and Energy Efficiency.|2018|ISCA|conf/isca/TaramVT18
+Managing distributed UPS energy for effective power capping in data centers.|2012|ISCA|conf/isca/KontorinisZASHPTR12
+Retrospective: Simultaneous Multithreading: Maximizing On-Chip Parallelism.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/TullsenEL98
+Harnessing ISA diversity: Design of a heterogeneous-ISA chip multiprocessor.|2014|ISCA|conf/isca/VenkatT14
+Selective Value Prediction.|1999|ISCA|conf/isca/CalderRT99
+Simultaneous Multithreading: Maximizing On-Chip Parallelism.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/TullsenEL98a
+Simultaneous Multithreading: Maximizing On-Chip Parallelism.|1995|ISCA|conf/isca/TullsenEL95
+Speculative precomputation: long-range prefetching of delinquent loads.|2001|ISCA|conf/isca/CollinsWTHLLS01
+Threaded Multiple Path Execution.|1998|ISCA|conf/isca/WallaceCT98
+Single-ISA Heterogeneous Multi-Core Architectures for Multithreaded Workload Performance.|2004|ISCA|conf/isca/KumarTRJF04
+Exploiting Choice: Instruction Fetch and Issue on an Implementable Simultaneous Multithreading Processor.|1996|ISCA|conf/isca/TullsenEELLS96
+Storageless Value Prediction Using Prior Register Values.|1999|ISCA|conf/isca/TullsenS99
+Limitations of Cache Prefetching on a Bus-Based Multiprocessor.|1993|ISCA|conf/isca/TullsenE93
+A Tree Based Router Search Engine Architecture with Single Port Memories.|2005|ISCA|conf/isca/BaboescuTRS05
+Thermal time shifting: leveraging phase change materials to reduce cooling costs in warehouse-scale computers.|2015|ISCA|conf/isca/SkachAHLTTM15
+Interconnections in Multi-Core Architectures: Understanding Mechanisms, Overheads and Scaling.|2005|ISCA|conf/isca/KumarZT05
+Virtual Melting Temperature: Managing Server Load to Minimize Cooling Overhead with Phase Change Materials.|2018|ISCA|conf/isca/SkachATTM18
+Proximity-aware directory-based coherence for multi-core processor architectures.|2007|SPAA|conf/spaa/BrownKT07
+Context-Sensitive Fencing: Securing Speculative Execution via Microcode Customization.|2019|ASPLOS|conf/asplos/TaramVT19
+Execution migration in a heterogeneous-ISA chip multiprocessor.|2012|ASPLOS|conf/asplos/DeVuystVT12
+Inter-core prefetching for multicore processors using migrating helper threads.|2011|ASPLOS|conf/asplos/KamruzzamanST11
+Accurate branch prediction for short threads.|2008|ASPLOS|conf/asplos/ChoiPT08
+Symbiotic Jobscheduling for a Simultaneous Multithreading Processor.|2000|ASPLOS|conf/asplos/SnavelyT00
+HIPStR: Heterogeneous-ISA Program State Relocation.|2016|ASPLOS|conf/asplos/VenkatSST16
+Compiler Techniques to Reduce the Synchronization Overhead of GPU Redundant Multithreading.|2017|DAC|conf/dac/GuptaLKRSTG17
+Enabling Dynamic Heterogeneity Through Core-on-Core Stacking.|2014|DAC|conf/dac/KontorinisTHTH14

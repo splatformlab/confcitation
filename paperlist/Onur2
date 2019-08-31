@@ -1,0 +1,195 @@
+MinBD: Minimally-Buffered Deflection Routing for Energy-Efficient Interconnect.|2012|NOCS|conf/nocs/FallinNYCAM12
+A Low-Overhead, Fully-Distributed, Guaranteed-Delivery Routing Algorithm for Faulty Network-on-Chips.|2015|NOCS|conf/nocs/FattahAAMLPMPMT15
+FIST: A fast, lightweight, FPGA-friendly packet latency estimator for NoC modeling in full-system simulations.|2011|NOCS|conf/nocs/PapamichaelHM11
+QuaLe: A Quantum-Leap Inspired Model for Non-stationary Analysis of NoC Traffic in Chip Multi-processors.|2010|NOCS|conf/nocs/BogdanKMM10
+The evicted-address filter: a unified mechanism to address both cache pollution and thrashing.|2012|PACT|conf/IEEEpact/SeshadriMKM12
+Linearly compressed pages: a main memory compression framework with low complexity and low latency.|2012|PACT|conf/IEEEpact/PekhimenkoMM12
+Exploiting Inter-Warp Heterogeneity to Improve GPGPU Performance.|2015|PACT|conf/IEEEpact/Ausavarungnirun15
+Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities.|2016|PACT|conf/IEEEpact/PattnaikTJKMKMD16
+?C-States: Fine-grained GPU Datapath Power Management.|2016|PACT|conf/IEEEpact/KayiranJPATKLMD16
+Application-to-core mapping policies to reduce memory interference in multi-core systems.|2012|PACT|conf/IEEEpact/DasAMKA12
+Application-aware prefetch prioritization in on-chip networks.|2012|PACT|conf/IEEEpact/NachiappanMKSMD12
+Decoupled Direct Memory Access: Isolating CPU and IO Traffic by Leveraging a Dual-Data-Port DRAM.|2015|PACT|conf/IEEEpact/LeeSACM15
+Base-delta-immediate compression: practical data compression for on-chip caches.|2012|PACT|conf/IEEEpact/PekhimenkoSMGKM12
+Efficient runahead threads.|2010|PACT|conf/IEEEpact/RamirezPSMV10
+Warp-aware trace scheduling for GPUs.|2014|PACT|conf/IEEEpact/JablinJMH14
+Rollback-free value prediction with approximate loads.|2014|PACT|conf/IEEEpact/ThwaitesPEYMPMM14
+Read Disturb Errors in MLC NAND Flash Memory: Characterization, Mitigation, and Recovery.|2015|DSN|conf/dsn/CaiLGM15
+Characterizing Application Memory Error Vulnerability to Optimize Datacenter Cost via Heterogeneous-Reliability Memory.|2014|DSN|conf/dsn/LuoGSSMKLKVM14
+AVATAR: A Variable-Retention-Time (VRT) Aware Refresh for DRAM Systems.|2015|DSN|conf/dsn/QureshiKKNM15
+Microarchitecture-Based Introspection: A Technique for Transient-Fault Tolerance in Microprocessors.|2005|DSN|conf/dsn/QureshiMP05
+Understanding and Modeling On-Die Error Correction in Modern DRAM: An Experimental Study Using Real Devices.|2019|DSN|conf/dsn/PatelKHM19
+PARBOR: An Efficient System-Level Technique to Detect Data-Dependent Failures in DRAM.|2016|DSN|conf/dsn/KhanLM16
+Revisiting Memory Errors in Large-Scale Production Data Centers: Analysis and Modeling of New Trends from the Field.|2015|DSN|conf/dsn/MezaWKM15
+Rethinking memory system design for data-intensive computing.|2015|SAMOS|conf/samos/Mutlu15
+Understanding the effects of wrong-path memory references on processor performance.|2004|WMPI|conf/wmpi/MutluKAP04
+Memory systems in the many-core era: challenges, opportunities, and solution directions.|2011|ISMM|conf/iwmm/Mutlu11
+Threshold voltage distribution in MLC NAND flash memory: characterization, analysis, and modeling.|2013|DATE|conf/date/CaiHMM13
+Error patterns in MLC NAND flash memory: Measurement, characterization, and analysis.|2012|DATE|conf/date/CaiHMM12
+The RowHammer problem and other issues we may face as memory becomes denser.|2017|DATE|conf/date/Mutlu17
+RowHammer and Beyond.|2019|COSADE|conf/cosade/Mutlu19
+Improving GPU performance via large warps and two-level warp scheduling.|2011|MICRO|conf/micro/NarasimanSLMMP11
+Rethinking Memory System Design (along with Interconnects).|2015|NoCArc@MICRO|conf/micro/Mutlu15
+Linearly compressed pages: a low-complexity, low-latency main memory compression framework.|2013|MICRO|conf/micro/PekhimenkoSKXMGKM13
+Ambit: in-memory accelerator for bulk bitwise operations using commodity DRAM technology.|2017|MICRO|conf/micro/SeshadriLMHBKKM17
+Reducing memory interference in multicore systems via application-aware memory channel partitioning.|2011|MICRO|conf/micro/MuralidharaSMKM11
+Gather-scatter DRAM: in-DRAM address translation to improve the spatial locality of non-unit strided accesses.|2015|MICRO|conf/micro/SeshadriMBMGKM15
+Thread Cluster Memory Scheduling: Exploiting Differences in Memory Access Behavior.|2010|MICRO|conf/micro/KimPMH10
+Stall-Time Fair Memory Access Scheduling for Chip Multiprocessors.|2007|MICRO|conf/micro/MutluM07
+ThyNVM: enabling software-transparent crash consistency in persistent memory systems.|2015|MICRO|conf/micro/RenZKCWM15
+The application slowdown model: quantifying and controlling the impact of inter-application interference at shared caches and main memory.|2015|MICRO|conf/micro/SubramanianSGKM15
+FIRM: Fair and High-Performance Memory Control for Persistent Memory Systems.|2014|MICRO|conf/micro/ZhaoM014
+Improving memory bank-level parallelism in the presence of prefetching.|2009|MICRO|conf/micro/LeeNMP09
+Online design bug detection: RTL analysis, flexible mechanisms, and evaluation.|2008|MICRO|conf/micro/ConstantinidesMA08
+Preemptive virtual clock: a flexible, efficient, and cost-effective QOS scheme for networks-on-chip.|2009|MICRO|conf/micro/GrotKM09
+Application-aware prioritization mechanisms for on-chip networks.|2009|MICRO|conf/micro/DasMMD09
+Detecting and mitigating data-dependent DRAM failures by exploiting current memory content.|2017|MICRO|conf/micro/KhanWWALM17
+Wish Branches: Combining Conditional Branching and Predication for Adaptive Predicated Execution.|2005|MICRO|conf/micro/KimMSP05
+RowClone: fast and energy-efficient in-DRAM bulk data copy and initialization.|2013|MICRO|conf/micro/SeshadriKFLAPLMGKM13
+Parallel application memory scheduling.|2011|MICRO|conf/micro/EbrahimiMFLJMP11
+Zorua: A holistic approach to resource virtualization in GPUs.|2016|MICRO|conf/micro/VijaykumarHPKSG16
+Prefetch-Aware DRAM Controllers.|2008|MICRO|conf/micro/LeeMNP08
+Software-Based Online Detection of Hardware Defects Mechanisms, Architectural Support, and Evaluation.|2007|MICRO|conf/micro/ConstantinidesMAB07
+Banshee: bandwidth-efficient DRAM caching via software/hardware cooperation.|2017|MICRO|conf/micro/YuHSMD17
+Continuous runahead: Transparent hardware acceleration for memory intensive workloads.|2016|MICRO|conf/micro/HashemiMP16
+Coordinated control of multiple prefetchers in multi-core systems.|2009|MICRO|conf/micro/EbrahimiMLP09
+Mosaic: a GPU memory manager with application-transparent support for multiple page sizes.|2017|MICRO|conf/micro/Ausavarungnirun17
+Address-Value Delta (AVD) Prediction: Increasing the Effectiveness of Runahead Execution by Exploiting Regular Memory Allocation Patterns.|2005|MICRO|conf/micro/MutluKP05
+Managing GPU Concurrency in Heterogeneous Architectures.|2014|MICRO|conf/micro/KayiranNJAKLMD14
+Diverge-Merge Processor (DMP): Dynamic Predicated Execution of Complex Control-Flow Graphs Based on Frequently Executed Paths.|2006|MICRO|conf/micro/KimJMP06
+Reducing DRAM Latency via Charge-Level-Aware Look-Ahead Partial Restoration.|2018|MICRO|conf/micro/WangTOGMPKHSM18
+Wrong Path Events: Exploiting Unusual and Illegal Program Behavior for Early Misprediction Detection and Recovery.|2004|MICRO|conf/micro/ArmstrongKMP04
+Profile-assisted Compiler Support for Dynamic Predication in Diverge-Merge Processors.|2007|CGO|conf/cgo/KimJMP07
+2D-Profiling: Detecting Input-Dependent Branches with a Single Input Data Set.|2006|CGO|conf/cgo/KimSMP06
+Automatic Generation of Warp-Level Primitives and Atomic Instructions for Fast and Portable Parallel Reduction on GPUs.|2019|CGO|conf/cgo/GonzaloHGHMH19
+MISE: Providing performance predictability and improving fairness in shared main memory systems.|2013|HPCA|conf/hpca/SubramanianSKJM13
+Application-to-core mapping policies to reduce memory system interference in multi-core systems.|2013|HPCA|conf/hpca/DasAMKA13
+Techniques for bandwidth-efficient prefetching of linked data structures in hybrid prefetching systems.|2009|HPCA|conf/hpca/EbrahimiMP09
+Vulnerabilities in MLC NAND Flash Memory Programming: Experimental Analysis, Exploits, and Mitigation Techniques.|2017|HPCA|conf/hpca/CaiGLMMH17
+Tiered-latency DRAM: A low latency and low cost DRAM architecture.|2013|HPCA|conf/hpca/LeeKSLSM13
+The DRAM Latency PUF: Quickly Evaluating Physical Unclonable Functions by Exploiting the Latency-Reliability Tradeoff in Modern Commodity DRAM Devices.|2018|HPCA|conf/hpca/KimPHM18
+Improving cache performance using read-write partitioning.|2014|HPCA|conf/hpca/KhanAWMJ14
+Improving DRAM performance by parallelizing refreshes with accesses.|2014|HPCA|conf/hpca/ChangLCAWKM14
+CHIPPER: A low-complexity bufferless deflection router.|2011|HPCA|conf/hpca/FallinCM11
+SizeCap: Efficiently handling power surges in fuel cell powered data centers.|2016|HPCA|conf/hpca/LiWGLGJPSAM16
+Express Cube Topologies for on-Chip Interconnects.|2009|HPCA|conf/hpca/GrotHKM09
+Feedback Directed Prefetching: Improving the Performance and Bandwidth-Efficiency of Hardware Prefetchers.|2007|HPCA|conf/hpca/SrinathMKP07
+Performance-aware speculation control using wrong path usefulness prediction.|2008|HPCA|conf/hpca/LeeKMP08
+Runahead Execution: An Alternative to Very Large Instruction Windows for Out-of-Order Processors.|2003|HPCA|conf/hpca/MutluSWP03
+Adaptive-latency DRAM: Optimizing DRAM timing for the common-case.|2015|HPCA|conf/hpca/LeeKPKSCM15
+ChargeCache: Reducing DRAM latency by exploiting row access locality.|2016|HPCA|conf/hpca/HassanPVSLEM16
+SoftMC: A Flexible and Practical Open-Source Infrastructure for Enabling Experimental DRAM Studies.|2017|HPCA|conf/hpca/HassanVKGCPLEM17
+HeatWatch: Improving 3D NAND Flash Memory Device Reliability by Exploiting Self-Recovery and Temperature Awareness.|2018|HPCA|conf/hpca/LuoGCHM18
+ATLAS: A scalable and high-performance scheduling algorithm for multiple memory controllers.|2010|HPCA|conf/hpca/KimHMH10
+D-RaNGe: Using Commodity DRAM Devices to Generate True Random Numbers with Low Latency and High Throughput.|2019|HPCA|conf/hpca/KimPHOM19
+A case for toggle-aware compression for GPU systems.|2016|HPCA|conf/hpca/PekhimenkoBVMMK16
+Data retention in MLC NAND flash memory: Characterization, optimization, and recovery.|2015|HPCA|conf/hpca/CaiLHMM15
+Low-Cost Inter-Linked Subarrays (LISA): Enabling fast inter-subarray data movement in DRAM.|2016|HPCA|conf/hpca/ChangNLGQM16
+Exploiting compressed block size as an indicator of future reuse.|2015|HPCA|conf/hpca/PekhimenkoHCMGK15
+A Scalable Priority-Aware Approach to Managing Data Center Server Power.|2019|HPCA|conf/hpca/LiLRASHGM19
+MQSim: A Framework for Enabling Realistic Studies of Modern Multi-Queue SSD Devices.|2018|FAST|conf/fast/TavakkolGSGM18
+Memory Performance Attacks: Denial of Memory Service in Multi-Core Systems.|2007|USENIX Security Symposium|conf/uss/MoscibrodaM07
+Evaluating STT-RAM as an energy-efficient main memory alternative.|2013|ISPASS|conf/ispass/KultursayKSM13
+EMERALD: Characterization of emerging applications and algorithms for low-power devices.|2013|ISPASS|conf/ispass/ZhangKCTKGRSPNXMLZC13
+On-chip networks from a networking perspective: congestion and scalability in many-core interconnects.|2012|SIGCOMM|conf/sigcomm/NychisFMMS12
+Understanding Reduced-Voltage Operation in Modern DRAM Devices: Experimental Characterization, Analysis, and Mechanisms.|2017|SIGMETRICS (Abstracts)|conf/sigmetrics/ChangYGACKLOHM17
+ECI-Cache: A High-Endurance and Cost-Efficient I/O Caching Scheme for Virtualized Platforms.|2018|SIGMETRICS (Abstracts)|conf/sigmetrics/AhmadianMA18
+Demystifying Complex Workload-DRAM Interactions: An Experimental Study.|2019|SIGMETRICS (Abstracts)|conf/sigmetrics/GhoseLHCM19
+Understanding Latency Variation in Modern DRAM Chips: Experimental Characterization, Analysis, and Optimization.|2016|SIGMETRICS|conf/sigmetrics/ChangKHGHLLPKM16
+Improving 3D NAND Flash Memory Lifetime by Tolerating Early Retention Loss and Process Variation.|2018|SIGMETRICS (Abstracts)|conf/sigmetrics/LuoGCHM18
+Design-Induced Latency Variation in Modern DRAM Chips: Characterization, Analysis, and Latency Reduction Mechanisms.|2017|SIGMETRICS (Abstracts)|conf/sigmetrics/LeeKSGAPSM17
+Neighbor-cell assisted error correction for MLC NAND flash memories.|2014|SIGMETRICS|conf/sigmetrics/CaiYMHUCM14
+The efficacy of error mitigation techniques for DRAM retention failures: a comparative experimental study.|2014|SIGMETRICS|conf/sigmetrics/KhanLKAWM14
+Exploiting Core Criticality for Enhanced GPU Performance.|2016|SIGMETRICS|conf/sigmetrics/JogKPKMID16
+A Large-Scale Study of Flash Memory Failures in the Field.|2015|SIGMETRICS|conf/sigmetrics/MezaWKM15
+What Your DRAM Power Models Are Not Telling You: Lessons from a Detailed Experimental Study.|2018|SIGMETRICS (Abstracts)|conf/sigmetrics/GhoseYGLKLHCCAO18
+Memory power management via dynamic voltage/frequency scaling.|2011|ICAC|conf/icac/DavidFGHM11
+HICOMB Keynote 2.|2018|IPDPS Workshops|conf/ipps/Mutlu18
+FPGA-Accelerated Dense Linear Machine Learning: A Precision-Convergence Trade-Off.|2017|FCCM|conf/fccm/KaraAAMZ17
+Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds.|2017|NSDI|conf/nsdi/HsiehHVKGGM17
+Panthera: holistic memory management for big data processing over hybrid memories.|2019|PLDI|conf/pldi/WangCCZVML0X19
+Poster: revisiting virtual channel memory for performance and fairness on multi-core architecture.|2011|ICS|conf/ics/ChenHBMTC11
+Zwift: A Programming Framework for High Performance Text Analytics on Compressed Data.|2018|ICS|conf/ics/ZhangZSMC18
+Carpool: a bufferless on-chip network supporting adaptive multicast and hotspot alleviation.|2017|ICS|conf/ics/XiangSGPMT17
+Operating system scheduling for efficient online self-test in robust systems.|2009|ICCAD|conf/iccad/LiMM09
+Keynote: rethinking memory system design.|2016|RSP|conf/rsp/Mutlu16
+Distributed order scheduling and its application to multi-core dram controllers.|2008|PODC|conf/podc/MoscibrodaM08
+Focus: Querying Large Video Datasets with Low Latency and Low Cost.|2018|OSDI|conf/osdi/HsiehABVBPGM18
+NVMOVE: Helping Programmers Move to Byte-Based Persistence.|2016|INFLOW@OSDI|conf/osdi/ChauhanCCSMS16
+Yak: A High-Performance Big-Data-Friendly Garbage Collector.|2016|OSDI|conf/osdi/NguyenFXDLAM16
+Next generation on-chip networks: what kind of congestion control do we need?|2010|HotNets|conf/hotnets/NychisFMM10
+The heterogeneous block architecture.|2014|ICCD|conf/iccd/FallinWM14
+Solar-DRAM: Reducing DRAM Access Latency by Exploiting the Variation in Local Bitlines.|2018|ICCD|conf/iccd/KimPHM18
+Loose-Ordering Consistency for persistent memory.|2014|ICCD|conf/iccd/LuSSM14
+Row buffer locality aware caching policies for hybrid memories.|2012|ICCD|conf/iccd/YoonMAHM12
+Flash correct-and-refresh: Retention-aware error management for increased flash memory lifetime.|2012|ICCD|conf/iccd/CaiYMHCUM12
+LightTx: A lightweight transactional design in flash-based SSDs to support flexible transactions.|2013|ICCD|conf/iccd/LuSGLM13
+A case for small row buffers in non-volatile main memories.|2012|ICCD|conf/iccd/MezaLM12
+Program interference in MLC NAND flash memory: Characterization, modeling, and mitigation.|2013|ICCD|conf/iccd/CaiMHM13
+The Blacklisting Memory Scheduler: Achieving high performance and fairness at low cost.|2014|ICCD|conf/iccd/SubramanianLSRM14
+Accelerating pointer chasing in 3D-stacked memory: Challenges, mechanisms, evaluation.|2016|ICCD|conf/iccd/HsiehKVCBGM16
+A model for Application Slowdown Estimation in on-chip networks and its use for improving system fairness and performance.|2016|ICCD|conf/iccd/XiangGMT16
+Bounding memory interference delay in COTS-based multi-core systems.|2014|RTAS|conf/rtas/KimNAKMR14
+Processing Data Where It Makes Sense in Modern Computing Systems: Enabling In-Memory Computation.|2019|ACM Great Lakes Symposium on VLSI|conf/glvlsi/Mutlu19
+Amnesic cache management for non-volatile memory.|2015|MSST|conf/mss/KangBCLNM15
+WARM: Improving NAND flash memory lifetime with write-hotness aware retention management.|2015|MSST|conf/mss/LuoCGCM15
+Analysis and Modeling of Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures.|2019|ICPE|conf/wosp/HuangCHGGCEMMCH19
+HAT: Heterogeneous Adaptive Throttling for On-Chip Networks.|2012|SBAC-PAD|conf/sbac-pad/ChangAFM12
+Cache Filtering Techniques to Reduce the Negative Impact of Useless Speculative Memory References on Processor Performance.|2004|SBAC-PAD|conf/sbac-pad/MutluKAP04
+Design and Evaluation of Hierarchical Rings with Deflection Routing.|2014|SBAC-PAD|conf/sbac-pad/AusavarungnirunFYCNDLM14
+Comparative evaluation of FPGA and ASIC implementations of bufferless and buffered routing algorithms for on-chip networks.|2015|ISQED|conf/isqed/CaiMM15
+Concurrent autonomous self-test for uncore components in system-on-chips.|2010|VTS|conf/vts/LiMGM10
+Utility-based acceleration of multithreaded applications on asymmetric CMPs.|2013|ISCA|conf/isca/JoaoSMP13
+CoNDA: efficient cache coherence support for near-data accelerators.|2019|ISCA|conf/isca/BoroumandGPHLAH19
+A case for exploiting subarray-level parallelism (SALP) in DRAM.|2012|ISCA|conf/isca/KimSLLM12
+Accelerating Dependent Cache Misses with an Enhanced Memory Controller.|2016|ISCA|conf/isca/HashemiKEMP16
+CROW: a low-cost substrate for improving DRAM performance, energy efficiency, and reliability.|2019|ISCA|conf/isca/HassanPKYVMGM19
+FLIN: Enabling Fairness and Enhancing Performance in Modern NVMe Solid State Drives.|2018|ISCA|conf/isca/TavakkolSGKLWMO18
+A Case for Richer Cross-Layer Abstractions: Bridging the Semantic Gap with Expressive Memory.|2018|ISCA|conf/isca/VijaykumarJMHPE18
+PIM-enabled instructions: a low-overhead, locality-aware processing-in-memory architecture.|2015|ISCA|conf/isca/AhnYMC15
+Staged memory scheduling: Achieving high performance and scalability in heterogeneous systems.|2012|ISCA|conf/isca/AusavarungnirunCSLM12
+Prefetch-aware shared resource management for multi-core systems.|2011|ISCA|conf/isca/EbrahimiLMP11
+A scalable processing-in-memory accelerator for parallel graph processing.|2015|ISCA|conf/isca/AhnHYMC15
+A case for core-assisted bottleneck acceleration in GPUs: enabling flexible data compression with assist warps.|2015|ISCA|conf/isca/VijaykumarPJ0AD15
+RAIDR: Retention-aware intelligent DRAM refresh.|2012|ISCA|conf/isca/LiuJVM12
+Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems.|2016|ISCA|conf/isca/HsiehEKCOVMK16
+Self-Optimizing Memory Controllers: A Reinforcement Learning Approach.|2008|ISCA|conf/isca/IpekMMC08
+Page overlays: an enhanced virtual memory framework to enable fine-grained memory management.|2015|ISCA|conf/isca/SeshadriPRMGKMC15
+Flexible reference-counting-based hardware acceleration for garbage collection.|2009|ISCA|conf/isca/JoaoMP09
+An experimental study of data retention behavior in modern DRAM devices: implications for retention time profiling mechanisms.|2013|ISCA|conf/isca/LiuJKWM13
+The Dirty-Block Index.|2014|ISCA|conf/isca/SeshadriBMGKM14
+Parallelism-Aware Batch Scheduling: Enhancing both Performance and Fairness of Shared DRAM Systems.|2008|ISCA|conf/isca/MutluM08
+VPC prediction: reducing the cost of indirect branches via hardware-based dynamic devirtualization.|2007|ISCA|conf/isca/KimJMLPC07
+Topology-Aware Quality-of-Service Support in Highly Integrated Chip Multiprocessors.|2010|ISCA Workshops|conf/isca/GrotKM10
+Kilo-NOC: a heterogeneous network-on-chip architecture for scalability and service guarantees.|2011|ISCA|conf/isca/GrotHKM11
+A case for bufferless routing in on-chip networks.|2009|ISCA|conf/isca/MoscibrodaM09
+Architecting phase change memory as a scalable dram alternative.|2009|ISCA|conf/isca/LeeIMB09
+Data marshaling for multi-core architectures.|2010|ISCA|conf/isca/SulemanMJKP10
+Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors.|2014|ISCA|conf/isca/KimDKFLLWLM14
+Techniques for Efficient Processing in Runahead Execution Engines.|2005|ISCA|conf/isca/MutluKP05
+Orchestrated scheduling and prefetching for GPGPUs.|2013|ISCA|conf/isca/JogKMKMID13
+The Locality Descriptor: A Holistic Cross-Layer Abstraction to Express Data Locality In GPUs.|2018|ISCA|conf/isca/VijaykumarEHGM18
+A Case for MLP-Aware Cache Replacement.|2006|ISCA|conf/isca/QureshiLMP06
+Aérgia: exploiting packet latency slack in on-chip networks.|2010|ISCA|conf/isca/DasMMD10
+The Reach Profiler (REAPER): Enabling the Mitigation of DRAM Retention Failures via Profiling at Aggressive Conditions.|2017|ISCA|conf/isca/PatelKM17
+Utility-Based Hybrid Memory Management.|2017|CLUSTER|conf/cluster/LiGCSWM17
+Concurrent Data Structures for Near-Memory Computing.|2017|SPAA|conf/spaa/LiuCHM17
+Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks.|2018|ASPLOS|conf/asplos/BoroumandGKASTK18
+Bottleneck identification and scheduling in multithreaded applications.|2012|ASPLOS|conf/asplos/JoaoSMP12
+Improving the performance of object-oriented languages with dynamic predication of indirect jumps.|2008|ASPLOS|conf/asplos/JoaoMKAP08
+A Framework for Memory Oversubscription Management in Graphics Processing Units.|2019|ASPLOS|conf/asplos/0015ARZMGY19
+Fairness via source throttling: a configurable and high-performance fairness substrate for multi-core memory systems.|2010|ASPLOS|conf/asplos/EbrahimiLMP10
+MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency.|2018|ASPLOS|conf/asplos/Ausavarungnirun18
+OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance.|2013|ASPLOS|conf/asplos/JogKNMKMID13
+SPECTR: Formal Supervisory Control and Coordination for Many-core Systems Resource Management.|2018|ASPLOS|conf/asplos/RahmaniDMMJMD18
+Accelerating critical section execution with asymmetric multi-core architectures.|2009|ASPLOS|conf/asplos/SulemanMQP09
+Slim NoC: A Low-Diameter On-Chip Network Topology for High Energy Efficiency and Scalability.|2018|ASPLOS|conf/asplos/BestaHYAMH18
+LTRF: Enabling High-Capacity Register Files for GPUs via Hardware/Software Cooperative Register Prefetching.|2018|ASPLOS|conf/asplos/SadrosadatiMESD18
+Project PBerry: FPGA Acceleration for Remote Memory.|2019|HotOS|conf/hotos/CalciuPKNGMS19
+NAPEL: Near-Memory Computing Application Performance Prediction via Ensemble Learning.|2019|DAC|conf/dac/SinghGMOCSMC19
+A heterogeneous multiple network-on-chip design: an application-aware approach.|2013|DAC|conf/dac/MishraMD13
+VRL-DRAM: improving DRAM performance via variable refresh latency.|2018|DAC|conf/dac/DasHM18
+Enabling Practical Processing in and near Memory for Data-Intensive Computing.|2019|DAC|conf/dac/MutluGGA19
+Invited - Who is the major threat to tomorrow's security?: you, the hardware designer.|2016|DAC|conf/dac/BurlesonMT16
+A Large Scale Study of Data Center Network Reliability.|2018|IMC|conf/imc/MezaXVM18
+A-DRM: Architecture-aware Distributed Resource Management of Virtualized Clusters.|2015|VEE|conf/vee/WangISCQM15

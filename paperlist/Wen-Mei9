@@ -1,0 +1,171 @@
+Raising the level of many-core programming with compiler technology: meeting a grand challenge.|2010|PACT|conf/IEEEpact/Hwu10
+Automatic execution of single-GPU computations across multiple GPUs.|2014|PACT|conf/IEEEpact/CabezasVGJNH14
+Data layout transformation exploiting memory-level parallelism in structured grid many-core applications.|2010|PACT|conf/IEEEpact/SungSH10
+CIGAR: Application Partitioning for a CPU/Coprocessor Architecture.|2007|PACT|conf/IEEEpact/KelmGMNLH07
+Improving Static Branch Prediction in a Compiler.|1998|IEEE PACT|conf/IEEEpact/DeitrichCH98
+Code Reordering and Speculation Support for Dynamic Optimization System.|2001|IEEE PACT|conf/IEEEpact/NystromBMH01
+Rethinking computer architecture for throughput computing.|2013|ICSAMOS|conf/samos/Hwu13
+Importance of heap specialization in pointer analysis.|2004|PASTE|conf/paste/NystromKH04
+Efficient Pattern-Based Time Series Classification on GPU.|2012|ICDM|conf/icdm/ChangDHR12
+Visualization and Analysis of GPU Summer School Applicants and Participants.|2008|eScience|conf/eScience/WahJATHKDG08
+A study of the cache and branch performance issues with running Java on current hardware platforms.|1997|COMPCON|conf/compcon/HsiehCJGH97
+Experiments with HPS, a Restricted Data Flow Microarchitecture for High Performance Computers.|1986|COMPCON|conf/compcon/PattHMSCW86
+Branch Recovery with Compiler-Assisted Multiple Instruction Retry.|1992|FTCS|conf/ftcs/AlewineCLFH92
+A software based approach to achieving optimal performance for signature control flow checking.|1990|FTCS|conf/ftcs/WarterH90
+Application of Compiler-Assisted Rollback Recovery to Speculative Execution Repair.|1993|Hardware and Software Architectures for Fault Tolerance|conf/hsaft/FuchsHA93
+Hardware Acceleration of the Pair-HMM Algorithm for DNA Variant Calling.|2017|FPGA|conf/fpga/HuangMRRHC17
+Accelerating MR Image Reconstruction on GPUS.|2009|ISBI|conf/isbi/HwuNHASLT09
+Impatient MRI: Illinois Massively Parallel Acceleration Toolkit for image reconstruction with enhanced throughput in MRI.|2011|ISBI|conf/isbi/WuGLFHZLHS11
+Accelerating iterative field-compensated MR image reconstruction on GPUS.|2010|ISBI|conf/isbi/ZhuoWHHLS10
+FPGA accelerated DNA error correction.|2015|DATE|conf/date/RamachandranHHM15
+Speculative execution exception recovery using write-back suppression.|1993|MICRO|conf/micro/BringmannMHGH93
+Efficient kernel synthesis for performance portable programming.|2016|MICRO|conf/micro/ChangHRGH16
+On tuning the microarchitecture of an HPS implementation of the VAX.|1987|MICRO|conf/micro/WilsonMSHP87
+Unrolling-based optimizations for modulo scheduling.|1995|MICRO|conf/micro/LaveryH95
+Forward semantic: a compiler-assisted instruction fetch method for heavily pipelined processors.|1989|MICRO|conf/micro/ChangH89
+Exploiting horizontal and vertical concurrency via the HPSm microprocessor.|1987|MICRO|conf/micro/HwuP87
+Run-Time Spatial Locality Detection and Optimization.|1997|MICRO|conf/micro/JohnsonMH97
+Data relocation and prefetching for programs with large data sets.|1994|MICRO|conf/micro/YamadaGHH94
+Superblock formation using static program analysis.|1993|MICRO|conf/micro/HankMBGH93
+Region-based compilation: an introduction and motivation.|1995|MICRO|conf/micro/HankHR95
+Compiler-Directed Early Load-Address Generation.|1998|MICRO|conf/micro/ChengCH98
+Data Access Microarchitectures for Superscalar Processors with Compiler-Assisted Data Prefetching.|1991|MICRO|conf/micro/ChenMCH91
+Trace selection for compiling large C application programs to microcode.|1988|MICRO|conf/micro/ChangH88
+Vacuum packing: extracting hardware-detected program phases for post-link optimization.|2002|MICRO|conf/micro/BarnesNMH02
+Characterizing the impact of predicated execution on branch prediction.|1994|MICRO|conf/micro/MahlkeHBGGH94
+Accurate and efficient predicate analysis with binary decision diagrams.|2000|MICRO|conf/micro/SiasHA00
+Comparing Static and Dynamic Code Scheduling for Multiple-Instruction-Issue Processors.|1991|MICRO|conf/micro/ChangCMH91
+Speculative Hedge: Regulating Compile-time Speculation Against Profile Variations.|1996|MICRO|conf/micro/DeitrichH96
+Optimization of Machine Descriptions for Efficient Use.|1996|MICRO|conf/micro/GyllenhaalHR96
+A Framework for Balancing Control Flow and Predication.|1997|MICRO|conf/micro/AugustHM97
+KLAP: Kernel launch aggregation and promotion for optimizing dynamic parallelism.|2016|MICRO|conf/micro/HajjGLCMH16
+Compiler-Directed Dynamic Computation Reuse: Rationale and Initial Results.|1999|MICRO|conf/micro/ConnorsH99
+Modulo Scheduling of Loops in Control-intensive Non-numeric Programs.|1996|MICRO|conf/micro/LaveryH96
+Run-time generation of HPS microinstructions from a VAX instruction stream.|1986|MICRO|conf/micro/PattMHSC86
+Beating in-order stalls with "flea-flicker" two-pass pipelining.|2003|MICRO|conf/micro/BarnesNSPNH03
+Critical issues regarding HPS, a high performance microarchitecture.|1985|MICRO|conf/micro/PattMHS85
+Java Bytecode to Native Code Translation: The Caffeine Prototype and Preliminary Results.|1996|MICRO|conf/micro/HsiehGH96
+HPS, a new microarchitecture: rationale and introduction.|1985|MICRO|conf/micro/PattHS85
+Application-Transparent Near-Memory Processing Architecture with Memory Channel Network.|2018|MICRO|conf/micro/AlianMADWRMOCXK18
+Adaptive Cache Management for Energy-Efficient GPU Computing.|2014|MICRO|conf/micro/ChenCRLWH14
+"Flea-flicker" Multipass Pipelining: An Alternative to the High-Power Out-of-Order Offense.|2005|MICRO|conf/micro/BarnesRH05
+Modulo schedule buffers.|2001|MICRO|conf/micro/MertenH01
+Enhancing loop buffering of media and telecommunications applications using low-overhead predication.|2001|MICRO|conf/micro/SiasHH01
+Efficient compilation of fine-grained SPMD-threaded programs for multicore CPUs.|2010|CGO|conf/cgo/StrattonGMAMHH10
+Program optimization space pruning for a multithreaded gpu.|2008|CGO|conf/cgo/RyooRSBUSH08
+Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures.|2015|CGO|conf/cgo/KimHSLH15
+The Future of Computer Architecture Research: An Industrial Perspective.|2005|HPCA|conf/hpca/HwuP05
+Architectural Support for Compiler-Synthesized Dynamic Branch Prediction Strategies: Rationale and Initial Results.|1997|HPCA|conf/hpca/AugustCGH97
+Exploiting More Parallelism from Applications Having Generalized Reductions on GPU Architectures.|2010|CIT|conf/IEEEcit/WuOH10
+XMalloc: A Scalable Lock-free Dynamic Memory Allocator for Many-core Machines.|2010|CIT|conf/IEEEcit/HuangRJBH10
+Revisiting Online Autotuning for Sparse-Matrix Vector Multiplication Kernels on Next-Generation Architectures.|2017|HPCC/SmartCity/DSS|conf/hpcc/GonzaloHTH17
+Parallel implementation of Multi-dimensional Ensemble Empirical Mode Decomposition.|2011|ICASSP|conf/icassp/ChangLAHHH11
+Application Acceleration with the Explicitly Parallel Operations System - the EPOS Processor.|2008|SASP|conf/sasp/PapakonstantinouCH08
+FCUDA: Enabling efficient compilation of CUDA kernels onto FPGAs.|2009|SASP|conf/sasp/PapakonstantinouGSCCH09
+Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus.|2019|NAACL-HLT (1)|conf/naacl/GongBWXH19
+Chai: Collaborative heterogeneous applications for integrated-architectures.|2017|ISPASS|conf/ispass/Gomez-LunaHCGGJ17
+An Architecture Framework for Introducing Predicated Execution into Embedded Microprocessors.|1999|Euro-Par|conf/europar/ConnorsPACH99
+Xprof: Profiling the Execution of X Window Programs.|1992|SIGMETRICS|conf/sigmetrics/GuptaH92
+A Simulation Study of Simultaneous Vector Prefetch Performance in Multiprocessor Memory Subsystems (Extended Abstract).|1989|SIGMETRICS|conf/sigmetrics/HwuC89
+Advanced MRI reconstruction toolbox with accelerating on GPU.|2011|Parallel Processing for Imaging Applications|conf/ppia/WuZGLFHHLS11
+clMPI: An OpenCL Extension for Interoperation with the Message Passing Interface.|2013|IPDPS Workshops|conf/ipps/TakizawaSHGKH13
+A Fast and Massively-Parallel Inverse Solver for Multiple-Scattering Tomographic Image Reconstruction.|2018|IPDPS|conf/ipps/HidayetogluPHGC18
+AsHES 2016 Keynote.|2016|IPDPS Workshops|conf/ipps/Hwu16
+Panel Statement.|2011|IPDPS|conf/ipps/StenstromBHKOPS11
+Many-core parallel computing - Can compilers and tools do the heavy lifting?|2009|IPDPS|conf/ipps/Hwu09
+Long time-scale simulations of in vivo diffusion using GPU hardware.|2009|IPDPS|conf/ipps/RobertsSSHL09
+RAI: A Scalable Project Submission System for Parallel Programming Courses.|2017|IPDPS Workshops|conf/ipps/DakkakPLH17
+WebGPU: A Scalable Online Development Platform for GPU Programming Courses.|2016|IPDPS Workshops|conf/ipps/DakkakPH16
+Acceleration of the Pair-HMM Algorithm for DNA Variant Calling.|2016|FCCM|conf/fccm/ManikandanHRHC16
+AccDNN: An IP-Based DNN Generator for FPGAs.|2018|FCCM|conf/fccm/ZhangWZLXHC18
+Multilevel Granularity Parallelism Synthesis on FPGAs.|2011|FCCM|conf/fccm/PapakonstantinouLSGCHC11
+Modular interprocedural pointer analysis using access paths: design, implementation, and evaluation.|2000|PLDI|conf/pldi/ChengH00
+A New Framework for Debugging Globally Optimized Code.|1999|PLDI|conf/pldi/WuMPOH99
+Inline Function Expansion for Compiling C Programs.|1989|PLDI|conf/pldi/HwuC89
+Reverse If-Conversion.|1993|PLDI|conf/pldi/WarterMHR93
+Control flow optimization for supercomputer scalar processing.|1989|ICS|conf/ics/ChangH89
+CUBA: an architecture for efficient CPU/co-processor data communication.|2008|ICS|conf/ics/GeladoKRLNH08
+Automatic Parallelization of Kernels in Shared-Memory Multi-GPU Nodes.|2015|ICS|conf/ics/CabezasVGJNH15
+Accelerating reduction and scan using tensor core units.|2019|ICS|conf/ics/DakkakLXGH19
+High-performance CUDA kernel execution on FPGAs.|2009|ICS|conf/ics/PapakonstantinouGSCCH09
+Tolerating data access latency with register preloading.|1992|ICS|conf/ics/Chang92
+DNNBuilder: an automated tool for building high-performance DNN hardware accelerators for FPGAs.|2018|ICCAD|conf/iccad/ZhangWZLXHC18
+Bottom-Up and Top-Down Context-Sensitive Summary-Based Pointer Analysis.|2004|SAS|conf/sas/NystromKH04
+Design evaluation of OpenCL compiler framework for Coarse-Grained Reconfigurable Arrays.|2012|FPT|conf/fpt/KimASH12
+A Power Controlled Multiple Access Protocol for Wireless Packet Networks.|2001|INFOCOM|conf/infocom/MonksBH01
+Code coverage and input variability: effects on architecture and compiler research.|2002|CASES|conf/cases/HunterH02
+Systematic prototyping of superscalar computer architectures.|1992|RSP|conf/rsp/ConteH92
+Keynote: Architecture and software for emerging low-power systems.|2017|ISLPED|conf/islped/Hwu17
+Accelerating advanced mri reconstructions on gpus.|2008|Conf. Computing Frontiers|conf/cf/StoneHTHLS08
+GPU acceleration of cutoff pair potentials for molecular modeling applications.|2008|Conf. Computing Frontiers|conf/cf/RodriguesHSSH08
+Using Profile Information to Assist Advaced Compiler Optimization and Scheduling.|1992|LCPC|conf/lcpc/ChenBMAKWLHHG92
+MCUDA: An Efficient Implementation of CUDA Kernels for Multi-core CPUs.|2008|LCPC|conf/lcpc/StrattonSH08
+Iteration Disambiguation for Parallelism Identification in Time-Sliced Applications.|2007|LCPC|conf/lcpc/RyooRH07
+CUDA-Lite: Reducing GPU Programming Complexity.|2008|LCPC|conf/lcpc/UengLBH08
+Trimaran: An Infrastructure for Research in Instruction-Level Parallelism.|2004|LCPC|conf/lcpc/ChakrapaniGHMPR04
+An Empirical Study of Function Pointers Using SPEC Benchmarks.|1999|LCPC|conf/lcpc/ChengH99
+Design of a power-efficient ARM processor with a timing-error detection and correction mechanism.|2016|SoCC|conf/socc/ChenLYLH16
+A study of the effects of compiler-controlled speculation on instruction and data caches.|1995|HICSS (1)|conf/hicss/BringmannMH95
+Run-Time Adaptive Cache Management.|1998|HICSS (7)|conf/hicss/JohnsonCH98
+Enhancing the Usability and Utilization of Accelerated Architectures via Docker.|2015|UCC|conf/ucc/HaydelGTMDGH15
+Analysis and Modeling of Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures.|2019|ICPE|conf/wosp/HuangCHGGCEMMCH19
+Collaborative Computing for Heterogeneous Integrated Systems.|2017|ICPE|conf/wosp/ChangGHHCH17
+Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts.|2017|NIPS|conf/nips/YehXHDS17
+In-Place Data Sliding Algorithms for Many-Core Architectures.|2015|ICPP|conf/icpp/Gomez-LunaCSHG15
+Tolerating First Level Memory Access Latency in High-Performance Systems.|1992|ICPP (1)|conf/icpp/ChenMH92
+Executing Nested Parallel Loops on Shared-Memory Multiprocessors.|1992|ICPP (3)|conf/icpp/AnikH92
+An Analytical Approach to Scheduling Code for Superscalar and VLIW Architectures.|1994|ICPP (1)|conf/icpp/ChenFH94
+A Scalable Tridiagonal Solver for GPUs.|2011|ICPP|conf/icpp/KimWCH11
+The Effect of Compiler Optimizations on Available Parallelism in Scalar Programs.|1991|ICPP (2)|conf/icpp/MahlkeWCCH91
+Efficient and Scalable Workflows for Genomic Analyses.|2016|DIDC@HPDC|conf/hpdc/BanerjeeAMJHKI16
+SPEC ACCEL: A Standard Application Suite for Measuring Hardware Accelerator Performance.|2014|PMBS@SC|conf/sc/JuckelandBCCCCF14
+A scalable, numerically stable, high-performance tridiagonal solver using GPUs.|2012|SC|conf/sc/ChangSKH12
+Compiler Code Transformations for Superscalar-Based High Performance Systems.|1992|SC|conf/sc/MahlkeCGH92
+An adaptive performance modeling tool for GPU architectures.|2010|PPOPP|conf/ppopp/BaghsorkhiDPGH10
+A programming system for future proofing performance critical libraries.|2016|PPOPP|conf/ppopp/ChangHKGDH16
+In-place transposition of rectangular matrices on accelerators.|2014|PPOPP|conf/ppopp/SungGGGH14
+Efficient performance evaluation of memory hierarchy for highly multithreaded graphics processors.|2012|PPOPP|conf/ppopp/BaghsorkhiGDH12
+Triolet: a programming system that unifies algorithmic skeleton interfaces for high-performance cluster computing.|2014|PPOPP|conf/ppopp/RodriguesJDH14
+GPU-SM: shared memory multi-GPU programming.|2015|GPGPU@PPoPP|conf/ppopp/CabezasJGNH15
+Optimization principles and application performance evaluation of a multithreaded GPU using CUDA.|2008|PPOPP|conf/ppopp/RyooRBSKH08
+Collaborative (CPU + GPU) algorithms for triangle counting and truss decomposition on the Minsky architecture: Static graph challenge: Subgraph isomorphism.|2017|HPEC|conf/hpec/DateFNXKH17
+Generalize or Die: Operating Systems Support for Memristor-Based Accelerators.|2017|ICRC|conf/icrc/BruelCDHGGHLMNS17
+Rebooting the Data Access Hierarchy of Computing Systems.|2017|ICRC|conf/icrc/HwuHGPKCXS17
+Checkpoint Repair for Out-of-order Execution Machines.|1987|ISCA|conf/isca/HwuP87
+A Comparison of Full and Partial Predicated Execution Support for ILP Processors.|1995|ISCA|conf/isca/MahlkeHMAH95
+IMPACT: An Architectural Framework for Multiple-Instruction-Issue Processors.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/ChangMCWH98
+Adaptive Cache Bypass and Insertion for Many-core Accelerators.|2014|MES|conf/isca/ChenWCHPWH14
+Implementing a GPU Programming Model on a Non-GPU Accelerator Architecture.|2010|ISCA Workshops|conf/isca/KofskyJSHPL10
+Comparing Software and Hardware Schemes For Reducing the Cost of Branches.|1989|ISCA|conf/isca/HwuCC89
+A Hardware-Driven Profiling Scheme for Identifying Program Hot Spots to Support Runtime Optimization.|1999|ISCA|conf/isca/MertenTGGH99
+IMPACT: An Architectural Framework for Multiple-Instruction-Issue Processors.|1991|ISCA|conf/isca/ChangMCWH91
+Run-Time Adaptive Cache Hierarchy Management via Reference Analysis.|1997|ISCA|conf/isca/JohnsonH97
+HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/HwuP98a
+Retrospective: IMPACT: An Architectural Framework for Multiple-Instruction Issue.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/Hwu98
+Exploiting Parallel Microprocessor Microarchitectures With a Compiler Code Generator.|1988|ISCA|conf/isca/HwuC88
+HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality.|1986|ISCA|conf/isca/HwuP86
+Integrated Predicated and Speculative Execution in the IMPACT EPIC Architecture.|1998|ISCA|conf/isca/AugustCMSCCEOH98
+A hardware mechanism for dynamic extraction and relayout of program hot spots.|2000|ISCA|conf/isca/MertenTNBH00
+Register Connection: A New Approach to Adding Registers into Instruction Set Architectures.|1993|ISCA|conf/isca/KiyoharaMCBHAH93
+The Program Decision Logic Approach to Predicated Execution.|1999|ISCA|conf/isca/AugustSPMCCH99
+Field-testing IMPACT EPIC research results in Itanium 2.|2004|ISCA|conf/isca/SiasUKSNH04
+Achieving High Instruction Cache Performance with an Optimizing Compiler.|1989|ISCA|conf/isca/HwuC89
+Retrospective: HPSm, a High Performance Restricted Data Flow Architecture Having Minimal Functionality.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/HwuP98
+GPU clusters for high-performance computing.|2009|CLUSTER|conf/cluster/KindratenkoESSASPH09
+Transmission Power Control for Multiple Access Wireless Packet Networks.|2000|LCN|conf/lcn/MonksBH00
+A Study of the Energy Saving and Capacity Improvement Potential of Power Control in Multi-Hop Wireless Networks.|2001|LCN|conf/lcn/MonksEWH01
+PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference.|2019|ASPLOS|conf/asplos/AnkitHCNFWFHS0M19
+SpaceJMP: Programming with Multiple Virtual Address Spaces.|2016|ASPLOS|conf/asplos/HajjMZMAFHRS16
+Optimization of tele-immersion codes.|2009|GPGPU|conf/asplos/SidelnikSWGHNPP09
+FlatFlash: Exploiting the Byte-Accessibility of SSDs within a Unified Memory-Storage Hierarchy.|2019|ASPLOS|conf/asplos/AbulilaMQHKXH19
+DySel: Lightweight Dynamic Selection for Kernel-based Data-parallel Programming Model.|2016|ASPLOS|conf/asplos/ChangKH16
+Comparison based sorting for systems with multiple GPUs.|2013|GPGPU@ASPLOS|conf/asplos/TanasicVJCGNH13
+Dynamic Memory Disambiguation Using the Memory Conflict Buffer.|1994|ASPLOS|conf/asplos/GallagherCMGH94
+An asymmetric distributed shared memory model for heterogeneous parallel systems.|2010|ASPLOS|conf/asplos/GeladoCNSPH10
+High performance computation and interactive display of molecular orbitals on GPUs and multi-core CPUs.|2009|GPGPU|conf/asplos/StoneSHVHS09
+Sentinel Scheduling for VLIW and Superscalar Processors.|1992|ASPLOS|conf/asplos/MahlkeCHRS92
+Hardware Support for Dynamic Management of Compiler-Directed Computation Reuse.|2000|ASPLOS|conf/asplos/ConnorsHCH00
+An effective GPU implementation of breadth-first search.|2010|DAC|conf/dac/LuoWH10
+Throughput-oriented kernel porting onto FPGAs.|2013|DAC|conf/dac/PapakonstantinouCHCL13
+Corezilla: Build and Tame the Multicore Beast?|2007|DAC|conf/dac/SarnoHLLLRCLY07
+Implicitly Parallel Programming Models for Thousand-Core Microprocessors.|2007|DAC|conf/dac/HwuRUKGSKBMTNLFP07

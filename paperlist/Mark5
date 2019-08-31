@@ -1,0 +1,95 @@
+StealthTest: Low Overhead Online Software Testing Using Transactional Memory.|2009|PACT|conf/IEEEpact/BobbaXYHW09
+Sirocco: Cost-Effective Fine-Grain Distributed Shared Memory.|1998|IEEE PACT|conf/IEEEpact/SchoinasFHLW98
+Dynamic Verification of End-to-End Multiprocessor Invariants.|2003|DSN|conf/dsn/SorinHW03
+A Case for Deconstructing Hardware Transactional Memory Systems.|2007|Programming Models for Ubiquitous Parallelism|conf/dagstuhl/HillHMSVW07
+Tempest: A Substrate for Portable Parallel Programs.|1995|COMPCON|conf/compcon/HillLW95
+Coherence Ordering for Ring-based Chip Multiprocessors.|2006|MICRO|conf/micro/MartyH06
+Implementing Signatures for Transactional Memory.|2007|MICRO|conf/micro/SanchezYHS07
+Border control: sandboxing accelerators.|2015|MICRO|conf/micro/OlsonPHW15
+Efficient Memory Virtualization: Reducing Dimensionality of Nested Page Walks.|2014|MICRO|conf/micro/GandhiBHS14
+Using Interaction Costs for Microarchitectural Bottleneck Analysis.|2003|MICRO|conf/micro/FieldsBHN03
+Efficiently enabling conventional block sizes for very large die-stacked DRAM caches.|2011|MICRO|conf/micro/LohH11
+Correctly implementing value prediction in microprocessors that support multithreading or multiprocessing.|2001|MICRO|conf/micro/MartinSCHL01
+Heterogeneous system coherence for integrated CPU-GPU systems.|2013|MICRO|conf/micro/PowerBGPBHRW13
+Notary: Hardware techniques to enhance signatures.|2008|MICRO|conf/micro/YenDH08
+Gables: A Roofline Model for Mobile SoCs.|2019|HPCA|conf/hpca/HillR19
+LogTM: log-based transactional memory.|2006|HPCA|conf/hpca/MooreBMHW06
+Opportunities beyond single-core microprocessors.|2009|HPCA|conf/hpca/Hill09
+Bandwidth Adaptive Snooping.|2002|HPCA|conf/hpca/MartinSHW02
+The Impact of Data Transfer and Buffering Alternatives on Network Interface Design.|1998|HPCA|conf/hpca/MukherjeeH98
+Energy-efficient address translation.|2016|HPCA|conf/hpca/KarakostasGCHMN16
+Safe and efficient supervised memory systems.|2011|HPCA|conf/hpca/BobbaLHW11
+Improving Multiple-CMP Systems Using Token Coherence.|2005|HPCA|conf/hpca/MartyBHHMW05
+Calvin: Deterministic or not? Free will to choose.|2011|HPCA|conf/hpca/HowerDHW11
+Using Lamport Clocks to Reason about Relaxed Memory Models.|1999|HPCA|conf/hpca/CondonHPS99
+Supporting x86-64 address translation for 100s of GPU lanes.|2014|HPCA|conf/hpca/PowerHW14
+QuickRelease: A throughput-oriented approach to release consistency on GPUs.|2014|HPCA|conf/hpca/HechtmanCHTBHRW14
+Address Translation Mechanisms In Network Interfaces.|1998|HPCA|conf/hpca/SchoinasH98
+Amdahl's Law in the multicore era.|2008|HPCA|conf/hpca/Hill08
+LogTM-SE: Decoupling Hardware Transactional Memory from Caches.|2007|HPCA|conf/hpca/YenBMMVHSW07
+The Wisconsin Wind Tunnel: Virtual Prototyping of Parallel Computers.|1993|SIGMETRICS|conf/sigmetrics/ReinhardtHLLLW93
+A Model for Estimating Trace-Sample Miss Ratios.|1991|SIGMETRICS|conf/sigmetrics/WoodHK91
+Full-system timing-first simulation.|2002|SIGMETRICS|conf/sigmetrics/MauerHW02
+Implementing Stack Simulation for Highly-Associative Memories.|1991|SIGMETRICS|conf/sigmetrics/KimHW91
+Toward GPUs being mainstream in analytic processing: An initial argument using simple scan-aggregate queries.|2015|DaMoN|conf/damon/PowerLHPW15
+Optimistic Simulation of Parallel Architectures Using Program Executables.|1996|Workshop on Parallel and Distributed Simulation|conf/pads/ChandrasekaranH96
+Using Speculation to Simplify Multiprocessor Design.|2004|IPDPS|conf/ipps/SorinMHW04
+A serializability violation detector for shared-memory server programs.|2005|PLDI|conf/pldi/XuBH05
+Facile: A Language and Compiler for High-Performance Processor Simulators.|2001|PLDI|conf/pldi/SchnarrHL01
+Cache-Conscious Structure Layout.|1999|PLDI|conf/pldi/ChilimbiHL99
+A New Page Table for 64-bit Address Spaces.|1995|SOSP|conf/sosp/TalluriHK95
+21st century computer architecture keynote at 2014 international conference on supercomputing (ICS).|2014|ICS|conf/ics/Hill14
+An evaluation of directory protocols for medium-scale shared-memory multiprocessors.|1994|International Conference on Supercomputing|conf/ics/MukherjeeH94
+Karma: scalable deterministic record-replay.|2011|ICS|conf/ics/BasuBH11
+How computer architecture trends may affect future distributed systems: from infiniBand clusters to inter-processor speculation (abstract).|2000|PODC|conf/podc/Hill00
+The Tempest approach to distributed shared memory.|1996|ICCD|conf/iccd/WoodHL96
+FreshCache: Statically and dynamically exploiting dataless ways.|2013|ICCD|conf/iccd/BasuHHS13
+A Future of Parallel Computer Architectures.|2004|ICPP|conf/icpp/Hill04
+Implementing Sequential Consistency in Cache-Based Systems.|1990|ICPP (1)|conf/icpp/AdveH90
+Application-specific protocols for user-level shared memory.|1994|SC|conf/sc/FalsafiLRSHLRW94
+Opportunities beyond single-core microprocessors.|2009|PPOPP|conf/ppopp/Hill09
+21st century computer architecture.|2014|PPOPP|conf/ppopp/Hill14
+Efficient Support for Irregular Applications on Distributed-Memory Machines.|1995|PPOPP|conf/ppopp/MukherjeeSHLRS95
+Relaxed Consistency and Coherence Granularity in DSM Systems: A Performance Evaluation.|1997|PPOPP|conf/ppopp/ZhouISLTSHW97
+SafetyNet: Improving the Availability of Shared Memory Multiprocessors with Global Checkpoint/Recovery.|2002|ISCA|conf/isca/SorinMHW02
+Multicast Snooping: A New Coherence Method Using a Multicast Address Network.|1999|ISCA|conf/isca/BilirDHPSHW99
+Rerun: Exploiting Episodes for Lightweight Memory Race Recording.|2008|ISCA|conf/isca/HowerH08
+A "Flight Data Recorder" for Enabling Full-System Multiprocessor Deterministic Replay.|2003|ISCA|conf/isca/XuBH03
+TokenTM: Efficient Execution of Large Transactions with Hardware Transactional Memory.|2008|ISCA|conf/isca/BobbaGHSW08
+Performance pathologies in hardware transactional memory.|2007|ISCA|conf/isca/BobbaMVYHSW07
+An In-Cache Address Translation Mechanism.|1986|ISCA|conf/isca/WoodEGHPRTKP86
+Inexpensive Implementations of Set-Associativity.|1989|ISCA|conf/isca/KesslerJLH89
+Mechanisms for Cooperative Shared Memory.|1993|ISCA|conf/isca/WoodCFHLLLMPR93
+Efficient virtual memory for big memory servers.|2013|ISCA|conf/isca/BasuGCHS13
+Using Destination-Set Prediction to Improve the Latency/Bandwidth Tradeoff in Shared-Memory Multiprocessors.|2003|ISCA|conf/isca/MartinHSHW03
+Slack: Maximizing Performance Under Technological Constraints.|2002|ISCA|conf/isca/FieldsBH02
+Retrospective: Weak Ordering - A New Definition.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/AdveH98
+Comparison of Hardware and Software Cache Coherence Schemes.|1991|ISCA|conf/isca/AdveAHV91
+Using Prediction to Accelerate Coherence Protocols.|1998|ISCA|conf/isca/MukherjeeH98
+Reducing memory reference energy with opportunistic virtual caching.|2012|ISCA|conf/isca/BasuHS12
+Agile Paging: Exceeding the Best of Nested and Shadow Paging.|2016|ISCA|conf/isca/GandhiHS16
+Virtual hierarchies to support server consolidation.|2007|ISCA|conf/isca/MartyH07
+Coherent Network Interfaces for Fine-Grain Communication.|1996|ISCA|conf/isca/MukherjeeFHW96
+Architecture of a VLSI Instruction Cache for a RISC|1983|ISCA|conf/isca/PattersonGHLNSD83
+Weak Ordering - A New Definition.|1990|ISCA|conf/isca/AdveH90
+Detecting Data Races on Weak Memory Systems.|1991|ISCA|conf/isca/AdveHMN91
+Weak Ordering - A New Definition.|1998|25 Years ISCA: Retrospectives and Reprints|conf/isca/AdveH98a
+Token Coherence: Decoupling Performance and Correctness.|2003|ISCA|conf/isca/MartinHW03
+Redundant memory mappings for fast access to large memories.|2015|ISCA|conf/isca/KarakostasGACHM15
+Experimental Evaluation of On-Chip Microprocessor Cache Memories.|1984|ISCA|conf/isca/HillS84
+Tradeoffs in Supporting Two Page Sizes.|1992|ISCA|conf/isca/TalluriKHP92
+A System-Level Specification Framework for I/O Architectures.|1999|SPAA|conf/spaa/HillCPS99
+Lamport Clocks: Verifying a Directory Cache-Coherence Protocol.|1998|SPAA|conf/spaa/PlakalSCH98
+An Analysis of Persistent Memory Use with WHISPER.|2017|ASPLOS|conf/asplos/NalliHHSVK17
+Surpassing the TLB Performance of Superpages with Less Operating System Support.|1994|ASPLOS|conf/asplos/TalluriH94
+Research directions for 21st century computer systems: asplos 2013 panel.|2013|ASPLOS|conf/asplos/Hill13
+A regulated transitive reduction (RTR) for longer memory race recording.|2006|ASPLOS|conf/asplos/XuHB06
+Devirtualizing Memory in Heterogeneous Systems.|2018|ASPLOS|conf/asplos/HariaHS18
+Heterogeneous-race-free memory models.|2014|ASPLOS|conf/asplos/HowerHBGHRW14
+Timestamp snooping: an approach for extending SMPs.|2000|ASPLOS|conf/asplos/MartinSAADMMPHW00
+Crossing Guard: Mediating Host-Accelerator Coherence Interactions.|2017|ASPLOS|conf/asplos/OlsonHW17
+Supporting nested transactional memory in logTM.|2006|ASPLOS|conf/asplos/MoravanBMYHLSW06
+Cooperative Shared Memory: Software and Hardware Support for Scalable Multiprocesors.|1992|ASPLOS|conf/asplos/HillLRW92
+Synchronization Using Remote-Scope Promotion.|2015|ASPLOS|conf/asplos/OrrCYBHW15
+DBMSs on a Modern Processor: Where Does Time Go?|1999|VLDB|conf/vldb/AilamakiDHW99
+Weaving Relations for Cache Performance.|2001|VLDB|conf/vldb/AilamakiDHS01

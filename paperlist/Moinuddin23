@@ -1,0 +1,54 @@
+Energy Aware Persistence: Reducing Energy Overheads of Memory-based Persistence in NVMs.|2016|PACT|conf/IEEEpact/KannanQGS16
+Adaptive insertion policies for managing shared caches.|2008|PACT|conf/IEEEpact/JaleelHQSSE08
+Feedback-directed pipeline parallelism.|2010|PACT|conf/IEEEpact/SulemanQKP10
+SuDoku: Tolerating High-Rate of Transient Failures for Enabling Scalable STTRAM.|2019|DSN|conf/dsn/NairAQ19
+Operating SECDED-based caches at ultra-low voltage with FLAIR.|2013|DSN|conf/dsn/QureshiC13
+AVATAR: A Variable-Retention-Time (VRT) Aware Refresh for DRAM Systems.|2015|DSN|conf/dsn/QureshiKKNM15
+Microarchitecture-Based Introspection: A Technique for Transient-Fault Tolerance in Microprocessors.|2005|DSN|conf/dsn/QureshiMP05
+Reducing Refresh Power in Mobile Devices with Morphable ECC.|2015|DSN|conf/dsn/ChouNQ15
+FlashGuard: Leveraging Intrinsic Flash Properties to Defend Against Encryption Ransomware.|2017|ACM Conference on Computer and Communications Security|conf/ccs/HuangXXLQ17
+Taming the instruction bandwidth of quantum computers via hardware-managed error correction.|2017|MICRO|conf/micro/TannuMNCQ17
+Morphable Counters: Enabling Compact Integrity Trees For Low-Overhead Secure Memories.|2018|MICRO|conf/micro/SaileshwarNREJQ18
+Enhancing lifetime and security of PCM-based main memory with start-gap wear leveling.|2009|MICRO|conf/micro/QureshiKFSLA09
+Pay-As-You-Go: low-overhead hard-error correction for phase change memories.|2011|MICRO|conf/micro/Qureshi11
+A tagless coherence directory.|2009|MICRO|conf/micro/ZebchukSQM09
+Utility-Based Cache Partitioning: A Low-Overhead, High-Performance, Runtime Mechanism to Partition Shared Caches.|2006|MICRO|conf/micro/QureshiP06
+CANDY: Enabling coherent DRAM caches for multi-node systems.|2016|MICRO|conf/micro/ChouJQ16
+CAMEO: A Two-Level Memory Organization with Capacity of Main Memory and Flexibility of Hardware-Managed Cache.|2014|MICRO|conf/micro/ChouJQ14
+Citadel: Efficiently Protecting Stacked Memory from Large Granularity Failures.|2014|MICRO|conf/micro/NairRQ14
+CEASER: Mitigating Conflict-Based Cache Attacks via Encrypted-Address and Remapping.|2018|MICRO|conf/micro/Qureshi18
+Fundamental Latency Trade-off in Architecting DRAM Caches: Outperforming Impractical SRAM-Tags with a Simple and Practical Design.|2012|MICRO|conf/micro/QureshiL12
+Line Distillation: Increasing Cache Capacity by Filtering Unused Words in Cache Lines.|2007|HPCA|conf/hpca/QureshiSP07
+Practical and secure PCM systems by online detection of malicious write streams.|2011|HPCA|conf/hpca/QureshiSLF11
+A case for Refresh Pausing in DRAM memory systems.|2013|HPCA|conf/hpca/NairCQ13
+Reducing read latency of phase change memory via early read and Turbo Read.|2015|HPCA|conf/hpca/NairCRQ15
+SYNERGY: Rethinking Secure-Memory Design for Error-Correcting Memories.|2018|HPCA|conf/hpca/SaileshwarNREQ18
+Adaptive Spill-Receive for robust high-performance caching in CMPs.|2009|HPCA|conf/hpca/Qureshi09
+Enabling Transparent Memory-Compression for Commodity Memory Systems.|2019|HPCA|conf/hpca/YoungKQ19
+Improving read performance of Phase Change Memories via Write Cancellation and Write Pausing.|2010|HPCA|conf/hpca/QureshiFL10
+Low-Cost Inter-Linked Subarrays (LISA): Enabling fast inter-subarray data movement in DRAM.|2016|HPCA|conf/hpca/ChangNLGQM16
+FlashBlox: Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs.|2017|FAST|conf/fast/HuangBCNSSQ17
+Balancing context switch penalty and response time with elastic time slicing.|2014|HiPC|conf/hipc/JammulaQGK14
+BATMAN: techniques for maximizing system bandwidth of memory systems with stacked-DRAM.|2017|MEMSYS|conf/memsys/ChouJQ17
+Cryogenic-DRAM based memory system for scalable quantum computers: a feasibility study.|2017|MEMSYS|conf/memsys/TannuCQ17
+An Evolutionary Study of Linux Memory Management for Fun and Profit.|2016|USENIX Annual Technical Conference|conf/usenix/HuangQS16
+A case for superconducting accelerators.|2019|CF|conf/cf/Tannu0LKCQ19
+Embedded tutorial - Emerging memory technologies: What it means for computer system designers.|2013|VLSI Design|conf/vlsid/Qureshi13
+DICE: Compressing DRAM Caches for Bandwidth and Capacity.|2017|ISCA|conf/isca/YoungNQ17
+New attacks and defense for encrypted-address cache.|2019|ISCA|conf/isca/Qureshi19
+Adaptive insertion policies for high performance caching.|2007|ISCA|conf/isca/QureshiJPSE07
+Unified address translation for memory-mapped SSDs with FlashMap.|2015|ISCA|conf/isca/HuangBQS15
+ArchShield: architectural framework for assisting DRAM scaling by tolerating high error rates.|2013|ISCA|conf/isca/NairKQ13
+The V-Way Cache: Demand Based Associativity via Global Replacement.|2005|ISCA|conf/isca/QureshiTP05
+Scalable high performance main memory system using phase-change memory technology.|2009|ISCA|conf/isca/QureshiSR09
+XED: Exposing On-Die Error Detection Information for Strong Memory Reliability.|2016|ISCA|conf/isca/NairSQ16
+FLEXclusion: Balancing cache capacity and on-chip bandwidth via Flexible Exclusion.|2012|ISCA|conf/isca/SimLQK12
+ACCORD: Enabling Associativity for Gigascale DRAM Caches by Coordinating Way-Install and Way-Prediction.|2018|ISCA|conf/isca/YoungCJQ18
+Morphable memory system: a robust architecture for exploiting multi-level phase change memories.|2010|ISCA|conf/isca/QureshiFLK10
+BEAR: techniques for mitigating bandwidth bloat in gigascale DRAM caches.|2015|ISCA|conf/isca/ChouJQ15
+A Case for MLP-Aware Cache Replacement.|2006|ISCA|conf/isca/QureshiLMP06
+PreSET: Improving performance of phase change memories by exploiting asymmetry in write times.|2012|ISCA|conf/isca/QureshiFJL12
+DEUCE: Write-Efficient Encryption for Non-Volatile Memories.|2015|ASPLOS|conf/asplos/YoungNQ15
+Feedback-driven threading: power-efficient and high-performance execution of multi-threaded workloads on CMPs.|2008|ASPLOS|conf/asplos/SulemanQP08
+Not All Qubits Are Created Equal: A Case for Variability-Aware Policies for NISQ-Era Quantum Computers.|2019|ASPLOS|conf/asplos/TannuQ19
+Accelerating critical section execution with asymmetric multi-core architectures.|2009|ASPLOS|conf/asplos/SulemanMQP09

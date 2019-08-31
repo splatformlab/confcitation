@@ -1,0 +1,81 @@
+Speculative software management of datapath-width for energy optimization.|2004|LCTES|conf/lctrts/PokamRSB04
+Direct-mapped versus set-associative pipelined caches.|1995|PACT|conf/IEEEpact/DrachSW95
+Synergistic cache layout for reuse and compression.|2018|PACT|conf/IEEEpact/PandaS18
+Message from the program chairs.|2013|PACT|conf/IEEEpact/SeznecB13
+Exploring Instruction-Fetch Bandwidth Requirement in Wide-Issue Superscalar Processors.|1999|IEEE PACT|conf/IEEEpact/MichaudSJ99
+Branch prediction and simultaneous multithreading.|1996|IEEE PACT|conf/IEEEpact/HilyS96
+Improving Cache Behavior of Dynamically Allocated Data Structures.|1998|IEEE PACT|conf/IEEEpact/TruongBS98
+Cost effective speculation with the omnipredictor.|2018|PACT|conf/IEEEpact/PeraisS18
+BADCO: Behavioral Application-Dependent Superscalar Core model.|2012|ICSAMOS|conf/samos/VelasquezMS12
+Faster unicores are still needed.|2013|ICSAMOS|conf/samos/Seznec13
+PRETI: partitioned real-time shared cache for mixed-criticality real-time systems.|2012|RTNS|conf/rtns/LesagePS12
+Register sharing for equality prediction.|2016|MICRO|conf/micro/PeraisES16
+Controlling and sequencing a heavily pipelined floating-point operator.|1992|MICRO|conf/micro/SeznecC92
+Long term parking (LTP): criticality-aware resource allocation in OOO processors.|2015|MICRO|conf/micro/SembrantCHBPSM15
+Dictionary sharing: An efficient cache compression scheme for compressed caches.|2016|MICRO|conf/micro/PandaS16
+MIDEE: smoothing branch and instruction cache miss penalties on deep pipelines.|1993|MICRO|conf/micro/DrachS93
+The inner most loop iteration counter: a new dimension in branch history.|2015|MICRO|conf/micro/SeznecMA15
+A new case for the TAGE branch predictor.|2011|MICRO|conf/micro/Seznec11
+Skewed Compressed Caches.|2014|MICRO|conf/micro/SardashtiSW14
+Register write specialization register read specialization: a path to complexity-effective wide-issue superscalar processors.|2002|MICRO|conf/micro/SeznecTR02
+Performance upper bound analysis and optimization of SGEMM on Fermi and Kepler GPUs.|2013|CGO|conf/cgo/LaiS13
+Branch prediction and the performance of interpreters: don't trust folklore.|2015|CGO|conf/cgo/RohouSS15
+Practical and secure PCM systems by online detection of malicious write streams.|2011|HPCA|conf/hpca/QureshiSLF11
+BeBoP: A cost effective predictor infrastructure for superscalar value prediction.|2015|HPCA|conf/hpca/PeraisS15
+Data-Flow Prescheduling for Large Instruction Windows in Out-of-Order Processors.|2001|HPCA|conf/hpca/MichaudS01
+Practical data value speculation for future high-end processors.|2014|HPCA|conf/hpca/PeraisS14
+DASC Cache.|1995|HPCA|conf/hpca/Seznec95
+Storage free confidence estimation for the TAGE branch predictor.|2011|HPCA|conf/hpca/Seznec11
+Cost effective physical register sharing.|2016|HPCA|conf/hpca/PeraisS16
+Prediction-based superpage-friendly TLB designs.|2015|HPCA|conf/hpca/PapadopoulouTSM15
+Out-of-Order Execution may not be Cost-Effective on Processors Featuring Simultaneous Multithreading.|1999|HPCA|conf/hpca/HilyS99
+On the design of state-of-the-art pseudorandom number generators by means of genetic programming.|2004|IEEE Congress on Evolutionary Computation|conf/cec/HernandezSI04
+Compile-time function memoization.|2017|CC|conf/cc/SureshRS17
+Selecting benchmark combinations for the evaluation of multicore throughput.|2013|ISPASS|conf/ispass/VelasquezMS13
+OCEANS: Optimising Compilers for Embedded Applications.|1998|Euro-Par|conf/europar/BarreteauBBCCEGHHJKORSSSTW98
+Code Cloning Tracing: A "Pay per Trace" Approach.|1999|Euro-Par|conf/europar/LafageSRB99
+Combining Light Static Code Annotation and Instruction-Set Emulation for Flexible and Efficient On-the-Fly Simulation (Research Note).|2000|Euro-Par|conf/europar/LafageS00
+OCEANS - Optimising Compilers for Embedded Applications.|1999|Euro-Par|conf/europar/BarreteauBCCEGHHJKKMNORSSTW99
+Topic 08+13: Instruction-Level Parallelism and Computer Architecture.|2001|Euro-Par|conf/europar/AyguadeDEEGMSS01
+Topic 8: Parallel Computer Architecture and Instruction-Level Parallelism.|2004|Euro-Par|conf/europar/EbciogluKSA04
+OCEANS: Optimizing Compilers for Embedded Applications.|1997|Euro-Par|conf/europar/AartsBBBCCEGHHJKORSSSSVW97
+Break down GPU execution time with an analytical method.|2012|RAPIDO|conf/rapido/LaiS12
+Discrete Cache Insertion Policies for Shared Last Level Cache Management on Large Multicores.|2016|IPDPS|conf/ipps/SridharanS16
+Boosting SMT Performance by Speculation Control.|2001|IPDPS|conf/ipps/LuoFMS01
+Towards a large number of pipeline processors in a tightly coupled multiprocessor using no cache.|1988|ICS|conf/ics/SeznecJ88
+Zero-content augmented caches.|2009|ICS|conf/ics/DusserPS09
+A asynchronous buffering network for tightly coupled multiprocessors.|1989|ICS|conf/ics/JegouS89
+Exploiting Single-Usage for Effective Memory Management.|2007|Asia-Pacific Computer Systems Architecture Conference|conf/aPcsac/PiquetRS07
+An empirical high level performance model for future many-cores.|2015|Conf. Computing Frontiers|conf/cf/NarayananSS15
+Proposition for a sequential accelerator in future general-purpose manycore processors and the problem of migration-induced cache misses.|2010|Conf. Computing Frontiers|conf/cf/MichaudSS10
+About Set and Skewed Associativity on Second-Level Caches.|1993|ICCD|conf/iccd/Seznec93
+Parallel HAVEGE.|2009|PPAM (2)|conf/ppam/SuciuCSM09
+Skewed-associative Caches.|1993|PARLE|conf/parle/SeznecB93
+The SAC Test: A New Randomness Test, with Some Applications to PRNG Analysis.|2004|ICCSA (1)|conf/iccsa/HernandezSS04
+Impact of Serial Scaling of Multi-threaded Programs in Many-Core Era.|2014|SBAC-PAD Workshops|conf/sbac-pad/NarayananSS14
+IATO: A Flexible EPIC Simulation Environment.|2004|SBAC-PAD|conf/sbac-pad/DarschS04
+Dynamic Inter-Thread Vectorization Architecture: Extracting DLP from TLP.|2016|SBAC-PAD|conf/sbac-pad/KalathingalCSS16
+Hardware/Software Helper Thread Prefetching on Heterogeneous Many Cores.|2014|SBAC-PAD|conf/sbac-pad/SwamyKS14
+Data Synchronized Pipeline Architecture: Pipelining in Multiprocessor Environments.|1986|ICPP|conf/icpp/JegouS86
+Semi-Unified Caches.|1993|ICPP (1)|conf/icpp/DrachS93
+Optimizing Memory Throughput In a Tightly Coupled Multiprocessor.|1987|ICPP|conf/icpp/SeznecJ87
+Fetch Gating Control Through Speculative Instruction Window Weighting.|2007|HiPEAC|conf/hipeac/VandierendonckS07
+Sequential and Parallel Code Sections are Different: they may require different Processors.|2015|PARMA-DITAM@HiPEAC|conf/hipeac/NarayananS15
+Decoupled zero-compressed memory.|2011|HiPEAC|conf/hipeac/DusserS11
+Decoupled Sectored Caches: Conciliating Low Tag Implementation Cost and Low Miss Ratio.|1994|ISCA|conf/isca/Seznec94
+OPAC: A floating-point coprocessor dedicated to compute-bound kernels.|1992|ISCA|conf/isca/SeznecC92
+A Case for Two-Way Skewed-Associative Caches.|1993|ISCA|conf/isca/Seznec93
+Interleaved Parallel Schemes: Improving Memory Throughput on Supercomputers.|1992|ISCA|conf/isca/SeznecL92
+EOLE: Paving the way for an effective implementation of value prediction.|2014|ISCA|conf/isca/PeraisS14
+Synchronizing Processors Through Memory Requests in a Tightly Coupled Multiprocessor.|1988|ISCA|conf/isca/SeznecJ88
+Design Tradeoffs for the Alpha EV8 Conditional Branch Predictor.|2002|ISCA|conf/isca/SeznecFKS02
+Effective ahead Pipelining of Instruction Block Address Generation.|2003|ISCA|conf/isca/SeznecF03
+Don't Use the Page Number, But a Pointer To It.|1996|ISCA|conf/isca/Seznec96
+Cost-effective speculative scheduling in high performance processors.|2015|ISCA|conf/isca/PeraisSMSH15
+Trading Conflict and Capacity Aliasing in Conditional Branch Predictors.|1997|ISCA|conf/isca/MichaudSU97
+Odd Memory Systems May be Quite Interesting.|1993|ISCA|conf/isca/SeznecL93
+Analysis of the O-GEometric History Length Branch Predictor.|2005|ISCA|conf/isca/Seznec05
+An Efficient Routing Control Unit for the SIGMA Network E(4).|1986|ISCA|conf/isca/Seznec86
+Tarantula: A Vector Extension to the Alpha Architecture.|2002|ISCA|conf/isca/EspasaAGGHJEFLMS02
+Skewed Associativity Enhances Performance Predictability.|1995|ISCA|conf/isca/BodinS95
+Multiple-Block Ahead Branch Predictors.|1996|ASPLOS|conf/asplos/SeznecJSM96
